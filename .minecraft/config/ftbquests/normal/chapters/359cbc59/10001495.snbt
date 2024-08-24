@@ -1,0 +1,29 @@
+{
+	title: "Amphithere",
+	icon: {
+		ForgeCaps: {
+			"wizardryutils:summoneditemdata": {}
+		},
+		id: "minecraft:spawn_egg",
+		tag: {
+			EntityTag: {
+				id: "iceandfire:amphithere"
+			}
+		}
+	},
+	disable_toast: true,
+	x: 11.0d,
+	y: 28.0d,
+	tasks: [{
+		uid: "10001496",
+		type: "observation",
+		match_type: "entity_id",
+		match: "iceandfire:amphithere",
+		timer: 0L
+	}],
+	rewards: [{
+		uid: "10001497",
+		type: "ftbmoney:money",
+		ftb_money: 10L
+	}]
+}

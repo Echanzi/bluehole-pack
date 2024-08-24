@@ -1,0 +1,59 @@
+{
+	title: "Frozen Forge",
+	x: -11.5d,
+	y: -14.0d,
+	dependencies: [
+		"a32c9b75"
+	],
+	tasks: [{
+		uid: "2e3ef777",
+		type: "item",
+		disable_toast: true,
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "iceandfire:dragon_bone_block"
+		}],
+		count: 8L
+	},
+	{
+		uid: "549698c5",
+		type: "item",
+		disable_toast: true,
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "iceandfire:dragonforge_ice_brick"
+		}],
+		count: 17L
+	},
+	{
+		uid: "4eb089bf",
+		type: "item",
+		disable_toast: true,
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "iceandfire:dragonforge_ice_input"
+		}]
+	},
+	{
+		uid: "c98a1b29",
+		type: "item",
+		disable_toast: true,
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "iceandfire:dragonforge_ice_core_disabled"
+		}]
+	}],
+	rewards: [{
+		uid: "1de56594",
+		type: "ftbmoney:money",
+		ftb_money: 100L
+	}]
+}

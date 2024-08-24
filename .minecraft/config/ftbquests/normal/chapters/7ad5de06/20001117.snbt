@@ -1,0 +1,22 @@
+{
+	title: "Mega Taiga Mountains",
+	icon: {
+		ForgeCaps: {
+			"wizardryutils:summoneditemdata": {}
+		},
+		id: "minecraft:grass"
+	},
+	disable_toast: true,
+	x: -3.0d,
+	y: 5.0d,
+	tasks: [{
+		uid: "20001118",
+		type: "biome",
+		biome: "openterraingenerator:overworld_mega_taiga_mountains"
+	}],
+	rewards: [{
+		uid: "20001119",
+		type: "ftbmoney:money",
+		ftb_money: 25L
+	}]
+}

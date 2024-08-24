@@ -1,0 +1,23 @@
+{
+	title: "My lawyer has advised me not to say this word",
+	x: 2.0d,
+	y: 2.5d,
+	dependencies: [
+		"a33e7cda"
+	],
+	tasks: [{
+		uid: "e493beac",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "harvestcraft:vinegaritem"
+		}]
+	}],
+	rewards: [{
+		uid: "47669597",
+		type: "ftbmoney:money",
+		ftb_money: 20L
+	}]
+}

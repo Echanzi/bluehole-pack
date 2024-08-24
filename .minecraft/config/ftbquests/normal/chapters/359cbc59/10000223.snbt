@@ -1,0 +1,29 @@
+{
+	title: "Firefly",
+	icon: {
+		ForgeCaps: {
+			"wizardryutils:summoneditemdata": {}
+		},
+		id: "minecraft:spawn_egg",
+		tag: {
+			EntityTag: {
+				id: "thebetweenlands:firefly"
+			}
+		}
+	},
+	disable_toast: true,
+	x: 16.0d,
+	y: 15.0d,
+	tasks: [{
+		uid: "10000224",
+		type: "observation",
+		match_type: "entity_id",
+		match: "thebetweenlands:firefly",
+		timer: 0L
+	}],
+	rewards: [{
+		uid: "10000225",
+		type: "ftbmoney:money",
+		ftb_money: 10L
+	}]
+}

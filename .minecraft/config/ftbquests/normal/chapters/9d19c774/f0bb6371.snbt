@@ -1,0 +1,22 @@
+{
+	x: -10.0d,
+	y: -14.0d,
+	dependencies: [
+		"a32c9b75"
+	],
+	tasks: [{
+		uid: "e35e317c",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "iceandfire:ice_dragon_blood"
+		}]
+	}],
+	rewards: [{
+		uid: "3b580226",
+		type: "ftbmoney:money",
+		ftb_money: 50L
+	}]
+}

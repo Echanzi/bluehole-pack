@@ -1,0 +1,23 @@
+{
+	x: -2.5d,
+	y: 0.0d,
+	dependencies: [
+		"b1e9e236"
+	],
+	tasks: [{
+		uid: "5fa2eb52",
+		type: "dimension",
+		icon: {
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "tropicraft:sapling"
+		},
+		dim: -127
+	}],
+	rewards: [{
+		uid: "0326575c",
+		type: "ftbmoney:money",
+		ftb_money: 50L
+	}]
+}

@@ -1,0 +1,26 @@
+{
+	x: 11.5d,
+	y: 22.0d,
+	hide_dependency_lines: true,
+	dependencies: [
+		"37830c02"
+	],
+	tasks: [{
+		uid: "62c1ad91",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {},
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "spartanfire:warhammer_fire_dragonbone"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "ab8cc23b",
+		type: "ftbmoney:money",
+		ftb_money: 40L
+	}]
+}

@@ -1,0 +1,30 @@
+{
+	title: "Armored Giant",
+	icon: {
+		ForgeCaps: {
+			"wizardryutils:summoneditemdata": {}
+		},
+		id: "minecraft:spawn_egg",
+		tag: {
+			EntityTag: {
+				id: "twilightforest:armored_giant"
+			}
+		}
+	},
+	disable_toast: true,
+	x: -2.0d,
+	y: 25.0d,
+	hide_dependency_lines: true,
+	tasks: [{
+		uid: "10001160",
+		type: "observation",
+		match_type: "entity_id",
+		match: "twilightforest:armored_giant",
+		timer: 0L
+	}],
+	rewards: [{
+		uid: "10001161",
+		type: "ftbmoney:money",
+		ftb_money: 10L
+	}]
+}

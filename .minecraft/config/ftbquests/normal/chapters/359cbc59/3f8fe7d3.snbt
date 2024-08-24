@@ -1,0 +1,24 @@
+{
+	title: "Cassowary",
+	disable_toast: true,
+	x: -8.0d,
+	y: 34.0d,
+	tasks: [{
+		uid: "171afaf3",
+		type: "observation",
+		icon: {
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "zawa:cassowary"
+		},
+		match_type: "entity_id",
+		match: "zawa:cassowary",
+		timer: 0L
+	}],
+	rewards: [{
+		uid: "6cf00480",
+		type: "ftbmoney:money",
+		ftb_money: 10L
+	}]
+}

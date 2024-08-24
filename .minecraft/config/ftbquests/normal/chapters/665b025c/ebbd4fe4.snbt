@@ -1,0 +1,27 @@
+{
+	title: "My Glaiverate Weapon!!",
+	x: 1.5d,
+	y: 3.5d,
+	description: "Just kidding... its okay.",
+	dependencies: [
+		"c8f3a510"
+	],
+	tasks: [{
+		uid: "06173cb6",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {},
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "spartanweaponry:glaive_wood"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "8d57e0e8",
+		type: "ftbmoney:money",
+		ftb_money: 15L
+	}]
+}

@@ -1,0 +1,29 @@
+{
+	title: "Skeleton Horse",
+	icon: {
+		ForgeCaps: {
+			"wizardryutils:summoneditemdata": {}
+		},
+		id: "minecraft:spawn_egg",
+		tag: {
+			EntityTag: {
+				id: "minecraft:skeleton_horse"
+			}
+		}
+	},
+	disable_toast: true,
+	x: 14.0d,
+	y: 13.0d,
+	tasks: [{
+		uid: "10000020",
+		type: "observation",
+		match_type: "entity_id",
+		match: "minecraft:skeleton_horse",
+		timer: 0L
+	}],
+	rewards: [{
+		uid: "10000021",
+		type: "ftbmoney:money",
+		ftb_money: 10L
+	}]
+}

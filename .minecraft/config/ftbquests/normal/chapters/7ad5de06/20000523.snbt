@@ -1,0 +1,22 @@
+{
+	title: "Stone Beach",
+	icon: {
+		ForgeCaps: {
+			"wizardryutils:summoneditemdata": {}
+		},
+		id: "minecraft:stone"
+	},
+	disable_toast: true,
+	x: -3.0d,
+	y: -1.0d,
+	tasks: [{
+		uid: "20000524",
+		type: "biome",
+		biome: "minecraft:stone_beach"
+	}],
+	rewards: [{
+		uid: "20000525",
+		type: "ftbmoney:money",
+		ftb_money: 25L
+	}]
+}

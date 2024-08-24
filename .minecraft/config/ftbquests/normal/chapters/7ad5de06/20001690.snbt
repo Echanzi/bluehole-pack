@@ -1,0 +1,22 @@
+{
+	title: "Tropical Savanna Canyon High",
+	icon: {
+		ForgeCaps: {
+			"wizardryutils:summoneditemdata": {}
+		},
+		id: "minecraft:grass"
+	},
+	disable_toast: true,
+	x: -10.0d,
+	y: 11.0d,
+	tasks: [{
+		uid: "20001691",
+		type: "biome",
+		biome: "openterraingenerator:overworld_tropical_savanna_canyon_high"
+	}],
+	rewards: [{
+		uid: "20001692",
+		type: "ftbmoney:money",
+		ftb_money: 25L
+	}]
+}

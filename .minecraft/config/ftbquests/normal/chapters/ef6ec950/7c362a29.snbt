@@ -1,0 +1,25 @@
+{
+	x: -4.0d,
+	y: 1.5d,
+	dependencies: [
+		"a1dedc1b"
+	],
+	tasks: [{
+		uid: "22a7ada1",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {},
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "thebetweenlands:chiromaw_tame"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "022eec90",
+		type: "ftbmoney:money",
+		ftb_money: 50L
+	}]
+}

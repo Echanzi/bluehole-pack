@@ -1,0 +1,33 @@
+{
+	title: "Diplomatic Suicide",
+	icon: {
+		ForgeCaps: {
+			"wizardryutils:summoneditemdata": {}
+		},
+		id: "minecraft:emerald"
+	},
+	x: -2.5d,
+	y: -3.0d,
+	text: [
+		""
+	],
+	dependencies: [
+		"7c1d5409"
+	],
+	tasks: [{
+		uid: "ef48e7ad",
+		type: "kill",
+		entity: "minecraft:villager",
+		value: 1L
+	}],
+	rewards: [{
+		uid: "4b62bf75",
+		type: "item",
+		item: {
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "minecraft:emerald"
+		}
+	}]
+}

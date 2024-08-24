@@ -1,0 +1,21 @@
+{
+	title: "Show it!",
+	x: -3.5d,
+	y: 3.5d,
+	description: "It's Right Here",
+	tasks: [{
+		uid: "c408b363",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "minecraft:armor_stand"
+		}]
+	}],
+	rewards: [{
+		uid: "e8e66795",
+		type: "ftbmoney:money",
+		ftb_money: 20L
+	}]
+}

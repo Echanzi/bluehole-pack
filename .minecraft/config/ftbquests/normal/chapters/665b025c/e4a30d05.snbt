@@ -1,0 +1,26 @@
+{
+	x: -10.0d,
+	y: 7.0d,
+	hide_dependency_lines: true,
+	dependencies: [
+		"797af156"
+	],
+	tasks: [{
+		uid: "6c559fdd",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {},
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "spartanweaponry:longbow_diamond"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "ffb42f0a",
+		type: "ftbmoney:money",
+		ftb_money: 40L
+	}]
+}

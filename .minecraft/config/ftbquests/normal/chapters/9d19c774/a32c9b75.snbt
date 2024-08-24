@@ -1,0 +1,25 @@
+{
+	title: "You got a diamond tester?",
+	x: -10.0d,
+	y: -15.5d,
+	text: [
+		""
+	],
+	tasks: [{
+		uid: "d363f75b",
+		type: "kill",
+		icon: {
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "iceandfire:ice_dragon_heart"
+		},
+		entity: "iceandfire:icedragon",
+		value: 1L
+	}],
+	rewards: [{
+		uid: "6f7940af",
+		type: "ftbmoney:money",
+		ftb_money: 125L
+	}]
+}

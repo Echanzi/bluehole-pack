@@ -1,0 +1,103 @@
+{
+	title: "Freshwater Fish",
+	x: -3.5d,
+	y: 5.5d,
+	dependencies: [
+		"5d486fa5"
+	],
+	tasks: [{
+		uid: "3ee3049e",
+		type: "item",
+		disable_toast: true,
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "aquaculture:fish"
+		}],
+		ignore_nbt: 2b
+	},
+	{
+		uid: "2870bbdc",
+		type: "item",
+		disable_toast: true,
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "aquaculture:fish",
+			Damage: 3s
+		}],
+		ignore_nbt: 2b
+	},
+	{
+		uid: "c373ca25",
+		type: "item",
+		disable_toast: true,
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "aquaculture:fish",
+			Damage: 1s
+		}],
+		ignore_nbt: 2b
+	},
+	{
+		uid: "c121b23c",
+		type: "item",
+		disable_toast: true,
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "aquaculture:fish",
+			Damage: 5s
+		}],
+		ignore_nbt: 2b
+	},
+	{
+		uid: "9aeae71f",
+		type: "item",
+		disable_toast: true,
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "aquaculture:fish",
+			Damage: 6s
+		}],
+		ignore_nbt: 2b
+	},
+	{
+		uid: "fe0eba68",
+		type: "item",
+		disable_toast: true,
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "aquaculture:fish",
+			Damage: 7s
+		}],
+		ignore_nbt: 2b
+	},
+	{
+		uid: "d5077e5c",
+		type: "item",
+		disable_toast: true,
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "aquaculture:fish",
+			Damage: 4s
+		}],
+		ignore_nbt: 2b
+	}],
+	rewards: [{
+		uid: "4d74f59c",
+		type: "ftbmoney:money",
+		ftb_money: 75L
+	}]
+}

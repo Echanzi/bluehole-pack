@@ -1,0 +1,23 @@
+{
+	title: "Magical... Water, Staff?",
+	x: 2.0d,
+	y: -1.5d,
+	tasks: [{
+		uid: "a531c443",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {},
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "tropicraft:water_wand"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "89d26c75",
+		type: "ftbmoney:money",
+		ftb_money: 15L
+	}]
+}

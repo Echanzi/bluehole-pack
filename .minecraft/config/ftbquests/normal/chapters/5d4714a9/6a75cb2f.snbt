@@ -1,0 +1,34 @@
+{
+	x: 3.0d,
+	y: -1.5d,
+	dependencies: [
+		"e552e86d"
+	],
+	tasks: [{
+		uid: "e401e426",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "vc:upgrades/item_upgrade_airship_core",
+			Damage: 4s
+		}],
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "d5506e30",
+		type: "ftbmoney:money",
+		ftb_money: 55L
+	},
+	{
+		uid: "53d9750d",
+		type: "item",
+		item: {
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "vc:item_logic_chip"
+		}
+	}]
+}

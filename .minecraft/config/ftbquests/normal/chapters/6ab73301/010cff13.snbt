@@ -1,0 +1,58 @@
+{
+	title: "Brewing VII",
+	x: 15.0d,
+	y: -1.0d,
+	dependencies: [
+		"bb4c8a27"
+	],
+	tasks: [{
+		uid: "9b0c4072",
+		type: "item",
+		disable_toast: true,
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "minecraft:potion",
+			tag: {
+				Potion: "potioncore:chance"
+			}
+		}],
+		ignore_damage: true
+	},
+	{
+		uid: "2eb384d6",
+		type: "item",
+		disable_toast: true,
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "minecraft:potion",
+			tag: {
+				Potion: "potioncore:bless"
+			}
+		}],
+		ignore_damage: true
+	},
+	{
+		uid: "fa250835",
+		type: "item",
+		disable_toast: true,
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "minecraft:potion",
+			tag: {
+				Potion: "potioncore:curse"
+			}
+		}],
+		ignore_damage: true
+	}],
+	rewards: [{
+		uid: "7fcc7798",
+		type: "ftbmoney:money",
+		ftb_money: 150L
+	}]
+}

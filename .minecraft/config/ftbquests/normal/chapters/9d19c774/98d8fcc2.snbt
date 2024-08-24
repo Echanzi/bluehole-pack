@@ -1,0 +1,24 @@
+{
+	x: -11.5d,
+	y: -6.5d,
+	dependencies: [
+		"a1238a3a",
+		"a3e2e423",
+		"830451f9"
+	],
+	tasks: [{
+		uid: "3c7500f6",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "iceandfire:dragonsteel_fire_ingot"
+		}]
+	}],
+	rewards: [{
+		uid: "37aff800",
+		type: "ftbmoney:money",
+		ftb_money: 80L
+	}]
+}

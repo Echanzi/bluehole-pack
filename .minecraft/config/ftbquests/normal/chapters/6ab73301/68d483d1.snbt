@@ -1,0 +1,24 @@
+{
+	title: "Epilogue to Vanilla",
+	icon: {
+		ForgeCaps: {
+			"wizardryutils:summoneditemdata": {}
+		},
+		id: "minecraft:end_stone"
+	},
+	x: 13.5d,
+	y: 6.0d,
+	dependencies: [
+		"958f81dc"
+	],
+	tasks: [{
+		uid: "afa80022",
+		type: "dimension",
+		dim: 1
+	}],
+	rewards: [{
+		uid: "e2a48975",
+		type: "ftbmoney:money",
+		ftb_money: 75L
+	}]
+}

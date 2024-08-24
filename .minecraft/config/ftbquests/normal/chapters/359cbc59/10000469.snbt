@@ -1,0 +1,29 @@
+{
+	title: "Nether Dragon",
+	icon: {
+		ForgeCaps: {
+			"wizardryutils:summoneditemdata": {}
+		},
+		id: "minecraft:spawn_egg",
+		tag: {
+			EntityTag: {
+				id: "cqrepoured:nether_dragon"
+			}
+		}
+	},
+	disable_toast: true,
+	x: -1.0d,
+	y: 18.0d,
+	tasks: [{
+		uid: "10000470",
+		type: "observation",
+		match_type: "entity_id",
+		match: "cqrepoured:nether_dragon",
+		timer: 0L
+	}],
+	rewards: [{
+		uid: "10000471",
+		type: "ftbmoney:money",
+		ftb_money: 10L
+	}]
+}

@@ -1,0 +1,22 @@
+{
+	title: "RiverDiorite",
+	icon: {
+		ForgeCaps: {
+			"wizardryutils:summoneditemdata": {}
+		},
+		id: "minecraft:grass"
+	},
+	disable_toast: true,
+	x: 2.0d,
+	y: 2.0d,
+	tasks: [{
+		uid: "20000836",
+		type: "biome",
+		biome: "openterraingenerator:overworld_riverdiorite"
+	}],
+	rewards: [{
+		uid: "20000837",
+		type: "ftbmoney:money",
+		ftb_money: 25L
+	}]
+}

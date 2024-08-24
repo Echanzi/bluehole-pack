@@ -1,0 +1,29 @@
+{
+	title: "Plague Zombie",
+	icon: {
+		ForgeCaps: {
+			"wizardryutils:summoneditemdata": {}
+		},
+		id: "minecraft:spawn_egg",
+		tag: {
+			EntityTag: {
+				id: "specialmobs:plaguezombie"
+			}
+		}
+	},
+	disable_toast: true,
+	x: 1.0d,
+	y: 31.0d,
+	tasks: [{
+		uid: "10001763",
+		type: "observation",
+		match_type: "entity_id",
+		match: "specialmobs:plaguezombie",
+		timer: 0L
+	}],
+	rewards: [{
+		uid: "10001764",
+		type: "ftbmoney:money",
+		ftb_money: 10L
+	}]
+}

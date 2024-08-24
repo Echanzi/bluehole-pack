@@ -1,0 +1,22 @@
+{
+	title: "Frozen Forest Edge",
+	icon: {
+		ForgeCaps: {
+			"wizardryutils:summoneditemdata": {}
+		},
+		id: "minecraft:grass"
+	},
+	disable_toast: true,
+	x: 2.0d,
+	y: 6.0d,
+	tasks: [{
+		uid: "20001232",
+		type: "biome",
+		biome: "openterraingenerator:overworld_frozen_forest_edge"
+	}],
+	rewards: [{
+		uid: "20001233",
+		type: "ftbmoney:money",
+		ftb_money: 25L
+	}]
+}

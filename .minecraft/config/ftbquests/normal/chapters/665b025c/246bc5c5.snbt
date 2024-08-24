@@ -1,0 +1,27 @@
+{
+	x: -6.5d,
+	y: -3.0d,
+	hide_dependency_lines: true,
+	dependencies: [
+		"4a18d7f7"
+	],
+	tasks: [{
+		uid: "ea7f60c7",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {},
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "spartanfire:crossbow_ice_dragonbone",
+			tag: {}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "c7f02f6a",
+		type: "ftbmoney:money",
+		ftb_money: 40L
+	}]
+}

@@ -1,0 +1,22 @@
+{
+	title: "ForestPeak",
+	icon: {
+		ForgeCaps: {
+			"wizardryutils:summoneditemdata": {}
+		},
+		id: "minecraft:grass"
+	},
+	disable_toast: true,
+	x: 15.0d,
+	y: 10.0d,
+	tasks: [{
+		uid: "20001667",
+		type: "biome",
+		biome: "openterraingenerator:overworld_forestpeak"
+	}],
+	rewards: [{
+		uid: "20001668",
+		type: "ftbmoney:money",
+		ftb_money: 25L
+	}]
+}

@@ -1,0 +1,24 @@
+{
+	title: "Bottlenose Dolphin",
+	disable_toast: true,
+	x: -3.0d,
+	y: 35.0d,
+	tasks: [{
+		uid: "14ef9a2b",
+		type: "observation",
+		icon: {
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "zawa:bottlenose_dolphin"
+		},
+		match_type: "entity_id",
+		match: "zawa:bottlenosedolphin",
+		timer: 0L
+	}],
+	rewards: [{
+		uid: "95f0dd0f",
+		type: "ftbmoney:money",
+		ftb_money: 10L
+	}]
+}

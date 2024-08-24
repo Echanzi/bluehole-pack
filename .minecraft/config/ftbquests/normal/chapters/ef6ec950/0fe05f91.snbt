@@ -1,0 +1,23 @@
+{
+	title: "Gem Tester",
+	x: 14.5d,
+	y: 2.5d,
+	tasks: [{
+		uid: "bfce7382",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {},
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "thebetweenlands:gem_singer"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "9d8e5c27",
+		type: "ftbmoney:money",
+		ftb_money: 20L
+	}]
+}

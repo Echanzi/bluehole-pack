@@ -1,0 +1,18 @@
+{
+	title: "Twilight Zone",
+	x: -0.5d,
+	y: -3.0d,
+	dependencies: [
+		"c812e500"
+	],
+	tasks: [{
+		uid: "54ad7420",
+		type: "dimension",
+		dim: 7
+	}],
+	rewards: [{
+		uid: "d514918d",
+		type: "ftbmoney:money",
+		ftb_money: 100L
+	}]
+}

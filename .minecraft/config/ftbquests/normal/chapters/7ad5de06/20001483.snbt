@@ -1,0 +1,22 @@
+{
+	title: "Mesa River",
+	icon: {
+		ForgeCaps: {
+			"wizardryutils:summoneditemdata": {}
+		},
+		id: "minecraft:grass"
+	},
+	disable_toast: true,
+	x: 20.0d,
+	y: 8.0d,
+	tasks: [{
+		uid: "20001484",
+		type: "biome",
+		biome: "openterraingenerator:overworld_mesa_river"
+	}],
+	rewards: [{
+		uid: "20001485",
+		type: "ftbmoney:money",
+		ftb_money: 25L
+	}]
+}

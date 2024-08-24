@@ -1,0 +1,24 @@
+{
+	title: "Green Anaconda",
+	disable_toast: true,
+	x: 12.0d,
+	y: 35.0d,
+	tasks: [{
+		uid: "827f05c5",
+		type: "observation",
+		icon: {
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "zawa:green_anaconda"
+		},
+		match_type: "entity_id",
+		match: "zawa:greenanaconda",
+		timer: 0L
+	}],
+	rewards: [{
+		uid: "0410af00",
+		type: "ftbmoney:money",
+		ftb_money: 10L
+	}]
+}

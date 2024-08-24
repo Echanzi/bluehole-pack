@@ -1,0 +1,27 @@
+{
+	disable_toast: true,
+	x: 3.5d,
+	y: -7.0d,
+	can_repeat: true,
+	dependencies: [
+		"7512cc75"
+	],
+	tasks: [{
+		uid: "6ec5e81f",
+		type: "kill",
+		icon: {
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {},
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "lost_aether:phoenix_cape"
+		},
+		entity: "aether_legacy:sun_spirit",
+		value: 1L
+	}],
+	rewards: [{
+		uid: "ab384909",
+		type: "ftbmoney:money",
+		ftb_money: 150L
+	}]
+}

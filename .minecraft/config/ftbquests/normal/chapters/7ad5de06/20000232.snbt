@@ -1,0 +1,22 @@
+{
+	title: "Quagmire",
+	icon: {
+		ForgeCaps: {
+			"wizardryutils:summoneditemdata": {}
+		},
+		id: "biomesoplenty:mud"
+	},
+	disable_toast: true,
+	x: -1.0d,
+	y: -4.0d,
+	tasks: [{
+		uid: "20000233",
+		type: "biome",
+		biome: "biomesoplenty:quagmire"
+	}],
+	rewards: [{
+		uid: "20000234",
+		type: "ftbmoney:money",
+		ftb_money: 25L
+	}]
+}

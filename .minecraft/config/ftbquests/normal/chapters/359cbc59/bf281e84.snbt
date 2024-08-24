@@ -1,0 +1,24 @@
+{
+	title: "Gaur",
+	disable_toast: true,
+	x: 11.0d,
+	y: 35.0d,
+	tasks: [{
+		uid: "baa2af94",
+		type: "observation",
+		icon: {
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "zawa:gaur"
+		},
+		match_type: "entity_id",
+		match: "zawa:gaur",
+		timer: 0L
+	}],
+	rewards: [{
+		uid: "64d87d69",
+		type: "ftbmoney:money",
+		ftb_money: 10L
+	}]
+}

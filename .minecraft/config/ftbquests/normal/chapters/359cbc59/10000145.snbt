@@ -1,0 +1,29 @@
+{
+	title: "Red Mooshroom",
+	icon: {
+		ForgeCaps: {
+			"wizardryutils:summoneditemdata": {}
+		},
+		id: "minecraft:spawn_egg",
+		tag: {
+			EntityTag: {
+				id: "minecraft:mooshroom"
+			}
+		}
+	},
+	disable_toast: true,
+	x: -10.0d,
+	y: 15.0d,
+	tasks: [{
+		uid: "10000146",
+		type: "observation",
+		match_type: "entity_id",
+		match: "minecraft:mooshroom",
+		timer: 0L
+	}],
+	rewards: [{
+		uid: "10000147",
+		type: "ftbmoney:money",
+		ftb_money: 10L
+	}]
+}

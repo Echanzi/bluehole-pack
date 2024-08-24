@@ -1,0 +1,29 @@
+{
+	title: "Ancient Entity",
+	icon: {
+		ForgeCaps: {
+			"wizardryutils:summoneditemdata": {}
+		},
+		id: "minecraft:spawn_egg",
+		tag: {
+			EntityTag: {
+				id: "divinerpg:ancient_entity"
+			}
+		}
+	},
+	disable_toast: true,
+	x: -12.0d,
+	y: 23.0d,
+	tasks: [{
+		uid: "10000932",
+		type: "observation",
+		match_type: "entity_id",
+		match: "divinerpg:ancient_entity",
+		timer: 0L
+	}],
+	rewards: [{
+		uid: "10000933",
+		type: "ftbmoney:money",
+		ftb_money: 10L
+	}]
+}

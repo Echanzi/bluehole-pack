@@ -1,0 +1,29 @@
+{
+	title: "Spitfire Skeleton",
+	icon: {
+		ForgeCaps: {
+			"wizardryutils:summoneditemdata": {}
+		},
+		id: "minecraft:spawn_egg",
+		tag: {
+			EntityTag: {
+				id: "specialmobs:spitfireskeleton"
+			}
+		}
+	},
+	disable_toast: true,
+	x: 17.0d,
+	y: 31.0d,
+	tasks: [{
+		uid: "10001811",
+		type: "observation",
+		match_type: "entity_id",
+		match: "specialmobs:spitfireskeleton",
+		timer: 0L
+	}],
+	rewards: [{
+		uid: "10001812",
+		type: "ftbmoney:money",
+		ftb_money: 10L
+	}]
+}

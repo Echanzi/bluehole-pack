@@ -1,0 +1,22 @@
+{
+	title: "RedwoodSmall",
+	icon: {
+		ForgeCaps: {
+			"wizardryutils:summoneditemdata": {}
+		},
+		id: "minecraft:grass"
+	},
+	disable_toast: true,
+	x: 12.0d,
+	y: 8.0d,
+	tasks: [{
+		uid: "20001460",
+		type: "biome",
+		biome: "openterraingenerator:overworld_redwoodsmall"
+	}],
+	rewards: [{
+		uid: "20001461",
+		type: "ftbmoney:money",
+		ftb_money: 25L
+	}]
+}

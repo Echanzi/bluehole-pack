@@ -1,0 +1,23 @@
+{
+	title: "Beaconator",
+	x: 12.5d,
+	y: 4.5d,
+	dependencies: [
+		"6c86bfa8"
+	],
+	tasks: [{
+		uid: "f1e47976",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "minecraft:beacon"
+		}]
+	}],
+	rewards: [{
+		uid: "e30a8822",
+		type: "ftbmoney:money",
+		ftb_money: 75L
+	}]
+}

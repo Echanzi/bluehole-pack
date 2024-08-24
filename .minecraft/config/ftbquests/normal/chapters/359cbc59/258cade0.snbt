@@ -1,0 +1,24 @@
+{
+	title: "Fiji Banded Iguana",
+	disable_toast: true,
+	x: 10.0d,
+	y: 35.0d,
+	tasks: [{
+		uid: "1603edb3",
+		type: "observation",
+		icon: {
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "zawa:fiji_banded_iguana"
+		},
+		match_type: "entity_id",
+		match: "zawa:fijibandediguana",
+		timer: 0L
+	}],
+	rewards: [{
+		uid: "6dd323ab",
+		type: "ftbmoney:money",
+		ftb_money: 10L
+	}]
+}

@@ -1,0 +1,22 @@
+{
+	title: "AlpineForest",
+	icon: {
+		ForgeCaps: {
+			"wizardryutils:summoneditemdata": {}
+		},
+		id: "minecraft:grass"
+	},
+	disable_toast: true,
+	x: 11.0d,
+	y: 0.0d,
+	tasks: [{
+		uid: "20000665",
+		type: "biome",
+		biome: "openterraingenerator:overworld_alpineforest"
+	}],
+	rewards: [{
+		uid: "20000666",
+		type: "ftbmoney:money",
+		ftb_money: 25L
+	}]
+}

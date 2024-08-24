@@ -1,0 +1,68 @@
+{
+	title: "Mystrical Saps",
+	x: 7.0d,
+	y: -4.5d,
+	tasks: [{
+		uid: "ee8f82ab",
+		type: "item",
+		disable_toast: true,
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "twilightforest:twilight_sapling",
+			Damage: 5s
+		}]
+	},
+	{
+		uid: "2fe7cfd2",
+		type: "item",
+		disable_toast: true,
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "twilightforest:twilight_sapling",
+			Damage: 6s
+		}]
+	},
+	{
+		uid: "89466b8e",
+		type: "item",
+		disable_toast: true,
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "twilightforest:twilight_sapling",
+			Damage: 7s
+		}]
+	},
+	{
+		uid: "9aade991",
+		type: "item",
+		disable_toast: true,
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "twilightforest:twilight_sapling",
+			Damage: 8s
+		}]
+	}],
+	rewards: [{
+		uid: "ff528a7f",
+		type: "ftbmoney:money",
+		ftb_money: 100L
+	},
+	{
+		uid: "803df25c",
+		type: "item",
+		item: {
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "chancecubes:chance_cube"
+		}
+	}]
+}

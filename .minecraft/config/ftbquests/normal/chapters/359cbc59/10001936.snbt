@@ -1,0 +1,29 @@
+{
+	title: "Lightning Enderman",
+	icon: {
+		ForgeCaps: {
+			"wizardryutils:summoneditemdata": {}
+		},
+		id: "minecraft:spawn_egg",
+		tag: {
+			EntityTag: {
+				id: "specialmobs:lightningenderman"
+			}
+		}
+	},
+	disable_toast: true,
+	x: -7.0d,
+	y: 33.0d,
+	tasks: [{
+		uid: "10001937",
+		type: "observation",
+		match_type: "entity_id",
+		match: "specialmobs:lightningenderman",
+		timer: 0L
+	}],
+	rewards: [{
+		uid: "10001938",
+		type: "ftbmoney:money",
+		ftb_money: 10L
+	}]
+}

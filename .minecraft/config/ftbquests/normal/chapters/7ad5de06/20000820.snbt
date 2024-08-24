@@ -1,0 +1,22 @@
+{
+	title: "SnowyMesaRocks",
+	icon: {
+		ForgeCaps: {
+			"wizardryutils:summoneditemdata": {}
+		},
+		id: "minecraft:grass"
+	},
+	disable_toast: true,
+	x: -3.0d,
+	y: 2.0d,
+	tasks: [{
+		uid: "20000821",
+		type: "biome",
+		biome: "openterraingenerator:overworld_snowymesarocks"
+	}],
+	rewards: [{
+		uid: "20000822",
+		type: "ftbmoney:money",
+		ftb_money: 25L
+	}]
+}

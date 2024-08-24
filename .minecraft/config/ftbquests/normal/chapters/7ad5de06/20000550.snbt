@@ -1,0 +1,22 @@
+{
+	title: "Defiled Plains",
+	icon: {
+		ForgeCaps: {
+			"wizardryutils:summoneditemdata": {}
+		},
+		id: "defiledlands:grass_defiled"
+	},
+	disable_toast: true,
+	x: 6.0d,
+	y: -1.0d,
+	tasks: [{
+		uid: "20000551",
+		type: "biome",
+		biome: "defiledlands:plains_defiled"
+	}],
+	rewards: [{
+		uid: "20000552",
+		type: "ftbmoney:money",
+		ftb_money: 25L
+	}]
+}

@@ -1,0 +1,23 @@
+{
+	title: "Pretty fucked up, isn't it?",
+	x: -4.0d,
+	y: 2.0d,
+	dependencies: [
+		"a7bcf5db"
+	],
+	tasks: [{
+		uid: "ec60c248",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "harvestcraft:peanutbutteritem"
+		}]
+	}],
+	rewards: [{
+		uid: "c5c4900d",
+		type: "ftbmoney:money",
+		ftb_money: 20L
+	}]
+}

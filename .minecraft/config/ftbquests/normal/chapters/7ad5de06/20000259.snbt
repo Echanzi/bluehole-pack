@@ -1,0 +1,22 @@
+{
+	title: "Dead Swamp",
+	icon: {
+		ForgeCaps: {
+			"wizardryutils:summoneditemdata": {}
+		},
+		id: "biomesoplenty:grass"
+	},
+	disable_toast: true,
+	x: 8.0d,
+	y: -4.0d,
+	tasks: [{
+		uid: "20000260",
+		type: "biome",
+		biome: "biomesoplenty:dead_swamp"
+	}],
+	rewards: [{
+		uid: "20000261",
+		type: "ftbmoney:money",
+		ftb_money: 25L
+	}]
+}

@@ -1,0 +1,19 @@
+{
+	x: 3.5d,
+	y: 5.5d,
+	tasks: [{
+		uid: "29114f02",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "scalinghealth:crystalshard"
+		}]
+	}],
+	rewards: [{
+		uid: "9da9ac65",
+		type: "ftbmoney:money",
+		ftb_money: 15L
+	}]
+}

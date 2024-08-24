@@ -1,0 +1,29 @@
+{
+	title: "Mosquito Swarm",
+	icon: {
+		ForgeCaps: {
+			"wizardryutils:summoneditemdata": {}
+		},
+		id: "minecraft:spawn_egg",
+		tag: {
+			EntityTag: {
+				id: "twilightforest:mosquito_swarm"
+			}
+		}
+	},
+	disable_toast: true,
+	x: 0.0d,
+	y: 24.0d,
+	tasks: [{
+		uid: "10001067",
+		type: "observation",
+		match_type: "entity_id",
+		match: "twilightforest:mosquito_swarm",
+		timer: 0L
+	}],
+	rewards: [{
+		uid: "10001068",
+		type: "ftbmoney:money",
+		ftb_money: 10L
+	}]
+}

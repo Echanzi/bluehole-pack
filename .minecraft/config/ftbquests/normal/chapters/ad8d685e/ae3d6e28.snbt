@@ -1,0 +1,22 @@
+{
+	x: -7.0d,
+	y: 0.5d,
+	dependencies: [
+		"a7bcf5db"
+	],
+	tasks: [{
+		uid: "b19ae885",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "harvestcraft:groundcinnamonitem"
+		}]
+	}],
+	rewards: [{
+		uid: "da1ed364",
+		type: "ftbmoney:money",
+		ftb_money: 20L
+	}]
+}

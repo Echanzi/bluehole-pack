@@ -1,0 +1,24 @@
+{
+	title: "Crystal Collector",
+	x: -4.0d,
+	y: -0.5d,
+	tasks: [{
+		uid: "5419fa71",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "ebwizardry:magic_crystal",
+			tag: {
+				reforgeCost: 318
+			}
+		}],
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "d418f08e",
+		type: "ftbmoney:money",
+		ftb_money: 15L
+	}]
+}

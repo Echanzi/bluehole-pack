@@ -1,0 +1,26 @@
+{
+	title: "Baby's First Assassination Weapon",
+	x: -2.0d,
+	y: -2.5d,
+	dependencies: [
+		"c8f3a510"
+	],
+	tasks: [{
+		uid: "d9a7edef",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {},
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "spartanweaponry:dagger_wood"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "6e34fb04",
+		type: "ftbmoney:money",
+		ftb_money: 15L
+	}]
+}

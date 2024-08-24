@@ -1,0 +1,24 @@
+{
+	title: "Bengal Tiger",
+	disable_toast: true,
+	x: -1.0d,
+	y: 35.0d,
+	tasks: [{
+		uid: "86d0c27c",
+		type: "observation",
+		icon: {
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "zawa:bengal_tiger"
+		},
+		match_type: "entity_id",
+		match: "zawa:bengaltiger",
+		timer: 0L
+	}],
+	rewards: [{
+		uid: "0fe01be3",
+		type: "ftbmoney:money",
+		ftb_money: 10L
+	}]
+}

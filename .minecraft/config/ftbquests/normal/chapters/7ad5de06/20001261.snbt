@@ -1,0 +1,22 @@
+{
+	title: "Autumnal Woods Hills",
+	icon: {
+		ForgeCaps: {
+			"wizardryutils:summoneditemdata": {}
+		},
+		id: "minecraft:grass"
+	},
+	disable_toast: true,
+	x: 12.0d,
+	y: 6.0d,
+	tasks: [{
+		uid: "20001262",
+		type: "biome",
+		biome: "openterraingenerator:overworld_autumnal_woods_hills"
+	}],
+	rewards: [{
+		uid: "20001263",
+		type: "ftbmoney:money",
+		ftb_money: 25L
+	}]
+}

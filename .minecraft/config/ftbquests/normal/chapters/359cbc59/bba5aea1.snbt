@@ -1,0 +1,24 @@
+{
+	title: "Echidna",
+	disable_toast: true,
+	x: -9.0d,
+	y: 34.0d,
+	tasks: [{
+		uid: "9049cd69",
+		type: "observation",
+		icon: {
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "zawa:echidna"
+		},
+		match_type: "entity_id",
+		match: "zawa:echidna",
+		timer: 0L
+	}],
+	rewards: [{
+		uid: "452e0c6f",
+		type: "ftbmoney:money",
+		ftb_money: 10L
+	}]
+}

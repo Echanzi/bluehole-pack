@@ -1,0 +1,29 @@
+{
+	title: "Dryad",
+	icon: {
+		ForgeCaps: {
+			"wizardryutils:summoneditemdata": {}
+		},
+		id: "minecraft:spawn_egg",
+		tag: {
+			EntityTag: {
+				id: "grimoireofgaia:dryad"
+			}
+		}
+	},
+	disable_toast: true,
+	x: 10.0d,
+	y: 26.0d,
+	tasks: [{
+		uid: "10001295",
+		type: "observation",
+		match_type: "entity_id",
+		match: "grimoireofgaia:dryad",
+		timer: 0L
+	}],
+	rewards: [{
+		uid: "10001296",
+		type: "ftbmoney:money",
+		ftb_money: 10L
+	}]
+}

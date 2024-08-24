@@ -1,0 +1,22 @@
+{
+	title: "Fungi Forest",
+	icon: {
+		ForgeCaps: {
+			"wizardryutils:summoneditemdata": {}
+		},
+		id: "netherex:hyphae"
+	},
+	disable_toast: true,
+	x: 14.0d,
+	y: -2.0d,
+	tasks: [{
+		uid: "20000476",
+		type: "biome",
+		biome: "netherex:fungi_forest"
+	}],
+	rewards: [{
+		uid: "20000477",
+		type: "ftbmoney:money",
+		ftb_money: 25L
+	}]
+}

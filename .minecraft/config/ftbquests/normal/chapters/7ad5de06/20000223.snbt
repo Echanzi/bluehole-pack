@@ -1,0 +1,22 @@
+{
+	title: "Roofed Forest",
+	icon: {
+		ForgeCaps: {
+			"wizardryutils:summoneditemdata": {}
+		},
+		id: "minecraft:grass"
+	},
+	disable_toast: true,
+	x: -4.0d,
+	y: -4.0d,
+	tasks: [{
+		uid: "20000224",
+		type: "biome",
+		biome: "minecraft:roofed_forest"
+	}],
+	rewards: [{
+		uid: "20000225",
+		type: "ftbmoney:money",
+		ftb_money: 25L
+	}]
+}

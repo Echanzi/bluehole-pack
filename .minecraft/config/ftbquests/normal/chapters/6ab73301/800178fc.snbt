@@ -1,0 +1,26 @@
+{
+	title: "Dude that's our Song",
+	x: 8.5d,
+	y: 1.0d,
+	text: [
+		"Many Songs :)"
+	],
+	dependencies: [
+		"4a670c36"
+	],
+	tasks: [{
+		uid: "356f5e96",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "minecraft:jukebox"
+		}]
+	}],
+	rewards: [{
+		uid: "72591c72",
+		type: "ftbmoney:money",
+		ftb_money: 25L
+	}]
+}

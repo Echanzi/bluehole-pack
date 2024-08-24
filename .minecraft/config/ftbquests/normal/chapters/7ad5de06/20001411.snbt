@@ -1,0 +1,22 @@
+{
+	title: "RiverAutumnal",
+	icon: {
+		ForgeCaps: {
+			"wizardryutils:summoneditemdata": {}
+		},
+		id: "minecraft:grass"
+	},
+	disable_toast: true,
+	x: -4.0d,
+	y: 8.0d,
+	tasks: [{
+		uid: "20001412",
+		type: "biome",
+		biome: "openterraingenerator:overworld_riverautumnal"
+	}],
+	rewards: [{
+		uid: "20001413",
+		type: "ftbmoney:money",
+		ftb_money: 25L
+	}]
+}

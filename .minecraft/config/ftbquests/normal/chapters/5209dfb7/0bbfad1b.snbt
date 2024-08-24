@@ -1,0 +1,42 @@
+{
+	x: 6.0d,
+	y: -3.0d,
+	dependencies: [
+		"828a42c4"
+	],
+	tasks: [{
+		uid: "944a4692",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {},
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "twilightforest:meef_stroganoff"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	},
+	{
+		uid: "a57080a9",
+		type: "kill",
+		entity: "twilightforest:minoshroom",
+		value: 1L
+	}],
+	rewards: [{
+		uid: "822fe521",
+		type: "item",
+		item: {
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {},
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "twilightforest:meef_stroganoff"
+		}
+	},
+	{
+		uid: "3c7ccc25",
+		type: "ftbmoney:money",
+		ftb_money: 80L
+	}]
+}

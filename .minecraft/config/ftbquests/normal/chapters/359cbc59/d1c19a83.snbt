@@ -1,0 +1,24 @@
+{
+	title: "Emerald Golem",
+	disable_toast: true,
+	x: 1.0d,
+	y: 36.0d,
+	tasks: [{
+		uid: "50c5d230",
+		type: "observation",
+		icon: {
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "minecraft:emerald_block"
+		},
+		match_type: "entity_id",
+		match: "golems:golem_emerald",
+		timer: 0L
+	}],
+	rewards: [{
+		uid: "a0cf4995",
+		type: "ftbmoney:money",
+		ftb_money: 10L
+	}]
+}

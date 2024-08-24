@@ -1,0 +1,29 @@
+{
+	title: "Wildfire",
+	icon: {
+		ForgeCaps: {
+			"wizardryutils:summoneditemdata": {}
+		},
+		id: "minecraft:spawn_egg",
+		tag: {
+			EntityTag: {
+				id: "divinerpg:wildfire"
+			}
+		}
+	},
+	disable_toast: true,
+	x: 18.0d,
+	y: 19.0d,
+	tasks: [{
+		uid: "10000626",
+		type: "observation",
+		match_type: "entity_id",
+		match: "divinerpg:wildfire",
+		timer: 0L
+	}],
+	rewards: [{
+		uid: "10000627",
+		type: "ftbmoney:money",
+		ftb_money: 10L
+	}]
+}

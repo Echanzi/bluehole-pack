@@ -1,0 +1,22 @@
+{
+	title: "Maple Woods",
+	icon: {
+		ForgeCaps: {
+			"wizardryutils:summoneditemdata": {}
+		},
+		id: "minecraft:grass"
+	},
+	disable_toast: true,
+	x: -4.0d,
+	y: -2.0d,
+	tasks: [{
+		uid: "20000422",
+		type: "biome",
+		biome: "biomesoplenty:maple_woods"
+	}],
+	rewards: [{
+		uid: "20000423",
+		type: "ftbmoney:money",
+		ftb_money: 25L
+	}]
+}

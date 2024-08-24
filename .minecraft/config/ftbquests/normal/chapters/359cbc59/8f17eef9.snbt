@@ -1,0 +1,24 @@
+{
+	title: "Ciclid",
+	disable_toast: true,
+	x: -4.0d,
+	y: 34.0d,
+	tasks: [{
+		uid: "c64fcd16",
+		type: "observation",
+		icon: {
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "zawa:cichlid"
+		},
+		match_type: "entity_id",
+		match: "zawa:cichlid",
+		timer: 0L
+	}],
+	rewards: [{
+		uid: "622a99a7",
+		type: "ftbmoney:money",
+		ftb_money: 10L
+	}]
+}

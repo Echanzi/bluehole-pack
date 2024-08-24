@@ -1,0 +1,33 @@
+{
+	x: -1.5d,
+	y: 16.0d,
+	hide_dependency_lines: true,
+	dependencies: [
+		"0c5cc95e"
+	],
+	tasks: [{
+		uid: "69e04d56",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {},
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "spartantwilight:throwing_axe_ironwood",
+			tag: {
+				AmmoUsed: 0,
+				UUIDMost: -6232072329126328179L,
+				UUIDLeast: -5697776920044386864L,
+				enchChecked: 1b,
+				Original: 1b
+			}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "a4e813e1",
+		type: "ftbmoney:money",
+		ftb_money: 30L
+	}]
+}

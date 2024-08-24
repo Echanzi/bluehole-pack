@@ -1,0 +1,22 @@
+{
+	title: "Glacier",
+	icon: {
+		ForgeCaps: {
+			"wizardryutils:summoneditemdata": {}
+		},
+		id: "minecraft:grass"
+	},
+	disable_toast: true,
+	x: 17.0d,
+	y: 0.0d,
+	tasks: [{
+		uid: "20000683",
+		type: "biome",
+		biome: "openterraingenerator:overworld_glacier"
+	}],
+	rewards: [{
+		uid: "20000684",
+		type: "ftbmoney:money",
+		ftb_money: 25L
+	}]
+}

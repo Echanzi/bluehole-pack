@@ -1,0 +1,29 @@
+{
+	title: "Oddity Opposition",
+	x: 6.5d,
+	y: 9.0d,
+	dependencies: [
+		"056cb50a"
+	],
+	tasks: [{
+		uid: "e4b3b279",
+		type: "kill",
+		entity: "thebetweenlands:fortress_boss",
+		value: 1L
+	}],
+	rewards: [{
+		uid: "d57f5bd8",
+		type: "ftbmoney:money",
+		ftb_money: 500L
+	},
+	{
+		uid: "17e59ef2",
+		type: "item",
+		item: {
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "chancecubes:chance_cube"
+		}
+	}]
+}

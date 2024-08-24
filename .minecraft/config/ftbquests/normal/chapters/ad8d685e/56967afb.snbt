@@ -1,0 +1,310 @@
+{
+	title: "Watcha got there?",
+	x: -8.0d,
+	y: -2.5d,
+	dependencies: [
+		"c6daf884"
+	],
+	tasks: [{
+		uid: "0879266c",
+		type: "item",
+		disable_toast: true,
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "harvestcraft:melonsmoothieitem"
+		}]
+	},
+	{
+		uid: "f70ca4bf",
+		type: "item",
+		disable_toast: true,
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "harvestcraft:strawberrysmoothieitem"
+		}]
+	},
+	{
+		uid: "a8891885",
+		type: "item",
+		disable_toast: true,
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "harvestcraft:lemonsmoothieitem"
+		}]
+	},
+	{
+		uid: "ec091487",
+		type: "item",
+		disable_toast: true,
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "harvestcraft:blueberrysmoothieitem"
+		}]
+	},
+	{
+		uid: "f813b99d",
+		type: "item",
+		disable_toast: true,
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "harvestcraft:cherrysmoothieitem"
+		}]
+	},
+	{
+		uid: "c3e8775a",
+		type: "item",
+		disable_toast: true,
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "harvestcraft:papayasmoothieitem"
+		}]
+	},
+	{
+		uid: "05e411b7",
+		type: "item",
+		disable_toast: true,
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "harvestcraft:starfruitsmoothieitem"
+		}]
+	},
+	{
+		uid: "ba21b183",
+		type: "item",
+		disable_toast: true,
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "harvestcraft:bananasmoothieitem"
+		}]
+	},
+	{
+		uid: "d9586ad0",
+		type: "item",
+		disable_toast: true,
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "harvestcraft:orangesmoothieitem"
+		}]
+	},
+	{
+		uid: "09248805",
+		type: "item",
+		disable_toast: true,
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "harvestcraft:peachsmoothieitem"
+		}]
+	},
+	{
+		uid: "27627f3c",
+		type: "item",
+		disable_toast: true,
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "harvestcraft:limesmoothieitem"
+		}]
+	},
+	{
+		uid: "fa9795a9",
+		type: "item",
+		disable_toast: true,
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "harvestcraft:mangosmoothieitem"
+		}]
+	},
+	{
+		uid: "8ec5e7d3",
+		type: "item",
+		disable_toast: true,
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "harvestcraft:pomegranatesmoothieitem"
+		}]
+	},
+	{
+		uid: "84806574",
+		type: "item",
+		disable_toast: true,
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "harvestcraft:blackberrysmoothieitem"
+		}]
+	},
+	{
+		uid: "40bd3422",
+		type: "item",
+		disable_toast: true,
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "harvestcraft:raspberrysmoothieitem"
+		}]
+	},
+	{
+		uid: "e1cad585",
+		type: "item",
+		disable_toast: true,
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "harvestcraft:kiwismoothieitem"
+		}]
+	},
+	{
+		uid: "96bec70a",
+		type: "item",
+		disable_toast: true,
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "harvestcraft:apricotsmoothieitem"
+		}]
+	},
+	{
+		uid: "ca9970ae",
+		type: "item",
+		disable_toast: true,
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "harvestcraft:figsmoothieitem"
+		}]
+	},
+	{
+		uid: "a3555c67",
+		type: "item",
+		disable_toast: true,
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "harvestcraft:grapefruitsmoothieitem"
+		}]
+	},
+	{
+		uid: "d7860a46",
+		type: "item",
+		disable_toast: true,
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "harvestcraft:persimmonsmoothieitem"
+		}]
+	},
+	{
+		uid: "dd0390b9",
+		type: "item",
+		disable_toast: true,
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "harvestcraft:gooseberrysmoothieitem"
+		}]
+	},
+	{
+		uid: "9ee3e703",
+		type: "item",
+		disable_toast: true,
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "harvestcraft:applesmoothieitem"
+		}]
+	},
+	{
+		uid: "b71ef1e3",
+		type: "item",
+		disable_toast: true,
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "harvestcraft:coconutsmoothieitem"
+		}]
+	},
+	{
+		uid: "9206eed9",
+		type: "item",
+		disable_toast: true,
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "harvestcraft:cranberrysmoothieitem"
+		}]
+	},
+	{
+		uid: "20ed9881",
+		type: "item",
+		disable_toast: true,
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "harvestcraft:grapesmoothieitem"
+		}]
+	},
+	{
+		uid: "57d6173c",
+		type: "item",
+		disable_toast: true,
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "harvestcraft:pearsmoothieitem"
+		}]
+	},
+	{
+		uid: "5f4b3a33",
+		type: "item",
+		disable_toast: true,
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "harvestcraft:plumsmoothieitem"
+		}]
+	}],
+	rewards: [{
+		uid: "8eada7a1",
+		type: "ftbmoney:money",
+		ftb_money: 175L
+	}]
+}

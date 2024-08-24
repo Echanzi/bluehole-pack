@@ -1,0 +1,29 @@
+{
+	title: "Stone Guardian",
+	icon: {
+		ForgeCaps: {
+			"wizardryutils:summoneditemdata": {}
+		},
+		id: "minecraft:spawn_egg",
+		tag: {
+			EntityTag: {
+				id: "ancientspellcraft:stone_guardian"
+			}
+		}
+	},
+	disable_toast: true,
+	x: 0.0d,
+	y: 30.0d,
+	tasks: [{
+		uid: "10001661",
+		type: "observation",
+		match_type: "entity_id",
+		match: "ancientspellcraft:stone_guardian",
+		timer: 0L
+	}],
+	rewards: [{
+		uid: "10001662",
+		type: "ftbmoney:money",
+		ftb_money: 10L
+	}]
+}

@@ -1,0 +1,22 @@
+{
+	title: "The End",
+	icon: {
+		ForgeCaps: {
+			"wizardryutils:summoneditemdata": {}
+		},
+		id: "minecraft:dirt"
+	},
+	disable_toast: true,
+	x: -7.0d,
+	y: -2.0d,
+	tasks: [{
+		uid: "20000413",
+		type: "biome",
+		biome: "minecraft:sky"
+	}],
+	rewards: [{
+		uid: "20000414",
+		type: "ftbmoney:money",
+		ftb_money: 25L
+	}]
+}

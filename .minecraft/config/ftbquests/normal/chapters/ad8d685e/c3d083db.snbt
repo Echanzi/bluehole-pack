@@ -1,0 +1,89 @@
+{
+	title: "Hell's Kitchen",
+	icon: {
+		ForgeCaps: {
+			"wizardryutils:summoneditemdata": {}
+		},
+		id: "cookingforblockheads:oven"
+	},
+	x: -3.5d,
+	y: -1.5d,
+	tasks: [{
+		uid: "24112647",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "cookingforblockheads:fridge"
+		}],
+		count: 2L
+	},
+	{
+		uid: "952a961a",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "cookingforblockheads:oven"
+		}]
+	},
+	{
+		uid: "262195cd",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "cookingforblockheads:cooking_table"
+		}]
+	},
+	{
+		uid: "770554e3",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "cookingforblockheads:sink"
+		}]
+	},
+	{
+		uid: "2369aa96",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "cookingforblockheads:cabinet"
+		}],
+		count: 2L
+	},
+	{
+		uid: "54c870bb",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "cookingforblockheads:counter"
+		}]
+	},
+	{
+		uid: "295b95bd",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "cookingforblockheads:corner"
+		}],
+		count: 2L
+	}],
+	rewards: [{
+		uid: "9c05ba55",
+		type: "ftbmoney:money",
+		ftb_money: 100L
+	}]
+}

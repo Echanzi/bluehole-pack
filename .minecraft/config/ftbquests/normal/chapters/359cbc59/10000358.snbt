@@ -1,0 +1,29 @@
+{
+	title: "Infestation",
+	icon: {
+		ForgeCaps: {
+			"wizardryutils:summoneditemdata": {}
+		},
+		id: "minecraft:spawn_egg",
+		tag: {
+			EntityTag: {
+				id: "thebetweenlands:swarm"
+			}
+		}
+	},
+	disable_toast: true,
+	x: -5.0d,
+	y: 17.0d,
+	tasks: [{
+		uid: "10000359",
+		type: "observation",
+		match_type: "entity_id",
+		match: "thebetweenlands:swarm",
+		timer: 0L
+	}],
+	rewards: [{
+		uid: "10000360",
+		type: "ftbmoney:money",
+		ftb_money: 10L
+	}]
+}

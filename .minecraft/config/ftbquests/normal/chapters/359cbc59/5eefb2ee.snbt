@@ -1,0 +1,24 @@
+{
+	title: "Black Rhinoceros",
+	disable_toast: true,
+	x: 20.0d,
+	y: 34.0d,
+	tasks: [{
+		uid: "6e99b51c",
+		type: "observation",
+		icon: {
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "zawa:black_rhinoceros"
+		},
+		match_type: "entity_id",
+		match: "zawa:blackrhinoceros",
+		timer: 0L
+	}],
+	rewards: [{
+		uid: "19719357",
+		type: "ftbmoney:money",
+		ftb_money: 10L
+	}]
+}

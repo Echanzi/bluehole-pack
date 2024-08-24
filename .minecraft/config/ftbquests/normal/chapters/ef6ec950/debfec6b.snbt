@@ -1,0 +1,65 @@
+{
+	title: "Survivalist's Guide to Anything Minecraft",
+	icon: {
+		ForgeCaps: {
+			"wizardryutils:summoneditemdata": {}
+		},
+		id: "thebetweenlands:log_weedwood"
+	},
+	x: 5.0d,
+	y: 0.0d,
+	dependencies: [
+		"62380a69"
+	],
+	tasks: [{
+		uid: "b039d7a2",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "thebetweenlands:log_weedwood"
+		}]
+	},
+	{
+		uid: "2bf24776",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "thebetweenlands:weedwood_workbench"
+		}]
+	},
+	{
+		uid: "662dcfcf",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {},
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "thebetweenlands:weedwood_pickaxe"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	},
+	{
+		uid: "3a1ce268",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {},
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "thebetweenlands:weedwood_sword"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "118c121b",
+		type: "ftbmoney:money",
+		ftb_money: 15L
+	}]
+}

@@ -1,0 +1,29 @@
+{
+	title: "Golem Of Rejuvenation",
+	icon: {
+		ForgeCaps: {
+			"wizardryutils:summoneditemdata": {}
+		},
+		id: "minecraft:spawn_egg",
+		tag: {
+			EntityTag: {
+				id: "divinerpg:golem_of_rejuvenation"
+			}
+		}
+	},
+	disable_toast: true,
+	x: 15.0d,
+	y: 21.0d,
+	tasks: [{
+		uid: "10000815",
+		type: "observation",
+		match_type: "entity_id",
+		match: "divinerpg:golem_of_rejuvenation",
+		timer: 0L
+	}],
+	rewards: [{
+		uid: "10000816",
+		type: "ftbmoney:money",
+		ftb_money: 10L
+	}]
+}

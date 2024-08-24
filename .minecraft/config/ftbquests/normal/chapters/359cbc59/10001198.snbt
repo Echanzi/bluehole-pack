@@ -1,0 +1,29 @@
+{
+	title: "Storm Elemental",
+	icon: {
+		ForgeCaps: {
+			"wizardryutils:summoneditemdata": {}
+		},
+		id: "minecraft:spawn_egg",
+		tag: {
+			EntityTag: {
+				id: "ebwizardry:storm_elemental"
+			}
+		}
+	},
+	disable_toast: true,
+	x: 11.0d,
+	y: 25.0d,
+	tasks: [{
+		uid: "10001199",
+		type: "observation",
+		match_type: "entity_id",
+		match: "ebwizardry:storm_elemental",
+		timer: 0L
+	}],
+	rewards: [{
+		uid: "10001200",
+		type: "ftbmoney:money",
+		ftb_money: 10L
+	}]
+}

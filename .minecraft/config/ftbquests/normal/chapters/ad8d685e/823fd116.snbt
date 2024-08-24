@@ -1,0 +1,20 @@
+{
+	title: "Meat Grindr",
+	x: 8.0d,
+	y: 2.5d,
+	tasks: [{
+		uid: "e2448882",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "harvestcraft:grinder"
+		}]
+	}],
+	rewards: [{
+		uid: "a6a61b8f",
+		type: "ftbmoney:money",
+		ftb_money: 25L
+	}]
+}

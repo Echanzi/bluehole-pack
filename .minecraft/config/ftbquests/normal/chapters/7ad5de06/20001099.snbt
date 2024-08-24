@@ -1,0 +1,22 @@
+{
+	title: "Tropical Savanna Summit",
+	icon: {
+		ForgeCaps: {
+			"wizardryutils:summoneditemdata": {}
+		},
+		id: "minecraft:grass"
+	},
+	disable_toast: true,
+	x: -9.0d,
+	y: 5.0d,
+	tasks: [{
+		uid: "20001100",
+		type: "biome",
+		biome: "openterraingenerator:overworld_tropical_savanna_summit"
+	}],
+	rewards: [{
+		uid: "20001101",
+		type: "ftbmoney:money",
+		ftb_money: 25L
+	}]
+}

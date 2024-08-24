@@ -1,0 +1,22 @@
+{
+	x: 5.0d,
+	y: 1.5d,
+	dependencies: [
+		"2288cb92"
+	],
+	tasks: [{
+		uid: "cf8e121f",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "minecraft:bucket"
+		}]
+	}],
+	rewards: [{
+		uid: "f23fa6a4",
+		type: "ftbmoney:money",
+		ftb_money: 15L
+	}]
+}

@@ -1,0 +1,33 @@
+{
+	disable_toast: true,
+	x: 6.5d,
+	y: -1.0d,
+	can_repeat: true,
+	dependencies: [
+		"fb252c66"
+	],
+	tasks: [{
+		uid: "f5b431d5",
+		type: "kill",
+		icon: {
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {},
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "thebetweenlands:shockwave_sword",
+			tag: {
+				ench: [{
+					lvl: 2,
+					id: 3
+				}]
+			}
+		},
+		entity: "thebetweenlands:fortress_boss",
+		value: 1L
+	}],
+	rewards: [{
+		uid: "15090ada",
+		type: "ftbmoney:money",
+		ftb_money: 200L
+	}]
+}

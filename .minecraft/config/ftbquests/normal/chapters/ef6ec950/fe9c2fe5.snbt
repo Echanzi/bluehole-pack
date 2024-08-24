@@ -1,0 +1,25 @@
+{
+	x: 8.0d,
+	y: 9.5d,
+	dependencies: [
+		"a9349f43"
+	],
+	tasks: [{
+		uid: "4805193c",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {},
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "thebetweenlands:ancient_greatsword"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "8aebbf5c",
+		type: "ftbmoney:money",
+		ftb_money: 50L
+	}]
+}

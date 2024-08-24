@@ -1,0 +1,24 @@
+{
+	title: "Humpback Whale",
+	disable_toast: true,
+	x: 9.0d,
+	y: 34.0d,
+	tasks: [{
+		uid: "ebecdc6c",
+		type: "observation",
+		icon: {
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "zawa:humpback_whale"
+		},
+		match_type: "entity_id",
+		match: "zawa:humpbackwhale",
+		timer: 0L
+	}],
+	rewards: [{
+		uid: "687ce6dc",
+		type: "ftbmoney:money",
+		ftb_money: 10L
+	}]
+}

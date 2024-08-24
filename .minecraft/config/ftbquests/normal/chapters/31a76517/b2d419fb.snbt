@@ -1,0 +1,22 @@
+{
+	title: "DK Taiko Bongos",
+	x: -2.5d,
+	y: -1.5d,
+	tasks: [{
+		uid: "6a66bde9",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "tropicraft:bongo",
+			Damage: 2s
+		}],
+		count: 2L
+	}],
+	rewards: [{
+		uid: "325cd3e6",
+		type: "ftbmoney:money",
+		ftb_money: 20L
+	}]
+}

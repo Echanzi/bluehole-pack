@@ -1,0 +1,29 @@
+{
+	title: "Wraith",
+	icon: {
+		ForgeCaps: {
+			"wizardryutils:summoneditemdata": {}
+		},
+		id: "minecraft:spawn_egg",
+		tag: {
+			EntityTag: {
+				id: "quark:wraith"
+			}
+		}
+	},
+	disable_toast: true,
+	x: 7.0d,
+	y: 15.0d,
+	tasks: [{
+		uid: "10000197",
+		type: "observation",
+		match_type: "entity_id",
+		match: "quark:wraith",
+		timer: 0L
+	}],
+	rewards: [{
+		uid: "10000198",
+		type: "ftbmoney:money",
+		ftb_money: 10L
+	}]
+}

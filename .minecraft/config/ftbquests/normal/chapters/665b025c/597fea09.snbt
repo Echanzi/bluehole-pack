@@ -1,0 +1,27 @@
+{
+	x: -6.5d,
+	y: 5.0d,
+	hide_dependency_lines: true,
+	dependencies: [
+		"4a18d7f7"
+	],
+	tasks: [{
+		uid: "b7f7498c",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {},
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "spartancompat:crossbow_zanite",
+			tag: {}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "984ac67b",
+		type: "ftbmoney:money",
+		ftb_money: 30L
+	}]
+}

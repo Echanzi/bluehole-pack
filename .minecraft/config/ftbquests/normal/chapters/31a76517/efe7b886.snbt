@@ -1,0 +1,20 @@
+{
+	title: "Chunk of WHAT?",
+	x: -1.0d,
+	y: -1.5d,
+	tasks: [{
+		uid: "a8584381",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "tropicraft:chunk"
+		}]
+	}],
+	rewards: [{
+		uid: "b100fc8a",
+		type: "ftbmoney:money",
+		ftb_money: 15L
+	}]
+}

@@ -1,0 +1,72 @@
+{
+	title: "Interspecial Profiling",
+	icon: {
+		ForgeCaps: {
+			"wizardryutils:summoneditemdata": {}
+		},
+		id: "divinerpg:zombie_pumpkin"
+	},
+	x: -1.5d,
+	y: -3.5d,
+	text: [
+		""
+	],
+	dependencies: [
+		"7c1d5409"
+	],
+	tasks: [{
+		uid: "8f72b51f",
+		type: "kill",
+		icon: {
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "minecraft:skull",
+			Damage: 2s
+		},
+		entity: "minecraft:zombie",
+		value: 1L
+	},
+	{
+		uid: "4771e6be",
+		type: "kill",
+		icon: {
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "minecraft:skull",
+			Damage: 4s
+		},
+		entity: "minecraft:creeper",
+		value: 1L
+	},
+	{
+		uid: "f51da334",
+		type: "kill",
+		icon: {
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "minecraft:skull"
+		},
+		entity: "minecraft:skeleton",
+		value: 1L
+	},
+	{
+		uid: "ad3338a1",
+		type: "kill",
+		icon: {
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "treasure2:spider_chest"
+		},
+		entity: "minecraft:spider",
+		value: 1L
+	}],
+	rewards: [{
+		uid: "78af630c",
+		type: "ftbmoney:money",
+		ftb_money: 30L
+	}]
+}

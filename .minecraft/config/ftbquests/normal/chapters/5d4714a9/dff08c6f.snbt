@@ -1,0 +1,27 @@
+{
+	x: 4.5d,
+	y: 3.0d,
+	dependencies: [
+		"c9e74046",
+		"26286312",
+		"d313dd3d",
+		"5ebf3119"
+	],
+	tasks: [{
+		uid: "de5dc745",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "vc:upgrades/item_upgrade_airship_balloon",
+			Damage: 5s
+		}],
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "9be84a76",
+		type: "ftbmoney:money",
+		ftb_money: 60L
+	}]
+}

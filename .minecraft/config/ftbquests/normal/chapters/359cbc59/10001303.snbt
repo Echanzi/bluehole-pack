@@ -1,0 +1,29 @@
+{
+	title: "Ender Dragon Girl",
+	icon: {
+		ForgeCaps: {
+			"wizardryutils:summoneditemdata": {}
+		},
+		id: "minecraft:spawn_egg",
+		tag: {
+			EntityTag: {
+				id: "grimoireofgaia:ender_dragon_girl"
+			}
+		}
+	},
+	disable_toast: true,
+	x: 13.0d,
+	y: 26.0d,
+	tasks: [{
+		uid: "10001304",
+		type: "observation",
+		match_type: "entity_id",
+		match: "grimoireofgaia:ender_dragon_girl",
+		timer: 0L
+	}],
+	rewards: [{
+		uid: "10001305",
+		type: "ftbmoney:money",
+		ftb_money: 10L
+	}]
+}

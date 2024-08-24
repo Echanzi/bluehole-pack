@@ -1,0 +1,22 @@
+{
+	title: "CliffsSmallMountain",
+	icon: {
+		ForgeCaps: {
+			"wizardryutils:summoneditemdata": {}
+		},
+		id: "minecraft:grass"
+	},
+	disable_toast: true,
+	x: 5.0d,
+	y: 6.0d,
+	tasks: [{
+		uid: "20001241",
+		type: "biome",
+		biome: "openterraingenerator:overworld_cliffssmallmountain"
+	}],
+	rewards: [{
+		uid: "20001242",
+		type: "ftbmoney:money",
+		ftb_money: 25L
+	}]
+}

@@ -1,0 +1,40 @@
+{
+	title: "I'M THE BIGGEST CHEST",
+	icon: {
+		ForgeCaps: {
+			"wizardryutils:summoneditemdata": {}
+		},
+		id: "colossalchests:colossal_chest"
+	},
+	x: -9.5d,
+	y: 3.5d,
+	dependencies: [
+		"2d35e996"
+	],
+	tasks: [{
+		uid: "6069b270",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "colossalchests:colossal_chest"
+		}]
+	},
+	{
+		uid: "16f9caf8",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "colossalchests:chest_wall"
+		}],
+		count: 3L
+	}],
+	rewards: [{
+		uid: "2eb0cbc1",
+		type: "ftbmoney:money",
+		ftb_money: 40L
+	}]
+}

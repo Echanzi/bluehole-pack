@@ -1,0 +1,33 @@
+{
+	title: "Olympic Splinter",
+	x: 1.0d,
+	y: -2.5d,
+	dependencies: [
+		"c8f3a510"
+	],
+	tasks: [{
+		uid: "3297bb11",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {},
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "spartanweaponry:javelin_wood",
+			tag: {
+				AmmoUsed: 0,
+				UUIDMost: -7891214388803449990L,
+				UUIDLeast: -6195450267623782647L,
+				enchChecked: 1b,
+				Original: 1b
+			}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "d2eb475a",
+		type: "ftbmoney:money",
+		ftb_money: 15L
+	}]
+}

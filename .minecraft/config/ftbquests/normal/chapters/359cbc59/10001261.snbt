@@ -1,0 +1,29 @@
+{
+	title: "Butler",
+	icon: {
+		ForgeCaps: {
+			"wizardryutils:summoneditemdata": {}
+		},
+		id: "minecraft:spawn_egg",
+		tag: {
+			EntityTag: {
+				id: "grimoireofgaia:butler"
+			}
+		}
+	},
+	disable_toast: true,
+	x: -1.0d,
+	y: 26.0d,
+	tasks: [{
+		uid: "10001262",
+		type: "observation",
+		match_type: "entity_id",
+		match: "grimoireofgaia:butler",
+		timer: 0L
+	}],
+	rewards: [{
+		uid: "10001263",
+		type: "ftbmoney:money",
+		ftb_money: 10L
+	}]
+}

@@ -1,0 +1,22 @@
+{
+	title: "Rainforest Plateau",
+	icon: {
+		ForgeCaps: {
+			"wizardryutils:summoneditemdata": {}
+		},
+		id: "minecraft:grass"
+	},
+	disable_toast: true,
+	x: 3.0d,
+	y: 13.0d,
+	tasks: [{
+		uid: "20001928",
+		type: "biome",
+		biome: "openterraingenerator:overworld_rainforest_plateau"
+	}],
+	rewards: [{
+		uid: "20001929",
+		type: "ftbmoney:money",
+		ftb_money: 25L
+	}]
+}

@@ -1,0 +1,26 @@
+{
+	title: "Find a Chiromaw Nest",
+	x: -2.5d,
+	y: 3.0d,
+	dependencies: [
+		"430d52be"
+	],
+	tasks: [{
+		uid: "7c67bf9a",
+		type: "observation",
+		icon: {
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "thebetweenlands:nesting_block_sticks"
+		},
+		match_type: "block_id",
+		match: "thebetweenlands:nesting_block_sticks",
+		timer: 0L
+	}],
+	rewards: [{
+		uid: "a1893c10",
+		type: "ftbmoney:money",
+		ftb_money: 30L
+	}]
+}

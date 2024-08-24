@@ -1,0 +1,22 @@
+{
+	title: "Torrid Wasteland",
+	icon: {
+		ForgeCaps: {
+			"wizardryutils:summoneditemdata": {}
+		},
+		id: "netherex:fiery_netherrack"
+	},
+	disable_toast: true,
+	x: -2.0d,
+	y: -5.0d,
+	tasks: [{
+		uid: "20000131",
+		type: "biome",
+		biome: "netherex:torrid_wasteland"
+	}],
+	rewards: [{
+		uid: "20000132",
+		type: "ftbmoney:money",
+		ftb_money: 25L
+	}]
+}

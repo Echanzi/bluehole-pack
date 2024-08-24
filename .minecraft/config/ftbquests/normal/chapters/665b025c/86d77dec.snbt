@@ -1,0 +1,26 @@
+{
+	title: "Now this is a Sword",
+	x: -3.5d,
+	y: 0.5d,
+	dependencies: [
+		"c8f3a510"
+	],
+	tasks: [{
+		uid: "97ff52dd",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {},
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "spartanweaponry:longsword_wood"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "c71f219c",
+		type: "ftbmoney:money",
+		ftb_money: 15L
+	}]
+}

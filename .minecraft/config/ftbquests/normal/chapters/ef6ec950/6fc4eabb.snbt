@@ -1,0 +1,53 @@
+{
+	title: "Wasteful Thinking",
+	x: 4.0d,
+	y: -1.0d,
+	text: [
+		"Bringing torches, foods, or potions from other Dimensions will transform them into useless spoiled variants."
+	],
+	dependencies: [
+		"62380a69"
+	],
+	tasks: [{
+		uid: "86984854",
+		type: "item",
+		disable_toast: true,
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "thebetweenlands:rotten_food"
+		}],
+		ignore_nbt: 1b
+	},
+	{
+		uid: "04616ad8",
+		type: "item",
+		disable_toast: true,
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "thebetweenlands:damp_torch"
+		}]
+	},
+	{
+		uid: "91598a62",
+		type: "item",
+		disable_toast: true,
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {},
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "thebetweenlands:tainted_potion"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "fd87a276",
+		type: "ftbmoney:money",
+		ftb_money: 15L
+	}]
+}

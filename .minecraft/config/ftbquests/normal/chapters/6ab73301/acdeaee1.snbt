@@ -1,0 +1,26 @@
+{
+	title: "Maybe this will catch that stupid bird...",
+	x: 6.0d,
+	y: 2.0d,
+	text: [
+		"Grants access to the Anvil in the Shop"
+	],
+	dependencies: [
+		"2288cb92"
+	],
+	tasks: [{
+		uid: "e9d855b1",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "minecraft:anvil"
+		}]
+	}],
+	rewards: [{
+		uid: "348c3a8d",
+		type: "ftbmoney:money",
+		ftb_money: 45L
+	}]
+}

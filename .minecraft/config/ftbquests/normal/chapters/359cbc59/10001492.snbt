@@ -1,0 +1,29 @@
+{
+	title: "Myrmex Queen",
+	icon: {
+		ForgeCaps: {
+			"wizardryutils:summoneditemdata": {}
+		},
+		id: "minecraft:spawn_egg",
+		tag: {
+			EntityTag: {
+				id: "iceandfire:myrmex_queen"
+			}
+		}
+	},
+	disable_toast: true,
+	x: 10.0d,
+	y: 28.0d,
+	tasks: [{
+		uid: "10001493",
+		type: "observation",
+		match_type: "entity_id",
+		match: "iceandfire:myrmex_queen",
+		timer: 0L
+	}],
+	rewards: [{
+		uid: "10001494",
+		type: "ftbmoney:money",
+		ftb_money: 10L
+	}]
+}

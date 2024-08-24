@@ -1,0 +1,19 @@
+{
+	x: -11.5d,
+	y: -9.5d,
+	tasks: [{
+		uid: "bec0bc62",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "iceandfire:dragon_meal"
+		}]
+	}],
+	rewards: [{
+		uid: "78a01bea",
+		type: "ftbmoney:money",
+		ftb_money: 20L
+	}]
+}

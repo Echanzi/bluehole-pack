@@ -1,0 +1,163 @@
+{
+	title: "Brewing III",
+	x: 12.0d,
+	y: -3.0d,
+	dependencies: [
+		"bb4c8a27"
+	],
+	tasks: [{
+		uid: "1d814934",
+		type: "item",
+		disable_toast: true,
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "minecraft:potion",
+			tag: {
+				Potion: "quark:haste"
+			}
+		}],
+		ignore_damage: true
+	},
+	{
+		uid: "3b3d3547",
+		type: "item",
+		disable_toast: true,
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "minecraft:potion",
+			tag: {
+				Potion: "quark:mining_fatigue"
+			}
+		}],
+		ignore_damage: true
+	},
+	{
+		uid: "3ff45c16",
+		type: "item",
+		disable_toast: true,
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "minecraft:potion",
+			tag: {
+				Potion: "quark:resistance"
+			}
+		}],
+		ignore_damage: true
+	},
+	{
+		uid: "56430577",
+		type: "item",
+		disable_toast: true,
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "minecraft:potion",
+			tag: {
+				Potion: "quark:danger_sight"
+			}
+		}],
+		ignore_damage: true
+	},
+	{
+		uid: "cc6a42ed",
+		type: "item",
+		disable_toast: true,
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "minecraft:potion",
+			tag: {
+				Potion: "quark:resilience"
+			}
+		}],
+		ignore_damage: true
+	},
+	{
+		uid: "ac1de129",
+		type: "item",
+		disable_toast: true,
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "minecraft:potion",
+			tag: {
+				Potion: "netherex:freezing"
+			}
+		}],
+		ignore_damage: true
+	},
+	{
+		uid: "0e329c42",
+		type: "item",
+		disable_toast: true,
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "minecraft:potion",
+			tag: {
+				Potion: "netherex:frigid_health"
+			}
+		}],
+		ignore_damage: true
+	},
+	{
+		uid: "92d3d7eb",
+		type: "item",
+		disable_toast: true,
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "minecraft:potion",
+			tag: {
+				Potion: "netherex:dispersal"
+			}
+		}],
+		ignore_damage: true
+	},
+	{
+		uid: "3c3b6f05",
+		type: "item",
+		disable_toast: true,
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "minecraft:potion",
+			tag: {
+				Potion: "netherex:sorrow"
+			}
+		}],
+		ignore_damage: true
+	},
+	{
+		uid: "1314517d",
+		type: "item",
+		disable_toast: true,
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "minecraft:potion",
+			tag: {
+				Potion: "mowziesmobs:poison_resist"
+			}
+		}],
+		ignore_damage: true
+	}],
+	rewards: [{
+		uid: "2eac6a09",
+		type: "ftbmoney:money",
+		ftb_money: 150L
+	}]
+}

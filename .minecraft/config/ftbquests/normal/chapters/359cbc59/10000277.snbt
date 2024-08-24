@@ -1,0 +1,29 @@
+{
+	title: "Tarminion",
+	icon: {
+		ForgeCaps: {
+			"wizardryutils:summoneditemdata": {}
+		},
+		id: "minecraft:spawn_egg",
+		tag: {
+			EntityTag: {
+				id: "thebetweenlands:tarminion"
+			}
+		}
+	},
+	disable_toast: true,
+	x: 1.0d,
+	y: 16.0d,
+	tasks: [{
+		uid: "10000278",
+		type: "observation",
+		match_type: "entity_id",
+		match: "thebetweenlands:tarminion",
+		timer: 0L
+	}],
+	rewards: [{
+		uid: "10000279",
+		type: "ftbmoney:money",
+		ftb_money: 10L
+	}]
+}

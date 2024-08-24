@@ -1,0 +1,21 @@
+{
+	title: "Soyboy Delight",
+	x: -12.5d,
+	y: -2.5d,
+	text: [
+		"You don't gain anything from making this, unless you count breast mass."
+	],
+	dependencies: [
+		"21120999"
+	],
+	tasks: [{
+		uid: "4e038ec2",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "harvestcraft:soymilkitem"
+		}]
+	}]
+}

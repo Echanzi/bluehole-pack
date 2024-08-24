@@ -1,0 +1,22 @@
+{
+	x: 16.5d,
+	y: -1.5d,
+	tasks: [{
+		uid: "d87fbaf6",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {},
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "thebetweenlands:critter_cruncher"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "4ea04a85",
+		type: "ftbmoney:money",
+		ftb_money: 25L
+	}]
+}

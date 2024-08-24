@@ -1,0 +1,29 @@
+{
+	title: "Ghastling",
+	icon: {
+		ForgeCaps: {
+			"wizardryutils:summoneditemdata": {}
+		},
+		id: "minecraft:spawn_egg",
+		tag: {
+			EntityTag: {
+				id: "netherex:ghastling"
+			}
+		}
+	},
+	disable_toast: true,
+	x: 7.0d,
+	y: 29.0d,
+	tasks: [{
+		uid: "10001583",
+		type: "observation",
+		match_type: "entity_id",
+		match: "netherex:ghastling",
+		timer: 0L
+	}],
+	rewards: [{
+		uid: "10001584",
+		type: "ftbmoney:money",
+		ftb_money: 10L
+	}]
+}

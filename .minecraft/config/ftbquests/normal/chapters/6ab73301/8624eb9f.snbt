@@ -1,0 +1,26 @@
+{
+	title: "Didn't even need to slay a Goblin Horde!",
+	x: 6.0d,
+	y: 3.5d,
+	text: [
+		"Reforges Artifacts and Baubles Using XP"
+	],
+	dependencies: [
+		"acdeaee1"
+	],
+	tasks: [{
+		uid: "9ced22f4",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "bountifulbaubles:reforger"
+		}]
+	}],
+	rewards: [{
+		uid: "03b875d4",
+		type: "ftbmoney:money",
+		ftb_money: 50L
+	}]
+}

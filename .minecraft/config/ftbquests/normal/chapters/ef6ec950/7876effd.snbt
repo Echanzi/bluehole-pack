@@ -1,0 +1,25 @@
+{
+	x: -1.5d,
+	y: 4.0d,
+	dependencies: [
+		"55608feb"
+	],
+	tasks: [{
+		uid: "8a25dd12",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {},
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "thebetweenlands:grappling_hook"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "40b7162d",
+		type: "ftbmoney:money",
+		ftb_money: 15L
+	}]
+}

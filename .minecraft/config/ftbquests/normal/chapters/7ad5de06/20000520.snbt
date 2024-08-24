@@ -1,0 +1,22 @@
+{
+	title: "Mangrove",
+	icon: {
+		ForgeCaps: {
+			"wizardryutils:summoneditemdata": {}
+		},
+		id: "biomesoplenty:mud"
+	},
+	disable_toast: true,
+	x: -4.0d,
+	y: -1.0d,
+	tasks: [{
+		uid: "20000521",
+		type: "biome",
+		biome: "biomesoplenty:mangrove"
+	}],
+	rewards: [{
+		uid: "20000522",
+		type: "ftbmoney:money",
+		ftb_money: 25L
+	}]
+}

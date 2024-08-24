@@ -1,0 +1,26 @@
+{
+	x: 14.0d,
+	y: 0.0d,
+	hide_dependency_lines: true,
+	dependencies: [
+		"86d77dec"
+	],
+	tasks: [{
+		uid: "37809ffb",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {},
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "spartanlands:longsword_octine"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "7e9a7fdf",
+		type: "ftbmoney:money",
+		ftb_money: 30L
+	}]
+}

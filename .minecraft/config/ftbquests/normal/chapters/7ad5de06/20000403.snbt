@@ -1,0 +1,22 @@
+{
+	title: "Origin Island",
+	icon: {
+		ForgeCaps: {
+			"wizardryutils:summoneditemdata": {}
+		},
+		id: "biomesoplenty:grass"
+	},
+	disable_toast: true,
+	x: -10.0d,
+	y: -2.0d,
+	tasks: [{
+		uid: "20000404",
+		type: "biome",
+		biome: "biomesoplenty:origin_island"
+	}],
+	rewards: [{
+		uid: "20000405",
+		type: "ftbmoney:money",
+		ftb_money: 25L
+	}]
+}

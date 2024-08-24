@@ -1,0 +1,61 @@
+{
+	title: "Arby's©",
+	x: 1.0d,
+	y: -2.0d,
+	text: [
+		"Grants access to Cooked Steak in the Shop"
+	],
+	dependencies: [
+		"263edc16",
+		"31218828"
+	],
+	tasks: [{
+		uid: "3fca2d3e",
+		type: "item",
+		disable_toast: true,
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "minecraft:cooked_porkchop"
+		}]
+	},
+	{
+		uid: "fda2ec1e",
+		type: "item",
+		disable_toast: true,
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "minecraft:cooked_chicken"
+		}]
+	},
+	{
+		uid: "4a73200b",
+		type: "item",
+		disable_toast: true,
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "minecraft:cooked_beef"
+		}]
+	},
+	{
+		uid: "20b4fe78",
+		type: "item",
+		disable_toast: true,
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "minecraft:cooked_mutton"
+		}]
+	}],
+	rewards: [{
+		uid: "b813b660",
+		type: "ftbmoney:money",
+		ftb_money: 30L
+	}]
+}

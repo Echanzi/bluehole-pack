@@ -1,0 +1,22 @@
+{
+	title: "Extreme Hills+",
+	icon: {
+		ForgeCaps: {
+			"wizardryutils:summoneditemdata": {}
+		},
+		id: "minecraft:grass"
+	},
+	disable_toast: true,
+	x: -7.0d,
+	y: 8.0d,
+	tasks: [{
+		uid: "20001403",
+		type: "biome",
+		biome: "openterraingenerator:overworld_extreme_hills_"
+	}],
+	rewards: [{
+		uid: "20001404",
+		type: "ftbmoney:money",
+		ftb_money: 25L
+	}]
+}

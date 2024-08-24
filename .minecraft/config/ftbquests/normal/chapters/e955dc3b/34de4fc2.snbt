@@ -1,0 +1,29 @@
+{
+	title: "Book of Life",
+	x: 3.5d,
+	y: 0.5d,
+	text: [
+		"Fish up a Enchanted Book with the Living Enchantment"
+	],
+	tasks: [{
+		uid: "1260c2d9",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "minecraft:enchanted_book",
+			tag: {
+				StoredEnchantments: [{
+					lvl: 1s,
+					id: 52s
+				}]
+			}
+		}]
+	}],
+	rewards: [{
+		uid: "3a70b44a",
+		type: "ftbmoney:money",
+		ftb_money: 350L
+	}]
+}

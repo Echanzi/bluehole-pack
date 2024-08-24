@@ -1,0 +1,29 @@
+{
+	title: "Ghost",
+	icon: {
+		ForgeCaps: {
+			"wizardryutils:summoneditemdata": {}
+		},
+		id: "minecraft:spawn_egg",
+		tag: {
+			EntityTag: {
+				id: "ancientbeasts:ghost"
+			}
+		}
+	},
+	disable_toast: true,
+	x: -12.0d,
+	y: 14.0d,
+	tasks: [{
+		uid: "10000041",
+		type: "observation",
+		match_type: "entity_id",
+		match: "ancientbeasts:ghost",
+		timer: 0L
+	}],
+	rewards: [{
+		uid: "10000042",
+		type: "ftbmoney:money",
+		ftb_money: 10L
+	}]
+}

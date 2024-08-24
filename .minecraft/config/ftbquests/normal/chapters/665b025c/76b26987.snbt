@@ -1,0 +1,33 @@
+{
+	x: -11.5d,
+	y: 1.0d,
+	hide_dependency_lines: true,
+	dependencies: [
+		"d19cf0d7"
+	],
+	tasks: [{
+		uid: "e2d0017f",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {},
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "spartanlands:boomerang_weedwood",
+			tag: {
+				AmmoUsed: 0,
+				UUIDMost: -7001488715062820514L,
+				UUIDLeast: -7631812395642845848L,
+				enchChecked: 1b,
+				Original: 1b
+			}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "0a9849d5",
+		type: "ftbmoney:money",
+		ftb_money: 20L
+	}]
+}

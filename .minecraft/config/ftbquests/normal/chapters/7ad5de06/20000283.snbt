@@ -1,0 +1,22 @@
+{
+	title: "Swampland",
+	icon: {
+		ForgeCaps: {
+			"wizardryutils:summoneditemdata": {}
+		},
+		id: "minecraft:grass"
+	},
+	disable_toast: true,
+	x: 16.0d,
+	y: -4.0d,
+	tasks: [{
+		uid: "20000284",
+		type: "biome",
+		biome: "minecraft:swampland"
+	}],
+	rewards: [{
+		uid: "20000285",
+		type: "ftbmoney:money",
+		ftb_money: 25L
+	}]
+}

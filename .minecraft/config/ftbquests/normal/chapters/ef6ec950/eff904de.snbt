@@ -1,0 +1,25 @@
+{
+	x: -1.5d,
+	y: 7.0d,
+	dependencies: [
+		"977a9264"
+	],
+	tasks: [{
+		uid: "90a7f66b",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {},
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "spartanlands:caestus_lurker"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "875c6d18",
+		type: "ftbmoney:money",
+		ftb_money: 15L
+	}]
+}

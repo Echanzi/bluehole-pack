@@ -1,0 +1,22 @@
+{
+	title: "JungleMountainPeak",
+	icon: {
+		ForgeCaps: {
+			"wizardryutils:summoneditemdata": {}
+		},
+		id: "minecraft:grass"
+	},
+	disable_toast: true,
+	x: -3.0d,
+	y: 9.0d,
+	tasks: [{
+		uid: "20001514",
+		type: "biome",
+		biome: "openterraingenerator:overworld_junglemountainpeak"
+	}],
+	rewards: [{
+		uid: "20001515",
+		type: "ftbmoney:money",
+		ftb_money: 25L
+	}]
+}

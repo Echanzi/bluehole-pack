@@ -1,0 +1,26 @@
+{
+	title: "Let me do it for you",
+	x: 2.0d,
+	y: -0.5d,
+	dependencies: [
+		"c8f3a510"
+	],
+	tasks: [{
+		uid: "4506b2a3",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {},
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "spartanweaponry:lance_wood"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "d5274bfd",
+		type: "ftbmoney:money",
+		ftb_money: 15L
+	}]
+}

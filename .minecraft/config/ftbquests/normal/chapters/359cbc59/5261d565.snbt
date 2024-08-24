@@ -1,0 +1,24 @@
+{
+	title: "Hay Golem",
+	disable_toast: true,
+	x: -6.0d,
+	y: 36.0d,
+	tasks: [{
+		uid: "61869517",
+		type: "observation",
+		icon: {
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "minecraft:hay_block"
+		},
+		match_type: "entity_id",
+		match: "golems:golem_straw",
+		timer: 0L
+	}],
+	rewards: [{
+		uid: "0a675606",
+		type: "ftbmoney:money",
+		ftb_money: 10L
+	}]
+}

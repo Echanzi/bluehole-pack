@@ -1,0 +1,22 @@
+{
+	title: "Savanna M",
+	icon: {
+		ForgeCaps: {
+			"wizardryutils:summoneditemdata": {}
+		},
+		id: "minecraft:grass"
+	},
+	disable_toast: true,
+	x: -3.0d,
+	y: -2.0d,
+	tasks: [{
+		uid: "20000425",
+		type: "biome",
+		biome: "minecraft:mutated_savanna"
+	}],
+	rewards: [{
+		uid: "20000426",
+		type: "ftbmoney:money",
+		ftb_money: 25L
+	}]
+}

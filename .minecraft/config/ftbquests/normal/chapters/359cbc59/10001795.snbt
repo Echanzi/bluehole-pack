@@ -1,0 +1,29 @@
+{
+	title: "Giant Skeleton",
+	icon: {
+		ForgeCaps: {
+			"wizardryutils:summoneditemdata": {}
+		},
+		id: "minecraft:spawn_egg",
+		tag: {
+			EntityTag: {
+				id: "specialmobs:giantskeleton"
+			}
+		}
+	},
+	disable_toast: true,
+	x: 12.0d,
+	y: 31.0d,
+	tasks: [{
+		uid: "10001796",
+		type: "observation",
+		match_type: "entity_id",
+		match: "specialmobs:giantskeleton",
+		timer: 0L
+	}],
+	rewards: [{
+		uid: "10001797",
+		type: "ftbmoney:money",
+		ftb_money: 10L
+	}]
+}

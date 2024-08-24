@@ -1,0 +1,24 @@
+{
+	title: "Leaf Golem",
+	disable_toast: true,
+	x: -7.0d,
+	y: 37.0d,
+	tasks: [{
+		uid: "6c0fd9d8",
+		type: "observation",
+		icon: {
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "minecraft:leaves"
+		},
+		match_type: "entity_id",
+		match: "golems:golem_leaves",
+		timer: 0L
+	}],
+	rewards: [{
+		uid: "da9b3efa",
+		type: "ftbmoney:money",
+		ftb_money: 10L
+	}]
+}

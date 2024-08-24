@@ -1,0 +1,24 @@
+{
+	title: "American Bison",
+	disable_toast: true,
+	x: 15.0d,
+	y: 35.0d,
+	tasks: [{
+		uid: "1d888344",
+		type: "observation",
+		icon: {
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "zawa:american_bison"
+		},
+		match_type: "entity_id",
+		match: "zawa:americanbison",
+		timer: 0L
+	}],
+	rewards: [{
+		uid: "8f43b2ef",
+		type: "ftbmoney:money",
+		ftb_money: 10L
+	}]
+}

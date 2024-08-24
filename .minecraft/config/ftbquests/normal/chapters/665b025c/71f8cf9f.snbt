@@ -1,0 +1,33 @@
+{
+	x: -2.5d,
+	y: 16.0d,
+	hide_dependency_lines: true,
+	dependencies: [
+		"0c5cc95e"
+	],
+	tasks: [{
+		uid: "cc1848f2",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {},
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "spartantwilight:throwing_axe_steeleaf",
+			tag: {
+				AmmoUsed: 0,
+				UUIDMost: -3018162706906922076L,
+				UUIDLeast: -8835604759752151422L,
+				enchChecked: 1b,
+				Original: 1b
+			}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "96c046f7",
+		type: "ftbmoney:money",
+		ftb_money: 35L
+	}]
+}

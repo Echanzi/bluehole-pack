@@ -1,0 +1,22 @@
+{
+	title: "AlpsEdge",
+	icon: {
+		ForgeCaps: {
+			"wizardryutils:summoneditemdata": {}
+		},
+		id: "minecraft:grass"
+	},
+	disable_toast: true,
+	x: -1.0d,
+	y: 2.0d,
+	tasks: [{
+		uid: "20000827",
+		type: "biome",
+		biome: "openterraingenerator:overworld_alpsedge"
+	}],
+	rewards: [{
+		uid: "20000828",
+		type: "ftbmoney:money",
+		ftb_money: 25L
+	}]
+}

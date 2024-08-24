@@ -1,0 +1,27 @@
+{
+	title: "Bigger is Better",
+	x: -0.5d,
+	y: -7.5d,
+	description: "At least, thats what she told me.",
+	dependencies: [
+		"a7f000eb"
+	],
+	tasks: [{
+		uid: "fbb95e01",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {},
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "spartanweaponry:longbow_wood"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "73b388eb",
+		type: "ftbmoney:money",
+		ftb_money: 20L
+	}]
+}

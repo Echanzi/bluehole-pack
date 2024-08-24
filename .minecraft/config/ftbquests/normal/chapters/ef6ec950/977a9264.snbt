@@ -1,0 +1,23 @@
+{
+	title: "Bog Croc",
+	x: 0.0d,
+	y: 6.0d,
+	tasks: [{
+		uid: "98804485",
+		type: "kill",
+		icon: {
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "thebetweenlands:items_misc",
+			Damage: 4s
+		},
+		entity: "thebetweenlands:lurker",
+		value: 1L
+	}],
+	rewards: [{
+		uid: "ee120bdf",
+		type: "ftbmoney:money",
+		ftb_money: 15L
+	}]
+}

@@ -1,0 +1,26 @@
+{
+	title: "The Block Chain",
+	x: 6.0d,
+	y: -2.0d,
+	dependencies: [
+		"3c724d2e"
+	],
+	tasks: [{
+		uid: "3af0f7a4",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {},
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "twilightforest:block_and_chain"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "440d8c1c",
+		type: "ftbmoney:money",
+		ftb_money: 100L
+	}]
+}

@@ -1,0 +1,24 @@
+{
+	title: "Bald Eagle",
+	disable_toast: true,
+	x: 16.0d,
+	y: 35.0d,
+	tasks: [{
+		uid: "4bd6ab5a",
+		type: "observation",
+		icon: {
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "zawa:bald_eagle"
+		},
+		match_type: "entity_id",
+		match: "zawa:baldeagle",
+		timer: 0L
+	}],
+	rewards: [{
+		uid: "ed0b4110",
+		type: "ftbmoney:money",
+		ftb_money: 10L
+	}]
+}

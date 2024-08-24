@@ -1,0 +1,82 @@
+{
+	title: "Crisps",
+	icon: {
+		ForgeCaps: {
+			"wizardryutils:summoneditemdata": {}
+		},
+		id: "harvestcraft:cornchipsitem"
+	},
+	x: 1.0d,
+	y: -4.5d,
+	tasks: [{
+		uid: "130df3cc",
+		type: "item",
+		disable_toast: true,
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "harvestcraft:potatochipsitem"
+		}]
+	},
+	{
+		uid: "b1fa1b45",
+		type: "item",
+		disable_toast: true,
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "harvestcraft:bbqpotatochipsitem"
+		}]
+	},
+	{
+		uid: "f4238562",
+		type: "item",
+		disable_toast: true,
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "harvestcraft:sourcreamandonionpotatochipsitem"
+		}]
+	},
+	{
+		uid: "f5351b18",
+		type: "item",
+		disable_toast: true,
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "harvestcraft:cheddarandsourcreampotatochipsitem"
+		}]
+	},
+	{
+		uid: "b4738500",
+		type: "item",
+		disable_toast: true,
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "harvestcraft:tortillachipsitem"
+		}]
+	},
+	{
+		uid: "091da7ee",
+		type: "item",
+		disable_toast: true,
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "harvestcraft:cornchipsitem"
+		}]
+	}],
+	rewards: [{
+		uid: "c634690c",
+		type: "ftbmoney:money",
+		ftb_money: 75L
+	}]
+}

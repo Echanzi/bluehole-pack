@@ -1,0 +1,24 @@
+{
+	title: "Bone Golem",
+	disable_toast: true,
+	x: 9.0d,
+	y: 36.0d,
+	tasks: [{
+		uid: "44826775",
+		type: "observation",
+		icon: {
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "minecraft:bone_block"
+		},
+		match_type: "entity_id",
+		match: "golems:golem_bone",
+		timer: 0L
+	}],
+	rewards: [{
+		uid: "21289383",
+		type: "ftbmoney:money",
+		ftb_money: 10L
+	}]
+}

@@ -1,0 +1,24 @@
+{
+	disable_toast: true,
+	x: 5.5d,
+	y: -2.5d,
+	can_repeat: true,
+	tasks: [{
+		uid: "adb74ca9",
+		type: "kill",
+		icon: {
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {},
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "mutantbeasts:endersoul_hand"
+		},
+		entity: "mutantbeasts:mutant_enderman",
+		value: 1L
+	}],
+	rewards: [{
+		uid: "a036f0f1",
+		type: "ftbmoney:money",
+		ftb_money: 175L
+	}]
+}

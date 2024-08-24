@@ -1,0 +1,24 @@
+{
+	title: "Sandstone",
+	disable_toast: true,
+	x: 0.0d,
+	y: 36.0d,
+	tasks: [{
+		uid: "55536d47",
+		type: "observation",
+		icon: {
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "minecraft:sandstone"
+		},
+		match_type: "entity_id",
+		match: "golems:golem_sandstone",
+		timer: 0L
+	}],
+	rewards: [{
+		uid: "b9b2f9a1",
+		type: "ftbmoney:money",
+		ftb_money: 10L
+	}]
+}

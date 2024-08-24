@@ -1,0 +1,46 @@
+{
+	title: "do NOT under any circumstance give this to Wallace",
+	x: -2.0d,
+	y: 2.5d,
+	dependencies: [
+		"a33e7cda"
+	],
+	tasks: [{
+		uid: "ab6ef2e4",
+		type: "item",
+		disable_toast: true,
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "harvestcraft:cheeseitem"
+		}]
+	},
+	{
+		uid: "5d5b624d",
+		type: "item",
+		disable_toast: true,
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "rats:cheese"
+		}]
+	},
+	{
+		uid: "69446b7a",
+		type: "item",
+		disable_toast: true,
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "divinerpg:cheese"
+		}]
+	}],
+	rewards: [{
+		uid: "bcbf9ddb",
+		type: "ftbmoney:money",
+		ftb_money: 30L
+	}]
+}

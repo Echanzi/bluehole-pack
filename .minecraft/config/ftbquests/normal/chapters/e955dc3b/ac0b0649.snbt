@@ -1,0 +1,26 @@
+{
+	title: "I will create an army",
+	x: 1.5d,
+	y: -3.5d,
+	tasks: [{
+		uid: "39a7fd2f",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "claysoldiers:doll_soldier",
+			tag: {
+				dollSoldier: {
+					team: "ca383b5d-ddaf-4523-9001-5a5685ef5fba"
+				}
+			}
+		}],
+		count: 500L
+	}],
+	rewards: [{
+		uid: "5ef53cdc",
+		type: "ftbmoney:money",
+		ftb_money: 250L
+	}]
+}

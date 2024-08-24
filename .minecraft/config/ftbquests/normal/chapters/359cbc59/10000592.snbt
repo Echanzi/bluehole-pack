@@ -1,0 +1,29 @@
+{
+	title: "Saguaro Worm",
+	icon: {
+		ForgeCaps: {
+			"wizardryutils:summoneditemdata": {}
+		},
+		id: "minecraft:spawn_egg",
+		tag: {
+			EntityTag: {
+				id: "divinerpg:saguaro_worm"
+			}
+		}
+	},
+	disable_toast: true,
+	x: 7.0d,
+	y: 19.0d,
+	tasks: [{
+		uid: "10000593",
+		type: "observation",
+		match_type: "entity_id",
+		match: "divinerpg:saguaro_worm",
+		timer: 0L
+	}],
+	rewards: [{
+		uid: "10000594",
+		type: "ftbmoney:money",
+		ftb_money: 10L
+	}]
+}

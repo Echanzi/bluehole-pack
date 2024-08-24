@@ -1,0 +1,24 @@
+{
+	title: "Tasmanian Devil",
+	disable_toast: true,
+	x: 14.0d,
+	y: 35.0d,
+	tasks: [{
+		uid: "e0f31740",
+		type: "observation",
+		icon: {
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "zawa:tasmanian_devil"
+		},
+		match_type: "entity_id",
+		match: "zawa:tasmaniandevil",
+		timer: 0L
+	}],
+	rewards: [{
+		uid: "95cac76e",
+		type: "ftbmoney:money",
+		ftb_money: 10L
+	}]
+}

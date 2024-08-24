@@ -1,0 +1,29 @@
+{
+	title: "Flying Cow",
+	icon: {
+		ForgeCaps: {
+			"wizardryutils:summoneditemdata": {}
+		},
+		id: "minecraft:spawn_egg",
+		tag: {
+			EntityTag: {
+				id: "aether_legacy:flying_cow"
+			}
+		}
+	},
+	disable_toast: true,
+	x: 4.0d,
+	y: 30.0d,
+	tasks: [{
+		uid: "10001673",
+		type: "observation",
+		match_type: "entity_id",
+		match: "aether_legacy:flying_cow",
+		timer: 0L
+	}],
+	rewards: [{
+		uid: "10001674",
+		type: "ftbmoney:money",
+		ftb_money: 10L
+	}]
+}

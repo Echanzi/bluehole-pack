@@ -1,0 +1,23 @@
+{
+	title: "The Brand New Burger King Burger",
+	x: -2.0d,
+	y: -7.5d,
+	text: [
+		"This burger is better than sex. You can fuck this burger. Only at Burger King You can stick your dick in this burger. Your balls will explode guaranteed. You can cum inside outside and all over the new Burger King Burgers."
+	],
+	tasks: [{
+		uid: "6c7e7c43",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "harvestcraft:gourmetbeefburgeritem"
+		}]
+	}],
+	rewards: [{
+		uid: "d9f12bc5",
+		type: "ftbmoney:money",
+		ftb_money: 69L
+	}]
+}

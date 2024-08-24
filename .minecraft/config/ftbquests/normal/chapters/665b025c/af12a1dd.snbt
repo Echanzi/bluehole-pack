@@ -1,0 +1,33 @@
+{
+	x: -2.5d,
+	y: 15.0d,
+	hide_dependency_lines: true,
+	dependencies: [
+		"0c5cc95e"
+	],
+	tasks: [{
+		uid: "7d5f0b8e",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {},
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "spartantwilight:throwing_axe_fiery",
+			tag: {
+				AmmoUsed: 0,
+				UUIDMost: 4780475740339719289L,
+				UUIDLeast: -7955455149910639704L,
+				enchChecked: 1b,
+				Original: 1b
+			}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "f6cd0962",
+		type: "ftbmoney:money",
+		ftb_money: 40L
+	}]
+}

@@ -1,0 +1,25 @@
+{
+	x: 12.0d,
+	y: 7.5d,
+	dependencies: [
+		"a9349f43"
+	],
+	tasks: [{
+		uid: "4a644204",
+		type: "kill",
+		icon: {
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {},
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "thebetweenlands:rune_door_key"
+		},
+		entity: "thebetweenlands:barrishee",
+		value: 1L
+	}],
+	rewards: [{
+		uid: "00538859",
+		type: "ftbmoney:money",
+		ftb_money: 75L
+	}]
+}

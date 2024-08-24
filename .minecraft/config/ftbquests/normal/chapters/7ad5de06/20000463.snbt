@@ -1,0 +1,22 @@
+{
+	title: "Sludge Plains Clearing",
+	icon: {
+		ForgeCaps: {
+			"wizardryutils:summoneditemdata": {}
+		},
+		id: "thebetweenlands:compacted_mud"
+	},
+	disable_toast: true,
+	x: 10.0d,
+	y: -2.0d,
+	tasks: [{
+		uid: "20000464",
+		type: "biome",
+		biome: "thebetweenlands:sludge_plains_clearing"
+	}],
+	rewards: [{
+		uid: "20000465",
+		type: "ftbmoney:money",
+		ftb_money: 25L
+	}]
+}

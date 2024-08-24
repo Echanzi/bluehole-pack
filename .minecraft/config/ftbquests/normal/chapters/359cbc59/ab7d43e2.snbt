@@ -1,0 +1,24 @@
+{
+	title: "Concrete Golem",
+	disable_toast: true,
+	x: 5.0d,
+	y: 36.0d,
+	tasks: [{
+		uid: "e28c17c2",
+		type: "observation",
+		icon: {
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "minecraft:concrete"
+		},
+		match_type: "entity_id",
+		match: "golems:golem_concrete",
+		timer: 0L
+	}],
+	rewards: [{
+		uid: "9f1f7d93",
+		type: "ftbmoney:money",
+		ftb_money: 10L
+	}]
+}

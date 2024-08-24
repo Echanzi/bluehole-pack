@@ -1,0 +1,84 @@
+{
+	title: "Sophisticated Machinery ",
+	x: 16.5d,
+	y: 9.0d,
+	description: "Now all we need is a sheep...",
+	dependencies: [
+		"b65add6c"
+	],
+	tasks: [{
+		uid: "1492ba79",
+		type: "item",
+		disable_toast: true,
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "minecraft:end_rod"
+		}]
+	},
+	{
+		uid: "cab9efe4",
+		type: "item",
+		disable_toast: true,
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "minecraft:sticky_piston"
+		}]
+	},
+	{
+		uid: "b143d6b7",
+		type: "item",
+		disable_toast: true,
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "minecraft:redstone_torch"
+		}]
+	},
+	{
+		uid: "eeed5c6c",
+		type: "item",
+		disable_toast: true,
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "minecraft:redstone"
+		}],
+		count: 5L
+	},
+	{
+		uid: "bf13a61a",
+		type: "item",
+		disable_toast: true,
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "minecraft:repeater"
+		}]
+	},
+	{
+		uid: "0fddba34",
+		type: "item",
+		disable_toast: true,
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {},
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "minecraft:boat"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "5e6a3cf8",
+		type: "ftbmoney:money",
+		ftb_money: 50L
+	}]
+}

@@ -1,0 +1,24 @@
+{
+	title: "Grizzly Bear",
+	disable_toast: true,
+	x: -9.0d,
+	y: 36.0d,
+	tasks: [{
+		uid: "36449366",
+		type: "observation",
+		icon: {
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "zawa:grizzly_bear"
+		},
+		match_type: "entity_id",
+		match: "zawa:grizzlybear",
+		timer: 0L
+	}],
+	rewards: [{
+		uid: "d9af1c8c",
+		type: "ftbmoney:money",
+		ftb_money: 10L
+	}]
+}

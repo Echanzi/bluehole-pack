@@ -1,0 +1,26 @@
+{
+	x: -9.0d,
+	y: 2.0d,
+	hide_dependency_lines: true,
+	dependencies: [
+		"797af156"
+	],
+	tasks: [{
+		uid: "532c1301",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {},
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "spartantwilight:longbow_steeleaf"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "ccf337ea",
+		type: "ftbmoney:money",
+		ftb_money: 35L
+	}]
+}

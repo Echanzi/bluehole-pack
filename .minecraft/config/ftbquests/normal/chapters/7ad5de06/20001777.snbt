@@ -1,0 +1,22 @@
+{
+	title: "RedMountain",
+	icon: {
+		ForgeCaps: {
+			"wizardryutils:summoneditemdata": {}
+		},
+		id: "minecraft:grass"
+	},
+	disable_toast: true,
+	x: 19.0d,
+	y: 11.0d,
+	tasks: [{
+		uid: "20001778",
+		type: "biome",
+		biome: "openterraingenerator:overworld_redmountain"
+	}],
+	rewards: [{
+		uid: "20001779",
+		type: "ftbmoney:money",
+		ftb_money: 25L
+	}]
+}

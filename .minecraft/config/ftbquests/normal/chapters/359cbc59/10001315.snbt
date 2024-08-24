@@ -1,0 +1,29 @@
+{
+	title: "Goblin",
+	icon: {
+		ForgeCaps: {
+			"wizardryutils:summoneditemdata": {}
+		},
+		id: "minecraft:spawn_egg",
+		tag: {
+			EntityTag: {
+				id: "grimoireofgaia:goblin"
+			}
+		}
+	},
+	disable_toast: true,
+	x: 17.0d,
+	y: 26.0d,
+	tasks: [{
+		uid: "10001316",
+		type: "observation",
+		match_type: "entity_id",
+		match: "grimoireofgaia:goblin",
+		timer: 0L
+	}],
+	rewards: [{
+		uid: "10001317",
+		type: "ftbmoney:money",
+		ftb_money: 10L
+	}]
+}

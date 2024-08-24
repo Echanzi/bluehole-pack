@@ -1,0 +1,29 @@
+{
+	title: "Twilight Archer",
+	icon: {
+		ForgeCaps: {
+			"wizardryutils:summoneditemdata": {}
+		},
+		id: "minecraft:spawn_egg",
+		tag: {
+			EntityTag: {
+				id: "divinerpg:twilight_archer"
+			}
+		}
+	},
+	disable_toast: true,
+	x: 1.0d,
+	y: 21.0d,
+	tasks: [{
+		uid: "10000773",
+		type: "observation",
+		match_type: "entity_id",
+		match: "divinerpg:twilight_archer",
+		timer: 0L
+	}],
+	rewards: [{
+		uid: "10000774",
+		type: "ftbmoney:money",
+		ftb_money: 10L
+	}]
+}

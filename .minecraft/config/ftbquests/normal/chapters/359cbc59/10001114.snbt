@@ -1,0 +1,29 @@
+{
+	title: "Carminite Broodling",
+	icon: {
+		ForgeCaps: {
+			"wizardryutils:summoneditemdata": {}
+		},
+		id: "minecraft:spawn_egg",
+		tag: {
+			EntityTag: {
+				id: "twilightforest:tower_broodling"
+			}
+		}
+	},
+	disable_toast: true,
+	x: 16.0d,
+	y: 24.0d,
+	tasks: [{
+		uid: "10001115",
+		type: "observation",
+		match_type: "entity_id",
+		match: "twilightforest:tower_broodling",
+		timer: 0L
+	}],
+	rewards: [{
+		uid: "10001116",
+		type: "ftbmoney:money",
+		ftb_money: 10L
+	}]
+}

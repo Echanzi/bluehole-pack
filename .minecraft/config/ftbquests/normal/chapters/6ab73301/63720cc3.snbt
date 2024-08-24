@@ -1,0 +1,23 @@
+{
+	title: "South Hallways",
+	x: 2.5d,
+	y: -3.0d,
+	dependencies: [
+		"37324ff6"
+	],
+	tasks: [{
+		uid: "c62165dd",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "audiocassettes:boombox"
+		}]
+	}],
+	rewards: [{
+		uid: "7204b081",
+		type: "ftbmoney:money",
+		ftb_money: 30L
+	}]
+}

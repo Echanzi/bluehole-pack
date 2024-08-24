@@ -1,0 +1,22 @@
+{
+	title: "ColdForestFirThicket",
+	icon: {
+		ForgeCaps: {
+			"wizardryutils:summoneditemdata": {}
+		},
+		id: "minecraft:grass"
+	},
+	disable_toast: true,
+	x: -6.0d,
+	y: 5.0d,
+	tasks: [{
+		uid: "20001109",
+		type: "biome",
+		biome: "openterraingenerator:overworld_coldforestfirthicket"
+	}],
+	rewards: [{
+		uid: "20001110",
+		type: "ftbmoney:money",
+		ftb_money: 25L
+	}]
+}

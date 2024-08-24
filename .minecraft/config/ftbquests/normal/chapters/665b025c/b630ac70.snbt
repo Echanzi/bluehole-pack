@@ -1,0 +1,26 @@
+{
+	title: "Hard Work Pays Off",
+	x: 0.0d,
+	y: 5.0d,
+	dependencies: [
+		"c8f3a510"
+	],
+	tasks: [{
+		uid: "87fc23ac",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {},
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "spartanweaponry:hammer_wood"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "7de9d0aa",
+		type: "ftbmoney:money",
+		ftb_money: 15L
+	}]
+}

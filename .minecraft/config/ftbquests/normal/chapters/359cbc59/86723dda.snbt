@@ -1,0 +1,24 @@
+{
+	title: "Crafting Table Golem",
+	disable_toast: true,
+	x: 4.0d,
+	y: 36.0d,
+	tasks: [{
+		uid: "16b97874",
+		type: "observation",
+		icon: {
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "minecraft:crafting_table"
+		},
+		match_type: "entity_id",
+		match: "golems:golem_crafting",
+		timer: 0L
+	}],
+	rewards: [{
+		uid: "16a146d0",
+		type: "ftbmoney:money",
+		ftb_money: 10L
+	}]
+}

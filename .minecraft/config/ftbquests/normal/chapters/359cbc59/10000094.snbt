@@ -1,0 +1,29 @@
+{
+	title: "Shulker",
+	icon: {
+		ForgeCaps: {
+			"wizardryutils:summoneditemdata": {}
+		},
+		id: "minecraft:spawn_egg",
+		tag: {
+			EntityTag: {
+				id: "minecraft:shulker"
+			}
+		}
+	},
+	disable_toast: true,
+	x: 6.0d,
+	y: 14.0d,
+	tasks: [{
+		uid: "10000095",
+		type: "observation",
+		match_type: "entity_id",
+		match: "minecraft:shulker",
+		timer: 0L
+	}],
+	rewards: [{
+		uid: "10000096",
+		type: "ftbmoney:money",
+		ftb_money: 10L
+	}]
+}

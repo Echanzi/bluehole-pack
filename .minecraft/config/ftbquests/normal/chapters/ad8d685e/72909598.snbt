@@ -1,0 +1,20 @@
+{
+	title: "The 3:45 AM Favorite",
+	x: -5.0d,
+	y: -6.0d,
+	tasks: [{
+		uid: "feeeafba",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "minecraft:cookie"
+		}]
+	}],
+	rewards: [{
+		uid: "324bcb7e",
+		type: "ftbmoney:money",
+		ftb_money: 15L
+	}]
+}

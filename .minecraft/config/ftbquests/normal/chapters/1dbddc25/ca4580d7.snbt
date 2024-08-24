@@ -1,0 +1,26 @@
+{
+	disable_toast: true,
+	x: 4.5d,
+	y: -1.0d,
+	can_repeat: true,
+	dependencies: [
+		"079ecf5c"
+	],
+	tasks: [{
+		uid: "e98aca76",
+		type: "kill",
+		icon: {
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "thebetweenlands:sludge_ball"
+		},
+		entity: "thebetweenlands:sludge_menace",
+		value: 1L
+	}],
+	rewards: [{
+		uid: "dda1b9b5",
+		type: "ftbmoney:money",
+		ftb_money: 200L
+	}]
+}

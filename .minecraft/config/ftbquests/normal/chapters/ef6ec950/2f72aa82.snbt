@@ -1,0 +1,23 @@
+{
+	x: 9.0d,
+	y: 0.0d,
+	dependencies: [
+		"6a28c86d"
+	],
+	tasks: [{
+		uid: "7f46ccde",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "thebetweenlands:items_misc",
+			Damage: 39s
+		}]
+	}],
+	rewards: [{
+		uid: "098b2866",
+		type: "ftbmoney:money",
+		ftb_money: 15L
+	}]
+}

@@ -1,0 +1,29 @@
+{
+	x: 9.0d,
+	y: 7.0d,
+	hide_dependency_lines: true,
+	dependencies: [
+		"29abb8c3"
+	],
+	tasks: [{
+		uid: "f4cc83fb",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {},
+				"astralsorcery:cap_item_amulet_holder": {
+					AS_Amulet_HolderLeast: -6480113167060876494L,
+					AS_Amulet_HolderMost: 2911248940407866704L
+				}
+			},
+			id: "spartanweaponry:parrying_dagger_silver"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "d05cbb15",
+		type: "ftbmoney:money",
+		ftb_money: 25L
+	}]
+}

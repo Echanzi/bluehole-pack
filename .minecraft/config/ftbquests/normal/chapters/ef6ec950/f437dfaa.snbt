@@ -1,0 +1,24 @@
+{
+	x: 8.0d,
+	y: 4.5d,
+	dependencies: [
+		"156ad660"
+	],
+	tasks: [{
+		uid: "87293fd9",
+		type: "kill",
+		icon: {
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "thebetweenlands:spirit_tree_face_small_mask_animated"
+		},
+		entity: "thebetweenlands:spirit_tree_face_small",
+		value: 1L
+	}],
+	rewards: [{
+		uid: "3c1154cf",
+		type: "ftbmoney:money",
+		ftb_money: 25L
+	}]
+}

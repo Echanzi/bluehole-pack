@@ -1,0 +1,22 @@
+{
+	title: "Fish King",
+	x: 1.5d,
+	y: 0.5d,
+	tasks: [{
+		uid: "f686ea33",
+		type: "stat",
+		icon: {
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "minecraft:fish"
+		},
+		stat: "stat.fishCaught",
+		value: 200
+	}],
+	rewards: [{
+		uid: "e2dc3ea5",
+		type: "ftbmoney:money",
+		ftb_money: 350L
+	}]
+}

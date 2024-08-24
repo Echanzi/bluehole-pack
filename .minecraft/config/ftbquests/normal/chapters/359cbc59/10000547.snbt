@@ -1,0 +1,29 @@
+{
+	title: "Brown Grizzle",
+	icon: {
+		ForgeCaps: {
+			"wizardryutils:summoneditemdata": {}
+		},
+		id: "minecraft:spawn_egg",
+		tag: {
+			EntityTag: {
+				id: "divinerpg:brown_grizzle"
+			}
+		}
+	},
+	disable_toast: true,
+	x: -8.0d,
+	y: 19.0d,
+	tasks: [{
+		uid: "10000548",
+		type: "observation",
+		match_type: "entity_id",
+		match: "divinerpg:brown_grizzle",
+		timer: 0L
+	}],
+	rewards: [{
+		uid: "10000549",
+		type: "ftbmoney:money",
+		ftb_money: 10L
+	}]
+}

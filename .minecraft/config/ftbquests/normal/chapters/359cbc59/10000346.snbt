@@ -1,0 +1,29 @@
+{
+	title: "Greebling Rider",
+	icon: {
+		ForgeCaps: {
+			"wizardryutils:summoneditemdata": {}
+		},
+		id: "minecraft:spawn_egg",
+		tag: {
+			EntityTag: {
+				id: "thebetweenlands:chiromaw_greebling_rider"
+			}
+		}
+	},
+	disable_toast: true,
+	x: -9.0d,
+	y: 17.0d,
+	tasks: [{
+		uid: "10000347",
+		type: "observation",
+		match_type: "entity_id",
+		match: "thebetweenlands:chiromaw_greebling_rider",
+		timer: 0L
+	}],
+	rewards: [{
+		uid: "10000348",
+		type: "ftbmoney:money",
+		ftb_money: 10L
+	}]
+}

@@ -1,0 +1,29 @@
+{
+	title: "Rifted Enderman",
+	icon: {
+		ForgeCaps: {
+			"wizardryutils:summoneditemdata": {}
+		},
+		id: "minecraft:spawn_egg",
+		tag: {
+			EntityTag: {
+				id: "ancientbeasts:rifted_enderman"
+			}
+		}
+	},
+	disable_toast: true,
+	x: 15.0d,
+	y: 14.0d,
+	tasks: [{
+		uid: "10000122",
+		type: "observation",
+		match_type: "entity_id",
+		match: "ancientbeasts:rifted_enderman",
+		timer: 0L
+	}],
+	rewards: [{
+		uid: "10000123",
+		type: "ftbmoney:money",
+		ftb_money: 10L
+	}]
+}

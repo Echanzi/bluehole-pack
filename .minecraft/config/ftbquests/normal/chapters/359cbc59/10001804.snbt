@@ -1,0 +1,29 @@
+{
+	title: "Poison Skeleton",
+	icon: {
+		ForgeCaps: {
+			"wizardryutils:summoneditemdata": {}
+		},
+		id: "minecraft:spawn_egg",
+		tag: {
+			EntityTag: {
+				id: "specialmobs:poisonskeleton"
+			}
+		}
+	},
+	disable_toast: true,
+	x: 15.0d,
+	y: 31.0d,
+	tasks: [{
+		uid: "10001805",
+		type: "observation",
+		match_type: "entity_id",
+		match: "specialmobs:poisonskeleton",
+		timer: 0L
+	}],
+	rewards: [{
+		uid: "10001806",
+		type: "ftbmoney:money",
+		ftb_money: 10L
+	}]
+}

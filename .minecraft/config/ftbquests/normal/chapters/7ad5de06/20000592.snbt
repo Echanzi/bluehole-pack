@@ -1,0 +1,22 @@
+{
+	title: "Fungi Forest",
+	icon: {
+		ForgeCaps: {
+			"wizardryutils:summoneditemdata": {}
+		},
+		id: "minecraft:netherrack"
+	},
+	disable_toast: true,
+	x: 20.0d,
+	y: -1.0d,
+	tasks: [{
+		uid: "20000593",
+		type: "biome",
+		biome: "biomesoplenty:fungi_forest"
+	}],
+	rewards: [{
+		uid: "20000594",
+		type: "ftbmoney:money",
+		ftb_money: 25L
+	}]
+}

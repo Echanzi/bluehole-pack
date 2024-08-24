@@ -1,0 +1,19 @@
+{
+	x: -4.5d,
+	y: 0.0d,
+	tasks: [{
+		uid: "6b0a63bb",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "vc:item_airship_engine"
+		}]
+	}],
+	rewards: [{
+		uid: "926342aa",
+		type: "ftbmoney:money",
+		ftb_money: 35L
+	}]
+}

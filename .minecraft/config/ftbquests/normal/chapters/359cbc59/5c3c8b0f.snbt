@@ -1,0 +1,24 @@
+{
+	title: "Moray Eel",
+	disable_toast: true,
+	x: -12.0d,
+	y: 34.0d,
+	tasks: [{
+		uid: "e1ee650b",
+		type: "observation",
+		icon: {
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "zawa:moray_eel"
+		},
+		match_type: "entity_id",
+		match: "zawa:morayeel",
+		timer: 0L
+	}],
+	rewards: [{
+		uid: "d65a3be8",
+		type: "ftbmoney:money",
+		ftb_money: 10L
+	}]
+}

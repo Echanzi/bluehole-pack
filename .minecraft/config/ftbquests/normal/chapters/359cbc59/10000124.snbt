@@ -1,0 +1,29 @@
+{
+	title: "Bonepile",
+	icon: {
+		ForgeCaps: {
+			"wizardryutils:summoneditemdata": {}
+		},
+		id: "minecraft:spawn_egg",
+		tag: {
+			EntityTag: {
+				id: "ancientbeasts:bonepile"
+			}
+		}
+	},
+	disable_toast: true,
+	x: 16.0d,
+	y: 14.0d,
+	tasks: [{
+		uid: "10000125",
+		type: "observation",
+		match_type: "entity_id",
+		match: "ancientbeasts:bonepile",
+		timer: 0L
+	}],
+	rewards: [{
+		uid: "10000126",
+		type: "ftbmoney:money",
+		ftb_money: 10L
+	}]
+}

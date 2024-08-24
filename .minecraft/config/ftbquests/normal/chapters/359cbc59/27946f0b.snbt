@@ -1,0 +1,24 @@
+{
+	title: "Orca",
+	disable_toast: true,
+	x: 3.0d,
+	y: 35.0d,
+	tasks: [{
+		uid: "1279bb11",
+		type: "observation",
+		icon: {
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "zawa:orca"
+		},
+		match_type: "entity_id",
+		match: "zawa:orca",
+		timer: 0L
+	}],
+	rewards: [{
+		uid: "08ef3853",
+		type: "ftbmoney:money",
+		ftb_money: 10L
+	}]
+}

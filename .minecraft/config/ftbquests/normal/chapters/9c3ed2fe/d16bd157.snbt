@@ -1,0 +1,23 @@
+{
+	title: "Here we go again...",
+	x: 1.0d,
+	y: 1.0d,
+	dependencies: [
+		"6ea40ce4"
+	],
+	tasks: [{
+		uid: "4781f6b6",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "aether_legacy:skyroot_bucket"
+		}]
+	}],
+	rewards: [{
+		uid: "08cbb37f",
+		type: "ftbmoney:money",
+		ftb_money: 35L
+	}]
+}

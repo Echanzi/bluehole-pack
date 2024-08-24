@@ -1,0 +1,26 @@
+{
+	x: 16.5d,
+	y: 14.0d,
+	hide_dependency_lines: true,
+	dependencies: [
+		"adf5772b"
+	],
+	tasks: [{
+		uid: "9ec3c65c",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {},
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "spartancompat:staff_holystone"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "e65871b8",
+		type: "ftbmoney:money",
+		ftb_money: 25L
+	}]
+}

@@ -1,0 +1,33 @@
+{
+	x: -1.5d,
+	y: 18.0d,
+	hide_dependency_lines: true,
+	dependencies: [
+		"0c5cc95e"
+	],
+	tasks: [{
+		uid: "c54c50f9",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {},
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "spartanlands:throwing_axe_octine",
+			tag: {
+				AmmoUsed: 0,
+				UUIDMost: -2226183545114245892L,
+				UUIDLeast: -7080409812407807373L,
+				enchChecked: 1b,
+				Original: 1b
+			}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "9fc5ac52",
+		type: "ftbmoney:money",
+		ftb_money: 30L
+	}]
+}

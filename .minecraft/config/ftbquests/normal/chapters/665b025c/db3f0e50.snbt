@@ -1,0 +1,33 @@
+{
+	x: 1.5d,
+	y: 13.0d,
+	hide_dependency_lines: true,
+	dependencies: [
+		"ea105265"
+	],
+	tasks: [{
+		uid: "a6a292d3",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {},
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "spartancompat:javelin_gravitite",
+			tag: {
+				AmmoUsed: 0,
+				UUIDMost: 8797316190923869818L,
+				UUIDLeast: -4832587670508975162L,
+				enchChecked: 1b,
+				Original: 1b
+			}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "1cefa6b3",
+		type: "ftbmoney:money",
+		ftb_money: 40L
+	}]
+}

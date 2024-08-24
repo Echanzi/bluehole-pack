@@ -1,0 +1,29 @@
+{
+	title: "Rat",
+	icon: {
+		ForgeCaps: {
+			"wizardryutils:summoneditemdata": {}
+		},
+		id: "minecraft:spawn_egg",
+		tag: {
+			EntityTag: {
+				id: "rats:rat"
+			}
+		}
+	},
+	disable_toast: true,
+	x: 12.0d,
+	y: 29.0d,
+	tasks: [{
+		uid: "10001598",
+		type: "observation",
+		match_type: "entity_id",
+		match: "rats:rat",
+		timer: 0L
+	}],
+	rewards: [{
+		uid: "10001599",
+		type: "ftbmoney:money",
+		ftb_money: 10L
+	}]
+}

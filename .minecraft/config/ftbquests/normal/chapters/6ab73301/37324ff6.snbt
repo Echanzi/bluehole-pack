@@ -1,0 +1,26 @@
+{
+	title: "Personal Percussion",
+	x: 3.0d,
+	y: -4.0d,
+	text: [
+		"Better Noteblock Interactions!"
+	],
+	dependencies: [
+		"3ba3d581"
+	],
+	tasks: [{
+		uid: "156265fa",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "minecraft:noteblock"
+		}]
+	}],
+	rewards: [{
+		uid: "5e9eb92a",
+		type: "ftbmoney:money",
+		ftb_money: 25L
+	}]
+}

@@ -1,0 +1,29 @@
+{
+	title: "Fire Skeleton",
+	icon: {
+		ForgeCaps: {
+			"wizardryutils:summoneditemdata": {}
+		},
+		id: "minecraft:spawn_egg",
+		tag: {
+			EntityTag: {
+				id: "specialmobs:fireskeleton"
+			}
+		}
+	},
+	disable_toast: true,
+	x: 10.0d,
+	y: 31.0d,
+	tasks: [{
+		uid: "10001790",
+		type: "observation",
+		match_type: "entity_id",
+		match: "specialmobs:fireskeleton",
+		timer: 0L
+	}],
+	rewards: [{
+		uid: "10001791",
+		type: "ftbmoney:money",
+		ftb_money: 10L
+	}]
+}

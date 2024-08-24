@@ -1,0 +1,26 @@
+{
+	x: 8.0d,
+	y: 7.5d,
+	text: [
+		"Look at the Crystal at the top of the Sludgeon to complete this quest."
+	],
+	tasks: [{
+		uid: "72856d51",
+		type: "observation",
+		title: "Find the Sludgeon",
+		icon: {
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "thebetweenlands:mud_tower_beam_relay"
+		},
+		match_type: "block_id",
+		match: "thebetweenlands:mud_tower_beam_origin",
+		timer: 0L
+	}],
+	rewards: [{
+		uid: "9f469d15",
+		type: "ftbmoney:money",
+		ftb_money: 30L
+	}]
+}

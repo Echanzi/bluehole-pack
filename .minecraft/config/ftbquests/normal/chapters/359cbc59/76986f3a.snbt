@@ -1,0 +1,24 @@
+{
+	title: "Amur Leopard",
+	disable_toast: true,
+	x: 2.0d,
+	y: 35.0d,
+	tasks: [{
+		uid: "8997a448",
+		type: "observation",
+		icon: {
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "zawa:amur_leopard"
+		},
+		match_type: "entity_id",
+		match: "zawa:amurleopard",
+		timer: 0L
+	}],
+	rewards: [{
+		uid: "93bcac77",
+		type: "ftbmoney:money",
+		ftb_money: 10L
+	}]
+}

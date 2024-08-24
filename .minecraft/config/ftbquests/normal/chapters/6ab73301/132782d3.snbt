@@ -1,0 +1,22 @@
+{
+	x: 15.0d,
+	y: 10.5d,
+	dependencies: [
+		"80bd5470"
+	],
+	tasks: [{
+		uid: "3675d401",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "minecraft:end_crystal"
+		}]
+	}],
+	rewards: [{
+		uid: "7bf091c7",
+		type: "ftbmoney:money",
+		ftb_money: 75L
+	}]
+}

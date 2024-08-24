@@ -1,0 +1,22 @@
+{
+	title: "Crag",
+	icon: {
+		ForgeCaps: {
+			"wizardryutils:summoneditemdata": {}
+		},
+		id: "minecraft:gravel"
+	},
+	disable_toast: true,
+	x: -11.0d,
+	y: 0.0d,
+	tasks: [{
+		uid: "20000599",
+		type: "biome",
+		biome: "biomesoplenty:crag"
+	}],
+	rewards: [{
+		uid: "20000600",
+		type: "ftbmoney:money",
+		ftb_money: 25L
+	}]
+}

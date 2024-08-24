@@ -1,0 +1,26 @@
+{
+	title: "Warhammer Vermintide 2",
+	x: 1.0d,
+	y: 4.5d,
+	dependencies: [
+		"c8f3a510"
+	],
+	tasks: [{
+		uid: "848d1669",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {},
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "spartanweaponry:warhammer_wood"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "616a7fe8",
+		type: "ftbmoney:money",
+		ftb_money: 15L
+	}]
+}

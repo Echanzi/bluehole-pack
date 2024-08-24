@@ -1,0 +1,29 @@
+{
+	title: "Wizard",
+	icon: {
+		ForgeCaps: {
+			"wizardryutils:summoneditemdata": {}
+		},
+		id: "minecraft:spawn_egg",
+		tag: {
+			EntityTag: {
+				id: "ebwizardry:wizard"
+			}
+		}
+	},
+	disable_toast: true,
+	x: 12.0d,
+	y: 25.0d,
+	tasks: [{
+		uid: "10001202",
+		type: "observation",
+		match_type: "entity_id",
+		match: "ebwizardry:wizard",
+		timer: 0L
+	}],
+	rewards: [{
+		uid: "10001203",
+		type: "ftbmoney:money",
+		ftb_money: 10L
+	}]
+}

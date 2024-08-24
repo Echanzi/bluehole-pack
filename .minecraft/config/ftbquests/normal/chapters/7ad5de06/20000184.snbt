@@ -1,0 +1,22 @@
+{
+	title: "Tenebra Forest",
+	icon: {
+		ForgeCaps: {
+			"wizardryutils:summoneditemdata": {}
+		},
+		id: "defiledlands:grass_defiled"
+	},
+	disable_toast: true,
+	x: 16.0d,
+	y: -5.0d,
+	tasks: [{
+		uid: "20000185",
+		type: "biome",
+		biome: "defiledlands:forest_tenebra"
+	}],
+	rewards: [{
+		uid: "20000186",
+		type: "ftbmoney:money",
+		ftb_money: 25L
+	}]
+}

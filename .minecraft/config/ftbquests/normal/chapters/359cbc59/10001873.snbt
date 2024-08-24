@@ -1,0 +1,29 @@
+{
+	title: "Desert Spider",
+	icon: {
+		ForgeCaps: {
+			"wizardryutils:summoneditemdata": {}
+		},
+		id: "minecraft:spawn_egg",
+		tag: {
+			EntityTag: {
+				id: "specialmobs:desertspider"
+			}
+		}
+	},
+	disable_toast: true,
+	x: 5.0d,
+	y: 32.0d,
+	tasks: [{
+		uid: "10001874",
+		type: "observation",
+		match_type: "entity_id",
+		match: "specialmobs:desertspider",
+		timer: 0L
+	}],
+	rewards: [{
+		uid: "10001875",
+		type: "ftbmoney:money",
+		ftb_money: 10L
+	}]
+}

@@ -1,0 +1,22 @@
+{
+	title: "Visceral Heap",
+	icon: {
+		ForgeCaps: {
+			"wizardryutils:summoneditemdata": {}
+		},
+		id: "biomesoplenty:flesh"
+	},
+	disable_toast: true,
+	x: 12.0d,
+	y: -1.0d,
+	tasks: [{
+		uid: "20000569",
+		type: "biome",
+		biome: "biomesoplenty:visceral_heap"
+	}],
+	rewards: [{
+		uid: "20000570",
+		type: "ftbmoney:money",
+		ftb_money: 25L
+	}]
+}

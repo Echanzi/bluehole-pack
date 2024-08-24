@@ -1,0 +1,30 @@
+{
+	title: "The Mighty Castle",
+	x: 12.0d,
+	y: -3.0d,
+	text: [
+		"This is as far as the Twilight Forest goes...",
+		"... It disappoints me, too."
+	],
+	dependencies: [
+		"f340c28e"
+	],
+	tasks: [{
+		uid: "5f85124f",
+		type: "observation",
+		icon: {
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "twilightforest:castle_brick"
+		},
+		match_type: "block_id",
+		match: "twilightforest:castle_brick",
+		timer: 0L
+	}],
+	rewards: [{
+		uid: "dd0b11ad",
+		type: "ftbmoney:money",
+		ftb_money: 75L
+	}]
+}

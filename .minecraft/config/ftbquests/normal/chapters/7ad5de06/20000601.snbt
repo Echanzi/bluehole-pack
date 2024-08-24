@@ -1,0 +1,22 @@
+{
+	title: "Lavender Fields",
+	icon: {
+		ForgeCaps: {
+			"wizardryutils:summoneditemdata": {}
+		},
+		id: "biomesoplenty:grass"
+	},
+	disable_toast: true,
+	x: -10.0d,
+	y: 0.0d,
+	tasks: [{
+		uid: "20000602",
+		type: "biome",
+		biome: "biomesoplenty:lavender_fields"
+	}],
+	rewards: [{
+		uid: "20000603",
+		type: "ftbmoney:money",
+		ftb_money: 25L
+	}]
+}

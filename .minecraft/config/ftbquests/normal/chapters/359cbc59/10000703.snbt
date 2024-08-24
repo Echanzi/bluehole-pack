@@ -1,0 +1,29 @@
+{
+	title: "Wildwood Cadillion",
+	icon: {
+		ForgeCaps: {
+			"wizardryutils:summoneditemdata": {}
+		},
+		id: "minecraft:spawn_egg",
+		tag: {
+			EntityTag: {
+				id: "divinerpg:wildwood_cadillion"
+			}
+		}
+	},
+	disable_toast: true,
+	x: 11.0d,
+	y: 20.0d,
+	tasks: [{
+		uid: "10000704",
+		type: "observation",
+		match_type: "entity_id",
+		match: "divinerpg:wildwood_cadillion",
+		timer: 0L
+	}],
+	rewards: [{
+		uid: "10000705",
+		type: "ftbmoney:money",
+		ftb_money: 10L
+	}]
+}

@@ -1,0 +1,22 @@
+{
+	title: "Land of Lakes",
+	icon: {
+		ForgeCaps: {
+			"wizardryutils:summoneditemdata": {}
+		},
+		id: "biomesoplenty:grass"
+	},
+	disable_toast: true,
+	x: -6.0d,
+	y: -1.0d,
+	tasks: [{
+		uid: "20000515",
+		type: "biome",
+		biome: "biomesoplenty:land_of_lakes"
+	}],
+	rewards: [{
+		uid: "20000516",
+		type: "ftbmoney:money",
+		ftb_money: 25L
+	}]
+}

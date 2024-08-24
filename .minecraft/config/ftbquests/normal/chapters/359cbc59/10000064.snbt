@@ -1,0 +1,29 @@
+{
+	title: "Zombie Pigman",
+	icon: {
+		ForgeCaps: {
+			"wizardryutils:summoneditemdata": {}
+		},
+		id: "minecraft:spawn_egg",
+		tag: {
+			EntityTag: {
+				id: "minecraft:zombie_pigman"
+			}
+		}
+	},
+	disable_toast: true,
+	x: -4.0d,
+	y: 14.0d,
+	tasks: [{
+		uid: "10000065",
+		type: "observation",
+		match_type: "entity_id",
+		match: "minecraft:zombie_pigman",
+		timer: 0L
+	}],
+	rewards: [{
+		uid: "10000066",
+		type: "ftbmoney:money",
+		ftb_money: 10L
+	}]
+}

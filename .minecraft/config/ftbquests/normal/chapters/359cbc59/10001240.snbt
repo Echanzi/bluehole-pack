@@ -1,0 +1,29 @@
+{
+	title: "Anubis",
+	icon: {
+		ForgeCaps: {
+			"wizardryutils:summoneditemdata": {}
+		},
+		id: "minecraft:spawn_egg",
+		tag: {
+			EntityTag: {
+				id: "grimoireofgaia:anubis"
+			}
+		}
+	},
+	disable_toast: true,
+	x: -8.0d,
+	y: 26.0d,
+	tasks: [{
+		uid: "10001241",
+		type: "observation",
+		match_type: "entity_id",
+		match: "grimoireofgaia:anubis",
+		timer: 0L
+	}],
+	rewards: [{
+		uid: "10001242",
+		type: "ftbmoney:money",
+		ftb_money: 10L
+	}]
+}

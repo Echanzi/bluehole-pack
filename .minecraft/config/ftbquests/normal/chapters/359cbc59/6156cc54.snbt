@@ -1,0 +1,24 @@
+{
+	title: "Common Chimpanzee",
+	disable_toast: true,
+	x: 10.0d,
+	y: 34.0d,
+	tasks: [{
+		uid: "81422794",
+		type: "observation",
+		icon: {
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "zawa:common_chimpanzee"
+		},
+		match_type: "entity_id",
+		match: "zawa:commonchimpanzee",
+		timer: 0L
+	}],
+	rewards: [{
+		uid: "52458444",
+		type: "ftbmoney:money",
+		ftb_money: 10L
+	}]
+}

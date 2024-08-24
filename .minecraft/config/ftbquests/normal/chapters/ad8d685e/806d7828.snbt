@@ -1,0 +1,21 @@
+{
+	title: "Delicious Waste",
+	x: -5.0d,
+	y: -4.5d,
+	tasks: [{
+		uid: "d9ed0b22",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "harvestcraft:netherstartoastitem"
+		}],
+		consume_items: true
+	}],
+	rewards: [{
+		uid: "39ae3958",
+		type: "ftbmoney:money",
+		ftb_money: 125L
+	}]
+}

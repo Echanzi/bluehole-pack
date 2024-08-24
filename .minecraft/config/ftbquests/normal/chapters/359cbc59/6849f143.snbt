@@ -1,0 +1,24 @@
+{
+	title: "Indian Pangolin",
+	disable_toast: true,
+	x: 16.0d,
+	y: 33.0d,
+	tasks: [{
+		uid: "2ec15a61",
+		type: "observation",
+		icon: {
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "zawa:indian_pangolin"
+		},
+		match_type: "entity_id",
+		match: "zawa:indianpangolin",
+		timer: 0L
+	}],
+	rewards: [{
+		uid: "77836350",
+		type: "ftbmoney:money",
+		ftb_money: 10L
+	}]
+}

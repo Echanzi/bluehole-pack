@@ -1,0 +1,34 @@
+{
+	x: 7.5d,
+	y: -6.0d,
+	dependencies: [
+		"c2e6c92d"
+	],
+	tasks: [{
+		uid: "90940283",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "vc:modules/item_module_type",
+			Damage: 20s
+		}],
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "3cd19c64",
+		type: "ftbmoney:money",
+		ftb_money: 45L
+	},
+	{
+		uid: "81d81432",
+		type: "item",
+		item: {
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "vc:modules/item_module_type"
+		}
+	}]
+}

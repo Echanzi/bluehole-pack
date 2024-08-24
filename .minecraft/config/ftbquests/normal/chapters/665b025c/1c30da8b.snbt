@@ -1,0 +1,26 @@
+{
+	x: 8.0d,
+	y: 2.0d,
+	hide_dependency_lines: true,
+	dependencies: [
+		"29abb8c3"
+	],
+	tasks: [{
+		uid: "152d68e4",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {},
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "spartantwilight:parrying_dagger_steeleaf"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "b52ce623",
+		type: "ftbmoney:money",
+		ftb_money: 35L
+	}]
+}

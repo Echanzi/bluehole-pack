@@ -1,0 +1,22 @@
+{
+	title: "Fire Swamp",
+	icon: {
+		ForgeCaps: {
+			"wizardryutils:summoneditemdata": {}
+		},
+		id: "minecraft:grass"
+	},
+	disable_toast: true,
+	x: 17.0d,
+	y: -5.0d,
+	tasks: [{
+		uid: "20000188",
+		type: "biome",
+		biome: "twilightforest:fire_swamp"
+	}],
+	rewards: [{
+		uid: "20000189",
+		type: "ftbmoney:money",
+		ftb_money: 25L
+	}]
+}

@@ -1,0 +1,29 @@
+{
+	title: "Dullahan",
+	icon: {
+		ForgeCaps: {
+			"wizardryutils:summoneditemdata": {}
+		},
+		id: "minecraft:spawn_egg",
+		tag: {
+			EntityTag: {
+				id: "grimoireofgaia:dullahan"
+			}
+		}
+	},
+	disable_toast: true,
+	x: 11.0d,
+	y: 26.0d,
+	tasks: [{
+		uid: "10001298",
+		type: "observation",
+		match_type: "entity_id",
+		match: "grimoireofgaia:dullahan",
+		timer: 0L
+	}],
+	rewards: [{
+		uid: "10001299",
+		type: "ftbmoney:money",
+		ftb_money: 10L
+	}]
+}

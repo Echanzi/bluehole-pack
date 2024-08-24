@@ -1,0 +1,22 @@
+{
+	title: "RiverSwampland",
+	icon: {
+		ForgeCaps: {
+			"wizardryutils:summoneditemdata": {}
+		},
+		id: "minecraft:grass"
+	},
+	disable_toast: true,
+	x: 3.0d,
+	y: 4.0d,
+	tasks: [{
+		uid: "20001037",
+		type: "biome",
+		biome: "openterraingenerator:overworld_riverswampland"
+	}],
+	rewards: [{
+		uid: "20001038",
+		type: "ftbmoney:money",
+		ftb_money: 25L
+	}]
+}

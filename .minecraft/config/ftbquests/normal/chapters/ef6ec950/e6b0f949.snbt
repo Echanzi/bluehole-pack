@@ -1,0 +1,22 @@
+{
+	x: 6.5d,
+	y: -2.0d,
+	dependencies: [
+		"32b01228"
+	],
+	tasks: [{
+		uid: "09acb7ac",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "thebetweenlands:sulfur_furnace"
+		}]
+	}],
+	rewards: [{
+		uid: "89ef2faf",
+		type: "ftbmoney:money",
+		ftb_money: 15L
+	}]
+}

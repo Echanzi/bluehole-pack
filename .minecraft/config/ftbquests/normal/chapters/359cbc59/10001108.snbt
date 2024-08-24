@@ -1,0 +1,29 @@
+{
+	title: "Carminite Golem",
+	icon: {
+		ForgeCaps: {
+			"wizardryutils:summoneditemdata": {}
+		},
+		id: "minecraft:spawn_egg",
+		tag: {
+			EntityTag: {
+				id: "twilightforest:tower_golem"
+			}
+		}
+	},
+	disable_toast: true,
+	x: 14.0d,
+	y: 24.0d,
+	tasks: [{
+		uid: "10001109",
+		type: "observation",
+		match_type: "entity_id",
+		match: "twilightforest:tower_golem",
+		timer: 0L
+	}],
+	rewards: [{
+		uid: "10001110",
+		type: "ftbmoney:money",
+		ftb_money: 10L
+	}]
+}

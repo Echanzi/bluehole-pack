@@ -1,0 +1,148 @@
+{
+	title: "Dicristo Special",
+	icon: {
+		ForgeCaps: {
+			"wizardryutils:summoneditemdata": {}
+		},
+		id: "harvestcraft:rawtofishitem"
+	},
+	x: -3.5d,
+	y: -9.0d,
+	tasks: [{
+		uid: "a615be07",
+		type: "item",
+		disable_toast: true,
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "harvestcraft:firmtofuitem"
+		}]
+	},
+	{
+		uid: "b8b09362",
+		type: "item",
+		disable_toast: true,
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "harvestcraft:silkentofuitem"
+		}]
+	},
+	{
+		uid: "98e42f02",
+		type: "item",
+		disable_toast: true,
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "harvestcraft:rawtofuttonitem"
+		}]
+	},
+	{
+		uid: "f108411e",
+		type: "item",
+		disable_toast: true,
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "harvestcraft:rawtofurkeyitem"
+		}]
+	},
+	{
+		uid: "3f606ae6",
+		type: "item",
+		disable_toast: true,
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "harvestcraft:rawtofuduckitem"
+		}]
+	},
+	{
+		uid: "54bf6b2b",
+		type: "item",
+		disable_toast: true,
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "harvestcraft:rawtofishitem"
+		}]
+	},
+	{
+		uid: "df753614",
+		type: "item",
+		disable_toast: true,
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "harvestcraft:rawtofeakitem"
+		}]
+	},
+	{
+		uid: "4566da1a",
+		type: "item",
+		disable_toast: true,
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "harvestcraft:rawtofaconitem"
+		}]
+	},
+	{
+		uid: "1aa04aee",
+		type: "item",
+		disable_toast: true,
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "harvestcraft:rawtofeegitem"
+		}]
+	},
+	{
+		uid: "c467d4a4",
+		type: "item",
+		disable_toast: true,
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "harvestcraft:rawtofickenitem"
+		}]
+	},
+	{
+		uid: "6f7685e7",
+		type: "item",
+		disable_toast: true,
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "harvestcraft:rawtofabbititem"
+		}]
+	},
+	{
+		uid: "4464a935",
+		type: "item",
+		disable_toast: true,
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "harvestcraft:rawtofenisonitem"
+		}]
+	}],
+	rewards: [{
+		uid: "18747a18",
+		type: "ftbmoney:money",
+		ftb_money: 175L
+	}]
+}

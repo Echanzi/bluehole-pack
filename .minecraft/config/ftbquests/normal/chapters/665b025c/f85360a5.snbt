@@ -1,0 +1,26 @@
+{
+	title: "Add Metal Make Club Better",
+	x: -5.0d,
+	y: -0.5d,
+	dependencies: [
+		"d52047db"
+	],
+	tasks: [{
+		uid: "d96e84c7",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {},
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "spartanweaponry:club_studded"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "eb16d37c",
+		type: "ftbmoney:money",
+		ftb_money: 25L
+	}]
+}

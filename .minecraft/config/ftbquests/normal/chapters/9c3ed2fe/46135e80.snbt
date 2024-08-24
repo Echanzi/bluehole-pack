@@ -1,0 +1,65 @@
+{
+	title: "Aether's Bucket List",
+	x: 1.0d,
+	y: 2.5d,
+	dependencies: [
+		"d16bd157"
+	],
+	tasks: [{
+		uid: "0d15ca9b",
+		type: "item",
+		disable_toast: true,
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {},
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "aether_legacy:skyroot_bucket",
+			Damage: 1s
+		}]
+	},
+	{
+		uid: "841e4189",
+		type: "item",
+		disable_toast: true,
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {},
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "aether_legacy:skyroot_bucket",
+			Damage: 2s
+		}]
+	},
+	{
+		uid: "1cfdbe2e",
+		type: "item",
+		disable_toast: true,
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {},
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "aether_legacy:skyroot_bucket",
+			Damage: 3s
+		}]
+	},
+	{
+		uid: "1134341a",
+		type: "item",
+		disable_toast: true,
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {},
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "aether_legacy:skyroot_bucket",
+			Damage: 4s
+		}]
+	}],
+	rewards: [{
+		uid: "28db7a19",
+		type: "ftbmoney:money",
+		ftb_money: 125L
+	}]
+}

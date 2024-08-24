@@ -1,0 +1,22 @@
+{
+	title: "ForestFirMountainEdge2",
+	icon: {
+		ForgeCaps: {
+			"wizardryutils:summoneditemdata": {}
+		},
+		id: "minecraft:grass"
+	},
+	disable_toast: true,
+	x: 10.0d,
+	y: 1.0d,
+	tasks: [{
+		uid: "20000761",
+		type: "biome",
+		biome: "openterraingenerator:overworld_forestfirmountainedge2"
+	}],
+	rewards: [{
+		uid: "20000762",
+		type: "ftbmoney:money",
+		ftb_money: 25L
+	}]
+}

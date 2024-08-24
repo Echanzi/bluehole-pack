@@ -1,0 +1,27 @@
+{
+	disable_toast: true,
+	x: 1.5d,
+	y: -7.0d,
+	can_repeat: true,
+	dependencies: [
+		"4c27034c"
+	],
+	tasks: [{
+		uid: "b0ab49d5",
+		type: "kill",
+		icon: {
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {},
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "aether_legacy:valkyrie_cape"
+		},
+		entity: "aether_legacy:valkyrie_queen",
+		value: 1L
+	}],
+	rewards: [{
+		uid: "b98f595d",
+		type: "ftbmoney:money",
+		ftb_money: 125L
+	}]
+}

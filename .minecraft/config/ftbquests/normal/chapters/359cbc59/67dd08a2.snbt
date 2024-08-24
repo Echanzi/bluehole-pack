@@ -1,0 +1,24 @@
+{
+	title: "Lion Tamarin",
+	disable_toast: true,
+	x: 14.0d,
+	y: 34.0d,
+	tasks: [{
+		uid: "38d93a34",
+		type: "observation",
+		icon: {
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "zawa:golden_lion_tamarin"
+		},
+		match_type: "entity_id",
+		match: "zawa:goldenliontamarin",
+		timer: 0L
+	}],
+	rewards: [{
+		uid: "66acde4f",
+		type: "ftbmoney:money",
+		ftb_money: 10L
+	}]
+}

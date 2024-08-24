@@ -1,0 +1,24 @@
+{
+	title: "Slime Golem",
+	disable_toast: true,
+	x: -3.0d,
+	y: 36.0d,
+	tasks: [{
+		uid: "6457a11d",
+		type: "observation",
+		icon: {
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "minecraft:slime"
+		},
+		match_type: "entity_id",
+		match: "golems:golem_slime",
+		timer: 0L
+	}],
+	rewards: [{
+		uid: "fa2dffec",
+		type: "ftbmoney:money",
+		ftb_money: 10L
+	}]
+}

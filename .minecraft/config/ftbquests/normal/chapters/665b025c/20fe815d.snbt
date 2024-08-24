@@ -1,0 +1,26 @@
+{
+	title: "Stuck an Axe on a Stick",
+	x: 1.5d,
+	y: -1.5d,
+	dependencies: [
+		"c8f3a510"
+	],
+	tasks: [{
+		uid: "f72e0d6a",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {},
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "spartanweaponry:halberd_wood"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "3566745d",
+		type: "ftbmoney:money",
+		ftb_money: 15L
+	}]
+}

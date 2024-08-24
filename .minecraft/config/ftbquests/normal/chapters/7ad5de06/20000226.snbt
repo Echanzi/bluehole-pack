@@ -1,0 +1,22 @@
+{
+	title: "Phantasmagoric Inferno",
+	icon: {
+		ForgeCaps: {
+			"wizardryutils:summoneditemdata": {}
+		},
+		id: "biomesoplenty:ash_block"
+	},
+	disable_toast: true,
+	x: -3.0d,
+	y: -4.0d,
+	tasks: [{
+		uid: "20000227",
+		type: "biome",
+		biome: "biomesoplenty:phantasmagoric_inferno"
+	}],
+	rewards: [{
+		uid: "20000228",
+		type: "ftbmoney:money",
+		ftb_money: 25L
+	}]
+}

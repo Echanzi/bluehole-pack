@@ -1,0 +1,24 @@
+{
+	title: "Bookshelf Golem",
+	disable_toast: true,
+	x: 8.0d,
+	y: 36.0d,
+	tasks: [{
+		uid: "0bfe7e75",
+		type: "observation",
+		icon: {
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "minecraft:bookshelf"
+		},
+		match_type: "entity_id",
+		match: "golems:golem_bookshelf",
+		timer: 0L
+	}],
+	rewards: [{
+		uid: "072926ab",
+		type: "ftbmoney:money",
+		ftb_money: 10L
+	}]
+}

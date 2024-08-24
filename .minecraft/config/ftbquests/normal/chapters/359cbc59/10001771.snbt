@@ -1,0 +1,29 @@
+{
+	title: "Giant Zombie Pigman",
+	icon: {
+		ForgeCaps: {
+			"wizardryutils:summoneditemdata": {}
+		},
+		id: "minecraft:spawn_egg",
+		tag: {
+			EntityTag: {
+				id: "specialmobs:giantpigzombie"
+			}
+		}
+	},
+	disable_toast: true,
+	x: 4.0d,
+	y: 31.0d,
+	tasks: [{
+		uid: "10001772",
+		type: "observation",
+		match_type: "entity_id",
+		match: "specialmobs:giantpigzombie",
+		timer: 0L
+	}],
+	rewards: [{
+		uid: "10001773",
+		type: "ftbmoney:money",
+		ftb_money: 10L
+	}]
+}

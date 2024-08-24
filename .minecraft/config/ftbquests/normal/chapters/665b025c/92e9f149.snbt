@@ -1,0 +1,26 @@
+{
+	x: 21.5d,
+	y: 12.0d,
+	hide_dependency_lines: true,
+	dependencies: [
+		"da04e365"
+	],
+	tasks: [{
+		uid: "98af79e9",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {},
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "spartanweaponry:pike_stone"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "98a654d2",
+		type: "ftbmoney:money",
+		ftb_money: 20L
+	}]
+}

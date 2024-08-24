@@ -1,0 +1,29 @@
+{
+	x: 20.5d,
+	y: 3.0d,
+	hide_dependency_lines: true,
+	dependencies: [
+		"daa7d92e"
+	],
+	tasks: [{
+		uid: "57942dc2",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {},
+				"astralsorcery:cap_item_amulet_holder": {
+					AS_Amulet_HolderLeast: -6480113167060876494L,
+					AS_Amulet_HolderMost: 2911248940407866704L
+				}
+			},
+			id: "spartantwilight:mace_knightly"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "a94fdf1e",
+		type: "ftbmoney:money",
+		ftb_money: 40L
+	}]
+}

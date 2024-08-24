@@ -1,0 +1,29 @@
+{
+	x: 10.5d,
+	y: 7.0d,
+	hide_dependency_lines: true,
+	dependencies: [
+		"0876ee48"
+	],
+	tasks: [{
+		uid: "d421c8ee",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {},
+				"astralsorcery:cap_item_amulet_holder": {
+					AS_Amulet_HolderLeast: -6480113167060876494L,
+					AS_Amulet_HolderMost: 2911248940407866704L
+				}
+			},
+			id: "spartanweaponry:saber_silver"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "40af7842",
+		type: "ftbmoney:money",
+		ftb_money: 25L
+	}]
+}

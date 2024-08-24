@@ -1,0 +1,33 @@
+{
+	x: -4.0d,
+	y: 22.0d,
+	hide_dependency_lines: true,
+	dependencies: [
+		"476b243d"
+	],
+	tasks: [{
+		uid: "6f238f7a",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {},
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "spartanfire:throwing_knife_fire_dragonbone",
+			tag: {
+				AmmoUsed: 0,
+				UUIDMost: -148583107737793012L,
+				UUIDLeast: -6944131483914632296L,
+				enchChecked: 1b,
+				Original: 1b
+			}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "9d8b8ec6",
+		type: "ftbmoney:money",
+		ftb_money: 40L
+	}]
+}

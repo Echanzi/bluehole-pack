@@ -1,0 +1,30 @@
+{
+	title: "Haydon's Fish Farm!",
+	x: -1.0d,
+	y: 3.0d,
+	dependencies: [
+		"6d4706d6",
+		"bfbc798a"
+	],
+	tasks: [{
+		uid: "a8c12b74",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {},
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "tropicraft:fish_bucket",
+			tag: {
+				fishies: []
+			}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "55e70bfd",
+		type: "ftbmoney:money",
+		ftb_money: 30L
+	}]
+}

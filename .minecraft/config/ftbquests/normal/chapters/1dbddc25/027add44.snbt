@@ -1,0 +1,27 @@
+{
+	disable_toast: true,
+	x: 0.5d,
+	y: -5.5d,
+	can_repeat: true,
+	dependencies: [
+		"6c86bfa8"
+	],
+	tasks: [{
+		uid: "5de556d3",
+		type: "kill",
+		icon: {
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "minecraft:skull",
+			Damage: 1s
+		},
+		entity: "minecraft:wither",
+		value: 1L
+	}],
+	rewards: [{
+		uid: "b673a025",
+		type: "ftbmoney:money",
+		ftb_money: 100L
+	}]
+}

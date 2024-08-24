@@ -1,0 +1,26 @@
+{
+	title: "Grapple Monster",
+	x: 0.0d,
+	y: 4.0d,
+	hide_dependency_lines: true,
+	dependencies: [
+		"62380a69"
+	],
+	tasks: [{
+		uid: "069e8785",
+		type: "kill",
+		icon: {
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "thebetweenlands:shambler_tongue"
+		},
+		entity: "thebetweenlands:shambler",
+		value: 1L
+	}],
+	rewards: [{
+		uid: "5d6245d6",
+		type: "ftbmoney:money",
+		ftb_money: 15L
+	}]
+}

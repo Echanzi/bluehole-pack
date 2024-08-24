@@ -1,0 +1,30 @@
+{
+	title: "#0000FF-aaFFAAStylin' #FFFFFF:100: :fire: :fire:",
+	x: 0.5d,
+	y: 1.5d,
+	text: [
+		"- You can customize beds with Vanilla Banner patterns",
+		"- There is a variety of different banner patterns available to use from various mods including FutureMC and Ice and Fire",
+		"- This is also a reminder you can use Emotes in any text form :smile:",
+		"-This is another reminder that you can customize your items and chat with RGB colors! Search Curseforge for the \"RBG Chat\" mod to learn more!"
+	],
+	dependencies: [
+		"621eb046"
+	],
+	tasks: [{
+		uid: "83c59f26",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "minecraft:banner",
+			Damage: 15s
+		}]
+	}],
+	rewards: [{
+		uid: "49751604",
+		type: "ftbmoney:money",
+		ftb_money: 15L
+	}]
+}

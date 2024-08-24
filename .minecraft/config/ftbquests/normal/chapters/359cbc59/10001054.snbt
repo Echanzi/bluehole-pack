@@ -1,0 +1,29 @@
+{
+	title: "Dwarf Rabbit",
+	icon: {
+		ForgeCaps: {
+			"wizardryutils:summoneditemdata": {}
+		},
+		id: "minecraft:spawn_egg",
+		tag: {
+			EntityTag: {
+				id: "twilightforest:bunny"
+			}
+		}
+	},
+	disable_toast: true,
+	x: -4.0d,
+	y: 24.0d,
+	tasks: [{
+		uid: "10001055",
+		type: "observation",
+		match_type: "entity_id",
+		match: "twilightforest:bunny",
+		timer: 0L
+	}],
+	rewards: [{
+		uid: "10001056",
+		type: "ftbmoney:money",
+		ftb_money: 10L
+	}]
+}

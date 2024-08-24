@@ -1,0 +1,29 @@
+{
+	title: "Ent",
+	icon: {
+		ForgeCaps: {
+			"wizardryutils:summoneditemdata": {}
+		},
+		id: "minecraft:spawn_egg",
+		tag: {
+			EntityTag: {
+				id: "divinerpg:ent"
+			}
+		}
+	},
+	disable_toast: true,
+	x: -3.0d,
+	y: 22.0d,
+	tasks: [{
+		uid: "10000860",
+		type: "observation",
+		match_type: "entity_id",
+		match: "divinerpg:ent",
+		timer: 0L
+	}],
+	rewards: [{
+		uid: "10000861",
+		type: "ftbmoney:money",
+		ftb_money: 10L
+	}]
+}

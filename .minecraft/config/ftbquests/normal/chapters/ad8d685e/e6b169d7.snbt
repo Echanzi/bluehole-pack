@@ -1,0 +1,21 @@
+{
+	title: "Collared Greens",
+	x: -2.0d,
+	y: -4.5d,
+	tasks: [{
+		uid: "2075a5dc",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "harvestcraft:veggiestripsitem"
+		}],
+		consume_items: true
+	}],
+	rewards: [{
+		uid: "c14af620",
+		type: "ftbmoney:money",
+		ftb_money: 35L
+	}]
+}

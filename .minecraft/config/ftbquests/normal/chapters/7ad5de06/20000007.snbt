@@ -1,0 +1,22 @@
+{
+	title: "Enchanted Forest",
+	icon: {
+		ForgeCaps: {
+			"wizardryutils:summoneditemdata": {}
+		},
+		id: "minecraft:grass"
+	},
+	disable_toast: true,
+	x: -10.0d,
+	y: -6.0d,
+	tasks: [{
+		uid: "20000008",
+		type: "biome",
+		biome: "twilightforest:enchanted_forest"
+	}],
+	rewards: [{
+		uid: "20000009",
+		type: "ftbmoney:money",
+		ftb_money: 25L
+	}]
+}

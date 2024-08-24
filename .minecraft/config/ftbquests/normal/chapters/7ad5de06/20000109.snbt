@@ -1,0 +1,22 @@
+{
+	title: "White Beach",
+	icon: {
+		ForgeCaps: {
+			"wizardryutils:summoneditemdata": {}
+		},
+		id: "biomesoplenty:white_sand"
+	},
+	disable_toast: true,
+	x: -9.0d,
+	y: -5.0d,
+	tasks: [{
+		uid: "20000110",
+		type: "biome",
+		biome: "biomesoplenty:white_beach"
+	}],
+	rewards: [{
+		uid: "20000111",
+		type: "ftbmoney:money",
+		ftb_money: 25L
+	}]
+}

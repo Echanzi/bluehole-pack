@@ -1,0 +1,23 @@
+{
+	x: 15.5d,
+	y: 3.5d,
+	dependencies: [
+		"0fe05f91"
+	],
+	dependency_requirement: "all_started",
+	tasks: [{
+		uid: "c476895f",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "thebetweenlands:crimson_middle_gem"
+		}]
+	}],
+	rewards: [{
+		uid: "941962f6",
+		type: "ftbmoney:money",
+		ftb_money: 30L
+	}]
+}

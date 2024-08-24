@@ -1,0 +1,33 @@
+{
+	x: -5.0d,
+	y: 17.0d,
+	hide_dependency_lines: true,
+	dependencies: [
+		"476b243d"
+	],
+	tasks: [{
+		uid: "2c7dc302",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {},
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "spartanlands:throwing_knife_weedwood",
+			tag: {
+				AmmoUsed: 0,
+				UUIDMost: -8188166390992125791L,
+				UUIDLeast: -5357489841257645250L,
+				enchChecked: 1b,
+				Original: 1b
+			}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "38bd83d1",
+		type: "ftbmoney:money",
+		ftb_money: 20L
+	}]
+}

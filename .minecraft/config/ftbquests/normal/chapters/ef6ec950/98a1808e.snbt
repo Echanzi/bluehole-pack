@@ -1,0 +1,27 @@
+{
+	title: "More Clingy!",
+	x: -2.5d,
+	y: 4.0d,
+	dependencies: [
+		"7876effd"
+	],
+	tasks: [{
+		uid: "77eea920",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {},
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "thebetweenlands:grappling_hook",
+			Damage: 16s
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "ce488c8d",
+		type: "ftbmoney:money",
+		ftb_money: 30L
+	}]
+}

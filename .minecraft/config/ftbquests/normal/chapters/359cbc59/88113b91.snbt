@@ -1,0 +1,24 @@
+{
+	title: "Coal Golem",
+	disable_toast: true,
+	x: 6.0d,
+	y: 36.0d,
+	tasks: [{
+		uid: "6a26bccc",
+		type: "observation",
+		icon: {
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "minecraft:coal_block"
+		},
+		match_type: "entity_id",
+		match: "golems:golem_coal",
+		timer: 0L
+	}],
+	rewards: [{
+		uid: "934bd074",
+		type: "ftbmoney:money",
+		ftb_money: 10L
+	}]
+}

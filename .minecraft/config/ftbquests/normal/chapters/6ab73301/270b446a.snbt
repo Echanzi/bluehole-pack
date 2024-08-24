@@ -1,0 +1,26 @@
+{
+	title: "Simple Attraction",
+	x: 6.0d,
+	y: -4.0d,
+	dependencies: [
+		"3ba3d581"
+	],
+	tasks: [{
+		uid: "1978135f",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {},
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "simplemagnets:basicmagnet"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "ce9a4674",
+		type: "ftbmoney:money",
+		ftb_money: 25L
+	}]
+}

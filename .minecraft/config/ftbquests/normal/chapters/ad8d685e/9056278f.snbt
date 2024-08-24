@@ -1,0 +1,46 @@
+{
+	title: "Foreign Exchange Bees",
+	x: 6.0d,
+	y: -1.5d,
+	dependencies: [
+		"60edc9f2"
+	],
+	tasks: [{
+		uid: "fe4e3a2e",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "harvestcraft:grubitem"
+		}],
+		count: 5L,
+		consume_items: true
+	}],
+	rewards: [{
+		uid: "0692afdc",
+		type: "item",
+		item: {
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "futuremc:bee_nest"
+		}
+	},
+	{
+		uid: "1b1c18d6",
+		type: "item",
+		item: {
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "minecraft:spawn_egg",
+			tag: {
+				EntityTag: {
+					id: "futuremc:bee"
+				}
+			}
+		},
+		count: 3
+	}]
+}

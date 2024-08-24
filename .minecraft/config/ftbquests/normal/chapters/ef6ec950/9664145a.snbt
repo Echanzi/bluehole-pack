@@ -1,0 +1,25 @@
+{
+	x: 6.5d,
+	y: 3.0d,
+	dependencies: [
+		"38829618"
+	],
+	tasks: [{
+		uid: "93f95908",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {},
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "thebetweenlands:draeton"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "548edac2",
+		type: "ftbmoney:money",
+		ftb_money: 15L
+	}]
+}

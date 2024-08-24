@@ -1,0 +1,27 @@
+{
+	disable_toast: true,
+	x: -0.5d,
+	y: -7.0d,
+	can_repeat: true,
+	dependencies: [
+		"e8fdb42b"
+	],
+	tasks: [{
+		uid: "7cc33277",
+		type: "kill",
+		icon: {
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {},
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "aether_legacy:gravitite_pickaxe"
+		},
+		entity: "aether_legacy:slider",
+		value: 1L
+	}],
+	rewards: [{
+		uid: "ffde46d3",
+		type: "ftbmoney:money",
+		ftb_money: 100L
+	}]
+}

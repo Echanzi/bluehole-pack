@@ -1,0 +1,24 @@
+{
+	title: "Illager Mimicry",
+	x: -0.5d,
+	y: 7.5d,
+	tasks: [{
+		uid: "701d5991",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {},
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "spartanweaponry:crossbow_wood",
+			tag: {}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "e6a6282e",
+		type: "ftbmoney:money",
+		ftb_money: 15L
+	}]
+}

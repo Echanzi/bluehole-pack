@@ -1,0 +1,24 @@
+{
+	title: "Pacific Walrus",
+	disable_toast: true,
+	x: -11.0d,
+	y: 35.0d,
+	tasks: [{
+		uid: "c638b1e0",
+		type: "observation",
+		icon: {
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "zawa:pacific_walrus"
+		},
+		match_type: "entity_id",
+		match: "zawa:pacificwalrus",
+		timer: 0L
+	}],
+	rewards: [{
+		uid: "4aeeb746",
+		type: "ftbmoney:money",
+		ftb_money: 10L
+	}]
+}

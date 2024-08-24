@@ -1,0 +1,26 @@
+{
+	title: "Feeling Like A Star",
+	x: 7.5d,
+	y: 0.0d,
+	text: [
+		"Grants access to the Pickarang in the Shop"
+	],
+	dependencies: [
+		"2288cb92"
+	],
+	tasks: [{
+		uid: "a23d0e0e",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "minecraft:diamond"
+		}]
+	}],
+	rewards: [{
+		uid: "9141fbb8",
+		type: "ftbmoney:money",
+		ftb_money: 20L
+	}]
+}

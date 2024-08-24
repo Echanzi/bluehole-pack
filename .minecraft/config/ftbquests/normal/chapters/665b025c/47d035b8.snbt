@@ -1,0 +1,26 @@
+{
+	x: 8.0d,
+	y: 17.0d,
+	hide_dependency_lines: true,
+	dependencies: [
+		"b630ac70"
+	],
+	tasks: [{
+		uid: "b1da87e5",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {},
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "spartanlands:hammer_slimybone"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "dd042ab8",
+		type: "ftbmoney:money",
+		ftb_money: 25L
+	}]
+}

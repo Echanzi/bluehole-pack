@@ -1,0 +1,22 @@
+{
+	title: "HighlandsPeaks",
+	icon: {
+		ForgeCaps: {
+			"wizardryutils:summoneditemdata": {}
+		},
+		id: "minecraft:grass"
+	},
+	disable_toast: true,
+	x: 13.0d,
+	y: 7.0d,
+	tasks: [{
+		uid: "20001364",
+		type: "biome",
+		biome: "openterraingenerator:overworld_highlandspeaks"
+	}],
+	rewards: [{
+		uid: "20001365",
+		type: "ftbmoney:money",
+		ftb_money: 25L
+	}]
+}

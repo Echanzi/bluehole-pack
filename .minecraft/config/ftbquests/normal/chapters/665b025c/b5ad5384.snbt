@@ -1,0 +1,33 @@
+{
+	x: -4.0d,
+	y: 17.0d,
+	hide_dependency_lines: true,
+	dependencies: [
+		"476b243d"
+	],
+	tasks: [{
+		uid: "5300da63",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {},
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "spartanlands:throwing_knife_slimybone",
+			tag: {
+				AmmoUsed: 0,
+				UUIDMost: 618215915401987086L,
+				UUIDLeast: -8686958490277215956L,
+				enchChecked: 1b,
+				Original: 1b
+			}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "c5562a9a",
+		type: "ftbmoney:money",
+		ftb_money: 25L
+	}]
+}

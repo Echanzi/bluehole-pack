@@ -1,0 +1,29 @@
+{
+	title: "Mutant Creeper",
+	icon: {
+		ForgeCaps: {
+			"wizardryutils:summoneditemdata": {}
+		},
+		id: "minecraft:spawn_egg",
+		tag: {
+			EntityTag: {
+				id: "mutantbeasts:mutant_creeper"
+			}
+		}
+	},
+	disable_toast: true,
+	x: -10.0d,
+	y: 29.0d,
+	tasks: [{
+		uid: "10001532",
+		type: "observation",
+		match_type: "entity_id",
+		match: "mutantbeasts:mutant_creeper",
+		timer: 0L
+	}],
+	rewards: [{
+		uid: "10001533",
+		type: "ftbmoney:money",
+		ftb_money: 10L
+	}]
+}

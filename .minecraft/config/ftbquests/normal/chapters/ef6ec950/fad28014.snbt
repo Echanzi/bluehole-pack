@@ -1,0 +1,22 @@
+{
+	x: 3.5d,
+	y: 9.0d,
+	dependencies: [
+		"7d288ce8"
+	],
+	tasks: [{
+		uid: "f101a4d1",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "thebetweenlands:silky_pebble"
+		}]
+	}],
+	rewards: [{
+		uid: "f5b90608",
+		type: "ftbmoney:money",
+		ftb_money: 50L
+	}]
+}

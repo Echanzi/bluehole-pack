@@ -1,0 +1,26 @@
+{
+	disable_toast: true,
+	x: -1.5d,
+	y: -1.0d,
+	can_repeat: true,
+	dependencies: [
+		"5fd0c96c"
+	],
+	tasks: [{
+		uid: "c8915538",
+		type: "kill",
+		icon: {
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "thebetweenlands:mummy_bait"
+		},
+		entity: "thebetweenlands:dreadful_mummy",
+		value: 1L
+	}],
+	rewards: [{
+		uid: "9db776b8",
+		type: "ftbmoney:money",
+		ftb_money: 125L
+	}]
+}

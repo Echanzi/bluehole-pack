@@ -1,0 +1,29 @@
+{
+	title: "Aerbunny",
+	icon: {
+		ForgeCaps: {
+			"wizardryutils:summoneditemdata": {}
+		},
+		id: "minecraft:spawn_egg",
+		tag: {
+			EntityTag: {
+				id: "aether_legacy:aerbunny"
+			}
+		}
+	},
+	disable_toast: true,
+	x: 6.0d,
+	y: 30.0d,
+	tasks: [{
+		uid: "10001679",
+		type: "observation",
+		match_type: "entity_id",
+		match: "aether_legacy:aerbunny",
+		timer: 0L
+	}],
+	rewards: [{
+		uid: "10001680",
+		type: "ftbmoney:money",
+		ftb_money: 10L
+	}]
+}

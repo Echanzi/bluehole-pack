@@ -1,0 +1,45 @@
+{
+	title: "Iron",
+	icon: {
+		ForgeCaps: {
+			"wizardryutils:summoneditemdata": {}
+		},
+		id: "minecraft:iron_ore"
+	},
+	x: 1.5d,
+	y: 0.5d,
+	text: [
+		""
+	],
+	dependencies: [
+		"621eb046"
+	],
+	dependency_requirement: "all_started",
+	tasks: [{
+		uid: "6707a2d0",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "minecraft:iron_ore"
+		}],
+		count: 3L
+	}],
+	rewards: [{
+		uid: "2e7420f6",
+		type: "item",
+		item: {
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "minecraft:bread"
+		},
+		count: 3
+	},
+	{
+		uid: "f2b52651",
+		type: "ftbmoney:money",
+		ftb_money: 15L
+	}]
+}

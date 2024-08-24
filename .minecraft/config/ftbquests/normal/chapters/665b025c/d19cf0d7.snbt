@@ -1,0 +1,30 @@
+{
+	title: "Donnie's Weapon of Choice",
+	x: -5.0d,
+	y: 2.5d,
+	text: [
+		"Yagadobegidebibobyagubugedibuhugubhe-"
+	],
+	tasks: [{
+		uid: "65af7dcc",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {},
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "spartanweaponry:boomerang_wood",
+			tag: {
+				AmmoUsed: 0,
+				enchChecked: 1b
+			}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "84cc1e59",
+		type: "ftbmoney:money",
+		ftb_money: 15L
+	}]
+}

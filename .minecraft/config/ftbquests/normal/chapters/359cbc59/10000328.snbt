@@ -1,0 +1,29 @@
+{
+	title: "Ash Sprite",
+	icon: {
+		ForgeCaps: {
+			"wizardryutils:summoneditemdata": {}
+		},
+		id: "minecraft:spawn_egg",
+		tag: {
+			EntityTag: {
+				id: "thebetweenlands:ash_sprite"
+			}
+		}
+	},
+	disable_toast: true,
+	x: 18.0d,
+	y: 16.0d,
+	tasks: [{
+		uid: "10000329",
+		type: "observation",
+		match_type: "entity_id",
+		match: "thebetweenlands:ash_sprite",
+		timer: 0L
+	}],
+	rewards: [{
+		uid: "10000330",
+		type: "ftbmoney:money",
+		ftb_money: 10L
+	}]
+}

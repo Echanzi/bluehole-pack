@@ -1,0 +1,22 @@
+{
+	title: "DrylandsEdge2",
+	icon: {
+		ForgeCaps: {
+			"wizardryutils:summoneditemdata": {}
+		},
+		id: "minecraft:grass"
+	},
+	disable_toast: true,
+	x: 4.0d,
+	y: 10.0d,
+	tasks: [{
+		uid: "20001634",
+		type: "biome",
+		biome: "openterraingenerator:overworld_drylandsedge2"
+	}],
+	rewards: [{
+		uid: "20001635",
+		type: "ftbmoney:money",
+		ftb_money: 25L
+	}]
+}

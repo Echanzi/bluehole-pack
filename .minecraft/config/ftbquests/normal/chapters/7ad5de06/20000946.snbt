@@ -1,0 +1,22 @@
+{
+	title: "ForestDryEdge",
+	icon: {
+		ForgeCaps: {
+			"wizardryutils:summoneditemdata": {}
+		},
+		id: "minecraft:grass"
+	},
+	disable_toast: true,
+	x: 6.0d,
+	y: 3.0d,
+	tasks: [{
+		uid: "20000947",
+		type: "biome",
+		biome: "openterraingenerator:overworld_forestdryedge"
+	}],
+	rewards: [{
+		uid: "20000948",
+		type: "ftbmoney:money",
+		ftb_money: 25L
+	}]
+}

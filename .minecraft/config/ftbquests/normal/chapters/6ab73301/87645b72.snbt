@@ -1,0 +1,27 @@
+{
+	title: "Men's Tears",
+	x: 13.0d,
+	y: -4.0d,
+	dependencies: [
+		"bb4c8a27"
+	],
+	tasks: [{
+		uid: "4888efdc",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "minecraft:potion",
+			tag: {
+				Potion: "netherex:sorrow"
+			}
+		}],
+		ignore_damage: true
+	}],
+	rewards: [{
+		uid: "f0664e67",
+		type: "ftbmoney:money",
+		ftb_money: 45L
+	}]
+}

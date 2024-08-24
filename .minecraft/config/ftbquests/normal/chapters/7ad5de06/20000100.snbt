@@ -1,0 +1,22 @@
+{
+	title: "Arctic Abyss",
+	icon: {
+		ForgeCaps: {
+			"wizardryutils:summoneditemdata": {}
+		},
+		id: "netherex:frostburn_ice"
+	},
+	disable_toast: true,
+	x: -12.0d,
+	y: -5.0d,
+	tasks: [{
+		uid: "20000101",
+		type: "biome",
+		biome: "netherex:arctic_abyss"
+	}],
+	rewards: [{
+		uid: "20000102",
+		type: "ftbmoney:money",
+		ftb_money: 25L
+	}]
+}

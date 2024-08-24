@@ -1,0 +1,22 @@
+{
+	title: "Flower Forest",
+	icon: {
+		ForgeCaps: {
+			"wizardryutils:summoneditemdata": {}
+		},
+		id: "minecraft:grass"
+	},
+	disable_toast: true,
+	x: -9.0d,
+	y: -2.0d,
+	tasks: [{
+		uid: "20000407",
+		type: "biome",
+		biome: "minecraft:mutated_forest"
+	}],
+	rewards: [{
+		uid: "20000408",
+		type: "ftbmoney:money",
+		ftb_money: 25L
+	}]
+}

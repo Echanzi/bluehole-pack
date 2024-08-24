@@ -1,0 +1,23 @@
+{
+	icon: {
+		ForgeCaps: {
+			"wizardryutils:summoneditemdata": {},
+			"astralsorcery:cap_item_amulet_holder": {}
+		},
+		id: "thebetweenlands:shimmer_stone",
+		tag: {}
+	},
+	x: 12.5d,
+	y: -6.5d,
+	tasks: [{
+		uid: "6dbba12f",
+		type: "kill",
+		entity: "thebetweenlands:peat_mummy",
+		value: 1L
+	}],
+	rewards: [{
+		uid: "e145c7a9",
+		type: "ftbmoney:money",
+		ftb_money: 20L
+	}]
+}

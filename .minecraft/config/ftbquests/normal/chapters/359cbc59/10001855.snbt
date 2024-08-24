@@ -1,0 +1,29 @@
+{
+	title: "Watermelon Slime",
+	icon: {
+		ForgeCaps: {
+			"wizardryutils:summoneditemdata": {}
+		},
+		id: "minecraft:spawn_egg",
+		tag: {
+			EntityTag: {
+				id: "specialmobs:watermelonslime"
+			}
+		}
+	},
+	disable_toast: true,
+	x: -1.0d,
+	y: 32.0d,
+	tasks: [{
+		uid: "10001856",
+		type: "observation",
+		match_type: "entity_id",
+		match: "specialmobs:watermelonslime",
+		timer: 0L
+	}],
+	rewards: [{
+		uid: "10001857",
+		type: "ftbmoney:money",
+		ftb_money: 10L
+	}]
+}

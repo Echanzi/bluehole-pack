@@ -1,0 +1,22 @@
+{
+	title: "TropicalPillarSmall",
+	icon: {
+		ForgeCaps: {
+			"wizardryutils:summoneditemdata": {}
+		},
+		id: "minecraft:grass"
+	},
+	disable_toast: true,
+	x: 20.0d,
+	y: 5.0d,
+	tasks: [{
+		uid: "20001187",
+		type: "biome",
+		biome: "openterraingenerator:overworld_tropicalpillarsmall"
+	}],
+	rewards: [{
+		uid: "20001188",
+		type: "ftbmoney:money",
+		ftb_money: 25L
+	}]
+}

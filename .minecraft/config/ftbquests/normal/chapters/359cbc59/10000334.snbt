@@ -1,0 +1,29 @@
+{
+	title: "Splodeshroom",
+	icon: {
+		ForgeCaps: {
+			"wizardryutils:summoneditemdata": {}
+		},
+		id: "minecraft:spawn_egg",
+		tag: {
+			EntityTag: {
+				id: "thebetweenlands:splodeshroom"
+			}
+		}
+	},
+	disable_toast: true,
+	x: 20.0d,
+	y: 16.0d,
+	tasks: [{
+		uid: "10000335",
+		type: "observation",
+		match_type: "entity_id",
+		match: "thebetweenlands:splodeshroom",
+		timer: 0L
+	}],
+	rewards: [{
+		uid: "10000336",
+		type: "ftbmoney:money",
+		ftb_money: 10L
+	}]
+}

@@ -1,0 +1,90 @@
+{
+	title: "Twilight Drip",
+	x: 7.0d,
+	y: -1.5d,
+	tasks: [{
+		uid: "3e165fe1",
+		type: "item",
+		disable_toast: true,
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "twilightforest:block_storage"
+		}]
+	},
+	{
+		uid: "3729b7f6",
+		type: "item",
+		disable_toast: true,
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "twilightforest:block_storage",
+			Damage: 1s
+		}]
+	},
+	{
+		uid: "977c4a1c",
+		type: "item",
+		disable_toast: true,
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "twilightforest:block_storage",
+			Damage: 2s
+		}]
+	},
+	{
+		uid: "9154bf7a",
+		type: "item",
+		disable_toast: true,
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "twilightforest:knightmetal_block"
+		}]
+	},
+	{
+		uid: "7e207b2d",
+		type: "item",
+		disable_toast: true,
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "twilightforest:block_storage",
+			Damage: 4s
+		}]
+	},
+	{
+		uid: "a634f065",
+		type: "item",
+		disable_toast: true,
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "twilightforest:block_storage",
+			Damage: 3s
+		}]
+	}],
+	rewards: [{
+		uid: "f187cc61",
+		type: "ftbmoney:money",
+		ftb_money: 100L
+	},
+	{
+		uid: "94663dee",
+		type: "item",
+		item: {
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "chancecubes:chance_cube"
+		}
+	}]
+}

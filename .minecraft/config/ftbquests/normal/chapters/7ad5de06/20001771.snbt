@@ -1,0 +1,22 @@
+{
+	title: "ForestPinyon",
+	icon: {
+		ForgeCaps: {
+			"wizardryutils:summoneditemdata": {}
+		},
+		id: "minecraft:grass"
+	},
+	disable_toast: true,
+	x: 17.0d,
+	y: 11.0d,
+	tasks: [{
+		uid: "20001772",
+		type: "biome",
+		biome: "openterraingenerator:overworld_forestpinyon"
+	}],
+	rewards: [{
+		uid: "20001773",
+		type: "ftbmoney:money",
+		ftb_money: 25L
+	}]
+}

@@ -1,0 +1,22 @@
+{
+	title: "BirchForestMountainRange",
+	icon: {
+		ForgeCaps: {
+			"wizardryutils:summoneditemdata": {}
+		},
+		id: "minecraft:grass"
+	},
+	disable_toast: true,
+	x: 10.0d,
+	y: 0.0d,
+	tasks: [{
+		uid: "20000662",
+		type: "biome",
+		biome: "openterraingenerator:overworld_birchforestmountainrange"
+	}],
+	rewards: [{
+		uid: "20000663",
+		type: "ftbmoney:money",
+		ftb_money: 25L
+	}]
+}

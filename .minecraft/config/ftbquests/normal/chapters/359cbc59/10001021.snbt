@@ -1,0 +1,29 @@
+{
+	title: "Swarm Spider",
+	icon: {
+		ForgeCaps: {
+			"wizardryutils:summoneditemdata": {}
+		},
+		id: "minecraft:spawn_egg",
+		tag: {
+			EntityTag: {
+				id: "twilightforest:swarm_spider"
+			}
+		}
+	},
+	disable_toast: true,
+	x: 18.0d,
+	y: 23.0d,
+	tasks: [{
+		uid: "10001022",
+		type: "observation",
+		match_type: "entity_id",
+		match: "twilightforest:swarm_spider",
+		timer: 0L
+	}],
+	rewards: [{
+		uid: "10001023",
+		type: "ftbmoney:money",
+		ftb_money: 10L
+	}]
+}

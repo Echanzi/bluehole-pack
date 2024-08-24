@@ -1,0 +1,24 @@
+{
+	title: "Zoo Keeper",
+	disable_toast: true,
+	x: 0.0d,
+	y: 34.0d,
+	tasks: [{
+		uid: "97e74eb0",
+		type: "observation",
+		icon: {
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "zawa:zoo_keeper"
+		},
+		match_type: "entity_id",
+		match: "zawa:zookeeper",
+		timer: 0L
+	}],
+	rewards: [{
+		uid: "d1d9c26a",
+		type: "ftbmoney:money",
+		ftb_money: 10L
+	}]
+}

@@ -1,0 +1,29 @@
+{
+	title: "Termid",
+	icon: {
+		ForgeCaps: {
+			"wizardryutils:summoneditemdata": {}
+		},
+		id: "minecraft:spawn_egg",
+		tag: {
+			EntityTag: {
+				id: "divinerpg:termid"
+			}
+		}
+	},
+	disable_toast: true,
+	x: 9.0d,
+	y: 20.0d,
+	tasks: [{
+		uid: "10000698",
+		type: "observation",
+		match_type: "entity_id",
+		match: "divinerpg:termid",
+		timer: 0L
+	}],
+	rewards: [{
+		uid: "10000699",
+		type: "ftbmoney:money",
+		ftb_money: 10L
+	}]
+}

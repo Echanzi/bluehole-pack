@@ -1,0 +1,58 @@
+{
+	title: "Warrior of Dawn",
+	icon: {
+		ForgeCaps: {
+			"wizardryutils:summoneditemdata": {},
+			"astralsorcery:cap_item_amulet_holder": {}
+		},
+		id: "aether_legacy:dungeon_key",
+		Damage: 2s
+	},
+	x: 5.5d,
+	y: -2.0d,
+	dependencies: [
+		"4c27034c"
+	],
+	tasks: [{
+		uid: "3ef0465b",
+		type: "kill",
+		title: "Slay the Sun Spirit",
+		icon: {
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {},
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "aether_legacy:gravitite_sword"
+		},
+		entity: "aether_legacy:sun_spirit",
+		value: 1L
+	},
+	{
+		uid: "7359cbf6",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {},
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "aether_legacy:dungeon_key",
+			Damage: 2s
+		}],
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "a090f411",
+		type: "ftbmoney:money",
+		ftb_money: 250L
+	},
+	{
+		uid: "864d1f18",
+		type: "item",
+		item: {
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "chancecubes:chance_cube"
+		}
+	}]
+}

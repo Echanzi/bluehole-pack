@@ -1,0 +1,22 @@
+{
+	title: "Alps",
+	icon: {
+		ForgeCaps: {
+			"wizardryutils:summoneditemdata": {}
+		},
+		id: "minecraft:snow"
+	},
+	disable_toast: true,
+	x: -2.0d,
+	y: -6.0d,
+	tasks: [{
+		uid: "20000032",
+		type: "biome",
+		biome: "biomesoplenty:alps"
+	}],
+	rewards: [{
+		uid: "20000033",
+		type: "ftbmoney:money",
+		ftb_money: 25L
+	}]
+}

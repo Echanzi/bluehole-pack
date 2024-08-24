@@ -1,0 +1,22 @@
+{
+	title: "Woodland",
+	icon: {
+		ForgeCaps: {
+			"wizardryutils:summoneditemdata": {}
+		},
+		id: "minecraft:grass"
+	},
+	disable_toast: true,
+	x: 10.0d,
+	y: -6.0d,
+	tasks: [{
+		uid: "20000068",
+		type: "biome",
+		biome: "biomesoplenty:woodland"
+	}],
+	rewards: [{
+		uid: "20000069",
+		type: "ftbmoney:money",
+		ftb_money: 25L
+	}]
+}

@@ -1,0 +1,35 @@
+{
+	title: "Table Tearany ",
+	x: 9.0d,
+	y: -3.0d,
+	dependencies: [
+		"8deefbde",
+		"6c021b42"
+	],
+	tasks: [{
+		uid: "5838fb4b",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "eplus:advanced_table"
+		}]
+	}],
+	rewards: [{
+		uid: "80ea3abb",
+		type: "ftbmoney:money",
+		ftb_money: 70L
+	},
+	{
+		uid: "e0969d0f",
+		type: "item",
+		item: {
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "minecraft:book"
+		},
+		count: 3
+	}]
+}

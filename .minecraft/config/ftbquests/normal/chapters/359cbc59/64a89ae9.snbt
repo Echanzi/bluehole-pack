@@ -1,0 +1,24 @@
+{
+	title: "Sumatran Rhinoceros",
+	disable_toast: true,
+	x: 6.0d,
+	y: 34.0d,
+	tasks: [{
+		uid: "72fd1882",
+		type: "observation",
+		icon: {
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "zawa:sumatran_rhinoceros"
+		},
+		match_type: "entity_id",
+		match: "zawa:sumatranrhinoceros",
+		timer: 0L
+	}],
+	rewards: [{
+		uid: "68f39507",
+		type: "ftbmoney:money",
+		ftb_money: 10L
+	}]
+}

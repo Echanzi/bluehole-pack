@@ -1,0 +1,25 @@
+{
+	x: 3.0d,
+	y: 8.0d,
+	dependencies: [
+		"df9566fb"
+	],
+	tasks: [{
+		uid: "8ea78202",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {},
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "thebetweenlands:predator_bow"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "44d4183e",
+		type: "ftbmoney:money",
+		ftb_money: 30L
+	}]
+}

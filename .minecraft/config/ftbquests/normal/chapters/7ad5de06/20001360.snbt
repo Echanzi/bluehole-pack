@@ -1,0 +1,22 @@
+{
+	title: "SnowyPlains",
+	icon: {
+		ForgeCaps: {
+			"wizardryutils:summoneditemdata": {}
+		},
+		id: "minecraft:grass"
+	},
+	disable_toast: true,
+	x: 12.0d,
+	y: 7.0d,
+	tasks: [{
+		uid: "20001361",
+		type: "biome",
+		biome: "openterraingenerator:overworld_snowyplains"
+	}],
+	rewards: [{
+		uid: "20001362",
+		type: "ftbmoney:money",
+		ftb_money: 25L
+	}]
+}

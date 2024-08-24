@@ -1,0 +1,25 @@
+{
+	x: 6.5d,
+	y: 1.5d,
+	dependencies: [
+		"debfec6b"
+	],
+	tasks: [{
+		uid: "9f57cc73",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {},
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "thebetweenlands:weedwood_rowboat"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "85f4206a",
+		type: "ftbmoney:money",
+		ftb_money: 15L
+	}]
+}

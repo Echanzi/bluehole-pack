@@ -1,0 +1,44 @@
+{
+	icon: {
+		ForgeCaps: {
+			"wizardryutils:summoneditemdata": {}
+		},
+		id: "colossalchests:chest_wall",
+		Damage: 5s
+	},
+	x: -12.0d,
+	y: 5.0d,
+	dependencies: [
+		"9eb9db12"
+	],
+	tasks: [{
+		uid: "4d3cee18",
+		type: "item",
+		disable_toast: true,
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "colossalchests:colossal_chest",
+			Damage: 5s
+		}]
+	},
+	{
+		uid: "3101f5ff",
+		type: "item",
+		disable_toast: true,
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "colossalchests:chest_wall",
+			Damage: 5s
+		}],
+		count: 3L
+	}],
+	rewards: [{
+		uid: "1fa959fb",
+		type: "ftbmoney:money",
+		ftb_money: 200L
+	}]
+}

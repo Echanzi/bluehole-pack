@@ -1,0 +1,26 @@
+{
+	x: -10.0d,
+	y: -4.0d,
+	hide_dependency_lines: true,
+	dependencies: [
+		"797af156"
+	],
+	tasks: [{
+		uid: "1cbd7aea",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {},
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "spartanfire:longbow_ice_dragonsteel"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "6ff453b8",
+		type: "ftbmoney:money",
+		ftb_money: 60L
+	}]
+}

@@ -1,0 +1,29 @@
+{
+	title: "Skeleton Druid",
+	icon: {
+		ForgeCaps: {
+			"wizardryutils:summoneditemdata": {}
+		},
+		id: "minecraft:spawn_egg",
+		tag: {
+			EntityTag: {
+				id: "twilightforest:skeleton_druid"
+			}
+		}
+	},
+	disable_toast: true,
+	x: 20.0d,
+	y: 23.0d,
+	tasks: [{
+		uid: "10001028",
+		type: "observation",
+		match_type: "entity_id",
+		match: "twilightforest:skeleton_druid",
+		timer: 0L
+	}],
+	rewards: [{
+		uid: "10001029",
+		type: "ftbmoney:money",
+		ftb_money: 10L
+	}]
+}

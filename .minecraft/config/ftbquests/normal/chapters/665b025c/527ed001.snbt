@@ -1,0 +1,29 @@
+{
+	title: "Trainer's Rapier",
+	x: -3.5d,
+	y: 1.5d,
+	dependencies: [
+		"c8f3a510"
+	],
+	tasks: [{
+		uid: "a866e384",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {},
+				"astralsorcery:cap_item_amulet_holder": {
+					AS_Amulet_HolderLeast: -6480113167060876494L,
+					AS_Amulet_HolderMost: 2911248940407866704L
+				}
+			},
+			id: "spartanweaponry:rapier_wood"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "6ef1450a",
+		type: "ftbmoney:money",
+		ftb_money: 15L
+	}]
+}

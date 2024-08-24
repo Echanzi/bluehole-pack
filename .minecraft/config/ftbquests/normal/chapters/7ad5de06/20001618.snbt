@@ -1,0 +1,22 @@
+{
+	title: "Mesa (Bryce) Forest",
+	icon: {
+		ForgeCaps: {
+			"wizardryutils:summoneditemdata": {}
+		},
+		id: "minecraft:grass"
+	},
+	disable_toast: true,
+	x: -1.0d,
+	y: 10.0d,
+	tasks: [{
+		uid: "20001619",
+		type: "biome",
+		biome: "openterraingenerator:overworld_mesa__bryce__forest"
+	}],
+	rewards: [{
+		uid: "20001620",
+		type: "ftbmoney:money",
+		ftb_money: 25L
+	}]
+}

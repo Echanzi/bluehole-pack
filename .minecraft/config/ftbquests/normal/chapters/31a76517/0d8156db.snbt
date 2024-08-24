@@ -1,0 +1,49 @@
+{
+	title: "Bluehole Beach Episode",
+	x: -1.0d,
+	y: -3.0d,
+	tasks: [{
+		uid: "94a5ee40",
+		type: "item",
+		disable_toast: true,
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "tropicraft:chair",
+			Damage: 15s
+		}],
+		ignore_nbt: 1b
+	},
+	{
+		uid: "76936f22",
+		type: "item",
+		disable_toast: true,
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "tropicraft:umbrella",
+			Damage: 15s
+		}],
+		ignore_nbt: 1b
+	},
+	{
+		uid: "3e26c9f7",
+		type: "item",
+		disable_toast: true,
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "tropicraft:float",
+			Damage: 15s
+		}],
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "015ed6a2",
+		type: "ftbmoney:money",
+		ftb_money: 30L
+	}]
+}

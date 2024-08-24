@@ -1,0 +1,26 @@
+{
+	title: "Bees",
+	x: 6.0d,
+	y: 0.5d,
+	tasks: [{
+		uid: "6e2286f1",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "harvestcraft:apiary"
+		}]
+	}],
+	rewards: [{
+		uid: "0a570151",
+		type: "item",
+		item: {
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {},
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "harvestcraft:queenbeeitem"
+		}
+	}]
+}

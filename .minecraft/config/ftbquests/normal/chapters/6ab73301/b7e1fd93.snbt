@@ -1,0 +1,73 @@
+{
+	title: "Brewing II",
+	x: 11.5d,
+	y: -2.0d,
+	dependencies: [
+		"bb4c8a27"
+	],
+	tasks: [{
+		uid: "8e44bad2",
+		type: "item",
+		disable_toast: true,
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "minecraft:potion",
+			tag: {
+				Potion: "minecraft:slowness"
+			}
+		}],
+		ignore_damage: true
+	},
+	{
+		uid: "9848411d",
+		type: "item",
+		disable_toast: true,
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "minecraft:potion",
+			tag: {
+				Potion: "minecraft:harming"
+			}
+		}],
+		ignore_damage: true
+	},
+	{
+		uid: "f7379b7e",
+		type: "item",
+		disable_toast: true,
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "minecraft:potion",
+			tag: {
+				Potion: "minecraft:poison"
+			}
+		}],
+		ignore_damage: true
+	},
+	{
+		uid: "bbc301c9",
+		type: "item",
+		disable_toast: true,
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "minecraft:potion",
+			tag: {
+				Potion: "minecraft:weakness"
+			}
+		}],
+		ignore_damage: true
+	}],
+	rewards: [{
+		uid: "76da30b2",
+		type: "ftbmoney:money",
+		ftb_money: 75L
+	}]
+}

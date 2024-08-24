@@ -1,0 +1,22 @@
+{
+	title: "TROPICS_RAINFOREST_HILLS",
+	icon: {
+		ForgeCaps: {
+			"wizardryutils:summoneditemdata": {}
+		},
+		id: "minecraft:grass"
+	},
+	disable_toast: true,
+	x: 17.0d,
+	y: -3.0d,
+	tasks: [{
+		uid: "20000386",
+		type: "biome",
+		biome: "tropicraft:tc_tropics_rainforest_hills"
+	}],
+	rewards: [{
+		uid: "20000387",
+		type: "ftbmoney:money",
+		ftb_money: 25L
+	}]
+}

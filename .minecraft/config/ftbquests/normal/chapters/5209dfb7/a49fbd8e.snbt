@@ -1,0 +1,53 @@
+{
+	title: "Herculean Feat",
+	x: 8.0d,
+	y: -3.0d,
+	description: "Unrelated to Hercules' Foot, sicko",
+	dependencies: [
+		"0bbfad1b"
+	],
+	tasks: [{
+		uid: "db22feb5",
+		type: "item",
+		disable_toast: true,
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "twilightforest:trophy",
+			Damage: 2s
+		}]
+	},
+	{
+		uid: "fea78eda",
+		type: "kill",
+		disable_toast: true,
+		entity: "twilightforest:hydra",
+		value: 1L
+	}],
+	rewards: [{
+		uid: "320c4b6b",
+		type: "item",
+		item: {
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "twilightforest:fiery_blood"
+		}
+	},
+	{
+		uid: "9046b272",
+		type: "ftbmoney:money",
+		ftb_money: 300L
+	},
+	{
+		uid: "f95d22b7",
+		type: "item",
+		item: {
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "chancecubes:chance_cube"
+		}
+	}]
+}

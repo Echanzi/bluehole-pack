@@ -1,0 +1,29 @@
+{
+	title: "Pirate Mimic",
+	icon: {
+		ForgeCaps: {
+			"wizardryutils:summoneditemdata": {}
+		},
+		id: "minecraft:spawn_egg",
+		tag: {
+			EntityTag: {
+				id: "treasure2:pirate_mimic"
+			}
+		}
+	},
+	disable_toast: true,
+	x: -8.0d,
+	y: 30.0d,
+	tasks: [{
+		uid: "10001637",
+		type: "observation",
+		match_type: "entity_id",
+		match: "treasure2:pirate_mimic",
+		timer: 0L
+	}],
+	rewards: [{
+		uid: "10001638",
+		type: "ftbmoney:money",
+		ftb_money: 10L
+	}]
+}

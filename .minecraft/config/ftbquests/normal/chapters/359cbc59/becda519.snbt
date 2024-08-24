@@ -1,0 +1,24 @@
+{
+	title: "Platypus",
+	disable_toast: true,
+	x: 4.0d,
+	y: 34.0d,
+	tasks: [{
+		uid: "86f7a9e5",
+		type: "observation",
+		icon: {
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "zawa:platypus"
+		},
+		match_type: "entity_id",
+		match: "zawa:platypus",
+		timer: 0L
+	}],
+	rewards: [{
+		uid: "928e0003",
+		type: "ftbmoney:money",
+		ftb_money: 10L
+	}]
+}

@@ -1,0 +1,22 @@
+{
+	title: "Tropical Savanna Edge",
+	icon: {
+		ForgeCaps: {
+			"wizardryutils:summoneditemdata": {}
+		},
+		id: "minecraft:grass"
+	},
+	disable_toast: true,
+	x: 9.0d,
+	y: 2.0d,
+	tasks: [{
+		uid: "20000857",
+		type: "biome",
+		biome: "openterraingenerator:overworld_tropical_savanna_edge"
+	}],
+	rewards: [{
+		uid: "20000858",
+		type: "ftbmoney:money",
+		ftb_money: 25L
+	}]
+}

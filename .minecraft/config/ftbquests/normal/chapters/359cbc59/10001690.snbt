@@ -1,0 +1,29 @@
+{
+	title: "Sentry",
+	icon: {
+		ForgeCaps: {
+			"wizardryutils:summoneditemdata": {}
+		},
+		id: "minecraft:spawn_egg",
+		tag: {
+			EntityTag: {
+				id: "aether_legacy:sentry"
+			}
+		}
+	},
+	disable_toast: true,
+	x: 10.0d,
+	y: 30.0d,
+	tasks: [{
+		uid: "10001691",
+		type: "observation",
+		match_type: "entity_id",
+		match: "aether_legacy:sentry",
+		timer: 0L
+	}],
+	rewards: [{
+		uid: "10001692",
+		type: "ftbmoney:money",
+		ftb_money: 10L
+	}]
+}

@@ -1,0 +1,24 @@
+{
+	title: "Prismarine Golem",
+	disable_toast: true,
+	x: -10.0d,
+	y: 37.0d,
+	tasks: [{
+		uid: "a690be60",
+		type: "observation",
+		icon: {
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "minecraft:prismarine"
+		},
+		match_type: "entity_id",
+		match: "golems:golem_prismarine",
+		timer: 0L
+	}],
+	rewards: [{
+		uid: "bfa41b42",
+		type: "ftbmoney:money",
+		ftb_money: 10L
+	}]
+}

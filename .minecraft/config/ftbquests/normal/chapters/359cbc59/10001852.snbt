@@ -1,0 +1,29 @@
+{
+	title: "Strawberry Slime",
+	icon: {
+		ForgeCaps: {
+			"wizardryutils:summoneditemdata": {}
+		},
+		id: "minecraft:spawn_egg",
+		tag: {
+			EntityTag: {
+				id: "specialmobs:strawberryslime"
+			}
+		}
+	},
+	disable_toast: true,
+	x: -2.0d,
+	y: 32.0d,
+	tasks: [{
+		uid: "10001853",
+		type: "observation",
+		match_type: "entity_id",
+		match: "specialmobs:strawberryslime",
+		timer: 0L
+	}],
+	rewards: [{
+		uid: "10001854",
+		type: "ftbmoney:money",
+		ftb_money: 10L
+	}]
+}

@@ -1,0 +1,24 @@
+{
+	title: "Albatross",
+	disable_toast: true,
+	x: -9.0d,
+	y: 35.0d,
+	tasks: [{
+		uid: "1c554c83",
+		type: "observation",
+		icon: {
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "zawa:albatross"
+		},
+		match_type: "entity_id",
+		match: "zawa:albatross",
+		timer: 0L
+	}],
+	rewards: [{
+		uid: "bd8c7867",
+		type: "ftbmoney:money",
+		ftb_money: 10L
+	}]
+}

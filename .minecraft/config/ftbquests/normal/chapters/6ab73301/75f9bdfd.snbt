@@ -1,0 +1,45 @@
+{
+	title: "Musically Inclined",
+	icon: {
+		ForgeCaps: {
+			"wizardryutils:summoneditemdata": {},
+			"astralsorcery:cap_item_amulet_holder": {}
+		},
+		id: "thebetweenlands:dj_wights_mixtape"
+	},
+	x: 6.5d,
+	y: -1.0d,
+	dependencies: [
+		"4a670c36"
+	],
+	tasks: [{
+		uid: "8facba2a",
+		type: "item",
+		disable_toast: true,
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {},
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "mcdj:blankrecord"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	},
+	{
+		uid: "2bbcbaf1",
+		type: "item",
+		disable_toast: true,
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "mcdj:musicgenerator"
+		}]
+	}],
+	rewards: [{
+		uid: "4f48c543",
+		type: "ftbmoney:money",
+		ftb_money: 50L
+	}]
+}

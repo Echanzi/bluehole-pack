@@ -1,0 +1,22 @@
+{
+	title: "Patchy Islands",
+	icon: {
+		ForgeCaps: {
+			"wizardryutils:summoneditemdata": {}
+		},
+		id: "thebetweenlands:swamp_grass"
+	},
+	disable_toast: true,
+	x: 3.0d,
+	y: -1.0d,
+	tasks: [{
+		uid: "20000542",
+		type: "biome",
+		biome: "thebetweenlands:patchy_islands"
+	}],
+	rewards: [{
+		uid: "20000543",
+		type: "ftbmoney:money",
+		ftb_money: 25L
+	}]
+}

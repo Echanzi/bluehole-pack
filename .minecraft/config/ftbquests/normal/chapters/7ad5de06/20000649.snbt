@@ -1,0 +1,22 @@
+{
+	title: "Extreme Hills Jungle",
+	icon: {
+		ForgeCaps: {
+			"wizardryutils:summoneditemdata": {}
+		},
+		id: "minecraft:grass"
+	},
+	disable_toast: true,
+	x: 6.0d,
+	y: 0.0d,
+	tasks: [{
+		uid: "20000650",
+		type: "biome",
+		biome: "openterraingenerator:overworld_extreme_hills_jungle"
+	}],
+	rewards: [{
+		uid: "20000651",
+		type: "ftbmoney:money",
+		ftb_money: 25L
+	}]
+}

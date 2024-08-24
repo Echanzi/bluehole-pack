@@ -1,0 +1,22 @@
+{
+	title: "Redwood Taiga Hills M",
+	icon: {
+		ForgeCaps: {
+			"wizardryutils:summoneditemdata": {}
+		},
+		id: "minecraft:grass"
+	},
+	disable_toast: true,
+	x: -2.0d,
+	y: -2.0d,
+	tasks: [{
+		uid: "20000428",
+		type: "biome",
+		biome: "minecraft:mutated_redwood_taiga_hills"
+	}],
+	rewards: [{
+		uid: "20000429",
+		type: "ftbmoney:money",
+		ftb_money: 25L
+	}]
+}

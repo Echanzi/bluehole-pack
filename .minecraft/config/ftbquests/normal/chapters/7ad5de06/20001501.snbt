@@ -1,0 +1,22 @@
+{
+	title: "Plains",
+	icon: {
+		ForgeCaps: {
+			"wizardryutils:summoneditemdata": {}
+		},
+		id: "minecraft:grass"
+	},
+	disable_toast: true,
+	x: -7.0d,
+	y: 9.0d,
+	tasks: [{
+		uid: "20001502",
+		type: "biome",
+		biome: "openterraingenerator:overworld_plains"
+	}],
+	rewards: [{
+		uid: "20001503",
+		type: "ftbmoney:money",
+		ftb_money: 25L
+	}]
+}

@@ -1,0 +1,24 @@
+{
+	title: "Red Panda",
+	disable_toast: true,
+	x: -8.0d,
+	y: 35.0d,
+	tasks: [{
+		uid: "4913b665",
+		type: "observation",
+		icon: {
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "zawa:red_panda"
+		},
+		match_type: "entity_id",
+		match: "zawa:redpanda",
+		timer: 0L
+	}],
+	rewards: [{
+		uid: "ddfd4558",
+		type: "ftbmoney:money",
+		ftb_money: 10L
+	}]
+}

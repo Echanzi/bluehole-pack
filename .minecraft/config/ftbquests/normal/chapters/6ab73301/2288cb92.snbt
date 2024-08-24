@@ -1,0 +1,28 @@
+{
+	title: "He Who Smelt It",
+	x: 4.5d,
+	y: 0.0d,
+	text: [
+		"Grants access to the Iron Pickaxe and Iron Sword in the Shop"
+	],
+	dependencies: [
+		"263edc16",
+		"dda0a110"
+	],
+	tasks: [{
+		uid: "1d3e948d",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "minecraft:iron_ingot"
+		}],
+		only_from_crafting: true
+	}],
+	rewards: [{
+		uid: "cd60160a",
+		type: "ftbmoney:money",
+		ftb_money: 15L
+	}]
+}

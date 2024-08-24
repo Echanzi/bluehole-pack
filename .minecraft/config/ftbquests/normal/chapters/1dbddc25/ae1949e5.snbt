@@ -1,0 +1,26 @@
+{
+	disable_toast: true,
+	x: -1.5d,
+	y: 0.5d,
+	can_repeat: true,
+	dependencies: [
+		"13f973d9"
+	],
+	tasks: [{
+		uid: "4a32f65c",
+		type: "kill",
+		icon: {
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "twilightforest:trophy"
+		},
+		entity: "twilightforest:naga",
+		value: 1L
+	}],
+	rewards: [{
+		uid: "fd83a354",
+		type: "ftbmoney:money",
+		ftb_money: 150L
+	}]
+}

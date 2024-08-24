@@ -1,0 +1,91 @@
+{
+	title: "J Balvin Meal",
+	icon: {
+		ForgeCaps: {
+			"wizardryutils:summoneditemdata": {}
+		},
+		id: "harvestcraft:deluxecheeseburgeritem"
+	},
+	x: -2.0d,
+	y: -6.0d,
+	text: [
+		"I don't even know who this guy is."
+	],
+	tasks: [{
+		uid: "dc289206",
+		type: "item",
+		disable_toast: true,
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "harvestcraft:hamburgeritem"
+		}],
+		consume_items: true
+	},
+	{
+		uid: "478cc5d3",
+		type: "item",
+		disable_toast: true,
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "harvestcraft:deluxecheeseburgeritem"
+		}],
+		consume_items: true
+	},
+	{
+		uid: "0fb71a16",
+		type: "item",
+		disable_toast: true,
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "harvestcraft:friesitem"
+		}],
+		consume_items: true
+	},
+	{
+		uid: "2be4f15e",
+		type: "item",
+		disable_toast: true,
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "harvestcraft:ketchupitem"
+		}],
+		consume_items: true
+	},
+	{
+		uid: "8b2fbc32",
+		type: "item",
+		disable_toast: true,
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "harvestcraft:vanillaicecreamitem"
+		}],
+		consume_items: true
+	},
+	{
+		uid: "8e6d8318",
+		type: "item",
+		disable_toast: true,
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "harvestcraft:creamcookieitem"
+		}],
+		consume_items: true
+	}],
+	rewards: [{
+		uid: "d4e58614",
+		type: "ftbmoney:money",
+		ftb_money: 100L
+	}]
+}

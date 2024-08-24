@@ -1,0 +1,23 @@
+{
+	title: "Pillsbury Exclusive",
+	x: -12.5d,
+	y: 2.0d,
+	dependencies: [
+		"0e0e6397"
+	],
+	tasks: [{
+		uid: "32b7f026",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "harvestcraft:doughitem"
+		}]
+	}],
+	rewards: [{
+		uid: "8bc2b983",
+		type: "ftbmoney:money",
+		ftb_money: 20L
+	}]
+}

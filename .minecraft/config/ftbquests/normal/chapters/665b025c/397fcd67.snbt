@@ -1,0 +1,26 @@
+{
+	x: 20.5d,
+	y: 19.0d,
+	hide_dependency_lines: true,
+	dependencies: [
+		"da04e365"
+	],
+	tasks: [{
+		uid: "18608243",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {},
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "spartanfire:pike_jungle"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "bf7d8dfb",
+		type: "ftbmoney:money",
+		ftb_money: 25L
+	}]
+}

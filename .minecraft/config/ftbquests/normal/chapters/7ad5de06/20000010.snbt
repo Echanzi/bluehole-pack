@@ -1,0 +1,22 @@
+{
+	title: "Mesa (Bryce)",
+	icon: {
+		ForgeCaps: {
+			"wizardryutils:summoneditemdata": {}
+		},
+		id: "minecraft:sand"
+	},
+	disable_toast: true,
+	x: -9.0d,
+	y: -6.0d,
+	tasks: [{
+		uid: "20000011",
+		type: "biome",
+		biome: "minecraft:mutated_mesa"
+	}],
+	rewards: [{
+		uid: "20000012",
+		type: "ftbmoney:money",
+		ftb_money: 25L
+	}]
+}

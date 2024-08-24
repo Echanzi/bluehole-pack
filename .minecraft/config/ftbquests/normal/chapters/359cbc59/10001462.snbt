@@ -1,0 +1,29 @@
+{
+	title: "Siren",
+	icon: {
+		ForgeCaps: {
+			"wizardryutils:summoneditemdata": {}
+		},
+		id: "minecraft:spawn_egg",
+		tag: {
+			EntityTag: {
+				id: "iceandfire:siren"
+			}
+		}
+	},
+	disable_toast: true,
+	x: 0.0d,
+	y: 28.0d,
+	tasks: [{
+		uid: "10001463",
+		type: "observation",
+		match_type: "entity_id",
+		match: "iceandfire:siren",
+		timer: 0L
+	}],
+	rewards: [{
+		uid: "10001464",
+		type: "ftbmoney:money",
+		ftb_money: 10L
+	}]
+}

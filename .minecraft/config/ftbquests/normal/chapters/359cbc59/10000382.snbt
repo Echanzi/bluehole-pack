@@ -1,0 +1,29 @@
+{
+	title: "Industrialist Fat Cat",
+	icon: {
+		ForgeCaps: {
+			"wizardryutils:summoneditemdata": {}
+		},
+		id: "minecraft:spawn_egg",
+		tag: {
+			EntityTag: {
+				id: "fat_cat:fat_cat"
+			}
+		}
+	},
+	disable_toast: true,
+	x: 3.0d,
+	y: 17.0d,
+	tasks: [{
+		uid: "10000383",
+		type: "observation",
+		match_type: "entity_id",
+		match: "fat_cat:fat_cat",
+		timer: 0L
+	}],
+	rewards: [{
+		uid: "10000384",
+		type: "ftbmoney:money",
+		ftb_money: 10L
+	}]
+}

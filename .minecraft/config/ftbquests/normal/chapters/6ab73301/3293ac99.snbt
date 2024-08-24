@@ -1,0 +1,23 @@
+{
+	title: "Studio Heat",
+	x: 6.5d,
+	y: -6.0d,
+	dependencies: [
+		"8a6d2ac7"
+	],
+	tasks: [{
+		uid: "77c83cf3",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "audiocassettes:tapedeck"
+		}]
+	}],
+	rewards: [{
+		uid: "7d83ff8e",
+		type: "ftbmoney:money",
+		ftb_money: 35L
+	}]
+}

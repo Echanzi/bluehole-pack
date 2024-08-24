@@ -1,0 +1,26 @@
+{
+	title: "Combo PVP 1.8.X",
+	x: 4.0d,
+	y: 2.5d,
+	dependencies: [
+		"e98e7534"
+	],
+	tasks: [{
+		uid: "18b343b1",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {},
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "spartanlands:caestus_lurker"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "2815aa94",
+		type: "ftbmoney:money",
+		ftb_money: 30L
+	}]
+}

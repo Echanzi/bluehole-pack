@@ -1,0 +1,33 @@
+{
+	title: "Grandpa's iPod Shuffle",
+	x: 6.5d,
+	y: -5.0d,
+	dependencies: [
+		"8a6d2ac7"
+	],
+	tasks: [{
+		uid: "13382f7e",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {},
+				Parent: {
+					walkman: []
+				},
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "audiocassettes:walkman",
+			tag: {
+				uid: "6294",
+				walkman: []
+			}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "370a4e6c",
+		type: "ftbmoney:money",
+		ftb_money: 50L
+	}]
+}

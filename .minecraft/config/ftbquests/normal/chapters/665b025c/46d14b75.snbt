@@ -1,0 +1,26 @@
+{
+	x: 10.5d,
+	y: 6.0d,
+	hide_dependency_lines: true,
+	dependencies: [
+		"0876ee48"
+	],
+	tasks: [{
+		uid: "52ac8b4c",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {},
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "spartanweaponry:saber_iron"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "a2c1e997",
+		type: "ftbmoney:money",
+		ftb_money: 25L
+	}]
+}

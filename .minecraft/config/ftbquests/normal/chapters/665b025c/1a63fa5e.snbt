@@ -1,0 +1,26 @@
+{
+	x: 18.5d,
+	y: 8.0d,
+	hide_dependency_lines: true,
+	dependencies: [
+		"72c8ef5a"
+	],
+	tasks: [{
+		uid: "2829dc44",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {},
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "spartanweaponry:katana_diamond"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "7aa6425f",
+		type: "ftbmoney:money",
+		ftb_money: 40L
+	}]
+}

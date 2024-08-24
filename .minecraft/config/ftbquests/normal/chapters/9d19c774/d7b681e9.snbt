@@ -1,0 +1,42 @@
+{
+	icon: {
+		ForgeCaps: {
+			"wizardryutils:summoneditemdata": {},
+			"astralsorcery:cap_item_amulet_holder": {}
+		},
+		id: "iceandfire:bestiary"
+	},
+	x: -8.5d,
+	y: -9.5d,
+	dependencies: [
+		"c2e001f1"
+	],
+	tasks: [{
+		uid: "5342c681",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {},
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "iceandfire:bestiary"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	},
+	{
+		uid: "2d8594fb",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "iceandfire:lectern"
+		}]
+	}],
+	rewards: [{
+		uid: "40bde7e6",
+		type: "ftbmoney:money",
+		ftb_money: 30L
+	}]
+}

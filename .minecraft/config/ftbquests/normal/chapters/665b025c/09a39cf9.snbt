@@ -1,0 +1,26 @@
+{
+	x: 23.0d,
+	y: 20.0d,
+	hide_dependency_lines: true,
+	dependencies: [
+		"7c0fc629"
+	],
+	tasks: [{
+		uid: "3d337466",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {},
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "spartanfire:lance_desert_venom"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "96d216f5",
+		type: "ftbmoney:money",
+		ftb_money: 30L
+	}]
+}

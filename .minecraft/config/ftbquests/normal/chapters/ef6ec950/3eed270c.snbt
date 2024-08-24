@@ -1,0 +1,27 @@
+{
+	title: "A Temporary Fix",
+	x: 3.0d,
+	y: -1.0d,
+	text: [
+		"As you are from another Dimension, You too will begin to decay in the Betweenlands",
+		"Find a Sap Tree to gain Balls of Sap, which prevent the Decay."
+	],
+	dependencies: [
+		"62380a69"
+	],
+	tasks: [{
+		uid: "3c885138",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "thebetweenlands:sap_ball"
+		}]
+	}],
+	rewards: [{
+		uid: "491ef6be",
+		type: "ftbmoney:money",
+		ftb_money: 15L
+	}]
+}

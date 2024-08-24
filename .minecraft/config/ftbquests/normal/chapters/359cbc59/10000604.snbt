@@ -1,0 +1,29 @@
+{
+	title: "Stone Golem",
+	icon: {
+		ForgeCaps: {
+			"wizardryutils:summoneditemdata": {}
+		},
+		id: "minecraft:spawn_egg",
+		tag: {
+			EntityTag: {
+				id: "divinerpg:stone_golem"
+			}
+		}
+	},
+	disable_toast: true,
+	x: 11.0d,
+	y: 19.0d,
+	tasks: [{
+		uid: "10000605",
+		type: "observation",
+		match_type: "entity_id",
+		match: "divinerpg:stone_golem",
+		timer: 0L
+	}],
+	rewards: [{
+		uid: "10000606",
+		type: "ftbmoney:money",
+		ftb_money: 10L
+	}]
+}

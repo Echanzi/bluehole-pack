@@ -1,0 +1,24 @@
+{
+	title: "Cockatoo",
+	disable_toast: true,
+	x: 17.0d,
+	y: 33.0d,
+	tasks: [{
+		uid: "6a3fc3e7",
+		type: "observation",
+		icon: {
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "zawa:cockatoo"
+		},
+		match_type: "entity_id",
+		match: "zawa:cockatoo",
+		timer: 0L
+	}],
+	rewards: [{
+		uid: "6d55f4b8",
+		type: "ftbmoney:money",
+		ftb_money: 10L
+	}]
+}

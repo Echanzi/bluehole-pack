@@ -1,0 +1,13 @@
+{
+	title: "Imagine Dragons",
+	icon: {
+		ForgeCaps: {
+			"wizardryutils:summoneditemdata": {}
+		},
+		id: "minecraft:skull",
+		Damage: 5s
+	},
+	always_invisible: false,
+	group: 0,
+	default_quest_shape: ""
+}

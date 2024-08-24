@@ -1,0 +1,29 @@
+{
+	title: "Litch",
+	icon: {
+		ForgeCaps: {
+			"wizardryutils:summoneditemdata": {}
+		},
+		id: "minecraft:spawn_egg",
+		tag: {
+			EntityTag: {
+				id: "specialmobs:undeadwitch"
+			}
+		}
+	},
+	disable_toast: true,
+	x: -1.0d,
+	y: 33.0d,
+	tasks: [{
+		uid: "10001955",
+		type: "observation",
+		match_type: "entity_id",
+		match: "specialmobs:undeadwitch",
+		timer: 0L
+	}],
+	rewards: [{
+		uid: "10001956",
+		type: "ftbmoney:money",
+		ftb_money: 10L
+	}]
+}

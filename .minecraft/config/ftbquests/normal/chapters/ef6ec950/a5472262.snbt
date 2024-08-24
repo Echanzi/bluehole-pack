@@ -1,0 +1,39 @@
+{
+	x: 5.0d,
+	y: 6.0d,
+	dependencies: [
+		"624f7dc6"
+	],
+	tasks: [{
+		uid: "552f6c4c",
+		type: "item",
+		disable_toast: true,
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {},
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "thebetweenlands:simple_slingshot"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	},
+	{
+		uid: "fa476e9f",
+		type: "item",
+		disable_toast: true,
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "thebetweenlands:items_misc",
+			Damage: 50s
+		}],
+		count: 32L
+	}],
+	rewards: [{
+		uid: "e46ef693",
+		type: "ftbmoney:money",
+		ftb_money: 15L
+	}]
+}

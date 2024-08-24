@@ -1,0 +1,21 @@
+{
+	title: "50 Piece Nuggets",
+	x: -0.5d,
+	y: -4.5d,
+	tasks: [{
+		uid: "37391efa",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "harvestcraft:friedchickenitem"
+		}],
+		consume_items: true
+	}],
+	rewards: [{
+		uid: "47575fc0",
+		type: "ftbmoney:money",
+		ftb_money: 40L
+	}]
+}

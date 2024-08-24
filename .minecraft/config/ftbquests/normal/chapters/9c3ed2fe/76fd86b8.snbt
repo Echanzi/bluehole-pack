@@ -1,0 +1,20 @@
+{
+	title: "Zephyr Hunter",
+	x: -0.5d,
+	y: 2.5d,
+	hide_dependency_lines: true,
+	dependencies: [
+		"ad208b40"
+	],
+	tasks: [{
+		uid: "93614a31",
+		type: "kill",
+		entity: "aether_legacy:zephyr",
+		value: 5L
+	}],
+	rewards: [{
+		uid: "9efe0b8d",
+		type: "ftbmoney:money",
+		ftb_money: 75L
+	}]
+}

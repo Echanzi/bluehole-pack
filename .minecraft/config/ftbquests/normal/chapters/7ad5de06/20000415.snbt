@@ -1,0 +1,22 @@
+{
+	title: "Undergarden",
+	icon: {
+		ForgeCaps: {
+			"wizardryutils:summoneditemdata": {}
+		},
+		id: "biomesoplenty:grass"
+	},
+	disable_toast: true,
+	x: -6.0d,
+	y: -2.0d,
+	tasks: [{
+		uid: "20000416",
+		type: "biome",
+		biome: "biomesoplenty:undergarden"
+	}],
+	rewards: [{
+		uid: "20000417",
+		type: "ftbmoney:money",
+		ftb_money: 25L
+	}]
+}

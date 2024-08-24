@@ -1,0 +1,23 @@
+{
+	x: 8.0d,
+	y: 2.0d,
+	can_repeat: true,
+	tasks: [{
+		uid: "a67cb16f",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {},
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "thebetweenlands:bone_wayfinder"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "42b72b8d",
+		type: "ftbmoney:money",
+		ftb_money: 20L
+	}]
+}

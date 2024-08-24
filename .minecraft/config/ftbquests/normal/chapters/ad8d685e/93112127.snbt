@@ -1,0 +1,20 @@
+{
+	title: "冰淇淋 :icecream:",
+	x: -5.0d,
+	y: -9.0d,
+	tasks: [{
+		uid: "2fe0c7f7",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "harvestcraft:icecreamitem"
+		}]
+	}],
+	rewards: [{
+		uid: "9a67981d",
+		type: "ftbmoney:money",
+		ftb_money: 40L
+	}]
+}

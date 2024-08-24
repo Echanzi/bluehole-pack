@@ -1,0 +1,22 @@
+{
+	title: "Raised Isles",
+	icon: {
+		ForgeCaps: {
+			"wizardryutils:summoneditemdata": {}
+		},
+		id: "thebetweenlands:swamp_grass"
+	},
+	disable_toast: true,
+	x: 12.0d,
+	y: -3.0d,
+	tasks: [{
+		uid: "20000371",
+		type: "biome",
+		biome: "thebetweenlands:raised_isles"
+	}],
+	rewards: [{
+		uid: "20000372",
+		type: "ftbmoney:money",
+		ftb_money: 25L
+	}]
+}

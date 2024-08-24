@@ -1,0 +1,27 @@
+{
+	title: "Holding Up A Mountain",
+	x: 7.5d,
+	y: 1.5d,
+	text: [
+		"Grants access to the Trident in the Shop"
+	],
+	dependencies: [
+		"4a670c36"
+	],
+	tasks: [{
+		uid: "6360fe6e",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "minecraft:diamond_block"
+		}],
+		count: 9L
+	}],
+	rewards: [{
+		uid: "63b3e91f",
+		type: "ftbmoney:money",
+		ftb_money: 75L
+	}]
+}

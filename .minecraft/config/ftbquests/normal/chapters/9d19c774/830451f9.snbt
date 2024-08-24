@@ -1,0 +1,62 @@
+{
+	title: "Hot Forge",
+	x: -11.5d,
+	y: -5.0d,
+	text: [
+		""
+	],
+	dependencies: [
+		"483d14a5"
+	],
+	tasks: [{
+		uid: "7b8935ff",
+		type: "item",
+		disable_toast: true,
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "iceandfire:dragonforge_fire_core_disabled"
+		}]
+	},
+	{
+		uid: "60bb6285",
+		type: "item",
+		disable_toast: true,
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "iceandfire:dragonforge_fire_input"
+		}]
+	},
+	{
+		uid: "d4dea169",
+		type: "item",
+		disable_toast: true,
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "iceandfire:dragonforge_fire_brick"
+		}],
+		count: 17L
+	},
+	{
+		uid: "9b3b5e23",
+		type: "item",
+		disable_toast: true,
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "iceandfire:dragon_bone_block"
+		}],
+		count: 8L
+	}],
+	rewards: [{
+		uid: "4a3d8ceb",
+		type: "ftbmoney:money",
+		ftb_money: 100L
+	}]
+}

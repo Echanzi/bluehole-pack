@@ -1,0 +1,29 @@
+{
+	title: "Helmet Crab",
+	icon: {
+		ForgeCaps: {
+			"wizardryutils:summoneditemdata": {}
+		},
+		id: "minecraft:spawn_egg",
+		tag: {
+			EntityTag: {
+				id: "twilightforest:helmet_crab"
+			}
+		}
+	},
+	x: 20.0d,
+	y: 24.0d,
+	hide_dependency_lines: true,
+	tasks: [{
+		uid: "10001127",
+		type: "observation",
+		match_type: "entity_id",
+		match: "twilightforest:helmet_crab",
+		timer: 0L
+	}],
+	rewards: [{
+		uid: "10001128",
+		type: "ftbmoney:money",
+		ftb_money: 10L
+	}]
+}

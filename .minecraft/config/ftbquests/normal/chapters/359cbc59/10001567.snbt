@@ -1,0 +1,29 @@
+{
+	title: "Ember",
+	icon: {
+		ForgeCaps: {
+			"wizardryutils:summoneditemdata": {}
+		},
+		id: "minecraft:spawn_egg",
+		tag: {
+			EntityTag: {
+				id: "netherex:ember"
+			}
+		}
+	},
+	disable_toast: true,
+	x: 2.0d,
+	y: 29.0d,
+	tasks: [{
+		uid: "10001568",
+		type: "observation",
+		match_type: "entity_id",
+		match: "netherex:ember",
+		timer: 0L
+	}],
+	rewards: [{
+		uid: "10001569",
+		type: "ftbmoney:money",
+		ftb_money: 10L
+	}]
+}

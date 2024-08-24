@@ -1,0 +1,33 @@
+{
+	x: -2.5d,
+	y: 11.0d,
+	hide_dependency_lines: true,
+	dependencies: [
+		"0c5cc95e"
+	],
+	tasks: [{
+		uid: "260a4bfc",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {},
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "spartanweaponry:throwing_axe_silver",
+			tag: {
+				AmmoUsed: 0,
+				UUIDMost: -5194175460084268841L,
+				UUIDLeast: -7987044140249932532L,
+				enchChecked: 1b,
+				Original: 1b
+			}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "642b04cd",
+		type: "ftbmoney:money",
+		ftb_money: 25L
+	}]
+}

@@ -1,0 +1,26 @@
+{
+	title: "Explorative Necesity",
+	x: -6.5d,
+	y: 1.5d,
+	dependencies: [
+		"2d35e996"
+	],
+	tasks: [{
+		uid: "de1b84e9",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {},
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "improvedbackpacks:backpack"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "b041b815",
+		type: "ftbmoney:money",
+		ftb_money: 15L
+	}]
+}

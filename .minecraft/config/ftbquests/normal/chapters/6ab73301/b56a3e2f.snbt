@@ -1,0 +1,36 @@
+{
+	title: "Strange Teleporter",
+	x: 5.5d,
+	y: 5.5d,
+	text: [
+		"Grants access to the Waystone and Warp Scroll in the Shop"
+	],
+	tasks: [{
+		uid: "d9de5c4e",
+		type: "interaction",
+		title: "Activate a Waystone",
+		icon: {
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "waystones:waystone"
+		},
+		match_type: "block_id",
+		match: "waystones:waystone"
+	}],
+	rewards: [{
+		uid: "35cb18e1",
+		type: "item",
+		item: {
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "waystones:warp_scroll"
+		}
+	},
+	{
+		uid: "c24fecb2",
+		type: "ftbmoney:money",
+		ftb_money: 15L
+	}]
+}

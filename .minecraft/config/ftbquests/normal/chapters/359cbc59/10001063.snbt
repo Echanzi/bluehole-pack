@@ -1,0 +1,29 @@
+{
+	title: "Kobold",
+	icon: {
+		ForgeCaps: {
+			"wizardryutils:summoneditemdata": {}
+		},
+		id: "minecraft:spawn_egg",
+		tag: {
+			EntityTag: {
+				id: "twilightforest:kobold"
+			}
+		}
+	},
+	disable_toast: true,
+	x: -1.0d,
+	y: 24.0d,
+	tasks: [{
+		uid: "10001064",
+		type: "observation",
+		match_type: "entity_id",
+		match: "twilightforest:kobold",
+		timer: 0L
+	}],
+	rewards: [{
+		uid: "10001065",
+		type: "ftbmoney:money",
+		ftb_money: 10L
+	}]
+}

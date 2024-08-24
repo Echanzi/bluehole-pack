@@ -1,0 +1,33 @@
+{
+	x: -5.0d,
+	y: 18.0d,
+	hide_dependency_lines: true,
+	dependencies: [
+		"476b243d"
+	],
+	tasks: [{
+		uid: "fde9e855",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {},
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "spartanlands:throwing_knife_octine",
+			tag: {
+				AmmoUsed: 0,
+				UUIDMost: -7814290180635472955L,
+				UUIDLeast: -4999442058492665371L,
+				enchChecked: 1b,
+				Original: 1b
+			}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "162a675a",
+		type: "ftbmoney:money",
+		ftb_money: 30L
+	}]
+}

@@ -1,0 +1,76 @@
+{
+	title: "Nether Vanquisher",
+	x: 10.0d,
+	y: -1.0d,
+	dependencies: [
+		"49d84025"
+	],
+	tasks: [{
+		uid: "21aeabd0",
+		type: "kill",
+		disable_toast: true,
+		entity: "quark:foxhound",
+		value: 1L
+	},
+	{
+		uid: "fffd0cbb",
+		type: "kill",
+		disable_toast: true,
+		entity: "netherex:wight",
+		value: 1L
+	},
+	{
+		uid: "48ea28f8",
+		type: "kill",
+		disable_toast: true,
+		entity: "netherex:spore_creeper",
+		value: 1L
+	},
+	{
+		uid: "ce47e013",
+		type: "kill",
+		disable_toast: true,
+		entity: "netherex:spinout",
+		value: 1L
+	},
+	{
+		uid: "ddb48a7d",
+		type: "kill",
+		disable_toast: true,
+		entity: "biomesoplenty:wasp",
+		value: 1L
+	},
+	{
+		uid: "67cf8739",
+		type: "kill",
+		disable_toast: true,
+		entity: "netherex:coolmar_spider",
+		value: 1L
+	},
+	{
+		uid: "004a370e",
+		type: "kill",
+		disable_toast: true,
+		entity: "netherex:salamander",
+		value: 1L
+	},
+	{
+		uid: "15fa9697",
+		type: "kill",
+		disable_toast: true,
+		entity: "quark:wraith",
+		value: 1L
+	},
+	{
+		uid: "42386cfd",
+		type: "kill",
+		disable_toast: true,
+		entity: "netherex:frost",
+		value: 1L
+	}],
+	rewards: [{
+		uid: "b5cd0acd",
+		type: "ftbmoney:money",
+		ftb_money: 75L
+	}]
+}

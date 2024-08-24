@@ -1,0 +1,50 @@
+{
+	x: 8.5d,
+	y: 9.5d,
+	tasks: [{
+		uid: "8127933b",
+		type: "item",
+		disable_toast: true,
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {},
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "tropicraft:yellow_scuba_goggles"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	},
+	{
+		uid: "44fdadde",
+		type: "item",
+		disable_toast: true,
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {},
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "tropicraft:yellow_chestplate_gear"
+		}],
+		ignore_nbt: 1b
+	},
+	{
+		uid: "a1fc4d39",
+		type: "item",
+		disable_toast: true,
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {},
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "tropicraft:yellow_flippers"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "e490de35",
+		type: "ftbmoney:money",
+		ftb_money: 75L
+	}]
+}

@@ -1,0 +1,29 @@
+{
+	title: "Necromancer",
+	icon: {
+		ForgeCaps: {
+			"wizardryutils:summoneditemdata": {}
+		},
+		id: "minecraft:spawn_egg",
+		tag: {
+			EntityTag: {
+				id: "cqrepoured:necromancer"
+			}
+		}
+	},
+	disable_toast: true,
+	x: 3.0d,
+	y: 18.0d,
+	tasks: [{
+		uid: "10000482",
+		type: "observation",
+		match_type: "entity_id",
+		match: "cqrepoured:necromancer",
+		timer: 0L
+	}],
+	rewards: [{
+		uid: "10000483",
+		type: "ftbmoney:money",
+		ftb_money: 10L
+	}]
+}

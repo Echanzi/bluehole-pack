@@ -1,0 +1,29 @@
+{
+	title: "Scuttler",
+	icon: {
+		ForgeCaps: {
+			"wizardryutils:summoneditemdata": {}
+		},
+		id: "minecraft:spawn_egg",
+		tag: {
+			EntityTag: {
+				id: "defiledlands:scuttler"
+			}
+		}
+	},
+	disable_toast: true,
+	x: 9.0d,
+	y: 18.0d,
+	tasks: [{
+		uid: "10000500",
+		type: "observation",
+		match_type: "entity_id",
+		match: "defiledlands:scuttler",
+		timer: 0L
+	}],
+	rewards: [{
+		uid: "10000501",
+		type: "ftbmoney:money",
+		ftb_money: 10L
+	}]
+}

@@ -1,0 +1,26 @@
+{
+	x: 10.5d,
+	y: 0.0d,
+	hide_dependency_lines: true,
+	dependencies: [
+		"0876ee48"
+	],
+	tasks: [{
+		uid: "f4e6d6e7",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {},
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "spartanlands:saber_octine"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "61fda413",
+		type: "ftbmoney:money",
+		ftb_money: 30L
+	}]
+}

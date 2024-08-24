@@ -1,0 +1,23 @@
+{
+	x: 13.5d,
+	y: 3.5d,
+	dependencies: [
+		"0fe05f91"
+	],
+	dependency_requirement: "all_started",
+	tasks: [{
+		uid: "42874b2a",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "thebetweenlands:aqua_middle_gem"
+		}]
+	}],
+	rewards: [{
+		uid: "610e3a4f",
+		type: "ftbmoney:money",
+		ftb_money: 30L
+	}]
+}

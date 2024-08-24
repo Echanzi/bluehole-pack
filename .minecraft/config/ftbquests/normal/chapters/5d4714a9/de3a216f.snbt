@@ -1,0 +1,36 @@
+{
+	x: 3.0d,
+	y: 0.0d,
+	dependencies: [
+		"65916f69",
+		"0fab5482",
+		"685d7d62"
+	],
+	tasks: [{
+		uid: "551e0ce8",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "vc:upgrades/item_upgrade_airship_frame",
+			Damage: 4s
+		}],
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "ad082d43",
+		type: "ftbmoney:money",
+		ftb_money: 55L
+	},
+	{
+		uid: "75175357",
+		type: "item",
+		item: {
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "vc:item_logic_chip"
+		}
+	}]
+}

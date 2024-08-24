@@ -1,0 +1,22 @@
+{
+	title: "MesaWhiteEdge2",
+	icon: {
+		ForgeCaps: {
+			"wizardryutils:summoneditemdata": {}
+		},
+		id: "minecraft:grass"
+	},
+	disable_toast: true,
+	x: 8.0d,
+	y: 12.0d,
+	tasks: [{
+		uid: "20001844",
+		type: "biome",
+		biome: "openterraingenerator:overworld_mesawhiteedge2"
+	}],
+	rewards: [{
+		uid: "20001845",
+		type: "ftbmoney:money",
+		ftb_money: 25L
+	}]
+}

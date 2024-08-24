@@ -1,0 +1,24 @@
+{
+	title: "Nether Wart Golem",
+	disable_toast: true,
+	x: -12.0d,
+	y: 37.0d,
+	tasks: [{
+		uid: "8796fb2b",
+		type: "observation",
+		icon: {
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "minecraft:nether_wart_block"
+		},
+		match_type: "entity_id",
+		match: "golems:golem_nether_wart",
+		timer: 0L
+	}],
+	rewards: [{
+		uid: "fece15e5",
+		type: "ftbmoney:money",
+		ftb_money: 10L
+	}]
+}

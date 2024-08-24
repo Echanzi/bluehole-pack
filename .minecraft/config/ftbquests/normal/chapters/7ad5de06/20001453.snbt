@@ -1,0 +1,22 @@
+{
+	title: "FloatingJungleEdge",
+	icon: {
+		ForgeCaps: {
+			"wizardryutils:summoneditemdata": {}
+		},
+		id: "minecraft:grass"
+	},
+	disable_toast: true,
+	x: 10.0d,
+	y: 8.0d,
+	tasks: [{
+		uid: "20001454",
+		type: "biome",
+		biome: "openterraingenerator:overworld_floatingjungleedge"
+	}],
+	rewards: [{
+		uid: "20001455",
+		type: "ftbmoney:money",
+		ftb_money: 25L
+	}]
+}

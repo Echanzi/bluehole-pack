@@ -1,0 +1,22 @@
+{
+	title: "Mega Taiga",
+	icon: {
+		ForgeCaps: {
+			"wizardryutils:summoneditemdata": {}
+		},
+		id: "minecraft:grass"
+	},
+	disable_toast: true,
+	x: 14.0d,
+	y: 10.0d,
+	tasks: [{
+		uid: "20001664",
+		type: "biome",
+		biome: "openterraingenerator:overworld_mega_taiga"
+	}],
+	rewards: [{
+		uid: "20001665",
+		type: "ftbmoney:money",
+		ftb_money: 25L
+	}]
+}

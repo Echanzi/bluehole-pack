@@ -1,0 +1,24 @@
+{
+	title: "Redstone Lamp Golem",
+	disable_toast: true,
+	x: -8.0d,
+	y: 37.0d,
+	tasks: [{
+		uid: "a9142ddb",
+		type: "observation",
+		icon: {
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "minecraft:redstone_lamp"
+		},
+		match_type: "entity_id",
+		match: "golems:golem_redstone_lamp",
+		timer: 0L
+	}],
+	rewards: [{
+		uid: "d81e111c",
+		type: "ftbmoney:money",
+		ftb_money: 10L
+	}]
+}

@@ -1,0 +1,29 @@
+{
+	title: "Ancient Vase (Nether)",
+	icon: {
+		ForgeCaps: {
+			"wizardryutils:summoneditemdata": {}
+		},
+		id: "minecraft:spawn_egg",
+		tag: {
+			EntityTag: {
+				id: "grimoireofgaia:vase_nether"
+			}
+		}
+	},
+	disable_toast: true,
+	x: 19.0d,
+	y: 27.0d,
+	tasks: [{
+		uid: "10001421",
+		type: "observation",
+		match_type: "entity_id",
+		match: "grimoireofgaia:vase_nether",
+		timer: 0L
+	}],
+	rewards: [{
+		uid: "10001422",
+		type: "ftbmoney:money",
+		ftb_money: 10L
+	}]
+}

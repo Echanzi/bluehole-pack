@@ -1,0 +1,26 @@
+{
+	title: "Quite Attractive",
+	x: 6.5d,
+	y: -3.0d,
+	dependencies: [
+		"270b446a"
+	],
+	tasks: [{
+		uid: "9924e366",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {},
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "simplemagnets:advancedmagnet"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "c480e0e0",
+		type: "ftbmoney:money",
+		ftb_money: 35L
+	}]
+}

@@ -1,0 +1,26 @@
+{
+	x: -9.0d,
+	y: -1.0d,
+	hide_dependency_lines: true,
+	dependencies: [
+		"797af156"
+	],
+	tasks: [{
+		uid: "cec63083",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {},
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "spartanfire:longbow_jungle_venom"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "bc6f4655",
+		type: "ftbmoney:money",
+		ftb_money: 30L
+	}]
+}

@@ -1,0 +1,22 @@
+{
+	title: "TemperatePlainsMeadowBorder",
+	icon: {
+		ForgeCaps: {
+			"wizardryutils:summoneditemdata": {}
+		},
+		id: "minecraft:grass"
+	},
+	disable_toast: true,
+	x: 16.0d,
+	y: 10.0d,
+	tasks: [{
+		uid: "20001670",
+		type: "biome",
+		biome: "openterraingenerator:overworld_temperateplainsmeadowborder"
+	}],
+	rewards: [{
+		uid: "20001671",
+		type: "ftbmoney:money",
+		ftb_money: 25L
+	}]
+}

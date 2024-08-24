@@ -1,0 +1,29 @@
+{
+	title: "Spinout",
+	icon: {
+		ForgeCaps: {
+			"wizardryutils:summoneditemdata": {}
+		},
+		id: "minecraft:spawn_egg",
+		tag: {
+			EntityTag: {
+				id: "netherex:spinout"
+			}
+		}
+	},
+	disable_toast: true,
+	x: 4.0d,
+	y: 29.0d,
+	tasks: [{
+		uid: "10001574",
+		type: "observation",
+		match_type: "entity_id",
+		match: "netherex:spinout",
+		timer: 0L
+	}],
+	rewards: [{
+		uid: "10001575",
+		type: "ftbmoney:money",
+		ftb_money: 10L
+	}]
+}

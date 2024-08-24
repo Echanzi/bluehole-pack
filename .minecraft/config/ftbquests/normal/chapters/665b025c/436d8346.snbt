@@ -1,0 +1,28 @@
+{
+	x: -10.5d,
+	y: 10.0d,
+	dependencies: [
+		"d5afb240"
+	],
+	tasks: [{
+		uid: "f67289d4",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {},
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "cgm:shotgun",
+			tag: {
+				AmmoCount: 4
+			}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "b94d162a",
+		type: "ftbmoney:money",
+		ftb_money: 50L
+	}]
+}

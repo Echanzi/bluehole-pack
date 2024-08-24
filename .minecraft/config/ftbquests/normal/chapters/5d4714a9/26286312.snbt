@@ -1,0 +1,35 @@
+{
+	x: 1.5d,
+	y: 3.0d,
+	dependencies: [
+		"c9e74046",
+		"d313dd3d"
+	],
+	tasks: [{
+		uid: "7f94f147",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "vc:upgrades/item_upgrade_airship_balloon",
+			Damage: 3s
+		}],
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "ecd92171",
+		type: "ftbmoney:money",
+		ftb_money: 50L
+	},
+	{
+		uid: "f2d6acb9",
+		type: "item",
+		item: {
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "vc:item_logic_chip"
+		}
+	}]
+}

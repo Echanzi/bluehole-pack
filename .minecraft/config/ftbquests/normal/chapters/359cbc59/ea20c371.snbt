@@ -1,0 +1,24 @@
+{
+	title: "Beaver",
+	disable_toast: true,
+	x: -6.0d,
+	y: 34.0d,
+	tasks: [{
+		uid: "c2ef1926",
+		type: "observation",
+		icon: {
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "zawa:beaver"
+		},
+		match_type: "entity_id",
+		match: "zawa:beaver",
+		timer: 0L
+	}],
+	rewards: [{
+		uid: "ba2d7c16",
+		type: "ftbmoney:money",
+		ftb_money: 10L
+	}]
+}

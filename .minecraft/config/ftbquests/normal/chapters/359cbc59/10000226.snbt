@@ -1,0 +1,29 @@
+{
+	title: "Sporeling",
+	icon: {
+		ForgeCaps: {
+			"wizardryutils:summoneditemdata": {}
+		},
+		id: "minecraft:spawn_egg",
+		tag: {
+			EntityTag: {
+				id: "thebetweenlands:sporeling"
+			}
+		}
+	},
+	disable_toast: true,
+	x: 17.0d,
+	y: 15.0d,
+	tasks: [{
+		uid: "10000227",
+		type: "observation",
+		match_type: "entity_id",
+		match: "thebetweenlands:sporeling",
+		timer: 0L
+	}],
+	rewards: [{
+		uid: "10000228",
+		type: "ftbmoney:money",
+		ftb_money: 10L
+	}]
+}

@@ -1,0 +1,22 @@
+{
+	title: "Jungle",
+	icon: {
+		ForgeCaps: {
+			"wizardryutils:summoneditemdata": {}
+		},
+		id: "minecraft:grass"
+	},
+	disable_toast: true,
+	x: 6.0d,
+	y: -2.0d,
+	tasks: [{
+		uid: "20000452",
+		type: "biome",
+		biome: "minecraft:jungle"
+	}],
+	rewards: [{
+		uid: "20000453",
+		type: "ftbmoney:money",
+		ftb_money: 25L
+	}]
+}

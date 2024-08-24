@@ -1,0 +1,23 @@
+{
+	title: "DragonScales",
+	x: 12.0d,
+	y: 7.5d,
+	dependencies: [
+		"80bd5470"
+	],
+	tasks: [{
+		uid: "09e4741f",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "bountifulbaubles:enderdragonscale"
+		}]
+	}],
+	rewards: [{
+		uid: "d92a07cc",
+		type: "ftbmoney:money",
+		ftb_money: 30L
+	}]
+}

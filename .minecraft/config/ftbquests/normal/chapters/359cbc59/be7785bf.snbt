@@ -1,0 +1,24 @@
+{
+	title: "Common Hippopotamus",
+	disable_toast: true,
+	x: 18.0d,
+	y: 34.0d,
+	tasks: [{
+		uid: "b9da89d7",
+		type: "observation",
+		icon: {
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "zawa:nile_hippopotamus"
+		},
+		match_type: "entity_id",
+		match: "zawa:nilehippopotamus",
+		timer: 0L
+	}],
+	rewards: [{
+		uid: "4c224009",
+		type: "ftbmoney:money",
+		ftb_money: 10L
+	}]
+}

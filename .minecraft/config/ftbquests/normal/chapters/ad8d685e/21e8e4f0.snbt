@@ -1,0 +1,23 @@
+{
+	title: "Land o Lakes",
+	x: -8.0d,
+	y: -1.0d,
+	dependencies: [
+		"2f447424"
+	],
+	tasks: [{
+		uid: "873a2cdf",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "harvestcraft:butteritem"
+		}]
+	}],
+	rewards: [{
+		uid: "5d3ae5a9",
+		type: "ftbmoney:money",
+		ftb_money: 20L
+	}]
+}

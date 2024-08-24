@@ -1,0 +1,29 @@
+{
+	title: "Toad",
+	icon: {
+		ForgeCaps: {
+			"wizardryutils:summoneditemdata": {}
+		},
+		id: "minecraft:spawn_egg",
+		tag: {
+			EntityTag: {
+				id: "grimoireofgaia:toad"
+			}
+		}
+	},
+	disable_toast: true,
+	x: 16.0d,
+	y: 27.0d,
+	tasks: [{
+		uid: "10001412",
+		type: "observation",
+		match_type: "entity_id",
+		match: "grimoireofgaia:toad",
+		timer: 0L
+	}],
+	rewards: [{
+		uid: "10001413",
+		type: "ftbmoney:money",
+		ftb_money: 10L
+	}]
+}

@@ -1,0 +1,24 @@
+{
+	title: "Glass Golem",
+	disable_toast: true,
+	x: 14.0d,
+	y: 36.0d,
+	tasks: [{
+		uid: "0a70a428",
+		type: "observation",
+		icon: {
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "minecraft:glass"
+		},
+		match_type: "entity_id",
+		match: "golems:golem_glass",
+		timer: 0L
+	}],
+	rewards: [{
+		uid: "d6d896dc",
+		type: "ftbmoney:money",
+		ftb_money: 10L
+	}]
+}

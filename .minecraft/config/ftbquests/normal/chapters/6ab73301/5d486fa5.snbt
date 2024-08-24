@@ -1,0 +1,29 @@
+{
+	title: "Educated and Aquacultured",
+	x: -1.5d,
+	y: 6.5d,
+	text: [
+		"Aquaculture Poles Catch Aquaculture Fish"
+	],
+	dependencies: [
+		"161c475a"
+	],
+	tasks: [{
+		uid: "682de6e5",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {},
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "aquaculture:fishing_rod"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "872178d7",
+		type: "ftbmoney:money",
+		ftb_money: 10L
+	}]
+}

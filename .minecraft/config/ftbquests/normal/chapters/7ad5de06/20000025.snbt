@@ -1,0 +1,22 @@
+{
+	title: "Mushroom Forest",
+	icon: {
+		ForgeCaps: {
+			"wizardryutils:summoneditemdata": {}
+		},
+		id: "minecraft:grass"
+	},
+	disable_toast: true,
+	x: -4.0d,
+	y: -6.0d,
+	tasks: [{
+		uid: "20000026",
+		type: "biome",
+		biome: "twilightforest:mushroom_forest"
+	}],
+	rewards: [{
+		uid: "20000027",
+		type: "ftbmoney:money",
+		ftb_money: 25L
+	}]
+}

@@ -1,0 +1,22 @@
+{
+	title: "TaigaSmall",
+	icon: {
+		ForgeCaps: {
+			"wizardryutils:summoneditemdata": {}
+		},
+		id: "minecraft:grass"
+	},
+	disable_toast: true,
+	x: -4.0d,
+	y: 4.0d,
+	tasks: [{
+		uid: "20001016",
+		type: "biome",
+		biome: "openterraingenerator:overworld_taigasmall"
+	}],
+	rewards: [{
+		uid: "20001017",
+		type: "ftbmoney:money",
+		ftb_money: 25L
+	}]
+}

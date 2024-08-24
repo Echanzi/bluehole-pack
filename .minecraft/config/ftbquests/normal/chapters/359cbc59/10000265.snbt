@@ -1,0 +1,29 @@
+{
+	title: "Tar Beast",
+	icon: {
+		ForgeCaps: {
+			"wizardryutils:summoneditemdata": {}
+		},
+		id: "minecraft:spawn_egg",
+		tag: {
+			EntityTag: {
+				id: "thebetweenlands:tar_beast"
+			}
+		}
+	},
+	disable_toast: true,
+	x: -3.0d,
+	y: 16.0d,
+	tasks: [{
+		uid: "10000266",
+		type: "observation",
+		match_type: "entity_id",
+		match: "thebetweenlands:tar_beast",
+		timer: 0L
+	}],
+	rewards: [{
+		uid: "10000267",
+		type: "ftbmoney:money",
+		ftb_money: 10L
+	}]
+}

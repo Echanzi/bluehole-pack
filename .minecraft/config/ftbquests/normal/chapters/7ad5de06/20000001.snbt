@@ -1,0 +1,22 @@
+{
+	title: "FrozenOcean",
+	icon: {
+		ForgeCaps: {
+			"wizardryutils:summoneditemdata": {}
+		},
+		id: "minecraft:grass"
+	},
+	disable_toast: true,
+	x: -12.0d,
+	y: -6.0d,
+	tasks: [{
+		uid: "20000002",
+		type: "biome",
+		biome: "minecraft:frozen_ocean"
+	}],
+	rewards: [{
+		uid: "20000003",
+		type: "ftbmoney:money",
+		ftb_money: 25L
+	}]
+}

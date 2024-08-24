@@ -1,0 +1,22 @@
+{
+	title: "Lush Desert",
+	icon: {
+		ForgeCaps: {
+			"wizardryutils:summoneditemdata": {}
+		},
+		id: "minecraft:hardened_clay"
+	},
+	disable_toast: true,
+	x: -10.0d,
+	y: -3.0d,
+	tasks: [{
+		uid: "20000305",
+		type: "biome",
+		biome: "biomesoplenty:lush_desert"
+	}],
+	rewards: [{
+		uid: "20000306",
+		type: "ftbmoney:money",
+		ftb_money: 25L
+	}]
+}

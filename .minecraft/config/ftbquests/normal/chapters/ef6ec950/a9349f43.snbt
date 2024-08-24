@@ -1,0 +1,30 @@
+{
+	title: "Enter the Underground Sludgeon",
+	x: 10.0d,
+	y: 7.5d,
+	text: [
+		"Complete the Puzzle and enter the Sludgeon",
+		"To complete the quest, look at a rotten support beam found inside the dungeon."
+	],
+	dependencies: [
+		"d67d4da7"
+	],
+	tasks: [{
+		uid: "578ccca7",
+		type: "observation",
+		icon: {
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "thebetweenlands:mud_bricks"
+		},
+		match_type: "block_id",
+		match: "thebetweenlands:wooden_support_beam_rotten_1",
+		timer: 0L
+	}],
+	rewards: [{
+		uid: "2175a549",
+		type: "ftbmoney:money",
+		ftb_money: 30L
+	}]
+}

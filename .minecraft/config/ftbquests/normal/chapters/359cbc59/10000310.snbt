@@ -1,0 +1,29 @@
+{
+	title: "Shambler",
+	icon: {
+		ForgeCaps: {
+			"wizardryutils:summoneditemdata": {}
+		},
+		id: "minecraft:spawn_egg",
+		tag: {
+			EntityTag: {
+				id: "thebetweenlands:shambler"
+			}
+		}
+	},
+	disable_toast: true,
+	x: 12.0d,
+	y: 16.0d,
+	tasks: [{
+		uid: "10000311",
+		type: "observation",
+		match_type: "entity_id",
+		match: "thebetweenlands:shambler",
+		timer: 0L
+	}],
+	rewards: [{
+		uid: "10000312",
+		type: "ftbmoney:money",
+		ftb_money: 10L
+	}]
+}

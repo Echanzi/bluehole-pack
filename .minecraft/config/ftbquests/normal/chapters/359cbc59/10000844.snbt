@@ -1,0 +1,29 @@
+{
+	title: "Crypt Keeper",
+	icon: {
+		ForgeCaps: {
+			"wizardryutils:summoneditemdata": {}
+		},
+		id: "minecraft:spawn_egg",
+		tag: {
+			EntityTag: {
+				id: "divinerpg:crypt_keeper"
+			}
+		}
+	},
+	disable_toast: true,
+	x: -8.0d,
+	y: 22.0d,
+	tasks: [{
+		uid: "10000845",
+		type: "observation",
+		match_type: "entity_id",
+		match: "divinerpg:crypt_keeper",
+		timer: 0L
+	}],
+	rewards: [{
+		uid: "10000846",
+		type: "ftbmoney:money",
+		ftb_money: 10L
+	}]
+}

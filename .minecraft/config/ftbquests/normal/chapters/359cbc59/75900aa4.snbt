@@ -1,0 +1,24 @@
+{
+	title: "End Stone Golem",
+	disable_toast: true,
+	x: 17.0d,
+	y: 36.0d,
+	tasks: [{
+		uid: "4d2c8a75",
+		type: "observation",
+		icon: {
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "minecraft:end_stone"
+		},
+		match_type: "entity_id",
+		match: "golems:golem_end_stone",
+		timer: 0L
+	}],
+	rewards: [{
+		uid: "21d23fa4",
+		type: "ftbmoney:money",
+		ftb_money: 10L
+	}]
+}

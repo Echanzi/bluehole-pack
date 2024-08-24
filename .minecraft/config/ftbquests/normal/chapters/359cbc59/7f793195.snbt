@@ -1,0 +1,24 @@
+{
+	title: "Tree Frog",
+	disable_toast: true,
+	x: 20.0d,
+	y: 33.0d,
+	tasks: [{
+		uid: "c43d77fe",
+		type: "observation",
+		icon: {
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "zawa:tree_frog"
+		},
+		match_type: "entity_id",
+		match: "zawa:treefrog",
+		timer: 0L
+	}],
+	rewards: [{
+		uid: "fffb37d6",
+		type: "ftbmoney:money",
+		ftb_money: 10L
+	}]
+}

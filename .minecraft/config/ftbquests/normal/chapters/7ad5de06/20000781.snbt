@@ -1,0 +1,22 @@
+{
+	title: "MonumentMountainsPeak2",
+	icon: {
+		ForgeCaps: {
+			"wizardryutils:summoneditemdata": {}
+		},
+		id: "minecraft:grass"
+	},
+	disable_toast: true,
+	x: 17.0d,
+	y: 1.0d,
+	tasks: [{
+		uid: "20000782",
+		type: "biome",
+		biome: "openterraingenerator:overworld_monumentmountainspeak2"
+	}],
+	rewards: [{
+		uid: "20000783",
+		type: "ftbmoney:money",
+		ftb_money: 25L
+	}]
+}

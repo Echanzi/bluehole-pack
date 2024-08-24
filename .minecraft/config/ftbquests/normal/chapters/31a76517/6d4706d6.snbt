@@ -1,0 +1,19 @@
+{
+	x: -2.5d,
+	y: 3.0d,
+	tasks: [{
+		uid: "72b52d48",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "tropicraft:fishing_net"
+		}]
+	}],
+	rewards: [{
+		uid: "df5a3b6c",
+		type: "ftbmoney:money",
+		ftb_money: 30L
+	}]
+}

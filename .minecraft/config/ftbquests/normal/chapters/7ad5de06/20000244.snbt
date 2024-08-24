@@ -1,0 +1,22 @@
+{
+	title: "Deep Mushroom Forest",
+	icon: {
+		ForgeCaps: {
+			"wizardryutils:summoneditemdata": {}
+		},
+		id: "minecraft:grass"
+	},
+	disable_toast: true,
+	x: 3.0d,
+	y: -4.0d,
+	tasks: [{
+		uid: "20000245",
+		type: "biome",
+		biome: "twilightforest:deep_mushroom_forest"
+	}],
+	rewards: [{
+		uid: "20000246",
+		type: "ftbmoney:money",
+		ftb_money: 25L
+	}]
+}

@@ -1,0 +1,38 @@
+{
+	title: "Hidden Quest",
+	x: 8.0d,
+	y: -2.0d,
+	text: [
+		"Isn't it Iron-",
+		"No. No it isn't."
+	],
+	dependencies: [
+		"a49fbd8e"
+	],
+	hide_text_until_complete: true,
+	tasks: [{
+		uid: "05577795",
+		type: "item",
+		title: "Hidden",
+		icon: {
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "minecraft:firework_charge"
+		},
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {},
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "twilightforest:fiery_pickaxe"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "4c3b9796",
+		type: "ftbmoney:money",
+		ftb_money: 69L
+	}]
+}

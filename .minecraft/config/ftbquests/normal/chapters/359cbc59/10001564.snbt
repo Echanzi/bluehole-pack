@@ -1,0 +1,29 @@
+{
+	title: "Wight",
+	icon: {
+		ForgeCaps: {
+			"wizardryutils:summoneditemdata": {}
+		},
+		id: "minecraft:spawn_egg",
+		tag: {
+			EntityTag: {
+				id: "netherex:wight"
+			}
+		}
+	},
+	disable_toast: true,
+	x: 1.0d,
+	y: 29.0d,
+	tasks: [{
+		uid: "10001565",
+		type: "observation",
+		match_type: "entity_id",
+		match: "netherex:wight",
+		timer: 0L
+	}],
+	rewards: [{
+		uid: "10001566",
+		type: "ftbmoney:money",
+		ftb_money: 10L
+	}]
+}

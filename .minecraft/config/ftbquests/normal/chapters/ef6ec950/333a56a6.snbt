@@ -1,0 +1,97 @@
+{
+	title: "Swamp Water Survey",
+	x: 9.5d,
+	y: -6.5d,
+	dependencies: [
+		"c525856b"
+	],
+	tasks: [{
+		uid: "a708f7af",
+		type: "item",
+		disable_toast: true,
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {},
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "thebetweenlands:bl_bucket",
+			tag: {
+				Fluid: {
+					FluidName: "swamp_water",
+					Amount: 1000
+				}
+			},
+			Damage: 1s
+		}]
+	},
+	{
+		uid: "c3bddda9",
+		type: "item",
+		disable_toast: true,
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {},
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "thebetweenlands:bl_bucket",
+			tag: {
+				Fluid: {
+					FluidName: "stagnant_water",
+					Amount: 1000
+				}
+			},
+			Damage: 1s
+		}]
+	},
+	{
+		uid: "4180834d",
+		type: "item",
+		disable_toast: true,
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {},
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "thebetweenlands:bl_bucket",
+			tag: {
+				Fluid: {
+					FluidName: "tar",
+					Amount: 1000
+				}
+			},
+			Damage: 1s
+		}]
+	},
+	{
+		uid: "f0583b5a",
+		type: "item",
+		disable_toast: true,
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {},
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "thebetweenlands:bl_bucket_rubber",
+			tag: {},
+			Damage: 1s
+		}]
+	},
+	{
+		uid: "2cafba1f",
+		type: "item",
+		disable_toast: true,
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {},
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "thebetweenlands:syrmorite_bucket_solid_rubber"
+		}],
+		ignore_damage: true
+	}],
+	rewards: [{
+		uid: "1de63453",
+		type: "ftbmoney:money",
+		ftb_money: 75L
+	}]
+}

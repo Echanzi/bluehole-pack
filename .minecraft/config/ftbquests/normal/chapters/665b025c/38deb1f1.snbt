@@ -1,0 +1,33 @@
+{
+	x: -2.5d,
+	y: 18.0d,
+	hide_dependency_lines: true,
+	dependencies: [
+		"0c5cc95e"
+	],
+	tasks: [{
+		uid: "8361bc70",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {},
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "spartanlands:throwing_axe_valonite",
+			tag: {
+				AmmoUsed: 0,
+				UUIDMost: 2254846989349504767L,
+				UUIDLeast: -6319129833393163716L,
+				enchChecked: 1b,
+				Original: 1b
+			}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "f776ac3e",
+		type: "ftbmoney:money",
+		ftb_money: 40L
+	}]
+}

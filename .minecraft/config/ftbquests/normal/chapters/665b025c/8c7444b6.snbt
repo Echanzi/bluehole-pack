@@ -1,0 +1,33 @@
+{
+	x: -12.5d,
+	y: 5.0d,
+	hide_dependency_lines: true,
+	dependencies: [
+		"d19cf0d7"
+	],
+	tasks: [{
+		uid: "87b6b0b2",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {},
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "spartancompat:boomerang_gravitite",
+			tag: {
+				AmmoUsed: 0,
+				UUIDMost: 8967746058800808666L,
+				UUIDLeast: -7166554375446299356L,
+				enchChecked: 1b,
+				Original: 1b
+			}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "61f0721b",
+		type: "ftbmoney:money",
+		ftb_money: 40L
+	}]
+}

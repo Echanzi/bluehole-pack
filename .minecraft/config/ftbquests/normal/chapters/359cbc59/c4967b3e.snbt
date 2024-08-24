@@ -1,0 +1,24 @@
+{
+	title: "Moose",
+	disable_toast: true,
+	x: 1.0d,
+	y: 34.0d,
+	tasks: [{
+		uid: "7760c33f",
+		type: "observation",
+		icon: {
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "zawa:moose"
+		},
+		match_type: "entity_id",
+		match: "zawa:moose",
+		timer: 0L
+	}],
+	rewards: [{
+		uid: "dfdb8308",
+		type: "ftbmoney:money",
+		ftb_money: 10L
+	}]
+}

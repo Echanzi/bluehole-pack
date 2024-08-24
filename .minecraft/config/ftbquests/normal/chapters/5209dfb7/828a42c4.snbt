@@ -1,0 +1,44 @@
+{
+	title: "Devious Lich",
+	x: 4.0d,
+	y: -3.0d,
+	dependencies: [
+		"13f973d9"
+	],
+	tasks: [{
+		uid: "c96e9bad",
+		type: "item",
+		disable_toast: true,
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "twilightforest:trophy",
+			Damage: 1s
+		}]
+	},
+	{
+		uid: "60ae9499",
+		type: "kill",
+		disable_toast: true,
+		entity: "twilightforest:lich",
+		value: 1L
+	}],
+	rewards: [{
+		uid: "e127e7b2",
+		type: "item",
+		item: {
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {},
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "twilightforest:twilight_scepter",
+			Damage: 99s
+		}
+	},
+	{
+		uid: "51d4afcc",
+		type: "ftbmoney:money",
+		ftb_money: 250L
+	}]
+}

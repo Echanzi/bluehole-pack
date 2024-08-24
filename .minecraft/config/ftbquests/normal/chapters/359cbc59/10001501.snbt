@@ -1,0 +1,29 @@
+{
+	title: "Dread Thrall",
+	icon: {
+		ForgeCaps: {
+			"wizardryutils:summoneditemdata": {}
+		},
+		id: "minecraft:spawn_egg",
+		tag: {
+			EntityTag: {
+				id: "iceandfire:dread_thrall"
+			}
+		}
+	},
+	disable_toast: true,
+	x: 13.0d,
+	y: 28.0d,
+	tasks: [{
+		uid: "10001502",
+		type: "observation",
+		match_type: "entity_id",
+		match: "iceandfire:dread_thrall",
+		timer: 0L
+	}],
+	rewards: [{
+		uid: "10001503",
+		type: "ftbmoney:money",
+		ftb_money: 10L
+	}]
+}

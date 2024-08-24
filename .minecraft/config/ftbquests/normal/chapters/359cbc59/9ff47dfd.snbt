@@ -1,0 +1,25 @@
+{
+	title: "Stained Terracotta Golem",
+	disable_toast: true,
+	x: 12.0d,
+	y: 36.0d,
+	tasks: [{
+		uid: "5576c8d1",
+		type: "observation",
+		icon: {
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "minecraft:stained_hardened_clay",
+			Damage: 1s
+		},
+		match_type: "entity_id",
+		match: "golems:golem_stained_clay",
+		timer: 0L
+	}],
+	rewards: [{
+		uid: "0c5ed4d7",
+		type: "ftbmoney:money",
+		ftb_money: 10L
+	}]
+}

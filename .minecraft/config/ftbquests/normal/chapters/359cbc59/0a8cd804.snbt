@@ -1,0 +1,24 @@
+{
+	title: "Quartz Golem",
+	disable_toast: true,
+	x: -9.0d,
+	y: 37.0d,
+	tasks: [{
+		uid: "0adc5553",
+		type: "observation",
+		icon: {
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "minecraft:quartz_block"
+		},
+		match_type: "entity_id",
+		match: "golems:golem_quartz",
+		timer: 0L
+	}],
+	rewards: [{
+		uid: "3ed3679a",
+		type: "ftbmoney:money",
+		ftb_money: 10L
+	}]
+}

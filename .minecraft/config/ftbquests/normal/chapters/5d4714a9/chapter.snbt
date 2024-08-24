@@ -1,0 +1,26 @@
+{
+	title: "Using Glide",
+	icon: {
+		ForgeCaps: {
+			"wizardryutils:summoneditemdata": {},
+			"astralsorcery:cap_item_amulet_holder": {},
+			"customizableelytra:elytra": {
+				LeftWing: {
+					CustomizationData: {},
+					BaseColor: -1,
+					CustomizationTags: []
+				},
+				RightWing: {
+					CustomizationData: {},
+					BaseColor: -1,
+					CustomizationTags: []
+				},
+				AreWingsDuplicates: 1b
+			}
+		},
+		id: "minecraft:elytra"
+	},
+	always_invisible: false,
+	group: 0,
+	default_quest_shape: ""
+}

@@ -1,0 +1,38 @@
+{
+	title: "#6b73b3Triple Beheading",
+	x: 11.5d,
+	y: 3.0d,
+	text: [
+		"Grants access to Totem of Undying in the Shop"
+	],
+	dependencies: [
+		"29696460"
+	],
+	tasks: [{
+		uid: "84b8fcda",
+		type: "kill",
+		icon: {
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "minecraft:nether_star"
+		},
+		entity: "minecraft:wither",
+		value: 1L
+	}],
+	rewards: [{
+		uid: "a36ca523",
+		type: "ftbmoney:money",
+		ftb_money: 250L
+	},
+	{
+		uid: "50507579",
+		type: "item",
+		item: {
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "chancecubes:chance_cube"
+		}
+	}]
+}

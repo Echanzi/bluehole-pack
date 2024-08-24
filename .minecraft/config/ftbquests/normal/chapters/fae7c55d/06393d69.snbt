@@ -1,0 +1,28 @@
+{
+	title: "Master Tome",
+	x: 2.0d,
+	y: -0.5d,
+	dependencies: [
+		"986adcad",
+		"0cccbf13"
+	],
+	dependency_requirement: "one_started",
+	tasks: [{
+		uid: "cac449f7",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {},
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "ebwizardry:arcane_tome",
+			Damage: 3s
+		}],
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "f80dcb3c",
+		type: "ftbmoney:money",
+		ftb_money: 50L
+	}]
+}

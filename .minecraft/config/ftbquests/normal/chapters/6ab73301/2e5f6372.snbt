@@ -1,0 +1,130 @@
+{
+	title: "Saltwater Fish",
+	x: -2.5d,
+	y: 8.5d,
+	dependencies: [
+		"5d486fa5"
+	],
+	tasks: [{
+		uid: "0ee38a48",
+		type: "item",
+		disable_toast: true,
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "aquaculture:fish",
+			Damage: 10s
+		}],
+		ignore_nbt: 2b
+	},
+	{
+		uid: "11b6fa3e",
+		type: "item",
+		disable_toast: true,
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "aquaculture:fish",
+			Damage: 11s
+		}],
+		ignore_nbt: 2b
+	},
+	{
+		uid: "013e366a",
+		type: "item",
+		disable_toast: true,
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "aquaculture:fish",
+			Damage: 9s
+		}],
+		ignore_nbt: 2b
+	},
+	{
+		uid: "8dd640ee",
+		type: "item",
+		disable_toast: true,
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "aquaculture:fish",
+			Damage: 12s
+		}],
+		ignore_nbt: 2b
+	},
+	{
+		uid: "220dc9bc",
+		type: "item",
+		disable_toast: true,
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "aquaculture:fish",
+			Damage: 13s
+		}],
+		ignore_nbt: 2b
+	},
+	{
+		uid: "20ec0ac9",
+		type: "item",
+		disable_toast: true,
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "aquaculture:fish",
+			Damage: 14s
+		}],
+		ignore_nbt: 2b
+	},
+	{
+		uid: "cfb1bf8c",
+		type: "item",
+		disable_toast: true,
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "aquaculture:fish",
+			Damage: 15s
+		}],
+		ignore_nbt: 2b
+	},
+	{
+		uid: "990cfd6f",
+		type: "item",
+		disable_toast: true,
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "aquaculture:fish",
+			Damage: 8s
+		}],
+		ignore_nbt: 2b
+	},
+	{
+		uid: "db0c17d2",
+		type: "item",
+		disable_toast: true,
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "aquaculture:fish",
+			Damage: 16s
+		}],
+		ignore_nbt: 2b
+	}],
+	rewards: [{
+		uid: "6b7fc1a9",
+		type: "ftbmoney:money",
+		ftb_money: 75L
+	}]
+}

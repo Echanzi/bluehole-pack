@@ -1,0 +1,23 @@
+{
+	x: 6.5d,
+	y: 6.0d,
+	tasks: [{
+		uid: "3a2c8983",
+		type: "observation",
+		title: "Climb the Wight Fortress",
+		icon: {
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "thebetweenlands:item_cage"
+		},
+		match_type: "block_id",
+		match: "thebetweenlands:item_cage",
+		timer: 0L
+	}],
+	rewards: [{
+		uid: "432f357e",
+		type: "ftbmoney:money",
+		ftb_money: 30L
+	}]
+}

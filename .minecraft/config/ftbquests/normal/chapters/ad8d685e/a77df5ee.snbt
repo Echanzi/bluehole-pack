@@ -1,0 +1,26 @@
+{
+	title: "AUTOMATIC FISHING 1.14 FIX",
+	x: 4.0d,
+	y: 2.5d,
+	tasks: [{
+		uid: "c3455baf",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "harvestcraft:watertrap"
+		}]
+	}],
+	rewards: [{
+		uid: "10c256ec",
+		type: "item",
+		item: {
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "harvestcraft:fishtrapbaititem"
+		},
+		count: 4
+	}]
+}

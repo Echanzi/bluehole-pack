@@ -1,0 +1,29 @@
+{
+	title: "Cyclops",
+	icon: {
+		ForgeCaps: {
+			"wizardryutils:summoneditemdata": {}
+		},
+		id: "minecraft:spawn_egg",
+		tag: {
+			EntityTag: {
+				id: "grimoireofgaia:cyclops"
+			}
+		}
+	},
+	disable_toast: true,
+	x: 0.0d,
+	y: 27.0d,
+	tasks: [{
+		uid: "10001364",
+		type: "observation",
+		match_type: "entity_id",
+		match: "grimoireofgaia:cyclops",
+		timer: 0L
+	}],
+	rewards: [{
+		uid: "10001365",
+		type: "ftbmoney:money",
+		ftb_money: 10L
+	}]
+}

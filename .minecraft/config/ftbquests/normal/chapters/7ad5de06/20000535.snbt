@@ -1,0 +1,22 @@
+{
+	title: "Moor",
+	icon: {
+		ForgeCaps: {
+			"wizardryutils:summoneditemdata": {}
+		},
+		id: "biomesoplenty:grass"
+	},
+	disable_toast: true,
+	x: 1.0d,
+	y: -1.0d,
+	tasks: [{
+		uid: "20000536",
+		type: "biome",
+		biome: "biomesoplenty:moor"
+	}],
+	rewards: [{
+		uid: "20000537",
+		type: "ftbmoney:money",
+		ftb_money: 25L
+	}]
+}

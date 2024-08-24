@@ -1,0 +1,29 @@
+{
+	title: "Slayer of Sludge",
+	x: 10.0d,
+	y: 9.5d,
+	dependencies: [
+		"a9349f43"
+	],
+	tasks: [{
+		uid: "83c31648",
+		type: "kill",
+		entity: "thebetweenlands:sludge_menace",
+		value: 1L
+	}],
+	rewards: [{
+		uid: "195ab6f7",
+		type: "ftbmoney:money",
+		ftb_money: 500L
+	},
+	{
+		uid: "7acc45c5",
+		type: "item",
+		item: {
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "chancecubes:chance_cube"
+		}
+	}]
+}

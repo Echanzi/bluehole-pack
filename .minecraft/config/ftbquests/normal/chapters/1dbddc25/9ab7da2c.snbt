@@ -1,0 +1,24 @@
+{
+	disable_toast: true,
+	x: 3.5d,
+	y: -4.0d,
+	can_repeat: true,
+	tasks: [{
+		uid: "4dc07b7e",
+		type: "kill",
+		icon: {
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {},
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "cqrepoured:sword_walker"
+		},
+		entity: "cqrepoured:walker_king",
+		value: 1L
+	}],
+	rewards: [{
+		uid: "fe10672f",
+		type: "ftbmoney:money",
+		ftb_money: 150L
+	}]
+}

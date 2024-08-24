@@ -1,0 +1,22 @@
+{
+	title: "BirchGroveBorder",
+	icon: {
+		ForgeCaps: {
+			"wizardryutils:summoneditemdata": {}
+		},
+		id: "minecraft:grass"
+	},
+	disable_toast: true,
+	x: 8.0d,
+	y: 8.0d,
+	tasks: [{
+		uid: "20001448",
+		type: "biome",
+		biome: "openterraingenerator:overworld_birchgroveborder"
+	}],
+	rewards: [{
+		uid: "20001449",
+		type: "ftbmoney:money",
+		ftb_money: 25L
+	}]
+}

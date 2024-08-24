@@ -1,0 +1,27 @@
+{
+	title: "Dark Figure of the Swamps",
+	x: -1.0d,
+	y: 0.0d,
+	tasks: [{
+		uid: "92655a3f",
+		type: "kill",
+		icon: {
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "minecraft:spawn_egg",
+			tag: {
+				EntityTag: {
+					id: "thebetweenlands:dark_druid"
+				}
+			}
+		},
+		entity: "thebetweenlands:dark_druid",
+		value: 1L
+	}],
+	rewards: [{
+		uid: "edb46be3",
+		type: "ftbmoney:money",
+		ftb_money: 20L
+	}]
+}

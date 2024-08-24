@@ -1,0 +1,66 @@
+{
+	title: "Charming Enterprise",
+	x: 7.5d,
+	y: 4.0d,
+	text: [
+		"Some Baubles can be reforged with both!"
+	],
+	dependencies: [
+		"22df391a",
+		"8624eb9f"
+	],
+	tasks: [{
+		uid: "9bc11c52",
+		type: "item",
+		disable_toast: true,
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {},
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "qualitytools:emerald_amulet",
+			tag: {
+				Quality: {}
+			}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	},
+	{
+		uid: "3a2effc5",
+		type: "item",
+		disable_toast: true,
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {},
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "qualitytools:emerald_ring",
+			tag: {
+				Quality: {
+					Slots: [
+						"baubles_trinket",
+						"offhand"
+					],
+					Color: "blue",
+					AttributeModifiers: [{
+						UUIDMost: -4023704114527121559L,
+						UUIDLeast: -5342462188615416745L,
+						Amount: 1.0d,
+						AttributeName: "potioncore.magicShielding",
+						Operation: 0,
+						Name: "qualitytools"
+					}],
+					Name: "quality.shielding.name"
+				}
+			}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "9ba0fa54",
+		type: "ftbmoney:money",
+		ftb_money: 50L
+	}]
+}

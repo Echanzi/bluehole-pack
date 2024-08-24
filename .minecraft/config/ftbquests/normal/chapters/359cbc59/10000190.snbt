@@ -1,0 +1,29 @@
+{
+	title: "Pirate",
+	icon: {
+		ForgeCaps: {
+			"wizardryutils:summoneditemdata": {}
+		},
+		id: "minecraft:spawn_egg",
+		tag: {
+			EntityTag: {
+				id: "quark:pirate"
+			}
+		}
+	},
+	disable_toast: true,
+	x: 5.0d,
+	y: 15.0d,
+	tasks: [{
+		uid: "10000191",
+		type: "observation",
+		match_type: "entity_id",
+		match: "quark:pirate",
+		timer: 0L
+	}],
+	rewards: [{
+		uid: "10000192",
+		type: "ftbmoney:money",
+		ftb_money: 10L
+	}]
+}

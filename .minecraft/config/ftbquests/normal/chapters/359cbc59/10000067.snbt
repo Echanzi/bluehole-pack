@@ -1,0 +1,29 @@
+{
+	title: "Enderman",
+	icon: {
+		ForgeCaps: {
+			"wizardryutils:summoneditemdata": {}
+		},
+		id: "minecraft:spawn_egg",
+		tag: {
+			EntityTag: {
+				id: "minecraft:enderman"
+			}
+		}
+	},
+	disable_toast: true,
+	x: -3.0d,
+	y: 14.0d,
+	tasks: [{
+		uid: "10000068",
+		type: "observation",
+		match_type: "entity_id",
+		match: "minecraft:enderman",
+		timer: 0L
+	}],
+	rewards: [{
+		uid: "10000069",
+		type: "ftbmoney:money",
+		ftb_money: 10L
+	}]
+}

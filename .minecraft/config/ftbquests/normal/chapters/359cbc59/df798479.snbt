@@ -1,0 +1,24 @@
+{
+	title: "Koala",
+	disable_toast: true,
+	x: 6.0d,
+	y: 35.0d,
+	tasks: [{
+		uid: "d38dc03c",
+		type: "observation",
+		icon: {
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "zawa:koala"
+		},
+		match_type: "entity_id",
+		match: "zawa:koala",
+		timer: 0L
+	}],
+	rewards: [{
+		uid: "5fbe2f37",
+		type: "ftbmoney:money",
+		ftb_money: 10L
+	}]
+}

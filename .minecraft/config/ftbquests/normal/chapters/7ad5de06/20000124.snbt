@@ -1,0 +1,22 @@
+{
+	title: "Steppe",
+	icon: {
+		ForgeCaps: {
+			"wizardryutils:summoneditemdata": {}
+		},
+		id: "biomesoplenty:grass"
+	},
+	disable_toast: true,
+	x: -4.0d,
+	y: -5.0d,
+	tasks: [{
+		uid: "20000125",
+		type: "biome",
+		biome: "biomesoplenty:steppe"
+	}],
+	rewards: [{
+		uid: "20000126",
+		type: "ftbmoney:money",
+		ftb_money: 25L
+	}]
+}

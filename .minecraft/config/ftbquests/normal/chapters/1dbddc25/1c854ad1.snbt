@@ -1,0 +1,26 @@
+{
+	disable_toast: true,
+	x: 4.5d,
+	y: -5.5d,
+	can_repeat: true,
+	dependencies: [
+		"6c021b42"
+	],
+	tasks: [{
+		uid: "a9e26ec0",
+		type: "kill",
+		icon: {
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "netherex:ghast_queen_tear"
+		},
+		entity: "netherex:ghast_queen",
+		value: 1L
+	}],
+	rewards: [{
+		uid: "883eb04d",
+		type: "ftbmoney:money",
+		ftb_money: 125L
+	}]
+}

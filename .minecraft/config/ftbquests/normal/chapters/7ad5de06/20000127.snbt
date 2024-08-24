@@ -1,0 +1,22 @@
+{
+	title: "Ocean",
+	icon: {
+		ForgeCaps: {
+			"wizardryutils:summoneditemdata": {}
+		},
+		id: "minecraft:grass"
+	},
+	disable_toast: true,
+	x: -3.0d,
+	y: -5.0d,
+	tasks: [{
+		uid: "20000128",
+		type: "biome",
+		biome: "minecraft:ocean"
+	}],
+	rewards: [{
+		uid: "20000129",
+		type: "ftbmoney:money",
+		ftb_money: 25L
+	}]
+}

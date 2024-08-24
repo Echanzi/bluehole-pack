@@ -1,0 +1,24 @@
+{
+	disable_toast: true,
+	x: 5.5d,
+	y: -4.0d,
+	can_repeat: true,
+	tasks: [{
+		uid: "15b5a59c",
+		type: "kill",
+		icon: {
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {},
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "cqrepoured:captain_revolver"
+		},
+		entity: "cqrepoured:pirate_captain",
+		value: 1L
+	}],
+	rewards: [{
+		uid: "cf5f9871",
+		type: "ftbmoney:money",
+		ftb_money: 125L
+	}]
+}

@@ -1,0 +1,22 @@
+{
+	title: "Mega Taiga",
+	icon: {
+		ForgeCaps: {
+			"wizardryutils:summoneditemdata": {}
+		},
+		id: "minecraft:grass"
+	},
+	disable_toast: true,
+	x: 13.0d,
+	y: -5.0d,
+	tasks: [{
+		uid: "20000176",
+		type: "biome",
+		biome: "minecraft:redwood_taiga"
+	}],
+	rewards: [{
+		uid: "20000177",
+		type: "ftbmoney:money",
+		ftb_money: 25L
+	}]
+}

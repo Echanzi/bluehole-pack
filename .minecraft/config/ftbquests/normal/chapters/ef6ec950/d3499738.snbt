@@ -1,0 +1,22 @@
+{
+	x: 15.5d,
+	y: -1.5d,
+	tasks: [{
+		uid: "e1cd7416",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {},
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "thebetweenlands:hag_hacker"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "a6538d1c",
+		type: "ftbmoney:money",
+		ftb_money: 25L
+	}]
+}

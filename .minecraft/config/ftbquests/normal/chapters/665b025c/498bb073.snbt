@@ -1,0 +1,26 @@
+{
+	x: 23.0d,
+	y: 0.0d,
+	hide_dependency_lines: true,
+	dependencies: [
+		"2bcebc10"
+	],
+	tasks: [{
+		uid: "7b60d634",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {},
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "spartanlands:battleaxe_valonite"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "0a655f67",
+		type: "ftbmoney:money",
+		ftb_money: 40L
+	}]
+}

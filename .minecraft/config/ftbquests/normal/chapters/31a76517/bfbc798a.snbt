@@ -1,0 +1,23 @@
+{
+	title: "Fuji Water",
+	x: -1.0d,
+	y: 1.5d,
+	tasks: [{
+		uid: "7709c986",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {},
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "tropicraft:tropics_water_bucket"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "efbedc7e",
+		type: "ftbmoney:money",
+		ftb_money: 30L
+	}]
+}

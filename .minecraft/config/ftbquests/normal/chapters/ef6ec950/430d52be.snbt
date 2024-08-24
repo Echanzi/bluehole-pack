@@ -1,0 +1,27 @@
+{
+	title: "Bog Bat",
+	disable_toast: true,
+	x: 0.0d,
+	y: 3.0d,
+	hide_dependency_lines: true,
+	dependencies: [
+		"62380a69"
+	],
+	tasks: [{
+		uid: "5bbdcfbc",
+		type: "kill",
+		icon: {
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "thebetweenlands:chiromaw_wing"
+		},
+		entity: "thebetweenlands:chiromaw",
+		value: 1L
+	}],
+	rewards: [{
+		uid: "baad7784",
+		type: "ftbmoney:money",
+		ftb_money: 15L
+	}]
+}

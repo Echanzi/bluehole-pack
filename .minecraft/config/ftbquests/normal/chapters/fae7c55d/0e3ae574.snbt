@@ -1,0 +1,22 @@
+{
+	x: -4.0d,
+	y: 2.5d,
+	dependencies: [
+		"c22d8a76"
+	],
+	tasks: [{
+		uid: "38273797",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "ebwizardry:arcane_workbench"
+		}]
+	}],
+	rewards: [{
+		uid: "3dd35728",
+		type: "ftbmoney:money",
+		ftb_money: 25L
+	}]
+}

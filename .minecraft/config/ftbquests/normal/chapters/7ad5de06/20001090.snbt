@@ -1,0 +1,22 @@
+{
+	title: "PlainsCliffM",
+	icon: {
+		ForgeCaps: {
+			"wizardryutils:summoneditemdata": {}
+		},
+		id: "minecraft:grass"
+	},
+	disable_toast: true,
+	x: -12.0d,
+	y: 5.0d,
+	tasks: [{
+		uid: "20001091",
+		type: "biome",
+		biome: "openterraingenerator:overworld_plainscliffm"
+	}],
+	rewards: [{
+		uid: "20001092",
+		type: "ftbmoney:money",
+		ftb_money: 25L
+	}]
+}

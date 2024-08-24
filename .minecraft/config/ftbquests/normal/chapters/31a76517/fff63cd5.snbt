@@ -1,0 +1,26 @@
+{
+	x: 0.5d,
+	y: 1.5d,
+	tasks: [{
+		uid: "43797b3b",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "tropicraft:bamboo_shoot"
+		}],
+		count: 128L,
+		consume_items: true
+	}],
+	rewards: [{
+		uid: "3ad15f2c",
+		type: "item",
+		item: {
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "futuremc:bamboo"
+		}
+	}]
+}

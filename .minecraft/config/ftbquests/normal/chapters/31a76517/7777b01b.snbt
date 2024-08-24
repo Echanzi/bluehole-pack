@@ -1,0 +1,43 @@
+{
+	title: "Premium Tropical Rocks",
+	x: -2.5d,
+	y: -3.0d,
+	tasks: [{
+		uid: "5991d165",
+		type: "item",
+		disable_toast: true,
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "tropicraft:zircon"
+		}]
+	},
+	{
+		uid: "aa09ca34",
+		type: "item",
+		disable_toast: true,
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "tropicraft:eudialyte"
+		}]
+	},
+	{
+		uid: "4034aa29",
+		type: "item",
+		disable_toast: true,
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "tropicraft:azurite"
+		}]
+	}],
+	rewards: [{
+		uid: "0113705b",
+		type: "ftbmoney:money",
+		ftb_money: 40L
+	}]
+}

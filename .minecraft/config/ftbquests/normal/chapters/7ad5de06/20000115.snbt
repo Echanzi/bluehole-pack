@@ -1,0 +1,22 @@
+{
+	title: "Meadow",
+	icon: {
+		ForgeCaps: {
+			"wizardryutils:summoneditemdata": {}
+		},
+		id: "minecraft:grass"
+	},
+	disable_toast: true,
+	x: -7.0d,
+	y: -5.0d,
+	tasks: [{
+		uid: "20000116",
+		type: "biome",
+		biome: "biomesoplenty:meadow"
+	}],
+	rewards: [{
+		uid: "20000117",
+		type: "ftbmoney:money",
+		ftb_money: 25L
+	}]
+}

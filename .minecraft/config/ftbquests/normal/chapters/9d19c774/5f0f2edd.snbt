@@ -1,0 +1,36 @@
+{
+	title: "Dragon of the West",
+	x: -13.0d,
+	y: -9.5d,
+	dependencies: [
+		"bfc0ee08"
+	],
+	tasks: [{
+		uid: "9ab824da",
+		type: "kill",
+		icon: {
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {},
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "iceandfire:dragonarmor_silver"
+		},
+		entity: "cqrepoured:nether_dragon",
+		value: 1L
+	}],
+	rewards: [{
+		uid: "cdd85fe6",
+		type: "ftbmoney:money",
+		ftb_money: 500L
+	},
+	{
+		uid: "75f17687",
+		type: "item",
+		item: {
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "chancecubes:chance_cube"
+		}
+	}]
+}

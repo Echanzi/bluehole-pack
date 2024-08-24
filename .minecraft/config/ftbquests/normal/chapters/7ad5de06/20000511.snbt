@@ -1,0 +1,22 @@
+{
+	title: "Wasteland",
+	icon: {
+		ForgeCaps: {
+			"wizardryutils:summoneditemdata": {}
+		},
+		id: "biomesoplenty:dried_sand"
+	},
+	disable_toast: true,
+	x: -7.0d,
+	y: -1.0d,
+	tasks: [{
+		uid: "20000512",
+		type: "biome",
+		biome: "biomesoplenty:wasteland"
+	}],
+	rewards: [{
+		uid: "20000513",
+		type: "ftbmoney:money",
+		ftb_money: 25L
+	}]
+}

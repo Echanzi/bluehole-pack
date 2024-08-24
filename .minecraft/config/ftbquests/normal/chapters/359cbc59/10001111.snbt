@@ -1,0 +1,29 @@
+{
+	title: "Towerwood Borer",
+	icon: {
+		ForgeCaps: {
+			"wizardryutils:summoneditemdata": {}
+		},
+		id: "minecraft:spawn_egg",
+		tag: {
+			EntityTag: {
+				id: "twilightforest:tower_termite"
+			}
+		}
+	},
+	disable_toast: true,
+	x: 15.0d,
+	y: 24.0d,
+	tasks: [{
+		uid: "10001112",
+		type: "observation",
+		match_type: "entity_id",
+		match: "twilightforest:tower_termite",
+		timer: 0L
+	}],
+	rewards: [{
+		uid: "10001113",
+		type: "ftbmoney:money",
+		ftb_money: 10L
+	}]
+}

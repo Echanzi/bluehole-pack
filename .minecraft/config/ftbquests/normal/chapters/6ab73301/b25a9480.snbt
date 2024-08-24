@@ -1,0 +1,37 @@
+{
+	title: "The Northern Barrier",
+	icon: {
+		ForgeCaps: {
+			"wizardryutils:summoneditemdata": {}
+		},
+		id: "quark:stone_andesite_bricks_wall"
+	},
+	x: 7.5d,
+	y: 5.5d,
+	description: "Your adventure halts to the wall",
+	tasks: [{
+		uid: "f5229b20",
+		type: "location",
+		title: "Meet with the Northern Wall",
+		icon: {
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "quark:stone_andesite_bricks_wall"
+		},
+		location: [I;
+			0,
+			-500000,
+			64,
+			-7984,
+			1000000,
+			64,
+			10
+		]
+	}],
+	rewards: [{
+		uid: "d8e4ae00",
+		type: "ftbmoney:money",
+		ftb_money: 100L
+	}]
+}

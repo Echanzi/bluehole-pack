@@ -1,0 +1,22 @@
+{
+	title: "Birch Forest Hills M",
+	icon: {
+		ForgeCaps: {
+			"wizardryutils:summoneditemdata": {}
+		},
+		id: "minecraft:grass"
+	},
+	disable_toast: true,
+	x: 5.0d,
+	y: 8.0d,
+	tasks: [{
+		uid: "20001439",
+		type: "biome",
+		biome: "openterraingenerator:overworld_birch_forest_hills_m"
+	}],
+	rewards: [{
+		uid: "20001440",
+		type: "ftbmoney:money",
+		ftb_money: 25L
+	}]
+}

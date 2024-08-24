@@ -1,0 +1,22 @@
+{
+	x: 15.5d,
+	y: -0.5d,
+	tasks: [{
+		uid: "fa0bb9c3",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {},
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "thebetweenlands:sludge_slicer"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "cbba7f1b",
+		type: "ftbmoney:money",
+		ftb_money: 25L
+	}]
+}

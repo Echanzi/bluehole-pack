@@ -1,0 +1,22 @@
+{
+	title: "SnowyTundra",
+	icon: {
+		ForgeCaps: {
+			"wizardryutils:summoneditemdata": {}
+		},
+		id: "biomesoplenty:grass"
+	},
+	disable_toast: true,
+	x: 0.0d,
+	y: -6.0d,
+	tasks: [{
+		uid: "20000038",
+		type: "biome",
+		biome: "biomesoplenty:snowy_tundra"
+	}],
+	rewards: [{
+		uid: "20000039",
+		type: "ftbmoney:money",
+		ftb_money: 25L
+	}]
+}

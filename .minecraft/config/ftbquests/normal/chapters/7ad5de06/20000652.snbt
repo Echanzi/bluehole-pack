@@ -1,0 +1,22 @@
+{
+	title: "ForestSakura",
+	icon: {
+		ForgeCaps: {
+			"wizardryutils:summoneditemdata": {}
+		},
+		id: "minecraft:grass"
+	},
+	disable_toast: true,
+	x: 7.0d,
+	y: 0.0d,
+	tasks: [{
+		uid: "20000653",
+		type: "biome",
+		biome: "openterraingenerator:overworld_forestsakura"
+	}],
+	rewards: [{
+		uid: "20000654",
+		type: "ftbmoney:money",
+		ftb_money: 25L
+	}]
+}

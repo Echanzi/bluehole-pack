@@ -1,0 +1,25 @@
+{
+	x: 5.5d,
+	y: -6.5d,
+	text: [
+		"My favorite thing to tear out of random antiquated technology"
+	],
+	dependencies: [
+		"8a6d2ac7"
+	],
+	tasks: [{
+		uid: "156366a0",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "audiocassettes:magnetictape"
+		}]
+	}],
+	rewards: [{
+		uid: "47ef2397",
+		type: "ftbmoney:money",
+		ftb_money: 30L
+	}]
+}

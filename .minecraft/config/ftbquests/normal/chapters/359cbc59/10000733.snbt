@@ -1,0 +1,29 @@
+{
+	title: "Megalith",
+	icon: {
+		ForgeCaps: {
+			"wizardryutils:summoneditemdata": {}
+		},
+		id: "minecraft:spawn_egg",
+		tag: {
+			EntityTag: {
+				id: "divinerpg:megalith"
+			}
+		}
+	},
+	disable_toast: true,
+	x: -12.0d,
+	y: 21.0d,
+	tasks: [{
+		uid: "10000734",
+		type: "observation",
+		match_type: "entity_id",
+		match: "divinerpg:megalith",
+		timer: 0L
+	}],
+	rewards: [{
+		uid: "10000735",
+		type: "ftbmoney:money",
+		ftb_money: 10L
+	}]
+}

@@ -1,0 +1,30 @@
+{
+	title: "Moa Egg Enthusiast ",
+	x: 4.0d,
+	y: 2.5d,
+	hide_dependency_lines: true,
+	dependencies: [
+		"ad208b40"
+	],
+	tasks: [{
+		uid: "99c0e539",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {},
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "aether_legacy:moa_egg",
+			tag: {
+				typeId: 1
+			}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "ee3610a0",
+		type: "ftbmoney:money",
+		ftb_money: 35L
+	}]
+}

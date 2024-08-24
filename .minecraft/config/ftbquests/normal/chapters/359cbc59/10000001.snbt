@@ -1,0 +1,29 @@
+{
+	title: "Sandmonster",
+	icon: {
+		ForgeCaps: {
+			"wizardryutils:summoneditemdata": {}
+		},
+		id: "minecraft:spawn_egg",
+		tag: {
+			EntityTag: {
+				id: "ancientbeasts:sandy"
+			}
+		}
+	},
+	disable_toast: true,
+	x: 5.0d,
+	y: 17.0d,
+	tasks: [{
+		uid: "10000002",
+		type: "observation",
+		match_type: "entity_id",
+		match: "ancientbeasts:sandy",
+		timer: 0L
+	}],
+	rewards: [{
+		uid: "10000003",
+		type: "ftbmoney:money",
+		ftb_money: 10L
+	}]
+}

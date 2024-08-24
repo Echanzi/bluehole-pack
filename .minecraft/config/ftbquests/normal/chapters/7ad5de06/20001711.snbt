@@ -1,0 +1,22 @@
+{
+	title: "SnowyLonePeak",
+	icon: {
+		ForgeCaps: {
+			"wizardryutils:summoneditemdata": {}
+		},
+		id: "minecraft:grass"
+	},
+	disable_toast: true,
+	x: -3.0d,
+	y: 11.0d,
+	tasks: [{
+		uid: "20001712",
+		type: "biome",
+		biome: "openterraingenerator:overworld_snowylonepeak"
+	}],
+	rewards: [{
+		uid: "20001713",
+		type: "ftbmoney:money",
+		ftb_money: 25L
+	}]
+}

@@ -1,0 +1,22 @@
+{
+	title: "BirchForestTropicalIsle3",
+	icon: {
+		ForgeCaps: {
+			"wizardryutils:summoneditemdata": {}
+		},
+		id: "minecraft:grass"
+	},
+	disable_toast: true,
+	x: 18.0d,
+	y: 7.0d,
+	tasks: [{
+		uid: "20001379",
+		type: "biome",
+		biome: "openterraingenerator:overworld_birchforesttropicalisle3"
+	}],
+	rewards: [{
+		uid: "20001380",
+		type: "ftbmoney:money",
+		ftb_money: 25L
+	}]
+}

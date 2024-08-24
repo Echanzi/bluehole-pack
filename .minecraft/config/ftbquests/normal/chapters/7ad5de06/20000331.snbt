@@ -1,0 +1,22 @@
+{
+	title: "Defiled Desert",
+	icon: {
+		ForgeCaps: {
+			"wizardryutils:summoneditemdata": {}
+		},
+		id: "defiledlands:sand_defiled"
+	},
+	disable_toast: true,
+	x: -1.0d,
+	y: -3.0d,
+	tasks: [{
+		uid: "20000332",
+		type: "biome",
+		biome: "defiledlands:desert_defiled"
+	}],
+	rewards: [{
+		uid: "20000333",
+		type: "ftbmoney:money",
+		ftb_money: 25L
+	}]
+}

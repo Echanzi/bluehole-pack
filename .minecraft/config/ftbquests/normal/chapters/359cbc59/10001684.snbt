@@ -1,0 +1,29 @@
+{
+	title: "Swet",
+	icon: {
+		ForgeCaps: {
+			"wizardryutils:summoneditemdata": {}
+		},
+		id: "minecraft:spawn_egg",
+		tag: {
+			EntityTag: {
+				id: "aether_legacy:swet"
+			}
+		}
+	},
+	disable_toast: true,
+	x: 8.0d,
+	y: 30.0d,
+	tasks: [{
+		uid: "10001685",
+		type: "observation",
+		match_type: "entity_id",
+		match: "aether_legacy:swet",
+		timer: 0L
+	}],
+	rewards: [{
+		uid: "10001686",
+		type: "ftbmoney:money",
+		ftb_money: 10L
+	}]
+}

@@ -1,0 +1,22 @@
+{
+	title: "Twilight Swamp",
+	icon: {
+		ForgeCaps: {
+			"wizardryutils:summoneditemdata": {}
+		},
+		id: "minecraft:grass"
+	},
+	disable_toast: true,
+	x: -1.0d,
+	y: -1.0d,
+	tasks: [{
+		uid: "20000530",
+		type: "biome",
+		biome: "twilightforest:twilight_swamp"
+	}],
+	rewards: [{
+		uid: "20000531",
+		type: "ftbmoney:money",
+		ftb_money: 25L
+	}]
+}

@@ -1,0 +1,22 @@
+{
+	title: "Ice Plains Spikes",
+	icon: {
+		ForgeCaps: {
+			"wizardryutils:summoneditemdata": {}
+		},
+		id: "minecraft:snow"
+	},
+	disable_toast: true,
+	x: 6.0d,
+	y: -5.0d,
+	tasks: [{
+		uid: "20000155",
+		type: "biome",
+		biome: "minecraft:mutated_ice_flats"
+	}],
+	rewards: [{
+		uid: "20000156",
+		type: "ftbmoney:money",
+		ftb_money: 25L
+	}]
+}

@@ -1,0 +1,24 @@
+{
+	title: "Great White Shark",
+	disable_toast: true,
+	x: 18.0d,
+	y: 35.0d,
+	tasks: [{
+		uid: "72d48df7",
+		type: "observation",
+		icon: {
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "zawa:great_white_shark"
+		},
+		match_type: "entity_id",
+		match: "zawa:greatwhiteshark",
+		timer: 0L
+	}],
+	rewards: [{
+		uid: "5d24b9a9",
+		type: "ftbmoney:money",
+		ftb_money: 10L
+	}]
+}

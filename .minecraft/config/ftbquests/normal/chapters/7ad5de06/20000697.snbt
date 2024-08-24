@@ -1,0 +1,22 @@
+{
+	title: "SwamplandSmall",
+	icon: {
+		ForgeCaps: {
+			"wizardryutils:summoneditemdata": {}
+		},
+		id: "minecraft:grass"
+	},
+	disable_toast: true,
+	x: -11.0d,
+	y: 1.0d,
+	tasks: [{
+		uid: "20000698",
+		type: "biome",
+		biome: "openterraingenerator:overworld_swamplandsmall"
+	}],
+	rewards: [{
+		uid: "20000699",
+		type: "ftbmoney:money",
+		ftb_money: 25L
+	}]
+}

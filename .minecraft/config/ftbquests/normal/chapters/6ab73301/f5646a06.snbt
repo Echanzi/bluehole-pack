@@ -1,0 +1,22 @@
+{
+	title: "#FFFFFF-000000-FFFFFFTorn Reality",
+	x: 5.5d,
+	y: 8.5d,
+	tasks: [{
+		uid: "e11adaca",
+		type: "dimension",
+		title: "Visit the Pocket Dimensions",
+		icon: {
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "dimdoors:quartz_dimensional_door"
+		},
+		dim: 687
+	}],
+	rewards: [{
+		uid: "40b098c0",
+		type: "ftbmoney:money",
+		ftb_money: 50L
+	}]
+}

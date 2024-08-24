@@ -1,0 +1,22 @@
+{
+	title: "AlpsFoothills",
+	icon: {
+		ForgeCaps: {
+			"wizardryutils:summoneditemdata": {}
+		},
+		id: "biomesoplenty:grass"
+	},
+	disable_toast: true,
+	x: 5.0d,
+	y: -6.0d,
+	tasks: [{
+		uid: "20000053",
+		type: "biome",
+		biome: "biomesoplenty:alps_foothills"
+	}],
+	rewards: [{
+		uid: "20000054",
+		type: "ftbmoney:money",
+		ftb_money: 25L
+	}]
+}

@@ -1,0 +1,54 @@
+{
+	title: "Cloud-Based Mining",
+	icon: {
+		ForgeCaps: {
+			"wizardryutils:summoneditemdata": {}
+		},
+		id: "aether_legacy:holystone"
+	},
+	x: 2.5d,
+	y: -0.5d,
+	dependencies: [
+		"6ea40ce4"
+	],
+	tasks: [{
+		uid: "1b428d52",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "aether_legacy:holystone"
+		}],
+		count: 16L
+	},
+	{
+		uid: "bbd0efdd",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "aether_legacy:ambrosium_shard"
+		}],
+		count: 8L
+	},
+	{
+		uid: "697a785c",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {},
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "aether_legacy:holystone_pickaxe"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "1684d562",
+		type: "ftbmoney:money",
+		ftb_money: 50L
+	}]
+}

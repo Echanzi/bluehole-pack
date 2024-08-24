@@ -1,0 +1,26 @@
+{
+	x: 18.0d,
+	y: -2.0d,
+	hide_dependency_lines: true,
+	dependencies: [
+		"72c8ef5a"
+	],
+	tasks: [{
+		uid: "0cf715d5",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {},
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "spartanfire:katana_desert_venom"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "339d655c",
+		type: "ftbmoney:money",
+		ftb_money: 30L
+	}]
+}

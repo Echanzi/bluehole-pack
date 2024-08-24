@@ -1,0 +1,22 @@
+{
+	x: 10.0d,
+	y: 6.0d,
+	dependencies: [
+		"85685f7a"
+	],
+	tasks: [{
+		uid: "54d946b8",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "thebetweenlands:spirit_fruit"
+		}]
+	}],
+	rewards: [{
+		uid: "8287ce8f",
+		type: "ftbmoney:money",
+		ftb_money: 30L
+	}]
+}

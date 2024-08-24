@@ -1,0 +1,22 @@
+{
+	title: "RiverDesert",
+	icon: {
+		ForgeCaps: {
+			"wizardryutils:summoneditemdata": {}
+		},
+		id: "minecraft:grass"
+	},
+	disable_toast: true,
+	x: 8.0d,
+	y: 7.0d,
+	tasks: [{
+		uid: "20001349",
+		type: "biome",
+		biome: "openterraingenerator:overworld_riverdesert"
+	}],
+	rewards: [{
+		uid: "20001350",
+		type: "ftbmoney:money",
+		ftb_money: 25L
+	}]
+}

@@ -1,0 +1,25 @@
+{
+	title: "#b62eff-dfa3ffThe End?",
+	icon: {
+		ForgeCaps: {
+			"wizardryutils:summoneditemdata": {}
+		},
+		id: "minecraft:dragon_egg"
+	},
+	x: 13.5d,
+	y: 9.0d,
+	dependencies: [
+		"68d483d1"
+	],
+	tasks: [{
+		uid: "7732ffaa",
+		type: "kill",
+		entity: "minecraft:ender_dragon",
+		value: 1L
+	}],
+	rewards: [{
+		uid: "d8ada4e4",
+		type: "ftbmoney:money",
+		ftb_money: 250L
+	}]
+}

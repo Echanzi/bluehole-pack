@@ -1,0 +1,81 @@
+{
+	title: "Heavenly Delights",
+	x: -2.0d,
+	y: -0.5d,
+	hide_dependency_lines: true,
+	dependencies: [
+		"ad208b40"
+	],
+	tasks: [{
+		uid: "8d9e5b7a",
+		type: "item",
+		disable_toast: true,
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "aether_legacy:blue_berry"
+		}]
+	},
+	{
+		uid: "e10f0ca2",
+		type: "item",
+		disable_toast: true,
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "aether_legacy:enchanted_blueberry"
+		}]
+	},
+	{
+		uid: "88de4135",
+		type: "item",
+		disable_toast: true,
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "aether_legacy:gummy_swet"
+		}]
+	},
+	{
+		uid: "df238805",
+		type: "item",
+		disable_toast: true,
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "aether_legacy:gummy_swet",
+			Damage: 1s
+		}]
+	},
+	{
+		uid: "58fe630e",
+		type: "item",
+		disable_toast: true,
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "aether_legacy:healing_stone"
+		}]
+	},
+	{
+		uid: "0b6e5626",
+		type: "item",
+		disable_toast: true,
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "aether_legacy:cooked_enchanted_cockatrice"
+		}]
+	}],
+	rewards: [{
+		uid: "48f4b994",
+		type: "ftbmoney:money",
+		ftb_money: 75L
+	}]
+}

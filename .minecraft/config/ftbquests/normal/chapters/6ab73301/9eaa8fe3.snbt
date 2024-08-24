@@ -1,0 +1,24 @@
+{
+	title: "Best Head",
+	x: 13.5d,
+	y: 11.5d,
+	dependencies: [
+		"80bd5470"
+	],
+	tasks: [{
+		uid: "5f288c97",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "minecraft:skull",
+			Damage: 5s
+		}]
+	}],
+	rewards: [{
+		uid: "76c3225e",
+		type: "ftbmoney:money",
+		ftb_money: 15L
+	}]
+}

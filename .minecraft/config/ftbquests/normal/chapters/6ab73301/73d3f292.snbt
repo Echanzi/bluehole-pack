@@ -1,0 +1,134 @@
+{
+	title: "Bucket List",
+	x: 5.0d,
+	y: 3.0d,
+	dependencies: [
+		"ee5cf5ba"
+	],
+	tasks: [{
+		uid: "6bc92423",
+		type: "item",
+		disable_toast: true,
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {},
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "minecraft:water_bucket"
+		}],
+		ignore_damage: true
+	},
+	{
+		uid: "c10153af",
+		type: "item",
+		disable_toast: true,
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {},
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "minecraft:lava_bucket"
+		}],
+		ignore_damage: true
+	},
+	{
+		uid: "e0003704",
+		type: "item",
+		disable_toast: true,
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {},
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "forge:bucketfilled",
+			tag: {
+				FluidName: "sand",
+				Amount: 1000
+			}
+		}],
+		ignore_damage: true
+	},
+	{
+		uid: "7c5ca2d1",
+		type: "item",
+		disable_toast: true,
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {},
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "forge:bucketfilled",
+			tag: {
+				FluidName: "honey",
+				Amount: 1000
+			}
+		}],
+		ignore_damage: true
+	},
+	{
+		uid: "c193767d",
+		type: "item",
+		disable_toast: true,
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {},
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "forge:bucketfilled",
+			tag: {
+				FluidName: "blood",
+				Amount: 1000
+			}
+		}],
+		ignore_damage: true
+	},
+	{
+		uid: "0838be6b",
+		type: "item",
+		disable_toast: true,
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {},
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "forge:bucketfilled",
+			tag: {
+				FluidName: "poison",
+				Amount: 1000
+			}
+		}],
+		ignore_damage: true
+	},
+	{
+		uid: "b6b8b48b",
+		type: "item",
+		disable_toast: true,
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {},
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "forge:bucketfilled",
+			tag: {
+				FluidName: "hot_spring_water",
+				Amount: 1000
+			}
+		}],
+		ignore_damage: true
+	}],
+	rewards: [{
+		uid: "6d9ebc91",
+		type: "ftbmoney:money",
+		ftb_money: 100L
+	},
+	{
+		uid: "8550f633",
+		type: "item",
+		item: {
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "chancecubes:chance_cube"
+		}
+	}]
+}

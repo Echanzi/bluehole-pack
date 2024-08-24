@@ -1,0 +1,22 @@
+{
+	title: "Caverns M",
+	icon: {
+		ForgeCaps: {
+			"wizardryutils:summoneditemdata": {}
+		},
+		id: "minecraft:grass"
+	},
+	disable_toast: true,
+	x: 11.0d,
+	y: 12.0d,
+	tasks: [{
+		uid: "20001853",
+		type: "biome",
+		biome: "openterraingenerator:overworld_caverns_m"
+	}],
+	rewards: [{
+		uid: "20001854",
+		type: "ftbmoney:money",
+		ftb_money: 25L
+	}]
+}

@@ -1,0 +1,22 @@
+{
+	x: 8.0d,
+	y: -1.0d,
+	dependencies: [
+		"6a28c86d"
+	],
+	tasks: [{
+		uid: "9ec43519",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "thebetweenlands:syrmorite_ore"
+		}]
+	}],
+	rewards: [{
+		uid: "5eb8c1e9",
+		type: "ftbmoney:money",
+		ftb_money: 15L
+	}]
+}

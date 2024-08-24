@@ -1,0 +1,22 @@
+{
+	title: "JunglePlateauLow",
+	icon: {
+		ForgeCaps: {
+			"wizardryutils:summoneditemdata": {}
+		},
+		id: "minecraft:grass"
+	},
+	disable_toast: true,
+	x: -5.0d,
+	y: 4.0d,
+	tasks: [{
+		uid: "20001013",
+		type: "biome",
+		biome: "openterraingenerator:overworld_jungleplateaulow"
+	}],
+	rewards: [{
+		uid: "20001014",
+		type: "ftbmoney:money",
+		ftb_money: 25L
+	}]
+}

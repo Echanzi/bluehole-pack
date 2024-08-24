@@ -1,0 +1,29 @@
+{
+	title: "Hydra",
+	icon: {
+		ForgeCaps: {
+			"wizardryutils:summoneditemdata": {}
+		},
+		id: "minecraft:spawn_egg",
+		tag: {
+			EntityTag: {
+				id: "iceandfire:if_hydra"
+			}
+		}
+	},
+	disable_toast: true,
+	x: 20.0d,
+	y: 28.0d,
+	tasks: [{
+		uid: "10001523",
+		type: "observation",
+		match_type: "entity_id",
+		match: "iceandfire:if_hydra",
+		timer: 0L
+	}],
+	rewards: [{
+		uid: "10001524",
+		type: "ftbmoney:money",
+		ftb_money: 10L
+	}]
+}

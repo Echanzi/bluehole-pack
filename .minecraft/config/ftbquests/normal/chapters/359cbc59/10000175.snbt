@@ -1,0 +1,29 @@
+{
+	title: "Archaeologist",
+	icon: {
+		ForgeCaps: {
+			"wizardryutils:summoneditemdata": {}
+		},
+		id: "minecraft:spawn_egg",
+		tag: {
+			EntityTag: {
+				id: "quark:archaeologist"
+			}
+		}
+	},
+	disable_toast: true,
+	x: 0.0d,
+	y: 15.0d,
+	tasks: [{
+		uid: "10000176",
+		type: "observation",
+		match_type: "entity_id",
+		match: "quark:archaeologist",
+		timer: 0L
+	}],
+	rewards: [{
+		uid: "10000177",
+		type: "ftbmoney:money",
+		ftb_money: 10L
+	}]
+}

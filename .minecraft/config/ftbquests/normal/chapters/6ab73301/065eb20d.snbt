@@ -1,0 +1,23 @@
+{
+	title: "Black Quartz",
+	x: 11.5d,
+	y: 6.0d,
+	dependencies: [
+		"68d483d1"
+	],
+	tasks: [{
+		uid: "e248abae",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "quark:biotite"
+		}]
+	}],
+	rewards: [{
+		uid: "64813c03",
+		type: "ftbmoney:money",
+		ftb_money: 15L
+	}]
+}

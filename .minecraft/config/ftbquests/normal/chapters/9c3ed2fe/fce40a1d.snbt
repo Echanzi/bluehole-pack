@@ -1,0 +1,45 @@
+{
+	title: "Dartisan",
+	x: 1.0d,
+	y: -3.5d,
+	dependencies: [
+		"a3d2faee"
+	],
+	tasks: [{
+		uid: "b930cf09",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "aether_legacy:dart"
+		}]
+	},
+	{
+		uid: "53b2100c",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "aether_legacy:dart",
+			Damage: 1s
+		}]
+	},
+	{
+		uid: "1528b29e",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "aether_legacy:dart",
+			Damage: 2s
+		}]
+	}],
+	rewards: [{
+		uid: "fdf55c77",
+		type: "ftbmoney:money",
+		ftb_money: 30L
+	}]
+}

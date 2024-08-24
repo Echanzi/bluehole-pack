@@ -1,0 +1,29 @@
+{
+	title: "Upgrades, people.",
+	x: 9.5d,
+	y: 1.5d,
+	text: [
+		"Ancient Debris only found where Original Netherrack Resides"
+	],
+	dependencies: [
+		"49d84025"
+	],
+	tasks: [{
+		uid: "f7971a31",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "futuremc:ancient_debris",
+			tag: {
+				reforgeCost: 235
+			}
+		}]
+	}],
+	rewards: [{
+		uid: "59c8c25c",
+		type: "ftbmoney:money",
+		ftb_money: 25L
+	}]
+}

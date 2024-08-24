@@ -1,0 +1,24 @@
+{
+	disable_toast: true,
+	x: -0.5d,
+	y: -4.0d,
+	can_repeat: true,
+	tasks: [{
+		uid: "b70e50ba",
+		type: "kill",
+		icon: {
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {},
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "cqrepoured:staff_vampiric"
+		},
+		entity: "cqrepoured:necromancer",
+		value: 1L
+	}],
+	rewards: [{
+		uid: "c34ebbeb",
+		type: "ftbmoney:money",
+		ftb_money: 100L
+	}]
+}

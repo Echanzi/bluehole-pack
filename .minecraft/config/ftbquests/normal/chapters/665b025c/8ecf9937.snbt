@@ -1,0 +1,33 @@
+{
+	x: 0.5d,
+	y: 19.0d,
+	hide_dependency_lines: true,
+	dependencies: [
+		"ea105265"
+	],
+	tasks: [{
+		uid: "23365c90",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {},
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "spartanfire:javelin_jungle",
+			tag: {
+				AmmoUsed: 0,
+				UUIDMost: -1344354284951879380L,
+				UUIDLeast: -4775707667591695888L,
+				enchChecked: 1b,
+				Original: 1b
+			}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "d8300ff0",
+		type: "ftbmoney:money",
+		ftb_money: 25L
+	}]
+}

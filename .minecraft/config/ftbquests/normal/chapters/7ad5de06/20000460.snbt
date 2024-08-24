@@ -1,0 +1,22 @@
+{
+	title: "Tundra",
+	icon: {
+		ForgeCaps: {
+			"wizardryutils:summoneditemdata": {}
+		},
+		id: "biomesoplenty:grass"
+	},
+	disable_toast: true,
+	x: 9.0d,
+	y: -2.0d,
+	tasks: [{
+		uid: "20000461",
+		type: "biome",
+		biome: "biomesoplenty:tundra"
+	}],
+	rewards: [{
+		uid: "20000462",
+		type: "ftbmoney:money",
+		ftb_money: 25L
+	}]
+}

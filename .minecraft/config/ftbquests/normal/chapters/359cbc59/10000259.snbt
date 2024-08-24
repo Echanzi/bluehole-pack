@@ -1,0 +1,29 @@
+{
+	title: "Frog",
+	icon: {
+		ForgeCaps: {
+			"wizardryutils:summoneditemdata": {}
+		},
+		id: "minecraft:spawn_egg",
+		tag: {
+			EntityTag: {
+				id: "thebetweenlands:frog"
+			}
+		}
+	},
+	disable_toast: true,
+	x: -5.0d,
+	y: 16.0d,
+	tasks: [{
+		uid: "10000260",
+		type: "observation",
+		match_type: "entity_id",
+		match: "thebetweenlands:frog",
+		timer: 0L
+	}],
+	rewards: [{
+		uid: "10000261",
+		type: "ftbmoney:money",
+		ftb_money: 10L
+	}]
+}

@@ -1,0 +1,36 @@
+{
+	title: "Setting up Shop",
+	x: -2.5d,
+	y: -1.0d,
+	text: [
+		"Does not regenerate your health, or serve as a respawn or save point.",
+		"",
+		"-Can be crafted out of any wood variant, can also be dyed"
+	],
+	dependencies: [
+		"621eb046"
+	],
+	tasks: [{
+		uid: "33afbf61",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {},
+				"campfire:type": {
+					ForgeCaps: {
+						"wizardryutils:summoneditemdata": {}
+					},
+					id: "minecraft:log",
+					Count: 1b,
+					Damage: 0s
+				}
+			},
+			id: "campfire:campfire"
+		}]
+	}],
+	rewards: [{
+		uid: "075035f6",
+		type: "ftbmoney:money",
+		ftb_money: 15L
+	}]
+}

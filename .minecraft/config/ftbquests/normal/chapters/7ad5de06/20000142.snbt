@@ -1,0 +1,22 @@
+{
+	title: "Oak Savanna",
+	icon: {
+		ForgeCaps: {
+			"wizardryutils:summoneditemdata": {}
+		},
+		id: "minecraft:grass"
+	},
+	disable_toast: true,
+	x: 2.0d,
+	y: -5.0d,
+	tasks: [{
+		uid: "20000143",
+		type: "biome",
+		biome: "twilightforest:oak_savannah"
+	}],
+	rewards: [{
+		uid: "20000144",
+		type: "ftbmoney:money",
+		ftb_money: 25L
+	}]
+}

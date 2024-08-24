@@ -1,0 +1,23 @@
+{
+	title: "/say @p is a dummy!",
+	x: -0.5d,
+	y: 2.5d,
+	dependencies: [
+		"621eb046"
+	],
+	tasks: [{
+		uid: "5b907d0c",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "testdummy:dummy"
+		}]
+	}],
+	rewards: [{
+		uid: "b2c26923",
+		type: "ftbmoney:money",
+		ftb_money: 25L
+	}]
+}

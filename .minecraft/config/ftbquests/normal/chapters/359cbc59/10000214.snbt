@@ -1,0 +1,29 @@
+{
+	title: "Sludge",
+	icon: {
+		ForgeCaps: {
+			"wizardryutils:summoneditemdata": {}
+		},
+		id: "minecraft:spawn_egg",
+		tag: {
+			EntityTag: {
+				id: "thebetweenlands:sludge"
+			}
+		}
+	},
+	disable_toast: true,
+	x: 13.0d,
+	y: 15.0d,
+	tasks: [{
+		uid: "10000215",
+		type: "observation",
+		match_type: "entity_id",
+		match: "thebetweenlands:sludge",
+		timer: 0L
+	}],
+	rewards: [{
+		uid: "10000216",
+		type: "ftbmoney:money",
+		ftb_money: 10L
+	}]
+}

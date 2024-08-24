@@ -1,0 +1,37 @@
+{
+	title: "Grow a Spirit Tree",
+	x: 8.0d,
+	y: 6.0d,
+	dependencies: [
+		"85685f7a"
+	],
+	tasks: [{
+		uid: "3d6fc9e3",
+		type: "observation",
+		title: "Look at the face of your own Spirit Tree",
+		icon: {
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "thebetweenlands:sapling_spirit_tree"
+		},
+		match_type: "entity_id",
+		match: "thebetweenlands:tamed_spirit_tree_face",
+		timer: 0L
+	}],
+	rewards: [{
+		uid: "1f0109b9",
+		type: "ftbmoney:money",
+		ftb_money: 200L
+	},
+	{
+		uid: "6cbc9000",
+		type: "item",
+		item: {
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "chancecubes:chance_cube"
+		}
+	}]
+}

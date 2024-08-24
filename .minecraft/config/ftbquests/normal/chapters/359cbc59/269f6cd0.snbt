@@ -1,0 +1,24 @@
+{
+	title: "Blue Fish",
+	disable_toast: true,
+	x: -7.0d,
+	y: 35.0d,
+	tasks: [{
+		uid: "d895742e",
+		type: "observation",
+		icon: {
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "zawa:blue_fish"
+		},
+		match_type: "entity_id",
+		match: "zawa:bluefish",
+		timer: 0L
+	}],
+	rewards: [{
+		uid: "dc214695",
+		type: "ftbmoney:money",
+		ftb_money: 10L
+	}]
+}

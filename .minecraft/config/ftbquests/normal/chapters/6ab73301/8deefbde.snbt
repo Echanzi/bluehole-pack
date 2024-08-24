@@ -1,0 +1,26 @@
+{
+	title: "ℸ ̣ ᔑʖꖎᒷ 𝙹⎓ !¡𝙹∴ᒷ∷",
+	x: 7.5d,
+	y: -2.0d,
+	text: [
+		"Grants access to the Enchantment Table in the Shop"
+	],
+	dependencies: [
+		"4a670c36"
+	],
+	tasks: [{
+		uid: "40cd1e80",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "minecraft:enchanting_table"
+		}]
+	}],
+	rewards: [{
+		uid: "2fbd5457",
+		type: "ftbmoney:money",
+		ftb_money: 25L
+	}]
+}

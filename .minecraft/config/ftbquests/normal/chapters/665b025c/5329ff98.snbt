@@ -1,0 +1,29 @@
+{
+	x: 19.0d,
+	y: 3.0d,
+	hide_dependency_lines: true,
+	dependencies: [
+		"72c8ef5a"
+	],
+	tasks: [{
+		uid: "a14c5ef4",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {},
+				"astralsorcery:cap_item_amulet_holder": {
+					AS_Amulet_HolderLeast: -6480113167060876494L,
+					AS_Amulet_HolderMost: 2911248940407866704L
+				}
+			},
+			id: "spartantwilight:katana_knightly"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "6ea9f67d",
+		type: "ftbmoney:money",
+		ftb_money: 40L
+	}]
+}

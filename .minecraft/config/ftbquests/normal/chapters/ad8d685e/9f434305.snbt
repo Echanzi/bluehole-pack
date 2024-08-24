@@ -1,0 +1,22 @@
+{
+	x: -5.0d,
+	y: -1.5d,
+	tasks: [{
+		uid: "82aa8cf8",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {},
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "harvestcraft:cuttingboarditem"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "9158b2f8",
+		type: "ftbmoney:money",
+		ftb_money: 20L
+	}]
+}

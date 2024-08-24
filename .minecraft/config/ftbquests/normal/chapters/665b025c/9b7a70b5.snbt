@@ -1,0 +1,57 @@
+{
+	title: "Metal Tipped Fletcher",
+	x: -1.5d,
+	y: -6.5d,
+	dependencies: [
+		"a7f000eb"
+	],
+	tasks: [{
+		uid: "dbc53179",
+		type: "item",
+		disable_toast: true,
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "minecraft:arrow"
+		}]
+	},
+	{
+		uid: "d920cd3d",
+		type: "item",
+		disable_toast: true,
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "spartanweaponry:arrow_wood"
+		}]
+	},
+	{
+		uid: "3fee57dd",
+		type: "item",
+		disable_toast: true,
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "spartanweaponry:arrow_iron"
+		}]
+	},
+	{
+		uid: "be185618",
+		type: "item",
+		disable_toast: true,
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "spartanweaponry:arrow_diamond"
+		}]
+	}],
+	rewards: [{
+		uid: "485d163f",
+		type: "ftbmoney:money",
+		ftb_money: 30L
+	}]
+}

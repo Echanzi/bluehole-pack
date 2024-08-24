@@ -1,0 +1,22 @@
+{
+	title: "Fen",
+	icon: {
+		ForgeCaps: {
+			"wizardryutils:summoneditemdata": {}
+		},
+		id: "biomesoplenty:grass"
+	},
+	disable_toast: true,
+	x: 14.0d,
+	y: -6.0d,
+	tasks: [{
+		uid: "20000080",
+		type: "biome",
+		biome: "biomesoplenty:fen"
+	}],
+	rewards: [{
+		uid: "20000081",
+		type: "ftbmoney:money",
+		ftb_money: 25L
+	}]
+}

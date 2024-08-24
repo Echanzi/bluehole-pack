@@ -1,0 +1,29 @@
+{
+	title: "Grape Slime",
+	icon: {
+		ForgeCaps: {
+			"wizardryutils:summoneditemdata": {}
+		},
+		id: "minecraft:spawn_egg",
+		tag: {
+			EntityTag: {
+				id: "specialmobs:grapeslime"
+			}
+		}
+	},
+	disable_toast: true,
+	x: -4.0d,
+	y: 32.0d,
+	tasks: [{
+		uid: "10001847",
+		type: "observation",
+		match_type: "entity_id",
+		match: "specialmobs:grapeslime",
+		timer: 0L
+	}],
+	rewards: [{
+		uid: "10001848",
+		type: "ftbmoney:money",
+		ftb_money: 10L
+	}]
+}

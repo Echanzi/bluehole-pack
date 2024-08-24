@@ -1,0 +1,22 @@
+{
+	x: -12.5d,
+	y: 3.0d,
+	dependencies: [
+		"9eb9db12"
+	],
+	tasks: [{
+		uid: "2ee59702",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "colossalchests:uncolossal_chest"
+		}]
+	}],
+	rewards: [{
+		uid: "58f4d216",
+		type: "ftbmoney:money",
+		ftb_money: 25L
+	}]
+}

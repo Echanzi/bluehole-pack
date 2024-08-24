@@ -1,0 +1,22 @@
+{
+	title: "Corrupted Sands",
+	icon: {
+		ForgeCaps: {
+			"wizardryutils:summoneditemdata": {}
+		},
+		id: "minecraft:soul_sand"
+	},
+	disable_toast: true,
+	x: -11.0d,
+	y: -6.0d,
+	tasks: [{
+		uid: "20000005",
+		type: "biome",
+		biome: "biomesoplenty:corrupted_sands"
+	}],
+	rewards: [{
+		uid: "20000006",
+		type: "ftbmoney:money",
+		ftb_money: 25L
+	}]
+}

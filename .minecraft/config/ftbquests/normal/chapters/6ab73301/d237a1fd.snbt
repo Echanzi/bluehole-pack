@@ -1,0 +1,23 @@
+{
+	title: "Happy Little Trees",
+	x: -0.5d,
+	y: -1.0d,
+	dependencies: [
+		"621eb046"
+	],
+	tasks: [{
+		uid: "73c2b410",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "bonsaitrees:bonsaipot"
+		}]
+	}],
+	rewards: [{
+		uid: "e6d6a8e7",
+		type: "ftbmoney:money",
+		ftb_money: 15L
+	}]
+}

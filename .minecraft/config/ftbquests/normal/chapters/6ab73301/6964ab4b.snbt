@@ -1,0 +1,23 @@
+{
+	x: -9.5d,
+	y: 0.5d,
+	dependencies: [
+		"d8acf8f5"
+	],
+	tasks: [{
+		uid: "78ad6b2a",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "improvedbackpacks:upgrade",
+			Damage: 1s
+		}]
+	}],
+	rewards: [{
+		uid: "c5833b26",
+		type: "ftbmoney:money",
+		ftb_money: 20L
+	}]
+}

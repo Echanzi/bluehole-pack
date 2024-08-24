@@ -1,0 +1,76 @@
+{
+	title: "Garbage Collection",
+	x: 0.5d,
+	y: 7.5d,
+	dependencies: [
+		"5d486fa5"
+	],
+	tasks: [{
+		uid: "a6409956",
+		type: "item",
+		disable_toast: true,
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "aquaculture:food",
+			Damage: 1s
+		}],
+		ignore_nbt: 2b
+	},
+	{
+		uid: "2bd478a5",
+		type: "item",
+		disable_toast: true,
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "aquaculture:food"
+		}],
+		ignore_nbt: 2b
+	},
+	{
+		uid: "bae4fa66",
+		type: "item",
+		disable_toast: true,
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "aquaculture:loot"
+		}],
+		ignore_nbt: 2b
+	},
+	{
+		uid: "a729dc78",
+		type: "item",
+		disable_toast: true,
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "aquaculture:loot",
+			Damage: 2s
+		}],
+		ignore_nbt: 2b
+	},
+	{
+		uid: "3846308d",
+		type: "item",
+		disable_toast: true,
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "aquaculture:loot",
+			Damage: 3s
+		}],
+		ignore_nbt: 2b
+	}],
+	rewards: [{
+		uid: "1d5f22ff",
+		type: "ftbmoney:money",
+		ftb_money: 50L
+	}]
+}

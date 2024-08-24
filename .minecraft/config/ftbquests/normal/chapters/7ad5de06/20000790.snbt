@@ -1,0 +1,22 @@
+{
+	title: "Ice Plains Spikes",
+	icon: {
+		ForgeCaps: {
+			"wizardryutils:summoneditemdata": {}
+		},
+		id: "minecraft:grass"
+	},
+	disable_toast: true,
+	x: 20.0d,
+	y: 1.0d,
+	tasks: [{
+		uid: "20000791",
+		type: "biome",
+		biome: "openterraingenerator:overworld_ice_plains_spikes"
+	}],
+	rewards: [{
+		uid: "20000792",
+		type: "ftbmoney:money",
+		ftb_money: 25L
+	}]
+}

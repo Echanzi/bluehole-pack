@@ -1,0 +1,29 @@
+{
+	title: "Donkey",
+	icon: {
+		ForgeCaps: {
+			"wizardryutils:summoneditemdata": {}
+		},
+		id: "minecraft:spawn_egg",
+		tag: {
+			EntityTag: {
+				id: "minecraft:donkey"
+			}
+		}
+	},
+	disable_toast: true,
+	x: 16.0d,
+	y: 13.0d,
+	tasks: [{
+		uid: "10000026",
+		type: "observation",
+		match_type: "entity_id",
+		match: "minecraft:donkey",
+		timer: 0L
+	}],
+	rewards: [{
+		uid: "10000027",
+		type: "ftbmoney:money",
+		ftb_money: 10L
+	}]
+}

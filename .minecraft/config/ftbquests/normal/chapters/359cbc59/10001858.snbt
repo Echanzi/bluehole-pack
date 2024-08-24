@@ -1,0 +1,29 @@
+{
+	title: "Flying Magma Cube",
+	icon: {
+		ForgeCaps: {
+			"wizardryutils:summoneditemdata": {}
+		},
+		id: "minecraft:spawn_egg",
+		tag: {
+			EntityTag: {
+				id: "specialmobs:flyinglavaslime"
+			}
+		}
+	},
+	disable_toast: true,
+	x: 0.0d,
+	y: 32.0d,
+	tasks: [{
+		uid: "10001859",
+		type: "observation",
+		match_type: "entity_id",
+		match: "specialmobs:flyinglavaslime",
+		timer: 0L
+	}],
+	rewards: [{
+		uid: "10001860",
+		type: "ftbmoney:money",
+		ftb_money: 10L
+	}]
+}

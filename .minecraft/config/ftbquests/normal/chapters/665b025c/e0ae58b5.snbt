@@ -1,0 +1,26 @@
+{
+	x: -9.0d,
+	y: 5.0d,
+	hide_dependency_lines: true,
+	dependencies: [
+		"797af156"
+	],
+	tasks: [{
+		uid: "6b2d5e7c",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {},
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "spartancompat:longbow_gravitite"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "d0212b0f",
+		type: "ftbmoney:money",
+		ftb_money: 40L
+	}]
+}

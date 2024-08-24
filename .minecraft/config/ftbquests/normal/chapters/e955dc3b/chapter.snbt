@@ -1,0 +1,13 @@
+{
+	title: "Challenge Quests",
+	icon: {
+		ForgeCaps: {
+			"wizardryutils:summoneditemdata": {},
+			"astralsorcery:cap_item_amulet_holder": {}
+		},
+		id: "tfspellpack:amulet_life_charm"
+	},
+	always_invisible: false,
+	group: 0,
+	default_quest_shape: ""
+}

@@ -1,0 +1,22 @@
+{
+	title: "JungleCliffsEdge",
+	icon: {
+		ForgeCaps: {
+			"wizardryutils:summoneditemdata": {}
+		},
+		id: "minecraft:grass"
+	},
+	disable_toast: true,
+	x: -11.0d,
+	y: 7.0d,
+	tasks: [{
+		uid: "20001292",
+		type: "biome",
+		biome: "openterraingenerator:overworld_junglecliffsedge"
+	}],
+	rewards: [{
+		uid: "20001293",
+		type: "ftbmoney:money",
+		ftb_money: 25L
+	}]
+}

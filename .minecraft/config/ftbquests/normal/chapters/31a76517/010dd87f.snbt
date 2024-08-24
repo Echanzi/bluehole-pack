@@ -1,0 +1,23 @@
+{
+	title: "Manly Stache",
+	x: 0.5d,
+	y: 0.0d,
+	tasks: [{
+		uid: "fa4b427f",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {},
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "tropicraft:nigel_stache"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "dd0e7d1a",
+		type: "ftbmoney:money",
+		ftb_money: 30L
+	}]
+}

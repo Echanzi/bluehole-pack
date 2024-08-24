@@ -1,0 +1,29 @@
+{
+	title: "Bound Soul",
+	icon: {
+		ForgeCaps: {
+			"wizardryutils:summoneditemdata": {}
+		},
+		id: "minecraft:spawn_egg",
+		tag: {
+			EntityTag: {
+				id: "treasure2:bound_soul"
+			}
+		}
+	},
+	disable_toast: true,
+	x: -7.0d,
+	y: 30.0d,
+	tasks: [{
+		uid: "10001640",
+		type: "observation",
+		match_type: "entity_id",
+		match: "treasure2:bound_soul",
+		timer: 0L
+	}],
+	rewards: [{
+		uid: "10001641",
+		type: "ftbmoney:money",
+		ftb_money: 10L
+	}]
+}

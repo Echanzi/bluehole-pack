@@ -1,0 +1,20 @@
+{
+	title: "Deadly Cocoammunition",
+	x: 2.0d,
+	y: 0.0d,
+	tasks: [{
+		uid: "9c75adda",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "tropicraft:coconut_bomb"
+		}]
+	}],
+	rewards: [{
+		uid: "decb21df",
+		type: "ftbmoney:money",
+		ftb_money: 30L
+	}]
+}

@@ -1,0 +1,22 @@
+{
+	title: "Glacier",
+	icon: {
+		ForgeCaps: {
+			"wizardryutils:summoneditemdata": {}
+		},
+		id: "minecraft:snow"
+	},
+	disable_toast: true,
+	x: 4.0d,
+	y: -3.0d,
+	tasks: [{
+		uid: "20000347",
+		type: "biome",
+		biome: "iceandfire:glacier"
+	}],
+	rewards: [{
+		uid: "20000348",
+		type: "ftbmoney:money",
+		ftb_money: 25L
+	}]
+}

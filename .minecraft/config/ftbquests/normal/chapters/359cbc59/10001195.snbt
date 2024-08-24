@@ -1,0 +1,29 @@
+{
+	title: "Shadow Wraith",
+	icon: {
+		ForgeCaps: {
+			"wizardryutils:summoneditemdata": {}
+		},
+		id: "minecraft:spawn_egg",
+		tag: {
+			EntityTag: {
+				id: "ebwizardry:shadow_wraith"
+			}
+		}
+	},
+	disable_toast: true,
+	x: 10.0d,
+	y: 25.0d,
+	tasks: [{
+		uid: "10001196",
+		type: "observation",
+		match_type: "entity_id",
+		match: "ebwizardry:shadow_wraith",
+		timer: 0L
+	}],
+	rewards: [{
+		uid: "10001197",
+		type: "ftbmoney:money",
+		ftb_money: 10L
+	}]
+}

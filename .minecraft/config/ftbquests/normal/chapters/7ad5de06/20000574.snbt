@@ -1,0 +1,22 @@
+{
+	title: "Overgrown Cliffs",
+	icon: {
+		ForgeCaps: {
+			"wizardryutils:summoneditemdata": {}
+		},
+		id: "biomesoplenty:grass"
+	},
+	disable_toast: true,
+	x: 14.0d,
+	y: -1.0d,
+	tasks: [{
+		uid: "20000575",
+		type: "biome",
+		biome: "biomesoplenty:overgrown_cliffs"
+	}],
+	rewards: [{
+		uid: "20000576",
+		type: "ftbmoney:money",
+		ftb_money: 25L
+	}]
+}

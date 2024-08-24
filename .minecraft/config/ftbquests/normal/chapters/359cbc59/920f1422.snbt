@@ -1,0 +1,24 @@
+{
+	title: "Mushroom Golem",
+	disable_toast: true,
+	x: -2.0d,
+	y: 36.0d,
+	tasks: [{
+		uid: "398773c7",
+		type: "observation",
+		icon: {
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "minecraft:red_mushroom_block"
+		},
+		match_type: "entity_id",
+		match: "golems:golem_shroom",
+		timer: 0L
+	}],
+	rewards: [{
+		uid: "64aa6b7f",
+		type: "ftbmoney:money",
+		ftb_money: 10L
+	}]
+}

@@ -1,0 +1,29 @@
+{
+	title: "Ehu",
+	icon: {
+		ForgeCaps: {
+			"wizardryutils:summoneditemdata": {}
+		},
+		id: "minecraft:spawn_egg",
+		tag: {
+			EntityTag: {
+				id: "divinerpg:ehu"
+			}
+		}
+	},
+	disable_toast: true,
+	x: -12.0d,
+	y: 19.0d,
+	tasks: [{
+		uid: "10000536",
+		type: "observation",
+		match_type: "entity_id",
+		match: "divinerpg:ehu",
+		timer: 0L
+	}],
+	rewards: [{
+		uid: "10000537",
+		type: "ftbmoney:money",
+		ftb_money: 10L
+	}]
+}

@@ -1,0 +1,22 @@
+{
+	title: "OceanDesertIsland",
+	icon: {
+		ForgeCaps: {
+			"wizardryutils:summoneditemdata": {}
+		},
+		id: "minecraft:grass"
+	},
+	disable_toast: true,
+	x: -11.0d,
+	y: 5.0d,
+	tasks: [{
+		uid: "20001094",
+		type: "biome",
+		biome: "openterraingenerator:overworld_oceandesertisland"
+	}],
+	rewards: [{
+		uid: "20001095",
+		type: "ftbmoney:money",
+		ftb_money: 25L
+	}]
+}

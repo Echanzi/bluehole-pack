@@ -1,0 +1,22 @@
+{
+	title: "Mesa Plateau F",
+	icon: {
+		ForgeCaps: {
+			"wizardryutils:summoneditemdata": {}
+		},
+		id: "minecraft:sand"
+	},
+	disable_toast: true,
+	x: 2.0d,
+	y: -1.0d,
+	tasks: [{
+		uid: "20000539",
+		type: "biome",
+		biome: "minecraft:mesa_rock"
+	}],
+	rewards: [{
+		uid: "20000540",
+		type: "ftbmoney:money",
+		ftb_money: 25L
+	}]
+}

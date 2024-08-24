@@ -1,0 +1,22 @@
+{
+	title: "IsleRiver",
+	icon: {
+		ForgeCaps: {
+			"wizardryutils:summoneditemdata": {}
+		},
+		id: "minecraft:grass"
+	},
+	disable_toast: true,
+	x: 5.0d,
+	y: 1.0d,
+	tasks: [{
+		uid: "20000746",
+		type: "biome",
+		biome: "openterraingenerator:overworld_isleriver"
+	}],
+	rewards: [{
+		uid: "20000747",
+		type: "ftbmoney:money",
+		ftb_money: 25L
+	}]
+}

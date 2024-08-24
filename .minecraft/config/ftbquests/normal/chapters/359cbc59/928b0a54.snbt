@@ -1,0 +1,24 @@
+{
+	title: "Macaw",
+	disable_toast: true,
+	x: 14.0d,
+	y: 33.0d,
+	tasks: [{
+		uid: "46e0e243",
+		type: "observation",
+		icon: {
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "zawa:macaw"
+		},
+		match_type: "entity_id",
+		match: "zawa:macaw",
+		timer: 0L
+	}],
+	rewards: [{
+		uid: "0e122464",
+		type: "ftbmoney:money",
+		ftb_money: 10L
+	}]
+}

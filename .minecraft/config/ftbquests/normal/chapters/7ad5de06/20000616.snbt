@@ -1,0 +1,22 @@
+{
+	title: "ForestEnder",
+	icon: {
+		ForgeCaps: {
+			"wizardryutils:summoneditemdata": {}
+		},
+		id: "minecraft:grass"
+	},
+	disable_toast: true,
+	x: -5.0d,
+	y: 0.0d,
+	tasks: [{
+		uid: "20000617",
+		type: "biome",
+		biome: "openterraingenerator:overworld_forestender"
+	}],
+	rewards: [{
+		uid: "20000618",
+		type: "ftbmoney:money",
+		ftb_money: 25L
+	}]
+}

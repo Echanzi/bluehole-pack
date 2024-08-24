@@ -1,0 +1,22 @@
+{
+	title: "Sacred Springs",
+	icon: {
+		ForgeCaps: {
+			"wizardryutils:summoneditemdata": {}
+		},
+		id: "minecraft:grass"
+	},
+	disable_toast: true,
+	x: 7.0d,
+	y: -2.0d,
+	tasks: [{
+		uid: "20000455",
+		type: "biome",
+		biome: "biomesoplenty:sacred_springs"
+	}],
+	rewards: [{
+		uid: "20000456",
+		type: "ftbmoney:money",
+		ftb_money: 25L
+	}]
+}

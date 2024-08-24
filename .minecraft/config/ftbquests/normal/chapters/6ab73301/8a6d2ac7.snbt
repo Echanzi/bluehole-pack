@@ -1,0 +1,23 @@
+{
+	title: "Oldhead Wizardry",
+	x: 5.5d,
+	y: -5.0d,
+	dependencies: [
+		"3ba3d581"
+	],
+	tasks: [{
+		uid: "7e9447e8",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "audiocassettes:cassetteframe"
+		}]
+	}],
+	rewards: [{
+		uid: "5ae82569",
+		type: "ftbmoney:money",
+		ftb_money: 25L
+	}]
+}

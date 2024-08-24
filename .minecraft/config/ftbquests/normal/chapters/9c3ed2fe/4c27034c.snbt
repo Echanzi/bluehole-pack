@@ -1,0 +1,69 @@
+{
+	title: "Valkyrie Victor",
+	icon: {
+		ForgeCaps: {
+			"wizardryutils:summoneditemdata": {},
+			"astralsorcery:cap_item_amulet_holder": {}
+		},
+		id: "aether_legacy:dungeon_key",
+		Damage: 1s
+	},
+	x: 4.0d,
+	y: -2.0d,
+	dependencies: [
+		"e8fdb42b"
+	],
+	tasks: [{
+		uid: "dae759a2",
+		type: "kill",
+		title: "Slay the Valkyrie Queen",
+		icon: {
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {},
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "aether_legacy:valkyrie_lance"
+		},
+		entity: "aether_legacy:valkyrie_queen",
+		value: 1L
+	},
+	{
+		uid: "acef426b",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {},
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "aether_legacy:dungeon_key",
+			Damage: 1s
+		}],
+		ignore_nbt: 1b
+	},
+	{
+		uid: "1d115241",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "aether_legacy:victory_medal"
+		}],
+		count: 10L
+	}],
+	rewards: [{
+		uid: "05f3993c",
+		type: "ftbmoney:money",
+		ftb_money: 200L
+	},
+	{
+		uid: "aeaede06",
+		type: "item",
+		item: {
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "chancecubes:chance_cube"
+		}
+	}]
+}

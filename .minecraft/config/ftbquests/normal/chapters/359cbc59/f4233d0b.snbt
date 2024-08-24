@@ -1,0 +1,24 @@
+{
+	title: "Polar Bear",
+	disable_toast: true,
+	x: 1.0d,
+	y: 35.0d,
+	tasks: [{
+		uid: "0cdc1594",
+		type: "observation",
+		icon: {
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "zawa:polar_bear"
+		},
+		match_type: "entity_id",
+		match: "zawa:polarbear",
+		timer: 0L
+	}],
+	rewards: [{
+		uid: "89c19196",
+		type: "ftbmoney:money",
+		ftb_money: 10L
+	}]
+}

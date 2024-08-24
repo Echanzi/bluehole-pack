@@ -1,0 +1,26 @@
+{
+	x: 14.0d,
+	y: 13.0d,
+	hide_dependency_lines: true,
+	dependencies: [
+		"ebbd4fe4"
+	],
+	tasks: [{
+		uid: "b9cd10a1",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {},
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "spartancompat:glaive_zanite"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "e0ad9502",
+		type: "ftbmoney:money",
+		ftb_money: 30L
+	}]
+}

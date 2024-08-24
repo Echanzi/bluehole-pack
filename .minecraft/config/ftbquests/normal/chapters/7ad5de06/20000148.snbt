@@ -1,0 +1,22 @@
+{
+	title: "Vilespine Forest",
+	icon: {
+		ForgeCaps: {
+			"wizardryutils:summoneditemdata": {}
+		},
+		id: "defiledlands:grass_defiled"
+	},
+	disable_toast: true,
+	x: 4.0d,
+	y: -5.0d,
+	tasks: [{
+		uid: "20000149",
+		type: "biome",
+		biome: "defiledlands:forest_vilespine"
+	}],
+	rewards: [{
+		uid: "20000150",
+		type: "ftbmoney:money",
+		ftb_money: 25L
+	}]
+}

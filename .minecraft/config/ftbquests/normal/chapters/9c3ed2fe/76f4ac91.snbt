@@ -1,0 +1,41 @@
+{
+	title: "Ice on my Wrist",
+	x: 2.5d,
+	y: 2.5d,
+	dependencies: [
+		"fa196726"
+	],
+	tasks: [{
+		uid: "ea407e30",
+		type: "item",
+		disable_toast: true,
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {},
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "aether_legacy:ice_ring"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	},
+	{
+		uid: "4ba7f3af",
+		type: "item",
+		disable_toast: true,
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {},
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "aether_legacy:ice_pendant"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "6bc34ce1",
+		type: "ftbmoney:money",
+		ftb_money: 75L
+	}]
+}

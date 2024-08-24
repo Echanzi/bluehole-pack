@@ -1,0 +1,33 @@
+{
+	x: 1.5d,
+	y: 11.0d,
+	hide_dependency_lines: true,
+	dependencies: [
+		"ea105265"
+	],
+	tasks: [{
+		uid: "27534ad3",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {},
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "spartanweaponry:javelin_silver",
+			tag: {
+				AmmoUsed: 0,
+				UUIDMost: 3735675537429449746L,
+				UUIDLeast: -6740278123175309723L,
+				enchChecked: 1b,
+				Original: 1b
+			}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "58800b61",
+		type: "ftbmoney:money",
+		ftb_money: 25L
+	}]
+}

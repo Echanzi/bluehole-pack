@@ -1,0 +1,24 @@
+{
+	title: "Clay Golem",
+	disable_toast: true,
+	x: 7.0d,
+	y: 36.0d,
+	tasks: [{
+		uid: "5d15541c",
+		type: "observation",
+		icon: {
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "minecraft:clay"
+		},
+		match_type: "entity_id",
+		match: "golems:golem_clay",
+		timer: 0L
+	}],
+	rewards: [{
+		uid: "b3d17ace",
+		type: "ftbmoney:money",
+		ftb_money: 10L
+	}]
+}

@@ -1,0 +1,33 @@
+{
+	x: -12.5d,
+	y: 3.0d,
+	hide_dependency_lines: true,
+	dependencies: [
+		"d19cf0d7"
+	],
+	tasks: [{
+		uid: "aa3f1e3a",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {},
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "spartantwilight:boomerang_fiery",
+			tag: {
+				AmmoUsed: 0,
+				UUIDMost: 6553930710355427902L,
+				UUIDLeast: -5137992059320610489L,
+				enchChecked: 1b,
+				Original: 1b
+			}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "eae37ffc",
+		type: "ftbmoney:money",
+		ftb_money: 40L
+	}]
+}

@@ -1,0 +1,22 @@
+{
+	x: -5.0d,
+	y: 0.5d,
+	dependencies: [
+		"a7bcf5db"
+	],
+	tasks: [{
+		uid: "836d2b1e",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "harvestcraft:blackpepperitem"
+		}]
+	}],
+	rewards: [{
+		uid: "17f14447",
+		type: "ftbmoney:money",
+		ftb_money: 20L
+	}]
+}

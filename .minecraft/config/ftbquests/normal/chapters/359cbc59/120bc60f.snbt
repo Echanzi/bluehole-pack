@@ -1,0 +1,24 @@
+{
+	title: "Harpy Eagle",
+	disable_toast: true,
+	x: 5.0d,
+	y: 34.0d,
+	tasks: [{
+		uid: "ef7e2403",
+		type: "observation",
+		icon: {
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "zawa:harpy_eagle"
+		},
+		match_type: "entity_id",
+		match: "zawa:harpyeagle",
+		timer: 0L
+	}],
+	rewards: [{
+		uid: "0f573475",
+		type: "ftbmoney:money",
+		ftb_money: 10L
+	}]
+}

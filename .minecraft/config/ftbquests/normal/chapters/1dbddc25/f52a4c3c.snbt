@@ -1,0 +1,27 @@
+{
+	disable_toast: true,
+	x: 5.5d,
+	y: -7.0d,
+	can_repeat: true,
+	dependencies: [
+		"dfee40fc"
+	],
+	tasks: [{
+		uid: "c1a033c4",
+		type: "kill",
+		icon: {
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {},
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "aether_legacy:cloud_staff"
+		},
+		entity: "lost_aether:king_aerwhale",
+		value: 1L
+	}],
+	rewards: [{
+		uid: "91e762d5",
+		type: "ftbmoney:money",
+		ftb_money: 175L
+	}]
+}

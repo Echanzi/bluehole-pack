@@ -1,0 +1,22 @@
+{
+	title: "Dark Forest Center",
+	icon: {
+		ForgeCaps: {
+			"wizardryutils:summoneditemdata": {}
+		},
+		id: "minecraft:grass"
+	},
+	disable_toast: true,
+	x: 18.0d,
+	y: -1.0d,
+	tasks: [{
+		uid: "20000587",
+		type: "biome",
+		biome: "twilightforest:dark_forest_center"
+	}],
+	rewards: [{
+		uid: "20000588",
+		type: "ftbmoney:money",
+		ftb_money: 25L
+	}]
+}

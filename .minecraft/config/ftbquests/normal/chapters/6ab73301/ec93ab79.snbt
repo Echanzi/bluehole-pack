@@ -1,0 +1,38 @@
+{
+	title: "Cooking With Efficiency ",
+	x: 2.0d,
+	y: -2.0d,
+	text: [
+		"Grants access to the Smoker and the Blast Furnace in the Shop"
+	],
+	dependencies: [
+		"263edc16"
+	],
+	tasks: [{
+		uid: "022c9aa1",
+		type: "item",
+		disable_toast: true,
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "futuremc:blast_furnace"
+		}]
+	},
+	{
+		uid: "ec302505",
+		type: "item",
+		disable_toast: true,
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "futuremc:smoker"
+		}]
+	}],
+	rewards: [{
+		uid: "7cf38954",
+		type: "ftbmoney:money",
+		ftb_money: 20L
+	}]
+}

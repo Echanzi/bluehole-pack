@@ -1,0 +1,43 @@
+{
+	title: "Twilight Goodies III",
+	x: 9.5d,
+	y: -6.5d,
+	tasks: [{
+		uid: "83b8d497",
+		type: "item",
+		disable_toast: true,
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "twilightforest:charm_of_life_2"
+		}]
+	},
+	{
+		uid: "0bd1b77b",
+		type: "item",
+		disable_toast: true,
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "twilightforest:charm_of_keeping_3"
+		}]
+	},
+	{
+		uid: "8044c980",
+		type: "item",
+		disable_toast: true,
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "twilightforest:charm_of_keeping_2"
+		}]
+	}],
+	rewards: [{
+		uid: "91886ee3",
+		type: "ftbmoney:money",
+		ftb_money: 175L
+	}]
+}

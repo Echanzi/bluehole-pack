@@ -1,0 +1,29 @@
+{
+	title: "Human",
+	icon: {
+		ForgeCaps: {
+			"wizardryutils:summoneditemdata": {}
+		},
+		id: "minecraft:spawn_egg",
+		tag: {
+			EntityTag: {
+				id: "cqrepoured:human"
+			}
+		}
+	},
+	disable_toast: true,
+	x: 13.0d,
+	y: 17.0d,
+	tasks: [{
+		uid: "10000413",
+		type: "observation",
+		match_type: "entity_id",
+		match: "cqrepoured:human",
+		timer: 0L
+	}],
+	rewards: [{
+		uid: "10000414",
+		type: "ftbmoney:money",
+		ftb_money: 10L
+	}]
+}

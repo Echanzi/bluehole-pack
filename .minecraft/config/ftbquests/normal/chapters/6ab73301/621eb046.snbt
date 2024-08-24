@@ -1,0 +1,38 @@
+{
+	title: "Table",
+	x: -1.5d,
+	y: 0.0d,
+	text: [
+		"Grants access to Crafting Table in the Shop",
+		"(Why would you need to buy one?)"
+	],
+	dependencies: [
+		"295fd73a"
+	],
+	dependency_requirement: "all_started",
+	tasks: [{
+		uid: "f56ae662",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "minecraft:crafting_table"
+		}]
+	}],
+	rewards: [{
+		uid: "648bc74f",
+		type: "item",
+		item: {
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "harvestcraft:apple_sapling"
+		}
+	},
+	{
+		uid: "2ba2163b",
+		type: "ftbmoney:money",
+		ftb_money: 15L
+	}]
+}

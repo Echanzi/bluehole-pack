@@ -1,0 +1,22 @@
+{
+	title: "TROPICS_OCEAN",
+	icon: {
+		ForgeCaps: {
+			"wizardryutils:summoneditemdata": {}
+		},
+		id: "tropicraft:sand"
+	},
+	disable_toast: true,
+	x: 8.0d,
+	y: -5.0d,
+	tasks: [{
+		uid: "20000161",
+		type: "biome",
+		biome: "tropicraft:tc_tropics_ocean"
+	}],
+	rewards: [{
+		uid: "20000162",
+		type: "ftbmoney:money",
+		ftb_money: 25L
+	}]
+}

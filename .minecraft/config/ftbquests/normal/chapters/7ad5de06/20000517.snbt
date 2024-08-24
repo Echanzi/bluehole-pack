@@ -1,0 +1,22 @@
+{
+	title: "Hell",
+	icon: {
+		ForgeCaps: {
+			"wizardryutils:summoneditemdata": {}
+		},
+		id: "minecraft:netherrack"
+	},
+	disable_toast: true,
+	x: -5.0d,
+	y: -1.0d,
+	tasks: [{
+		uid: "20000518",
+		type: "biome",
+		biome: "minecraft:hell"
+	}],
+	rewards: [{
+		uid: "20000519",
+		type: "ftbmoney:money",
+		ftb_money: 25L
+	}]
+}

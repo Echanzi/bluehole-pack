@@ -1,0 +1,33 @@
+{
+	x: 1.5d,
+	y: 20.0d,
+	hide_dependency_lines: true,
+	dependencies: [
+		"ea105265"
+	],
+	tasks: [{
+		uid: "a83d4f16",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {},
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "spartanfire:javelin_desert_venom",
+			tag: {
+				AmmoUsed: 0,
+				UUIDMost: -2691557315705420302L,
+				UUIDLeast: -5709644100558667730L,
+				enchChecked: 1b,
+				Original: 1b
+			}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "ecc44d44",
+		type: "ftbmoney:money",
+		ftb_money: 30L
+	}]
+}

@@ -1,0 +1,29 @@
+{
+	title: "Sniper Skeleton",
+	icon: {
+		ForgeCaps: {
+			"wizardryutils:summoneditemdata": {}
+		},
+		id: "minecraft:spawn_egg",
+		tag: {
+			EntityTag: {
+				id: "specialmobs:sniperskeleton"
+			}
+		}
+	},
+	disable_toast: true,
+	x: 16.0d,
+	y: 31.0d,
+	tasks: [{
+		uid: "10001808",
+		type: "observation",
+		match_type: "entity_id",
+		match: "specialmobs:sniperskeleton",
+		timer: 0L
+	}],
+	rewards: [{
+		uid: "10001809",
+		type: "ftbmoney:money",
+		ftb_money: 10L
+	}]
+}

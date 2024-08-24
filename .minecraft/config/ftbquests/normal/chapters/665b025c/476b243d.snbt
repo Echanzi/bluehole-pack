@@ -1,0 +1,33 @@
+{
+	title: "Vampire Steak Knives? ",
+	x: 0.0d,
+	y: -3.0d,
+	dependencies: [
+		"c8f3a510"
+	],
+	tasks: [{
+		uid: "1d40d4a3",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {},
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "spartanweaponry:throwing_knife_wood",
+			tag: {
+				AmmoUsed: 0,
+				UUIDMost: -4802495828314207993L,
+				UUIDLeast: -7098869298165153935L,
+				enchChecked: 1b,
+				Original: 1b
+			}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "26384719",
+		type: "ftbmoney:money",
+		ftb_money: 15L
+	}]
+}

@@ -1,0 +1,54 @@
+{
+	title: "Citris Delicious",
+	x: 0.5d,
+	y: -3.0d,
+	tasks: [{
+		uid: "2e1ea989",
+		type: "item",
+		disable_toast: true,
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "tropicraft:lime"
+		}]
+	},
+	{
+		uid: "6ab59f78",
+		type: "item",
+		disable_toast: true,
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "tropicraft:grapefruit"
+		}]
+	},
+	{
+		uid: "bb216c82",
+		type: "item",
+		disable_toast: true,
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "tropicraft:lemon"
+		}]
+	},
+	{
+		uid: "3460b300",
+		type: "item",
+		disable_toast: true,
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "tropicraft:orange"
+		}]
+	}],
+	rewards: [{
+		uid: "3261f312",
+		type: "ftbmoney:money",
+		ftb_money: 60L
+	}]
+}

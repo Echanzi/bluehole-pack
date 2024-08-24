@@ -1,0 +1,22 @@
+{
+	title: "Coniferous Forest",
+	icon: {
+		ForgeCaps: {
+			"wizardryutils:summoneditemdata": {}
+		},
+		id: "biomesoplenty:grass"
+	},
+	disable_toast: true,
+	x: 18.0d,
+	y: -5.0d,
+	tasks: [{
+		uid: "20000191",
+		type: "biome",
+		biome: "biomesoplenty:coniferous_forest"
+	}],
+	rewards: [{
+		uid: "20000192",
+		type: "ftbmoney:money",
+		ftb_money: 25L
+	}]
+}

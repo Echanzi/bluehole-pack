@@ -1,0 +1,25 @@
+{
+	x: -2.0d,
+	y: 1.0d,
+	dependencies: [
+		"c22d8a76"
+	],
+	tasks: [{
+		uid: "275f4339",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {},
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "ebwizardry:apprentice_wand"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "e7e9806f",
+		type: "ftbmoney:money",
+		ftb_money: 40L
+	}]
+}

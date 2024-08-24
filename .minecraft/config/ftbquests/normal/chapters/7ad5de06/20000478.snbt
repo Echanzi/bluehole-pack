@@ -1,0 +1,22 @@
+{
+	title: "Cold Desert",
+	icon: {
+		ForgeCaps: {
+			"wizardryutils:summoneditemdata": {}
+		},
+		id: "minecraft:gravel"
+	},
+	disable_toast: true,
+	x: 15.0d,
+	y: -2.0d,
+	tasks: [{
+		uid: "20000479",
+		type: "biome",
+		biome: "biomesoplenty:cold_desert"
+	}],
+	rewards: [{
+		uid: "20000480",
+		type: "ftbmoney:money",
+		ftb_money: 25L
+	}]
+}

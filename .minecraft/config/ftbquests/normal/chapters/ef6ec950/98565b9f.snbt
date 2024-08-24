@@ -1,0 +1,82 @@
+{
+	title: "Arrowgance",
+	x: 4.0d,
+	y: 8.0d,
+	text: [
+		"Arrow-Elegance... right? Right?"
+	],
+	dependencies: [
+		"df9566fb"
+	],
+	tasks: [{
+		uid: "e0f10805",
+		type: "item",
+		disable_toast: true,
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "thebetweenlands:angler_tooth_arrow"
+		}]
+	},
+	{
+		uid: "85d39a22",
+		type: "item",
+		disable_toast: true,
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "thebetweenlands:poisoned_angler_tooth_arrow"
+		}]
+	},
+	{
+		uid: "ffad3100",
+		type: "item",
+		disable_toast: true,
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "thebetweenlands:octine_arrow"
+		}]
+	},
+	{
+		uid: "1b2efa82",
+		type: "item",
+		disable_toast: true,
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "thebetweenlands:basilisk_arrow"
+		}]
+	},
+	{
+		uid: "e83a2aef",
+		type: "item",
+		disable_toast: true,
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "thebetweenlands:sludge_worm_arrow"
+		}]
+	},
+	{
+		uid: "cd04164e",
+		type: "item",
+		disable_toast: true,
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "thebetweenlands:shock_arrow"
+		}]
+	}],
+	rewards: [{
+		uid: "cd23c54a",
+		type: "ftbmoney:money",
+		ftb_money: 75L
+	}]
+}

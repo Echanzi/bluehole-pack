@@ -1,0 +1,29 @@
+{
+	title: "Kikimora",
+	icon: {
+		ForgeCaps: {
+			"wizardryutils:summoneditemdata": {}
+		},
+		id: "minecraft:spawn_egg",
+		tag: {
+			EntityTag: {
+				id: "grimoireofgaia:kikimora"
+			}
+		}
+	},
+	disable_toast: true,
+	x: -6.0d,
+	y: 27.0d,
+	tasks: [{
+		uid: "10001346",
+		type: "observation",
+		match_type: "entity_id",
+		match: "grimoireofgaia:kikimora",
+		timer: 0L
+	}],
+	rewards: [{
+		uid: "10001347",
+		type: "ftbmoney:money",
+		ftb_money: 10L
+	}]
+}

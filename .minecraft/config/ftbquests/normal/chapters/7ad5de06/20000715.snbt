@@ -1,0 +1,22 @@
+{
+	title: "DrySavanna",
+	icon: {
+		ForgeCaps: {
+			"wizardryutils:summoneditemdata": {}
+		},
+		id: "minecraft:grass"
+	},
+	disable_toast: true,
+	x: -5.0d,
+	y: 1.0d,
+	tasks: [{
+		uid: "20000716",
+		type: "biome",
+		biome: "openterraingenerator:overworld_drysavanna"
+	}],
+	rewards: [{
+		uid: "20000717",
+		type: "ftbmoney:money",
+		ftb_money: 25L
+	}]
+}

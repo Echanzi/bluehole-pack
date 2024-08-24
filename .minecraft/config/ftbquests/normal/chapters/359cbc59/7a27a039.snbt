@@ -1,0 +1,24 @@
+{
+	title: "Grevy's Zebra",
+	disable_toast: true,
+	x: 13.0d,
+	y: 35.0d,
+	tasks: [{
+		uid: "d471b2b4",
+		type: "observation",
+		icon: {
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "zawa:grevys_zebra"
+		},
+		match_type: "entity_id",
+		match: "zawa:grevyszebra",
+		timer: 0L
+	}],
+	rewards: [{
+		uid: "aa0a870a",
+		type: "ftbmoney:money",
+		ftb_money: 10L
+	}]
+}

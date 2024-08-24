@@ -1,0 +1,29 @@
+{
+	title: "Neo-Ratlantean",
+	icon: {
+		ForgeCaps: {
+			"wizardryutils:summoneditemdata": {}
+		},
+		id: "minecraft:spawn_egg",
+		tag: {
+			EntityTag: {
+				id: "rats:neo_ratlantean"
+			}
+		}
+	},
+	disable_toast: true,
+	x: 17.0d,
+	y: 29.0d,
+	tasks: [{
+		uid: "10001613",
+		type: "observation",
+		match_type: "entity_id",
+		match: "rats:neo_ratlantean",
+		timer: 0L
+	}],
+	rewards: [{
+		uid: "10001614",
+		type: "ftbmoney:money",
+		ftb_money: 10L
+	}]
+}

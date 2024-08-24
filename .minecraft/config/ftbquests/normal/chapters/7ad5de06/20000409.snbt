@@ -1,0 +1,22 @@
+{
+	title: "RedwoodForestEdge",
+	icon: {
+		ForgeCaps: {
+			"wizardryutils:summoneditemdata": {}
+		},
+		id: "minecraft:dirt"
+	},
+	disable_toast: true,
+	x: -8.0d,
+	y: -2.0d,
+	tasks: [{
+		uid: "20000410",
+		type: "biome",
+		biome: "biomesoplenty:redwood_forest_edge"
+	}],
+	rewards: [{
+		uid: "20000411",
+		type: "ftbmoney:money",
+		ftb_money: 25L
+	}]
+}

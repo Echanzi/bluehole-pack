@@ -1,0 +1,31 @@
+{
+	title: "Hollow Hill Haymaker",
+	x: 7.0d,
+	y: 0.5d,
+	tasks: [{
+		uid: "fae54472",
+		type: "kill",
+		disable_toast: true,
+		entity: "twilightforest:redcap",
+		value: 1L
+	},
+	{
+		uid: "8ae4f644",
+		type: "kill",
+		disable_toast: true,
+		entity: "twilightforest:redcap_sapper",
+		value: 1L
+	},
+	{
+		uid: "95a80536",
+		type: "kill",
+		disable_toast: true,
+		entity: "twilightforest:wraith",
+		value: 1L
+	}],
+	rewards: [{
+		uid: "c1e61ec4",
+		type: "ftbmoney:money",
+		ftb_money: 50L
+	}]
+}

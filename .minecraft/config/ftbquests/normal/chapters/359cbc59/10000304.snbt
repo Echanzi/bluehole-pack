@@ -1,0 +1,29 @@
+{
+	title: "Large Sludge Worm",
+	icon: {
+		ForgeCaps: {
+			"wizardryutils:summoneditemdata": {}
+		},
+		id: "minecraft:spawn_egg",
+		tag: {
+			EntityTag: {
+				id: "thebetweenlands:large_sludge_worm"
+			}
+		}
+	},
+	disable_toast: true,
+	x: 10.0d,
+	y: 16.0d,
+	tasks: [{
+		uid: "10000305",
+		type: "observation",
+		match_type: "entity_id",
+		match: "thebetweenlands:large_sludge_worm",
+		timer: 0L
+	}],
+	rewards: [{
+		uid: "10000306",
+		type: "ftbmoney:money",
+		ftb_money: 10L
+	}]
+}

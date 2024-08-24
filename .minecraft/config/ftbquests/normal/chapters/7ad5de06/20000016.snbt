@@ -1,0 +1,22 @@
+{
+	title: "Defiled Hills",
+	icon: {
+		ForgeCaps: {
+			"wizardryutils:summoneditemdata": {}
+		},
+		id: "defiledlands:grass_defiled"
+	},
+	disable_toast: true,
+	x: -7.0d,
+	y: -6.0d,
+	tasks: [{
+		uid: "20000017",
+		type: "biome",
+		biome: "defiledlands:hills_defiled"
+	}],
+	rewards: [{
+		uid: "20000018",
+		type: "ftbmoney:money",
+		ftb_money: 25L
+	}]
+}

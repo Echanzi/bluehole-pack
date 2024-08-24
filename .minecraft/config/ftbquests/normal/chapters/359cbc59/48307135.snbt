@@ -1,0 +1,24 @@
+{
+	title: "Asian Elephant",
+	disable_toast: true,
+	x: 0.0d,
+	y: 35.0d,
+	tasks: [{
+		uid: "d6fcaecb",
+		type: "observation",
+		icon: {
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "zawa:asian_elephant"
+		},
+		match_type: "entity_id",
+		match: "zawa:asianelephant",
+		timer: 0L
+	}],
+	rewards: [{
+		uid: "eeb78cf6",
+		type: "ftbmoney:money",
+		ftb_money: 10L
+	}]
+}

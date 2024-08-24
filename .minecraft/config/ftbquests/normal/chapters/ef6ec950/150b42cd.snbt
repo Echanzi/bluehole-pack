@@ -1,0 +1,70 @@
+{
+	title: "Pokémon Safari!",
+	x: 5.0d,
+	y: 1.5d,
+	dependencies: [
+		"44a1a7bb"
+	],
+	tasks: [{
+		uid: "f2556007",
+		type: "item",
+		disable_toast: true,
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {},
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "thebetweenlands:critter",
+			tag: {
+				Entity: {
+					id: "thebetweenlands:gecko"
+				}
+			}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	},
+	{
+		uid: "0fa33ba9",
+		type: "item",
+		disable_toast: true,
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {},
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "thebetweenlands:critter",
+			tag: {
+				Entity: {
+					id: "thebetweenlands:dragonfly"
+				}
+			}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	},
+	{
+		uid: "df399354",
+		type: "item",
+		disable_toast: true,
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {},
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "thebetweenlands:critter",
+			tag: {
+				Entity: {
+					id: "thebetweenlands:firefly"
+				}
+			}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "9721cdb1",
+		type: "ftbmoney:money",
+		ftb_money: 50L
+	}]
+}

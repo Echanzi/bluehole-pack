@@ -1,0 +1,17 @@
+{
+	x: -11.0d,
+	y: -1.0d,
+	dependencies: [
+		"c6daf884"
+	],
+	tasks: [{
+		uid: "25cf504e",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "harvestcraft:mayoitem"
+		}]
+	}]
+}

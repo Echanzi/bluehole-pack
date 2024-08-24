@@ -1,0 +1,23 @@
+{
+	x: 0.5d,
+	y: 5.5d,
+	dependencies: [
+		"5d486fa5"
+	],
+	tasks: [{
+		uid: "ce30c97f",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "aquaculture:loot",
+			Damage: 6s
+		}]
+	}],
+	rewards: [{
+		uid: "940c7e5a",
+		type: "ftbmoney:money",
+		ftb_money: 50L
+	}]
+}

@@ -1,0 +1,22 @@
+{
+	title: "Prairie",
+	icon: {
+		ForgeCaps: {
+			"wizardryutils:summoneditemdata": {}
+		},
+		id: "biomesoplenty:grass"
+	},
+	disable_toast: true,
+	x: -4.0d,
+	y: -3.0d,
+	tasks: [{
+		uid: "20000323",
+		type: "biome",
+		biome: "biomesoplenty:prairie"
+	}],
+	rewards: [{
+		uid: "20000324",
+		type: "ftbmoney:money",
+		ftb_money: 25L
+	}]
+}

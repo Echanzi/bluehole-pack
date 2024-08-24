@@ -1,0 +1,32 @@
+{
+	x: 0.5d,
+	y: 6.5d,
+	dependencies: [
+		"4ee864d6"
+	],
+	tasks: [{
+		uid: "920bda62",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {},
+				Parent: {
+					Size: 6,
+					Items: []
+				},
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "spartanweaponry:quiver_bolt_moderate",
+			tag: {
+				ClientInventory: []
+			}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "a64a12a6",
+		type: "ftbmoney:money",
+		ftb_money: 35L
+	}]
+}

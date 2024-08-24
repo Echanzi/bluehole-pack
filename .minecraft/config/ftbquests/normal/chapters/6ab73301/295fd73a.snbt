@@ -1,0 +1,47 @@
+{
+	icon: {
+		ForgeCaps: {
+			"wizardryutils:summoneditemdata": {}
+		},
+		id: "minecraft:lingering_potion",
+		tag: {
+			ench: [{
+				lvl: 1,
+				id: 1
+			}],
+			Potion: "minecraft:water"
+		}
+	},
+	x: -5.0d,
+	y: 0.0d,
+	text: [
+		"Yippie!!! Thank you for playing."
+	],
+	tasks: [{
+		uid: "340c25bd",
+		type: "checkmark",
+		title: "#00d9ff-007bffWelcome to the Blue Hole",
+		icon: {
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "minecraft:lingering_potion",
+			tag: {
+				Potion: "minecraft:water"
+			}
+		}
+	}],
+	rewards: [{
+		uid: "9da690e9",
+		type: "item",
+		item: {
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "minecraft:potion",
+			tag: {
+				Potion: "potioncore:chance"
+			}
+		}
+	}]
+}

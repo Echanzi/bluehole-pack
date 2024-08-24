@@ -1,0 +1,29 @@
+{
+	title: "Ant Worker",
+	icon: {
+		ForgeCaps: {
+			"wizardryutils:summoneditemdata": {}
+		},
+		id: "minecraft:spawn_egg",
+		tag: {
+			EntityTag: {
+				id: "grimoireofgaia:ant"
+			}
+		}
+	},
+	disable_toast: true,
+	x: -11.0d,
+	y: 26.0d,
+	tasks: [{
+		uid: "10001232",
+		type: "observation",
+		match_type: "entity_id",
+		match: "grimoireofgaia:ant",
+		timer: 0L
+	}],
+	rewards: [{
+		uid: "10001233",
+		type: "ftbmoney:money",
+		ftb_money: 10L
+	}]
+}

@@ -1,0 +1,24 @@
+{
+	title: "Jaguar",
+	disable_toast: true,
+	x: 3.0d,
+	y: 34.0d,
+	tasks: [{
+		uid: "ecc35934",
+		type: "observation",
+		icon: {
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "zawa:jaguar"
+		},
+		match_type: "entity_id",
+		match: "zawa:jaguar",
+		timer: 0L
+	}],
+	rewards: [{
+		uid: "be5b292c",
+		type: "ftbmoney:money",
+		ftb_money: 10L
+	}]
+}

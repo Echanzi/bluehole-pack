@@ -1,0 +1,90 @@
+{
+	title: "Soda King",
+	x: 0.0d,
+	y: 4.0d,
+	dependencies: [
+		"a33e7cda"
+	],
+	tasks: [{
+		uid: "f5b36076",
+		type: "item",
+		disable_toast: true,
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "harvestcraft:cherrysodaitem"
+		}]
+	},
+	{
+		uid: "78a79495",
+		type: "item",
+		disable_toast: true,
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "harvestcraft:colasodaitem"
+		}]
+	},
+	{
+		uid: "6a800e5b",
+		type: "item",
+		disable_toast: true,
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "harvestcraft:grapesodaitem"
+		}]
+	},
+	{
+		uid: "3dcbdb58",
+		type: "item",
+		disable_toast: true,
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "harvestcraft:lemonlimesodaitem"
+		}]
+	},
+	{
+		uid: "c2f48929",
+		type: "item",
+		disable_toast: true,
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "harvestcraft:orangesodaitem"
+		}]
+	},
+	{
+		uid: "50d00226",
+		type: "item",
+		disable_toast: true,
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "harvestcraft:strawberrysodaitem"
+		}]
+	},
+	{
+		uid: "61908a78",
+		type: "item",
+		disable_toast: true,
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "harvestcraft:grapefruitsodaitem"
+		}]
+	}],
+	rewards: [{
+		uid: "83866891",
+		type: "ftbmoney:money",
+		ftb_money: 125L
+	}]
+}

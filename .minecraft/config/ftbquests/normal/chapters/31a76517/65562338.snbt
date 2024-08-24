@@ -1,0 +1,48 @@
+{
+	x: 2.0d,
+	y: 1.5d,
+	tasks: [{
+		uid: "99e81717",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "futuremc:bamboo"
+		}],
+		count: 128L
+	}],
+	rewards: [{
+		uid: "b334bc87",
+		type: "item",
+		team_reward: true,
+		auto: "enabled",
+		item: {
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "minecraft:spawn_egg",
+			tag: {
+				EntityTag: {
+					id: "futuremc:panda"
+				}
+			}
+		}
+	},
+	{
+		uid: "31b0a407",
+		type: "item",
+		team_reward: true,
+		item: {
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "minecraft:spawn_egg",
+			tag: {
+				EntityTag: {
+					id: "futuremc:panda"
+				}
+			}
+		}
+	}]
+}

@@ -1,0 +1,41 @@
+{
+	title: "Snake Striker",
+	x: 2.0d,
+	y: -3.0d,
+	dependencies: [
+		"4d0a10d4"
+	],
+	tasks: [{
+		uid: "7b7a553c",
+		type: "item",
+		disable_toast: true,
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "twilightforest:trophy"
+		}]
+	},
+	{
+		uid: "e0dab9ea",
+		type: "kill",
+		disable_toast: true,
+		entity: "twilightforest:naga",
+		value: 1L
+	}],
+	rewards: [{
+		uid: "34a0e937",
+		type: "item",
+		item: {
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "twilightforest:naga_scale"
+		}
+	},
+	{
+		uid: "31f1cc47",
+		type: "ftbmoney:money",
+		ftb_money: 200L
+	}]
+}

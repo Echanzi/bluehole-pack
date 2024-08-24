@@ -1,0 +1,24 @@
+{
+	title: "Obsidian Golem",
+	disable_toast: true,
+	x: -11.0d,
+	y: 37.0d,
+	tasks: [{
+		uid: "6586ff31",
+		type: "observation",
+		icon: {
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "minecraft:obsidian"
+		},
+		match_type: "entity_id",
+		match: "golems:golem_obsidian",
+		timer: 0L
+	}],
+	rewards: [{
+		uid: "6adb81a7",
+		type: "ftbmoney:money",
+		ftb_money: 10L
+	}]
+}

@@ -1,0 +1,23 @@
+{
+	title: "Storage Basics",
+	x: -4.5d,
+	y: 3.5d,
+	dependencies: [
+		"621eb046"
+	],
+	tasks: [{
+		uid: "f7cfabd3",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "minecraft:chest"
+		}]
+	}],
+	rewards: [{
+		uid: "4c0be988",
+		type: "ftbmoney:money",
+		ftb_money: 15L
+	}]
+}

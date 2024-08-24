@@ -1,0 +1,22 @@
+{
+	title: "DioriteCliffsPeak",
+	icon: {
+		ForgeCaps: {
+			"wizardryutils:summoneditemdata": {}
+		},
+		id: "minecraft:grass"
+	},
+	disable_toast: true,
+	x: -11.0d,
+	y: 4.0d,
+	tasks: [{
+		uid: "20000995",
+		type: "biome",
+		biome: "openterraingenerator:overworld_dioritecliffspeak"
+	}],
+	rewards: [{
+		uid: "20000996",
+		type: "ftbmoney:money",
+		ftb_money: 25L
+	}]
+}

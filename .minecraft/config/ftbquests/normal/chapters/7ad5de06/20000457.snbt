@@ -1,0 +1,22 @@
+{
+	title: "Gravel Beach",
+	icon: {
+		ForgeCaps: {
+			"wizardryutils:summoneditemdata": {}
+		},
+		id: "minecraft:gravel"
+	},
+	disable_toast: true,
+	x: 8.0d,
+	y: -2.0d,
+	tasks: [{
+		uid: "20000458",
+		type: "biome",
+		biome: "biomesoplenty:gravel_beach"
+	}],
+	rewards: [{
+		uid: "20000459",
+		type: "ftbmoney:money",
+		ftb_money: 25L
+	}]
+}

@@ -1,0 +1,29 @@
+{
+	title: "Dissiment",
+	icon: {
+		ForgeCaps: {
+			"wizardryutils:summoneditemdata": {}
+		},
+		id: "minecraft:spawn_egg",
+		tag: {
+			EntityTag: {
+				id: "divinerpg:dissiment"
+			}
+		}
+	},
+	disable_toast: true,
+	x: -6.0d,
+	y: 22.0d,
+	tasks: [{
+		uid: "10000851",
+		type: "observation",
+		match_type: "entity_id",
+		match: "divinerpg:dissiment",
+		timer: 0L
+	}],
+	rewards: [{
+		uid: "10000852",
+		type: "ftbmoney:money",
+		ftb_money: 10L
+	}]
+}

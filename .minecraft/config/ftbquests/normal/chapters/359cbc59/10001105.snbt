@@ -1,0 +1,29 @@
+{
+	title: "Carminite Ghastguard",
+	icon: {
+		ForgeCaps: {
+			"wizardryutils:summoneditemdata": {}
+		},
+		id: "minecraft:spawn_egg",
+		tag: {
+			EntityTag: {
+				id: "twilightforest:tower_ghast"
+			}
+		}
+	},
+	disable_toast: true,
+	x: 13.0d,
+	y: 24.0d,
+	tasks: [{
+		uid: "10001106",
+		type: "observation",
+		match_type: "entity_id",
+		match: "twilightforest:tower_ghast",
+		timer: 0L
+	}],
+	rewards: [{
+		uid: "10001107",
+		type: "ftbmoney:money",
+		ftb_money: 10L
+	}]
+}

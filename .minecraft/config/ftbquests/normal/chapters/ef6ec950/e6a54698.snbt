@@ -1,0 +1,29 @@
+{
+	x: 0.0d,
+	y: 8.0d,
+	text: [
+		"I'm not going to make quests on potion making for this mod. Good Luck!"
+	],
+	dependencies: [
+		"977a9264"
+	],
+	hide_text_until_complete: true,
+	tasks: [{
+		uid: "fc799d35",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {},
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "thebetweenlands:manual_hl"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "f8f6b5ef",
+		type: "ftbmoney:money",
+		ftb_money: 15L
+	}]
+}

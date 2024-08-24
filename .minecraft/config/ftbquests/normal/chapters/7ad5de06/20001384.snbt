@@ -1,0 +1,22 @@
+{
+	title: "Mountain Peak3",
+	icon: {
+		ForgeCaps: {
+			"wizardryutils:summoneditemdata": {}
+		},
+		id: "minecraft:grass"
+	},
+	disable_toast: true,
+	x: 20.0d,
+	y: 7.0d,
+	tasks: [{
+		uid: "20001385",
+		type: "biome",
+		biome: "openterraingenerator:overworld_mountain_peak3"
+	}],
+	rewards: [{
+		uid: "20001386",
+		type: "ftbmoney:money",
+		ftb_money: 25L
+	}]
+}

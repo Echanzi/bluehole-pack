@@ -1,0 +1,25 @@
+{
+	x: 5.0d,
+	y: 3.0d,
+	dependencies: [
+		"624f7dc6"
+	],
+	tasks: [{
+		uid: "2bf5a83b",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {},
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "thebetweenlands:net"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "ccf7078b",
+		type: "ftbmoney:money",
+		ftb_money: 15L
+	}]
+}

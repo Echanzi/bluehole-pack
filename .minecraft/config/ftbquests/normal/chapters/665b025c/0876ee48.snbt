@@ -1,0 +1,26 @@
+{
+	title: "I don't even know her!",
+	x: -3.0d,
+	y: -0.5d,
+	dependencies: [
+		"c8f3a510"
+	],
+	tasks: [{
+		uid: "10b5af1b",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {},
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "spartanweaponry:saber_wood"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "c9286428",
+		type: "ftbmoney:money",
+		ftb_money: 15L
+	}]
+}

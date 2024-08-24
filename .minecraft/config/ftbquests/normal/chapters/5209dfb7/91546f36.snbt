@@ -1,0 +1,46 @@
+{
+	title: "Twilight Goodies II",
+	x: 7.0d,
+	y: -6.5d,
+	text: [
+		"Grants access to Charm of Life in the Shop"
+	],
+	tasks: [{
+		uid: "22efae8f",
+		type: "item",
+		disable_toast: true,
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "twilightforest:charm_of_keeping_1"
+		}]
+	},
+	{
+		uid: "8d595601",
+		type: "item",
+		disable_toast: true,
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "twilightforest:charm_of_life_1"
+		}]
+	},
+	{
+		uid: "dbe50876",
+		type: "item",
+		disable_toast: true,
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "twilightforest:transformation_powder"
+		}]
+	}],
+	rewards: [{
+		uid: "0b52f6a2",
+		type: "ftbmoney:money",
+		ftb_money: 125L
+	}]
+}

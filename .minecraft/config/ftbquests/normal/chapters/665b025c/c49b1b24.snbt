@@ -1,0 +1,33 @@
+{
+	x: -12.5d,
+	y: -1.0d,
+	hide_dependency_lines: true,
+	dependencies: [
+		"d19cf0d7"
+	],
+	tasks: [{
+		uid: "71baf219",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {},
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "spartanfire:boomerang_jungle_venom",
+			tag: {
+				AmmoUsed: 0,
+				UUIDMost: 2996220279079649463L,
+				UUIDLeast: -9010714160325949447L,
+				enchChecked: 1b,
+				Original: 1b
+			}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "f68b4d00",
+		type: "ftbmoney:money",
+		ftb_money: 30L
+	}]
+}

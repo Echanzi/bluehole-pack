@@ -1,0 +1,20 @@
+{
+	title: "Flander's Flop",
+	x: -0.5d,
+	y: -7.5d,
+	tasks: [{
+		uid: "614750e5",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "harvestcraft:hamburgeritem"
+		}]
+	}],
+	rewards: [{
+		uid: "b0235ef4",
+		type: "ftbmoney:money",
+		ftb_money: 30L
+	}]
+}

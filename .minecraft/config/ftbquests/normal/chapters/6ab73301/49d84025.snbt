@@ -1,0 +1,18 @@
+{
+	title: "Screw",
+	x: 10.5d,
+	y: 0.0d,
+	dependencies: [
+		"4a670c36"
+	],
+	tasks: [{
+		uid: "73485213",
+		type: "dimension",
+		dim: -1
+	}],
+	rewards: [{
+		uid: "f611255e",
+		type: "ftbmoney:money",
+		ftb_money: 50L
+	}]
+}

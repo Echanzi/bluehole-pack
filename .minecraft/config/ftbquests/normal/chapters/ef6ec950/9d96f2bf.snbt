@@ -1,0 +1,25 @@
+{
+	title: "Key to the Marshes",
+	x: 2.0d,
+	y: 0.0d,
+	dependencies: [
+		"4725bbf8"
+	],
+	tasks: [{
+		uid: "241fd798",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {},
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "thebetweenlands:swamp_talisman"
+		}],
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "74b6026e",
+		type: "ftbmoney:money",
+		ftb_money: 15L
+	}]
+}

@@ -1,0 +1,33 @@
+{
+	title: "King of Arrows",
+	x: -1.5d,
+	y: -4.5d,
+	dependencies: [
+		"0651ffda"
+	],
+	tasks: [{
+		uid: "ace40b9d",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {},
+				Parent: {
+					Size: 9,
+					Items: []
+				},
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "spartanweaponry:quiver_arrow_heavy",
+			tag: {
+				ClientInventory: []
+			}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "72cdf166",
+		type: "ftbmoney:money",
+		ftb_money: 60L
+	}]
+}

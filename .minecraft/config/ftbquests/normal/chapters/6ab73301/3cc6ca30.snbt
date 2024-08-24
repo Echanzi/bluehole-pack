@@ -1,0 +1,26 @@
+{
+	title: "Choose the Blue Team",
+	x: 15.5d,
+	y: 3.0d,
+	dependencies: [
+		"958f81dc"
+	],
+	tasks: [{
+		uid: "10a6181a",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {},
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "bountifulbaubles:wormholemirror"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "42985400",
+		type: "ftbmoney:money",
+		ftb_money: 100L
+	}]
+}

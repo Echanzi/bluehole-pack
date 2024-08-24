@@ -1,0 +1,22 @@
+{
+	title: "ForestLarchPeak",
+	icon: {
+		ForgeCaps: {
+			"wizardryutils:summoneditemdata": {}
+		},
+		id: "minecraft:grass"
+	},
+	disable_toast: true,
+	x: 10.0d,
+	y: 5.0d,
+	tasks: [{
+		uid: "20001157",
+		type: "biome",
+		biome: "openterraingenerator:overworld_forestlarchpeak"
+	}],
+	rewards: [{
+		uid: "20001158",
+		type: "ftbmoney:money",
+		ftb_money: 25L
+	}]
+}

@@ -1,0 +1,26 @@
+{
+	title: "Treat Sweetener",
+	x: 10.5d,
+	y: 4.5d,
+	text: [
+		"Allows you to add potion effects to a food item"
+	],
+	dependencies: [
+		"6c86bfa8"
+	],
+	tasks: [{
+		uid: "e090bf46",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "add_potion:blackstonebrick"
+		}]
+	}],
+	rewards: [{
+		uid: "ada0c631",
+		type: "ftbmoney:money",
+		ftb_money: 75L
+	}]
+}

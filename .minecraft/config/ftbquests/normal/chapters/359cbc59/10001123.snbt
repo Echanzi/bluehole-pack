@@ -1,0 +1,29 @@
+{
+	title: "Lower Goblin Knight",
+	icon: {
+		ForgeCaps: {
+			"wizardryutils:summoneditemdata": {}
+		},
+		id: "minecraft:spawn_egg",
+		tag: {
+			EntityTag: {
+				id: "twilightforest:goblin_knight_lower"
+			}
+		}
+	},
+	disable_toast: true,
+	x: 19.0d,
+	y: 24.0d,
+	tasks: [{
+		uid: "10001124",
+		type: "observation",
+		match_type: "entity_id",
+		match: "twilightforest:goblin_knight_lower",
+		timer: 0L
+	}],
+	rewards: [{
+		uid: "10001125",
+		type: "ftbmoney:money",
+		ftb_money: 10L
+	}]
+}

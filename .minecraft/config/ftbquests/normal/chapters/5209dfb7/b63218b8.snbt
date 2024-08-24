@@ -1,0 +1,58 @@
+{
+	title: "The Second Ghast Queen",
+	x: 8.0d,
+	y: -0.5d,
+	dependencies: [
+		"3c724d2e"
+	],
+	tasks: [{
+		uid: "92952cae",
+		type: "item",
+		icon: {
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "twilightforest:trophy",
+			Damage: 3s
+		},
+		disable_toast: true,
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "twilightforest:fiery_tears"
+		}]
+	},
+	{
+		uid: "3520d107",
+		type: "kill",
+		disable_toast: true,
+		entity: "twilightforest:ur_ghast",
+		value: 100L
+	}],
+	rewards: [{
+		uid: "d9ced825",
+		type: "item",
+		item: {
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "twilightforest:fiery_tears"
+		}
+	},
+	{
+		uid: "2c9dcd7e",
+		type: "ftbmoney:money",
+		ftb_money: 300L
+	},
+	{
+		uid: "8a3854d9",
+		type: "item",
+		item: {
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "chancecubes:chance_cube"
+		}
+	}]
+}

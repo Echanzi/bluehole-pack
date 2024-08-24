@@ -1,0 +1,26 @@
+{
+	title: "Personal Mixtape",
+	x: 4.5d,
+	y: -7.0d,
+	dependencies: [
+		"53330c2d"
+	],
+	tasks: [{
+		uid: "c3685325",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {},
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "audiocassettes:ironaudiocassette"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "9bbecbd8",
+		type: "ftbmoney:money",
+		ftb_money: 55L
+	}]
+}

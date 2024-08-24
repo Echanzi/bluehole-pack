@@ -1,0 +1,29 @@
+{
+	title: "Ice Giant",
+	icon: {
+		ForgeCaps: {
+			"wizardryutils:summoneditemdata": {}
+		},
+		id: "minecraft:spawn_egg",
+		tag: {
+			EntityTag: {
+				id: "ebwizardry:ice_giant"
+			}
+		}
+	},
+	disable_toast: true,
+	x: 8.0d,
+	y: 25.0d,
+	tasks: [{
+		uid: "10001190",
+		type: "observation",
+		match_type: "entity_id",
+		match: "ebwizardry:ice_giant",
+		timer: 0L
+	}],
+	rewards: [{
+		uid: "10001191",
+		type: "ftbmoney:money",
+		ftb_money: 10L
+	}]
+}

@@ -1,0 +1,29 @@
+{
+	title: "Volatile Magma Cube",
+	icon: {
+		ForgeCaps: {
+			"wizardryutils:summoneditemdata": {}
+		},
+		id: "minecraft:spawn_egg",
+		tag: {
+			EntityTag: {
+				id: "specialmobs:volatilelavaslime"
+			}
+		}
+	},
+	disable_toast: true,
+	x: 3.0d,
+	y: 32.0d,
+	tasks: [{
+		uid: "10001868",
+		type: "observation",
+		match_type: "entity_id",
+		match: "specialmobs:volatilelavaslime",
+		timer: 0L
+	}],
+	rewards: [{
+		uid: "10001869",
+		type: "ftbmoney:money",
+		ftb_money: 10L
+	}]
+}

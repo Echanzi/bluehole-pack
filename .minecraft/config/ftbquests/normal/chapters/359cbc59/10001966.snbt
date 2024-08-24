@@ -1,0 +1,29 @@
+{
+	title: "Fighter Ghast",
+	icon: {
+		ForgeCaps: {
+			"wizardryutils:summoneditemdata": {}
+		},
+		id: "minecraft:spawn_egg",
+		tag: {
+			EntityTag: {
+				id: "specialmobs:fighterghast"
+			}
+		}
+	},
+	disable_toast: true,
+	x: 3.0d,
+	y: 33.0d,
+	tasks: [{
+		uid: "10001967",
+		type: "observation",
+		match_type: "entity_id",
+		match: "specialmobs:fighterghast",
+		timer: 0L
+	}],
+	rewards: [{
+		uid: "10001968",
+		type: "ftbmoney:money",
+		ftb_money: 10L
+	}]
+}

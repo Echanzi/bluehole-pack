@@ -1,0 +1,26 @@
+{
+	title: "Big Mac",
+	x: 4.0d,
+	y: -0.5d,
+	dependencies: [
+		"e98e7534"
+	],
+	tasks: [{
+		uid: "b33961e7",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {},
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "spartanweaponry:caestus_studded"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "7815b495",
+		type: "ftbmoney:money",
+		ftb_money: 30L
+	}]
+}

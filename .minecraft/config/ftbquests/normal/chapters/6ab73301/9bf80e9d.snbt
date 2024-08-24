@@ -1,0 +1,37 @@
+{
+	title: "Farmable Lootcrate",
+	x: -2.5d,
+	y: 4.5d,
+	dependencies: [
+		"5d486fa5"
+	],
+	tasks: [{
+		uid: "c719d7fb",
+		type: "item",
+		disable_toast: true,
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "aquaculture:loot",
+			Damage: 5s
+		}]
+	},
+	{
+		uid: "562f7f96",
+		type: "item",
+		disable_toast: true,
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "aquaculture:loot",
+			Damage: 4s
+		}]
+	}],
+	rewards: [{
+		uid: "fbb4772f",
+		type: "ftbmoney:money",
+		ftb_money: 30L
+	}]
+}

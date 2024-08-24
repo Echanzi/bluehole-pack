@@ -1,0 +1,22 @@
+{
+	title: "Pumpkin Plains",
+	icon: {
+		ForgeCaps: {
+			"wizardryutils:summoneditemdata": {}
+		},
+		id: "minecraft:grass"
+	},
+	disable_toast: true,
+	x: 4.0d,
+	y: 4.0d,
+	tasks: [{
+		uid: "20001040",
+		type: "biome",
+		biome: "openterraingenerator:overworld_pumpkin_plains"
+	}],
+	rewards: [{
+		uid: "20001041",
+		type: "ftbmoney:money",
+		ftb_money: 25L
+	}]
+}

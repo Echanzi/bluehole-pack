@@ -1,0 +1,22 @@
+{
+	title: "RainforestTropicalMountain",
+	icon: {
+		ForgeCaps: {
+			"wizardryutils:summoneditemdata": {}
+		},
+		id: "minecraft:grass"
+	},
+	disable_toast: true,
+	x: 5.0d,
+	y: 0.0d,
+	tasks: [{
+		uid: "20000647",
+		type: "biome",
+		biome: "openterraingenerator:overworld_rainforesttropicalmountain"
+	}],
+	rewards: [{
+		uid: "20000648",
+		type: "ftbmoney:money",
+		ftb_money: 25L
+	}]
+}

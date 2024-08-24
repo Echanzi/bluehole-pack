@@ -1,0 +1,54 @@
+{
+	title: "Master Baiter",
+	x: -2.0d,
+	y: 4.0d,
+	tasks: [{
+		uid: "f8ff4395",
+		type: "item",
+		disable_toast: true,
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "harvestcraft:fruitbaititem"
+		}]
+	},
+	{
+		uid: "02a64760",
+		type: "item",
+		disable_toast: true,
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "harvestcraft:grainbaititem"
+		}]
+	},
+	{
+		uid: "23e484e8",
+		type: "item",
+		disable_toast: true,
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "harvestcraft:veggiebaititem"
+		}]
+	},
+	{
+		uid: "b6973249",
+		type: "item",
+		disable_toast: true,
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "harvestcraft:fishtrapbaititem"
+		}]
+	}],
+	rewards: [{
+		uid: "d934890f",
+		type: "ftbmoney:money",
+		ftb_money: 30L
+	}]
+}

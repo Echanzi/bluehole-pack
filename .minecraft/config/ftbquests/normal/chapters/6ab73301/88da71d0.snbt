@@ -1,0 +1,24 @@
+{
+	title: "Light Mode",
+	x: 2.5d,
+	y: -1.0d,
+	dependencies: [
+		"2288cb92"
+	],
+	tasks: [{
+		uid: "9caecd88",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "fairylights:light",
+			Damage: 15s
+		}]
+	}],
+	rewards: [{
+		uid: "af38ef89",
+		type: "ftbmoney:money",
+		ftb_money: 20L
+	}]
+}

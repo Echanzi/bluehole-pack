@@ -1,0 +1,24 @@
+{
+	title: "Marine Iguana",
+	disable_toast: true,
+	x: -3.0d,
+	y: 34.0d,
+	tasks: [{
+		uid: "3f6ea250",
+		type: "observation",
+		icon: {
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "zawa:marine_iguana"
+		},
+		match_type: "entity_id",
+		match: "zawa:marineiguana",
+		timer: 0L
+	}],
+	rewards: [{
+		uid: "cab5c382",
+		type: "ftbmoney:money",
+		ftb_money: 10L
+	}]
+}

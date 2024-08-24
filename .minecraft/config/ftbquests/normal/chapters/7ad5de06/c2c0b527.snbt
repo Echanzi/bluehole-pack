@@ -1,0 +1,32 @@
+{
+	title: "Cash 4 Gold",
+	icon: {
+		ForgeCaps: {
+			"wizardryutils:summoneditemdata": {}
+		},
+		id: "zawa:coin"
+	},
+	x: -12.0d,
+	y: -3.0d,
+	can_repeat: true,
+	dependencies: [
+		"e00b6ac8"
+	],
+	tasks: [{
+		uid: "7c3277e7",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "minecraft:gold_ingot"
+		}],
+		count: 10L,
+		consume_items: true
+	}],
+	rewards: [{
+		uid: "42e61e00",
+		type: "ftbmoney:money",
+		ftb_money: 10L
+	}]
+}

@@ -1,0 +1,29 @@
+{
+	title: "Mutant Skeleton",
+	icon: {
+		ForgeCaps: {
+			"wizardryutils:summoneditemdata": {}
+		},
+		id: "minecraft:spawn_egg",
+		tag: {
+			EntityTag: {
+				id: "mutantbeasts:mutant_skeleton"
+			}
+		}
+	},
+	disable_toast: true,
+	x: -8.0d,
+	y: 29.0d,
+	tasks: [{
+		uid: "10001538",
+		type: "observation",
+		match_type: "entity_id",
+		match: "mutantbeasts:mutant_skeleton",
+		timer: 0L
+	}],
+	rewards: [{
+		uid: "10001539",
+		type: "ftbmoney:money",
+		ftb_money: 10L
+	}]
+}

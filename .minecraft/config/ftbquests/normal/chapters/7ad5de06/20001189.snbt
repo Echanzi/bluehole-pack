@@ -1,0 +1,22 @@
+{
+	title: "DesertBaobabs",
+	icon: {
+		ForgeCaps: {
+			"wizardryutils:summoneditemdata": {}
+		},
+		id: "minecraft:grass"
+	},
+	disable_toast: true,
+	x: -12.0d,
+	y: 6.0d,
+	tasks: [{
+		uid: "20001190",
+		type: "biome",
+		biome: "openterraingenerator:overworld_desertbaobabs"
+	}],
+	rewards: [{
+		uid: "20001191",
+		type: "ftbmoney:money",
+		ftb_money: 25L
+	}]
+}

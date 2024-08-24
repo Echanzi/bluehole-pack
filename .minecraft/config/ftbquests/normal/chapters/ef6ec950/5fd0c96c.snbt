@@ -1,0 +1,29 @@
+{
+	title: "Call for your Mummy",
+	x: 14.5d,
+	y: -4.5d,
+	dependencies: [
+		"f8b00eec"
+	],
+	tasks: [{
+		uid: "986837b2",
+		type: "kill",
+		entity: "thebetweenlands:dreadful_mummy",
+		value: 1L
+	}],
+	rewards: [{
+		uid: "aed22215",
+		type: "ftbmoney:money",
+		ftb_money: 300L
+	},
+	{
+		uid: "33da2706",
+		type: "item",
+		item: {
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "chancecubes:chance_cube"
+		}
+	}]
+}

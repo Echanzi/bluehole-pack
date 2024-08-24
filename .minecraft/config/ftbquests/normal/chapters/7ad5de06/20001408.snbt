@@ -1,0 +1,22 @@
+{
+	title: "TemperatePlainsAutumnal",
+	icon: {
+		ForgeCaps: {
+			"wizardryutils:summoneditemdata": {}
+		},
+		id: "minecraft:grass"
+	},
+	disable_toast: true,
+	x: -5.0d,
+	y: 8.0d,
+	tasks: [{
+		uid: "20001409",
+		type: "biome",
+		biome: "openterraingenerator:overworld_temperateplainsautumnal"
+	}],
+	rewards: [{
+		uid: "20001410",
+		type: "ftbmoney:money",
+		ftb_money: 25L
+	}]
+}

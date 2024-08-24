@@ -1,0 +1,22 @@
+{
+	title: "Volcanic Island",
+	icon: {
+		ForgeCaps: {
+			"wizardryutils:summoneditemdata": {}
+		},
+		id: "biomesoplenty:ash_block"
+	},
+	disable_toast: true,
+	x: -2.0d,
+	y: -4.0d,
+	tasks: [{
+		uid: "20000230",
+		type: "biome",
+		biome: "biomesoplenty:volcanic_island"
+	}],
+	rewards: [{
+		uid: "20000231",
+		type: "ftbmoney:money",
+		ftb_money: 25L
+	}]
+}

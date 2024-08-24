@@ -1,0 +1,22 @@
+{
+	title: "RockyHillsEdge",
+	icon: {
+		ForgeCaps: {
+			"wizardryutils:summoneditemdata": {}
+		},
+		id: "minecraft:grass"
+	},
+	disable_toast: true,
+	x: -9.0d,
+	y: 6.0d,
+	tasks: [{
+		uid: "20001199",
+		type: "biome",
+		biome: "openterraingenerator:overworld_rockyhillsedge"
+	}],
+	rewards: [{
+		uid: "20001200",
+		type: "ftbmoney:money",
+		ftb_money: 25L
+	}]
+}

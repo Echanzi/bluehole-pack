@@ -1,0 +1,24 @@
+{
+	title: "Animal Feed Trader",
+	disable_toast: true,
+	x: 17.0d,
+	y: 34.0d,
+	tasks: [{
+		uid: "0868b8f9",
+		type: "observation",
+		icon: {
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "zawa:feed_trader"
+		},
+		match_type: "entity_id",
+		match: "zawa:feedtrader",
+		timer: 0L
+	}],
+	rewards: [{
+		uid: "05b94bc1",
+		type: "ftbmoney:money",
+		ftb_money: 10L
+	}]
+}

@@ -1,0 +1,30 @@
+{
+	title: "Apprentice Tome",
+	x: -2.0d,
+	y: -0.5d,
+	hide_dependency_lines: true,
+	dependencies: [
+		"0cccbf13"
+	],
+	tasks: [{
+		uid: "e5231811",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {},
+				"astralsorcery:cap_item_amulet_holder": {
+					AS_Amulet_HolderLeast: -6480113167060876494L,
+					AS_Amulet_HolderMost: 2911248940407866704L
+				}
+			},
+			id: "ebwizardry:arcane_tome",
+			Damage: 1s
+		}],
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "e0e476a2",
+		type: "ftbmoney:money",
+		ftb_money: 25L
+	}]
+}

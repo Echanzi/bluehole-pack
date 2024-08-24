@@ -1,0 +1,17 @@
+{
+	title: "Dangerous Black Void",
+	icon: "minecraft:air",
+	disable_toast: true,
+	x: -2.0d,
+	y: -1.0d,
+	tasks: [{
+		uid: "20000527",
+		type: "biome",
+		biome: "dimdoors:dangerous_black_void"
+	}],
+	rewards: [{
+		uid: "20000528",
+		type: "ftbmoney:money",
+		ftb_money: 25L
+	}]
+}

@@ -1,0 +1,20 @@
+{
+	title: "The Jungle (not illustrated)",
+	x: 4.0d,
+	y: 4.5d,
+	tasks: [{
+		uid: "54e443b0",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "harvestcraft:groundtrap"
+		}]
+	}],
+	rewards: [{
+		uid: "025f20df",
+		type: "ftbmoney:money",
+		ftb_money: 20L
+	}]
+}

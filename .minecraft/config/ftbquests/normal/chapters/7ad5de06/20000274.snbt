@@ -1,0 +1,22 @@
+{
+	title: "Cherry Blossom Grove",
+	icon: {
+		ForgeCaps: {
+			"wizardryutils:summoneditemdata": {}
+		},
+		id: "biomesoplenty:grass"
+	},
+	disable_toast: true,
+	x: 13.0d,
+	y: -4.0d,
+	tasks: [{
+		uid: "20000275",
+		type: "biome",
+		biome: "biomesoplenty:cherry_blossom_grove"
+	}],
+	rewards: [{
+		uid: "20000276",
+		type: "ftbmoney:money",
+		ftb_money: 25L
+	}]
+}

@@ -1,0 +1,22 @@
+{
+	title: "ForestMountainRange",
+	icon: {
+		ForgeCaps: {
+			"wizardryutils:summoneditemdata": {}
+		},
+		id: "minecraft:grass"
+	},
+	disable_toast: true,
+	x: 11.0d,
+	y: 2.0d,
+	tasks: [{
+		uid: "20000863",
+		type: "biome",
+		biome: "openterraingenerator:overworld_forestmountainrange"
+	}],
+	rewards: [{
+		uid: "20000864",
+		type: "ftbmoney:money",
+		ftb_money: 25L
+	}]
+}

@@ -1,0 +1,22 @@
+{
+	title: "DesertTropicalEdge",
+	icon: {
+		ForgeCaps: {
+			"wizardryutils:summoneditemdata": {}
+		},
+		id: "minecraft:grass"
+	},
+	disable_toast: true,
+	x: -7.0d,
+	y: 11.0d,
+	tasks: [{
+		uid: "20001700",
+		type: "biome",
+		biome: "openterraingenerator:overworld_deserttropicaledge"
+	}],
+	rewards: [{
+		uid: "20001701",
+		type: "ftbmoney:money",
+		ftb_money: 25L
+	}]
+}

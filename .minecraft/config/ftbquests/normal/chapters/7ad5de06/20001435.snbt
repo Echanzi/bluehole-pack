@@ -1,0 +1,22 @@
+{
+	title: "ForestConiferSnow2",
+	icon: {
+		ForgeCaps: {
+			"wizardryutils:summoneditemdata": {}
+		},
+		id: "minecraft:grass"
+	},
+	disable_toast: true,
+	x: 4.0d,
+	y: 8.0d,
+	tasks: [{
+		uid: "20001436",
+		type: "biome",
+		biome: "openterraingenerator:overworld_forestconifersnow2"
+	}],
+	rewards: [{
+		uid: "20001437",
+		type: "ftbmoney:money",
+		ftb_money: 25L
+	}]
+}

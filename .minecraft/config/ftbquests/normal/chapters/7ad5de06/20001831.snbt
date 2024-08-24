@@ -1,0 +1,22 @@
+{
+	title: "MarshBorder",
+	icon: {
+		ForgeCaps: {
+			"wizardryutils:summoneditemdata": {}
+		},
+		id: "minecraft:grass"
+	},
+	disable_toast: true,
+	x: 4.0d,
+	y: 12.0d,
+	tasks: [{
+		uid: "20001832",
+		type: "biome",
+		biome: "openterraingenerator:overworld_marshborder"
+	}],
+	rewards: [{
+		uid: "20001833",
+		type: "ftbmoney:money",
+		ftb_money: 25L
+	}]
+}

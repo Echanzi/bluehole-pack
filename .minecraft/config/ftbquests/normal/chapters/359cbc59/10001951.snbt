@@ -1,0 +1,29 @@
+{
+	title: "Witch of Shadows",
+	icon: {
+		ForgeCaps: {
+			"wizardryutils:summoneditemdata": {}
+		},
+		id: "minecraft:spawn_egg",
+		tag: {
+			EntityTag: {
+				id: "specialmobs:shadowswitch"
+			}
+		}
+	},
+	disable_toast: true,
+	x: -2.0d,
+	y: 33.0d,
+	tasks: [{
+		uid: "10001952",
+		type: "observation",
+		match_type: "entity_id",
+		match: "specialmobs:shadowswitch",
+		timer: 0L
+	}],
+	rewards: [{
+		uid: "10001953",
+		type: "ftbmoney:money",
+		ftb_money: 10L
+	}]
+}

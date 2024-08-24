@@ -1,0 +1,26 @@
+{
+	title: "Who needs Swords when you have This?",
+	x: -2.0d,
+	y: 4.5d,
+	dependencies: [
+		"c8f3a510"
+	],
+	tasks: [{
+		uid: "0ad315b8",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {},
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "spartanweaponry:battleaxe_wood"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "7558389b",
+		type: "ftbmoney:money",
+		ftb_money: 15L
+	}]
+}

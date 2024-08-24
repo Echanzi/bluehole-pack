@@ -1,0 +1,22 @@
+{
+	title: "Coral Reef",
+	icon: {
+		ForgeCaps: {
+			"wizardryutils:summoneditemdata": {}
+		},
+		id: "minecraft:grass"
+	},
+	disable_toast: true,
+	x: -11.0d,
+	y: -2.0d,
+	tasks: [{
+		uid: "20000401",
+		type: "biome",
+		biome: "biomesoplenty:coral_reef"
+	}],
+	rewards: [{
+		uid: "20000402",
+		type: "ftbmoney:money",
+		ftb_money: 25L
+	}]
+}

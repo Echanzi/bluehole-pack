@@ -1,0 +1,22 @@
+{
+	title: "TaigaPlateauEdge",
+	icon: {
+		ForgeCaps: {
+			"wizardryutils:summoneditemdata": {}
+		},
+		id: "minecraft:grass"
+	},
+	disable_toast: true,
+	x: -1.0d,
+	y: 4.0d,
+	tasks: [{
+		uid: "20001025",
+		type: "biome",
+		biome: "openterraingenerator:overworld_taigaplateauedge"
+	}],
+	rewards: [{
+		uid: "20001026",
+		type: "ftbmoney:money",
+		ftb_money: 25L
+	}]
+}

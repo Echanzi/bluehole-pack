@@ -1,0 +1,44 @@
+{
+	title: "Concocting the Perfect Drink",
+	x: -5.0d,
+	y: 0.0d,
+	tasks: [{
+		uid: "0a474804",
+		type: "item",
+		disable_toast: true,
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "tropicraft:pineapple"
+		}]
+	},
+	{
+		uid: "94a3abad",
+		type: "item",
+		disable_toast: true,
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "tropicraft:coconut"
+		}]
+	},
+	{
+		uid: "4c12cbed",
+		type: "item",
+		disable_toast: true,
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "tropicraft:bamboo_shoot"
+		}],
+		count: 7L
+	}],
+	rewards: [{
+		uid: "b3d0e025",
+		type: "ftbmoney:money",
+		ftb_money: 30L
+	}]
+}

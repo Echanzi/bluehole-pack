@@ -1,0 +1,33 @@
+{
+	x: -4.0d,
+	y: 14.0d,
+	hide_dependency_lines: true,
+	dependencies: [
+		"476b243d"
+	],
+	tasks: [{
+		uid: "8be32b5f",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {},
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "spartancompat:throwing_knife_holystone",
+			tag: {
+				AmmoUsed: 0,
+				UUIDMost: -1829779591863712919L,
+				UUIDLeast: -5793443894986320127L,
+				enchChecked: 1b,
+				Original: 1b
+			}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "ef05566b",
+		type: "ftbmoney:money",
+		ftb_money: 25L
+	}]
+}

@@ -1,0 +1,22 @@
+{
+	title: "TaigaHighlands",
+	icon: {
+		ForgeCaps: {
+			"wizardryutils:summoneditemdata": {}
+		},
+		id: "minecraft:grass"
+	},
+	disable_toast: true,
+	x: 18.0d,
+	y: 0.0d,
+	tasks: [{
+		uid: "20000686",
+		type: "biome",
+		biome: "openterraingenerator:overworld_taigahighlands"
+	}],
+	rewards: [{
+		uid: "20000687",
+		type: "ftbmoney:money",
+		ftb_money: 25L
+	}]
+}

@@ -1,0 +1,26 @@
+{
+	x: 5.5d,
+	y: 17.0d,
+	hide_dependency_lines: true,
+	dependencies: [
+		"e423ba05"
+	],
+	tasks: [{
+		uid: "c1028832",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {},
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "spartanlands:greatsword_weedwood"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "ea124cfc",
+		type: "ftbmoney:money",
+		ftb_money: 20L
+	}]
+}

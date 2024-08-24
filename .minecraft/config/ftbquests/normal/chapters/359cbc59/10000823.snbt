@@ -1,0 +1,29 @@
+{
+	title: "Lord Vatticus",
+	icon: {
+		ForgeCaps: {
+			"wizardryutils:summoneditemdata": {}
+		},
+		id: "minecraft:spawn_egg",
+		tag: {
+			EntityTag: {
+				id: "divinerpg:lord_vatticus"
+			}
+		}
+	},
+	disable_toast: true,
+	x: 18.0d,
+	y: 21.0d,
+	tasks: [{
+		uid: "10000824",
+		type: "observation",
+		match_type: "entity_id",
+		match: "divinerpg:lord_vatticus",
+		timer: 0L
+	}],
+	rewards: [{
+		uid: "10000825",
+		type: "ftbmoney:money",
+		ftb_money: 10L
+	}]
+}

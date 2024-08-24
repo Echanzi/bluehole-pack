@@ -1,0 +1,22 @@
+{
+	title: "Twilight Forest",
+	icon: {
+		ForgeCaps: {
+			"wizardryutils:summoneditemdata": {}
+		},
+		id: "minecraft:grass"
+	},
+	disable_toast: true,
+	x: -8.0d,
+	y: -1.0d,
+	tasks: [{
+		uid: "20000509",
+		type: "biome",
+		biome: "twilightforest:twilight_forest"
+	}],
+	rewards: [{
+		uid: "20000510",
+		type: "ftbmoney:money",
+		ftb_money: 25L
+	}]
+}

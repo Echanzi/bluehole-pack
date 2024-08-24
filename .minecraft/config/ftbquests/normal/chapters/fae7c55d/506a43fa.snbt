@@ -1,0 +1,23 @@
+{
+	x: -2.0d,
+	y: 2.5d,
+	tasks: [{
+		uid: "f2316b36",
+		type: "observation",
+		title: "Librarian Remains",
+		icon: {
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "ebwizardry:imbuement_altar"
+		},
+		match_type: "block_id",
+		match: "ebwizardry:imbuement_altar",
+		timer: 0L
+	}],
+	rewards: [{
+		uid: "93ef5715",
+		type: "ftbmoney:money",
+		ftb_money: 35L
+	}]
+}

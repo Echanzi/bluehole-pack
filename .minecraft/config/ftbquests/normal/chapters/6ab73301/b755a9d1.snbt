@@ -1,0 +1,23 @@
+{
+	title: "hector",
+	x: 3.5d,
+	y: -3.0d,
+	dependencies: [
+		"3ba3d581"
+	],
+	tasks: [{
+		uid: "a04d58c4",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "bibliocraft:bell"
+		}]
+	}],
+	rewards: [{
+		uid: "d85f1666",
+		type: "ftbmoney:money",
+		ftb_money: 25L
+	}]
+}

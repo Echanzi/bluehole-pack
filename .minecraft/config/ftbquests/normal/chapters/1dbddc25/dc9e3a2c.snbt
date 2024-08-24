@@ -1,0 +1,33 @@
+{
+	title: "A fair trade",
+	icon: {
+		ForgeCaps: {
+			"wizardryutils:summoneditemdata": {}
+		},
+		id: "zawa:coin"
+	},
+	x: 2.5d,
+	y: -8.5d,
+	text: [
+		""
+	],
+	can_repeat: true,
+	dependencies: [
+		"4a670c36"
+	],
+	tasks: [{
+		uid: "b7074637",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "minecraft:diamond"
+		}]
+	}],
+	rewards: [{
+		uid: "8200ca68",
+		type: "ftbmoney:money",
+		ftb_money: 10L
+	}]
+}

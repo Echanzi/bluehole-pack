@@ -1,0 +1,29 @@
+{
+	title: "Skythern Golem",
+	icon: {
+		ForgeCaps: {
+			"wizardryutils:summoneditemdata": {}
+		},
+		id: "minecraft:spawn_egg",
+		tag: {
+			EntityTag: {
+				id: "divinerpg:skythern_golem"
+			}
+		}
+	},
+	disable_toast: true,
+	x: -7.0d,
+	y: 21.0d,
+	tasks: [{
+		uid: "10000749",
+		type: "observation",
+		match_type: "entity_id",
+		match: "divinerpg:skythern_golem",
+		timer: 0L
+	}],
+	rewards: [{
+		uid: "10000750",
+		type: "ftbmoney:money",
+		ftb_money: 10L
+	}]
+}

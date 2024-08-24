@@ -1,0 +1,22 @@
+{
+	title: "Seasonal Forest",
+	icon: {
+		ForgeCaps: {
+			"wizardryutils:summoneditemdata": {}
+		},
+		id: "minecraft:grass"
+	},
+	disable_toast: true,
+	x: 7.0d,
+	y: -6.0d,
+	tasks: [{
+		uid: "20000059",
+		type: "biome",
+		biome: "biomesoplenty:seasonal_forest"
+	}],
+	rewards: [{
+		uid: "20000060",
+		type: "ftbmoney:money",
+		ftb_money: 25L
+	}]
+}

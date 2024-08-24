@@ -1,0 +1,20 @@
+{
+	x: 13.5d,
+	y: 5.0d,
+	tasks: [{
+		uid: "d7e10261",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "thebetweenlands:items_misc",
+			Damage: 38s
+		}]
+	}],
+	rewards: [{
+		uid: "dc8072c5",
+		type: "ftbmoney:money",
+		ftb_money: 15L
+	}]
+}

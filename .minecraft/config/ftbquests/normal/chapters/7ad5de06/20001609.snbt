@@ -1,0 +1,22 @@
+{
+	title: "Monument",
+	icon: {
+		ForgeCaps: {
+			"wizardryutils:summoneditemdata": {}
+		},
+		id: "minecraft:grass"
+	},
+	disable_toast: true,
+	x: -4.0d,
+	y: 10.0d,
+	tasks: [{
+		uid: "20001610",
+		type: "biome",
+		biome: "openterraingenerator:overworld_monument"
+	}],
+	rewards: [{
+		uid: "20001611",
+		type: "ftbmoney:money",
+		ftb_money: 25L
+	}]
+}

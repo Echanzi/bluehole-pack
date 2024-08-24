@@ -1,0 +1,22 @@
+{
+	title: "Xeric Shrubland",
+	icon: {
+		ForgeCaps: {
+			"wizardryutils:summoneditemdata": {}
+		},
+		id: "minecraft:sand"
+	},
+	disable_toast: true,
+	x: 13.0d,
+	y: -1.0d,
+	tasks: [{
+		uid: "20000572",
+		type: "biome",
+		biome: "biomesoplenty:xeric_shrubland"
+	}],
+	rewards: [{
+		uid: "20000573",
+		type: "ftbmoney:money",
+		ftb_money: 25L
+	}]
+}

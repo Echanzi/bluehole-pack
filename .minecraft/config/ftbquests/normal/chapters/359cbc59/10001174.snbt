@@ -1,0 +1,29 @@
+{
+	title: "Ice Wraith",
+	icon: {
+		ForgeCaps: {
+			"wizardryutils:summoneditemdata": {}
+		},
+		id: "minecraft:spawn_egg",
+		tag: {
+			EntityTag: {
+				id: "ebwizardry:ice_wraith"
+			}
+		}
+	},
+	disable_toast: true,
+	x: 3.0d,
+	y: 25.0d,
+	tasks: [{
+		uid: "10001175",
+		type: "observation",
+		match_type: "entity_id",
+		match: "ebwizardry:ice_wraith",
+		timer: 0L
+	}],
+	rewards: [{
+		uid: "10001176",
+		type: "ftbmoney:money",
+		ftb_money: 10L
+	}]
+}

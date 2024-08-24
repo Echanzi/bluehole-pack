@@ -1,0 +1,29 @@
+{
+	title: "Centaur",
+	icon: {
+		ForgeCaps: {
+			"wizardryutils:summoneditemdata": {}
+		},
+		id: "minecraft:spawn_egg",
+		tag: {
+			EntityTag: {
+				id: "grimoireofgaia:centaur"
+			}
+		}
+	},
+	disable_toast: true,
+	x: 2.0d,
+	y: 26.0d,
+	tasks: [{
+		uid: "10001271",
+		type: "observation",
+		match_type: "entity_id",
+		match: "grimoireofgaia:centaur",
+		timer: 0L
+	}],
+	rewards: [{
+		uid: "10001272",
+		type: "ftbmoney:money",
+		ftb_money: 10L
+	}]
+}

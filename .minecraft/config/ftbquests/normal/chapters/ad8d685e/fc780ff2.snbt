@@ -1,0 +1,133 @@
+{
+	title: "ok make 10 more cakes",
+	x: -6.5d,
+	y: -4.5d,
+	dependencies: [
+		"5e98c653"
+	],
+	tasks: [{
+		uid: "dc92f6aa",
+		type: "item",
+		disable_toast: true,
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "harvestcraft:carrotcakeitem"
+		}]
+	},
+	{
+		uid: "9772e4d1",
+		type: "item",
+		disable_toast: true,
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "harvestcraft:cheesecakeitem"
+		}]
+	},
+	{
+		uid: "a31b43ef",
+		type: "item",
+		disable_toast: true,
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "harvestcraft:cherrycheesecakeitem"
+		}]
+	},
+	{
+		uid: "32745b5f",
+		type: "item",
+		disable_toast: true,
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "harvestcraft:chocolatesprinklecakeitem"
+		}]
+	},
+	{
+		uid: "130db0dc",
+		type: "item",
+		disable_toast: true,
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "harvestcraft:holidaycakeitem"
+		}]
+	},
+	{
+		uid: "d16abd97",
+		type: "item",
+		disable_toast: true,
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "harvestcraft:pineappleupsidedowncakeitem"
+		}]
+	},
+	{
+		uid: "63d799bd",
+		type: "item",
+		disable_toast: true,
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "harvestcraft:pumpkincheesecakeitem"
+		}]
+	},
+	{
+		uid: "6527560d",
+		type: "item",
+		disable_toast: true,
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "harvestcraft:redvelvetcakeitem"
+		}]
+	},
+	{
+		uid: "3e003746",
+		type: "item",
+		disable_toast: true,
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "harvestcraft:pavlovaitem"
+		}]
+	},
+	{
+		uid: "ed7841a3",
+		type: "item",
+		disable_toast: true,
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "harvestcraft:lamingtonitem"
+		}]
+	}],
+	rewards: [{
+		uid: "d0ca3a86",
+		type: "ftbmoney:money",
+		ftb_money: 175L
+	},
+	{
+		uid: "741e8341",
+		type: "item",
+		item: {
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "chancecubes:chance_cube"
+		}
+	}]
+}

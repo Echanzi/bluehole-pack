@@ -1,0 +1,29 @@
+{
+	title: "King Ghast",
+	icon: {
+		ForgeCaps: {
+			"wizardryutils:summoneditemdata": {}
+		},
+		id: "minecraft:spawn_egg",
+		tag: {
+			EntityTag: {
+				id: "specialmobs:kingghast"
+			}
+		}
+	},
+	disable_toast: true,
+	x: 4.0d,
+	y: 33.0d,
+	tasks: [{
+		uid: "10001970",
+		type: "observation",
+		match_type: "entity_id",
+		match: "specialmobs:kingghast",
+		timer: 0L
+	}],
+	rewards: [{
+		uid: "10001971",
+		type: "ftbmoney:money",
+		ftb_money: 10L
+	}]
+}

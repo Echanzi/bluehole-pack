@@ -1,0 +1,24 @@
+{
+	title: "Diamond Golem",
+	disable_toast: true,
+	x: 3.0d,
+	y: 36.0d,
+	tasks: [{
+		uid: "69d4cb45",
+		type: "observation",
+		icon: {
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "minecraft:diamond_block"
+		},
+		match_type: "entity_id",
+		match: "golems:golem_diamond",
+		timer: 0L
+	}],
+	rewards: [{
+		uid: "b24a1e23",
+		type: "ftbmoney:money",
+		ftb_money: 10L
+	}]
+}

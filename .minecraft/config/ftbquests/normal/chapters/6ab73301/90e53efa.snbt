@@ -1,0 +1,39 @@
+{
+	title: "Is anyone here a doctor?",
+	x: 3.5d,
+	y: 10.0d,
+	text: [
+		"Grants access to Bandages in the Shop"
+	],
+	dependencies: [
+		"ce2799ae"
+	],
+	tasks: [{
+		uid: "02c820e2",
+		type: "item",
+		disable_toast: true,
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "scalinghealth:healingitem",
+			Damage: 1s
+		}]
+	},
+	{
+		uid: "2c113627",
+		type: "item",
+		disable_toast: true,
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "scalinghealth:healingitem"
+		}]
+	}],
+	rewards: [{
+		uid: "49706886",
+		type: "ftbmoney:money",
+		ftb_money: 50L
+	}]
+}

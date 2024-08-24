@@ -1,0 +1,24 @@
+{
+	title: "Black Spider Monkey",
+	disable_toast: true,
+	x: -2.0d,
+	y: 35.0d,
+	tasks: [{
+		uid: "bd3d21f5",
+		type: "observation",
+		icon: {
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "zawa:black_spider_monkey"
+		},
+		match_type: "entity_id",
+		match: "zawa:blackspidermonkey",
+		timer: 0L
+	}],
+	rewards: [{
+		uid: "8d3e0544",
+		type: "ftbmoney:money",
+		ftb_money: 10L
+	}]
+}

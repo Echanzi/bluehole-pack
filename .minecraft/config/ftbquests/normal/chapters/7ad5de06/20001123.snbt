@@ -1,0 +1,22 @@
+{
+	title: "MesaVerdeCanyon",
+	icon: {
+		ForgeCaps: {
+			"wizardryutils:summoneditemdata": {}
+		},
+		id: "minecraft:grass"
+	},
+	disable_toast: true,
+	x: -1.0d,
+	y: 5.0d,
+	tasks: [{
+		uid: "20001124",
+		type: "biome",
+		biome: "openterraingenerator:overworld_mesaverdecanyon"
+	}],
+	rewards: [{
+		uid: "20001125",
+		type: "ftbmoney:money",
+		ftb_money: 25L
+	}]
+}

@@ -1,0 +1,24 @@
+{
+	title: "\"Light-Weight\" Metal",
+	x: 5.5d,
+	y: 1.0d,
+	dependencies: [
+		"f623e02f",
+		"295773b3"
+	],
+	tasks: [{
+		uid: "dd18a250",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "aether_legacy:enchanted_gravitite"
+		}]
+	}],
+	rewards: [{
+		uid: "b8798424",
+		type: "ftbmoney:money",
+		ftb_money: 45L
+	}]
+}

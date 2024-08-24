@@ -1,0 +1,42 @@
+{
+	x: 12.0d,
+	y: 10.5d,
+	text: [
+		"You can dye the Elytra! Banner support too! ",
+		"You can split the wings to dye separately!"
+	],
+	dependencies: [
+		"80bd5470"
+	],
+	tasks: [{
+		uid: "c20eed44",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {},
+				"astralsorcery:cap_item_amulet_holder": {},
+				"customizableelytra:elytra": {
+					LeftWing: {
+						CustomizationData: {},
+						BaseColor: -1,
+						CustomizationTags: []
+					},
+					RightWing: {
+						CustomizationData: {},
+						BaseColor: -1,
+						CustomizationTags: []
+					},
+					AreWingsDuplicates: 1b
+				}
+			},
+			id: "minecraft:elytra"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "ece0d054",
+		type: "ftbmoney:money",
+		ftb_money: 50L
+	}]
+}

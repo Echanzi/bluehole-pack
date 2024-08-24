@@ -1,0 +1,25 @@
+{
+	x: 6.5d,
+	y: 7.5d,
+	dependencies: [
+		"b1b57950"
+	],
+	tasks: [{
+		uid: "298d7712",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {},
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "thebetweenlands:shockwave_sword"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "b13b8640",
+		type: "ftbmoney:money",
+		ftb_money: 50L
+	}]
+}

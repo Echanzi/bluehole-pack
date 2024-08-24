@@ -1,0 +1,22 @@
+{
+	title: "Twilight Glacier",
+	icon: {
+		ForgeCaps: {
+			"wizardryutils:summoneditemdata": {}
+		},
+		id: "minecraft:grass"
+	},
+	disable_toast: true,
+	x: -9.0d,
+	y: -3.0d,
+	tasks: [{
+		uid: "20000308",
+		type: "biome",
+		biome: "twilightforest:twilight_glacier"
+	}],
+	rewards: [{
+		uid: "20000309",
+		type: "ftbmoney:money",
+		ftb_money: 25L
+	}]
+}

@@ -1,0 +1,24 @@
+{
+	title: "Clownfish",
+	disable_toast: true,
+	x: -6.0d,
+	y: 35.0d,
+	tasks: [{
+		uid: "8ea03f04",
+		type: "observation",
+		icon: {
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "zawa:clown_fish"
+		},
+		match_type: "entity_id",
+		match: "zawa:clownfish",
+		timer: 0L
+	}],
+	rewards: [{
+		uid: "cb207ca1",
+		type: "ftbmoney:money",
+		ftb_money: 10L
+	}]
+}

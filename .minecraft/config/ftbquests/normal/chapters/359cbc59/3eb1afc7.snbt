@@ -1,0 +1,24 @@
+{
+	title: "Animal Trader",
+	disable_toast: true,
+	x: -4.0d,
+	y: 35.0d,
+	tasks: [{
+		uid: "0a3170cb",
+		type: "observation",
+		icon: {
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "zawa:animal_trader"
+		},
+		match_type: "entity_id",
+		match: "zawa:animaltrader",
+		timer: 0L
+	}],
+	rewards: [{
+		uid: "b79c53b7",
+		type: "ftbmoney:money",
+		ftb_money: 10L
+	}]
+}

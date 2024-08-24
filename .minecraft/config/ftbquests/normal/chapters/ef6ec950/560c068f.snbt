@@ -1,0 +1,27 @@
+{
+	title: "Pocket Pouch",
+	x: 2.0d,
+	y: 6.0d,
+	dependencies: [
+		"624f7dc6",
+		"977a9264"
+	],
+	tasks: [{
+		uid: "30a2aa00",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {},
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "thebetweenlands:lurker_skin_pouch"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "eb9c61d6",
+		type: "ftbmoney:money",
+		ftb_money: 15L
+	}]
+}

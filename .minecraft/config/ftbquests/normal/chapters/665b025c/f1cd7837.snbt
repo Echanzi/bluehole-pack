@@ -1,0 +1,33 @@
+{
+	x: -12.5d,
+	y: 0.0d,
+	hide_dependency_lines: true,
+	dependencies: [
+		"d19cf0d7"
+	],
+	tasks: [{
+		uid: "66939a47",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {},
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "spartanlands:boomerang_valonite",
+			tag: {
+				AmmoUsed: 0,
+				UUIDMost: 5379844096952320578L,
+				UUIDLeast: -7114096593579736609L,
+				enchChecked: 1b,
+				Original: 1b
+			}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "6653da6f",
+		type: "ftbmoney:money",
+		ftb_money: 40L
+	}]
+}

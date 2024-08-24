@@ -1,0 +1,36 @@
+{
+	title: "Enchanted!",
+	x: 7.5d,
+	y: -4.0d,
+	text: [
+		"Grants access to Books in the Shop"
+	],
+	dependencies: [
+		"8deefbde"
+	],
+	tasks: [{
+		uid: "31d45e48",
+		type: "stat",
+		icon: {
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "minecraft:enchanted_book",
+			tag: {
+				reforgeCost: 318
+			}
+		},
+		stat: "stat.itemEnchanted",
+		value: 3
+	}],
+	rewards: [{
+		uid: "71f2c65a",
+		type: "ftbmoney:money",
+		ftb_money: 25L
+	},
+	{
+		uid: "e9317eaf",
+		type: "xp",
+		xp: 100
+	}]
+}

@@ -1,0 +1,24 @@
+{
+	title: "Rattlesnake",
+	disable_toast: true,
+	x: 17.0d,
+	y: 35.0d,
+	tasks: [{
+		uid: "005c6070",
+		type: "observation",
+		icon: {
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "zawa:rattlesnake"
+		},
+		match_type: "entity_id",
+		match: "zawa:rattlesnake",
+		timer: 0L
+	}],
+	rewards: [{
+		uid: "78e0e67f",
+		type: "ftbmoney:money",
+		ftb_money: 10L
+	}]
+}

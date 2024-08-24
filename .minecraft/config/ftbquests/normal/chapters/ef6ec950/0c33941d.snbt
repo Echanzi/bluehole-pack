@@ -1,0 +1,35 @@
+{
+	x: -2.5d,
+	y: 8.0d,
+	tasks: [{
+		uid: "c00e5e23",
+		type: "item",
+		disable_toast: true,
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "thebetweenlands:mortar"
+		}]
+	},
+	{
+		uid: "77ae427e",
+		type: "item",
+		disable_toast: true,
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {},
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "thebetweenlands:pestle",
+			tag: {}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "44953b31",
+		type: "ftbmoney:money",
+		ftb_money: 20L
+	}]
+}

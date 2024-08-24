@@ -1,0 +1,23 @@
+{
+	title: "Twilight Navigation",
+	x: -0.5d,
+	y: -1.5d,
+	dependencies: [
+		"4d0a10d4"
+	],
+	tasks: [{
+		uid: "189d0e82",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "twilightforest:magic_map_empty"
+		}]
+	}],
+	rewards: [{
+		uid: "7cf54c23",
+		type: "ftbmoney:money",
+		ftb_money: 50L
+	}]
+}

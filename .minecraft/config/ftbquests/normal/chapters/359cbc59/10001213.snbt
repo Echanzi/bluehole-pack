@@ -1,0 +1,29 @@
+{
+	title: "Bee",
+	icon: {
+		ForgeCaps: {
+			"wizardryutils:summoneditemdata": {}
+		},
+		id: "minecraft:spawn_egg",
+		tag: {
+			EntityTag: {
+				id: "futuremc:bee"
+			}
+		}
+	},
+	disable_toast: true,
+	x: 16.0d,
+	y: 25.0d,
+	tasks: [{
+		uid: "10001214",
+		type: "observation",
+		match_type: "entity_id",
+		match: "futuremc:bee",
+		timer: 0L
+	}],
+	rewards: [{
+		uid: "10001215",
+		type: "ftbmoney:money",
+		ftb_money: 10L
+	}]
+}

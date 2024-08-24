@@ -1,0 +1,23 @@
+{
+	title: "\"Redstone Active\" - A Minecraft Parody (Music Video)",
+	x: 4.5d,
+	y: -4.0d,
+	dependencies: [
+		"2288cb92"
+	],
+	tasks: [{
+		uid: "fbdd6e44",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "minecraft:redstone"
+		}]
+	}],
+	rewards: [{
+		uid: "b0e8b0bc",
+		type: "ftbmoney:money",
+		ftb_money: 20L
+	}]
+}

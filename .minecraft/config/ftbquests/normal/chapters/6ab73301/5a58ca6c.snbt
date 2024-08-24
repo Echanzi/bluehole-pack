@@ -1,0 +1,26 @@
+{
+	title: "Artifact Destroyer",
+	x: 15.5d,
+	y: 0.0d,
+	dependencies: [
+		"463222ca"
+	],
+	tasks: [{
+		uid: "a46df704",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {},
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "bountifulbaubles:disintegrationtablet"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "48a3e816",
+		type: "ftbmoney:money",
+		ftb_money: 50L
+	}]
+}

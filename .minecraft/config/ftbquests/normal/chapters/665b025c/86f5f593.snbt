@@ -1,0 +1,33 @@
+{
+	title: "Not Just a Dog",
+	x: -1.5d,
+	y: 8.5d,
+	dependencies: [
+		"4a18d7f7"
+	],
+	tasks: [{
+		uid: "043410a8",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "spartanweaponry:bolt"
+		}]
+	},
+	{
+		uid: "2cfd3dda",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "spartanweaponry:bolt_diamond"
+		}]
+	}],
+	rewards: [{
+		uid: "fa187e8b",
+		type: "ftbmoney:money",
+		ftb_money: 30L
+	}]
+}

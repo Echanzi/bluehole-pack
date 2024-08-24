@@ -1,0 +1,27 @@
+{
+	x: 1.0d,
+	y: -2.0d,
+	text: [
+		"Grants access to Golden Darts in the Shop"
+	],
+	dependencies: [
+		"6ea40ce4"
+	],
+	tasks: [{
+		uid: "1484249f",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {},
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "aether_legacy:dart_shooter"
+		}],
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "0c6b5f06",
+		type: "ftbmoney:money",
+		ftb_money: 50L
+	}]
+}

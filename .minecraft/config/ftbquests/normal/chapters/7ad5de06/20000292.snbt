@@ -1,0 +1,17 @@
+{
+	title: "White Void",
+	icon: "minecraft:air",
+	disable_toast: true,
+	x: 19.0d,
+	y: -4.0d,
+	tasks: [{
+		uid: "20000293",
+		type: "biome",
+		biome: "dimdoors:white_void"
+	}],
+	rewards: [{
+		uid: "20000294",
+		type: "ftbmoney:money",
+		ftb_money: 25L
+	}]
+}

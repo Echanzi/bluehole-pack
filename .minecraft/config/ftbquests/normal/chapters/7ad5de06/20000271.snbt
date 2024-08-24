@@ -1,0 +1,22 @@
+{
+	title: "Bamboo Forest",
+	icon: {
+		ForgeCaps: {
+			"wizardryutils:summoneditemdata": {}
+		},
+		id: "minecraft:dirt"
+	},
+	disable_toast: true,
+	x: 12.0d,
+	y: -4.0d,
+	tasks: [{
+		uid: "20000272",
+		type: "biome",
+		biome: "biomesoplenty:bamboo_forest"
+	}],
+	rewards: [{
+		uid: "20000273",
+		type: "ftbmoney:money",
+		ftb_money: 25L
+	}]
+}

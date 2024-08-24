@@ -1,0 +1,33 @@
+{
+	title: "Efficient Arrow Keeping",
+	x: 0.5d,
+	y: -6.5d,
+	dependencies: [
+		"a7f000eb"
+	],
+	tasks: [{
+		uid: "664834a5",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {},
+				Parent: {
+					Size: 4,
+					Items: []
+				},
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "spartanweaponry:quiver_arrow",
+			tag: {
+				ClientInventory: []
+			}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "a3823bcd",
+		type: "ftbmoney:money",
+		ftb_money: 25L
+	}]
+}

@@ -1,0 +1,46 @@
+{
+	x: 10.0d,
+	y: -3.0d,
+	dependencies: [
+		"a49fbd8e",
+		"b63218b8",
+		"9fc70050"
+	],
+	tasks: [{
+		uid: "565620af",
+		type: "item",
+		disable_toast: true,
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {},
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "twilightforest:lamp_of_cinders"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	},
+	{
+		uid: "27f5e5f0",
+		type: "kill",
+		disable_toast: true,
+		entity: "twilightforest:troll",
+		value: 1L
+	}],
+	rewards: [{
+		uid: "4b8fbd53",
+		type: "item",
+		item: {
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {},
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "twilightforest:lamp_of_cinders"
+		}
+	},
+	{
+		uid: "b9d5e1dc",
+		type: "ftbmoney:money",
+		ftb_money: 250L
+	}]
+}

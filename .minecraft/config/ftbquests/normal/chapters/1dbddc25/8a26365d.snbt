@@ -1,0 +1,24 @@
+{
+	disable_toast: true,
+	x: -0.5d,
+	y: -2.5d,
+	can_repeat: true,
+	tasks: [{
+		uid: "c661a881",
+		type: "kill",
+		icon: {
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {},
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "mutantbeasts:mutant_skeleton_skull"
+		},
+		entity: "mutantbeasts:mutant_skeleton",
+		value: 1L
+	}],
+	rewards: [{
+		uid: "f8064b02",
+		type: "ftbmoney:money",
+		ftb_money: 175L
+	}]
+}

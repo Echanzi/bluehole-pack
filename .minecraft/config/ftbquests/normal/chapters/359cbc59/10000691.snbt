@@ -1,0 +1,29 @@
+{
+	title: "Mage",
+	icon: {
+		ForgeCaps: {
+			"wizardryutils:summoneditemdata": {}
+		},
+		id: "minecraft:spawn_egg",
+		tag: {
+			EntityTag: {
+				id: "divinerpg:mage"
+			}
+		}
+	},
+	disable_toast: true,
+	x: 7.0d,
+	y: 20.0d,
+	tasks: [{
+		uid: "10000692",
+		type: "observation",
+		match_type: "entity_id",
+		match: "divinerpg:mage",
+		timer: 0L
+	}],
+	rewards: [{
+		uid: "10000693",
+		type: "ftbmoney:money",
+		ftb_money: 10L
+	}]
+}

@@ -1,0 +1,70 @@
+{
+	title: "/TTS",
+	x: -1.5d,
+	y: -2.0d,
+	text: [
+		""
+	],
+	dependencies: [
+		"621eb046"
+	],
+	tasks: [{
+		uid: "9597849f",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {},
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "minecraft:wooden_sword"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "14fddc54",
+		type: "ftbmoney:money",
+		ftb_money: 15L
+	},
+	{
+		uid: "a7a70acc",
+		type: "item",
+		team_reward: true,
+		item: {
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {},
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "minecraft:wooden_sword",
+			tag: {
+				ench: [{
+					lvl: 3999,
+					id: 54
+				}],
+				Quality: {
+					Slots: [
+						"mainhand"
+					],
+					Color: "red",
+					AttributeModifiers: [{
+						UUIDMost: -1542353878437704747L,
+						UUIDLeast: -4652646818099638665L,
+						Amount: -0.10000000149011612d,
+						AttributeName: "potioncore.digSpeed",
+						Operation: 2,
+						Name: "qualitytools"
+					},
+					{
+						UUIDMost: -2167378476257292415L,
+						UUIDLeast: -6751316166250688111L,
+						Amount: -0.10000000149011612d,
+						AttributeName: "generic.attackDamage",
+						Operation: 2,
+						Name: "qualitytools"
+					}],
+					Name: "quality.rusted.name"
+				}
+			}
+		}
+	}]
+}

@@ -1,0 +1,25 @@
+{
+	x: -5.0d,
+	y: -3.0d,
+	dependencies: [
+		"82ec1e99"
+	],
+	tasks: [{
+		uid: "993c1581",
+		type: "observation",
+		icon: {
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "cave_expansion:treasurelvl2"
+		},
+		match_type: "block_id",
+		match: "cave_expansion:treasurelvl2",
+		timer: 0L
+	}],
+	rewards: [{
+		uid: "2033066f",
+		type: "ftbmoney:money",
+		ftb_money: 50L
+	}]
+}

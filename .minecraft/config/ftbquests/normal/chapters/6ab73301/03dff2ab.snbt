@@ -1,0 +1,26 @@
+{
+	title: "This'll go Great in my Cringe Compilation",
+	x: 2.5d,
+	y: -5.0d,
+	dependencies: [
+		"356b6cba"
+	],
+	tasks: [{
+		uid: "85a50a6f",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {},
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "camera:album"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "22cef201",
+		type: "ftbmoney:money",
+		ftb_money: 15L
+	}]
+}

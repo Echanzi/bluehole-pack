@@ -1,0 +1,26 @@
+{
+	title: "Great Investment",
+	x: 9.5d,
+	y: 3.0d,
+	dependencies: [
+		"706be83d"
+	],
+	tasks: [{
+		uid: "b28f0b8e",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {},
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "futuremc:netherite_hoe"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "9d1d84d8",
+		type: "ftbmoney:money",
+		ftb_money: 150L
+	}]
+}

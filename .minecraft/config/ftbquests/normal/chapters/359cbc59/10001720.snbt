@@ -1,0 +1,29 @@
+{
+	title: "Drowning Creeper",
+	icon: {
+		ForgeCaps: {
+			"wizardryutils:summoneditemdata": {}
+		},
+		id: "minecraft:spawn_egg",
+		tag: {
+			EntityTag: {
+				id: "specialmobs:drowningcreeper"
+			}
+		}
+	},
+	disable_toast: true,
+	x: 20.0d,
+	y: 30.0d,
+	tasks: [{
+		uid: "10001721",
+		type: "observation",
+		match_type: "entity_id",
+		match: "specialmobs:drowningcreeper",
+		timer: 0L
+	}],
+	rewards: [{
+		uid: "10001722",
+		type: "ftbmoney:money",
+		ftb_money: 10L
+	}]
+}

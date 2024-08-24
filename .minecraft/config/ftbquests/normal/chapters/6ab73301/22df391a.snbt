@@ -1,0 +1,26 @@
+{
+	title: "Now There's Two!",
+	x: 7.5d,
+	y: 2.5d,
+	text: [
+		"Reforges Tools and Armor Using Materials"
+	],
+	dependencies: [
+		"acdeaee1"
+	],
+	tasks: [{
+		uid: "fac86c59",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "qualitytools:reforging_station"
+		}]
+	}],
+	rewards: [{
+		uid: "e1922b4f",
+		type: "ftbmoney:money",
+		ftb_money: 50L
+	}]
+}

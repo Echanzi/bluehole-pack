@@ -1,0 +1,33 @@
+{
+	x: -2.5d,
+	y: 19.0d,
+	hide_dependency_lines: true,
+	dependencies: [
+		"0c5cc95e"
+	],
+	tasks: [{
+		uid: "d8dd95f9",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {},
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "spartanfire:throwing_axe_jungle_venom",
+			tag: {
+				AmmoUsed: 0,
+				UUIDMost: 2496286510150995956L,
+				UUIDLeast: -8108378137004794885L,
+				enchChecked: 1b,
+				Original: 1b
+			}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "84b82b28",
+		type: "ftbmoney:money",
+		ftb_money: 30L
+	}]
+}

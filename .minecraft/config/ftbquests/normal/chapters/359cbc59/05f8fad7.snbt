@@ -1,0 +1,24 @@
+{
+	title: "Marine Tang",
+	disable_toast: true,
+	x: -10.0d,
+	y: 36.0d,
+	tasks: [{
+		uid: "6fe30308",
+		type: "observation",
+		icon: {
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "zawa:marine_tang"
+		},
+		match_type: "entity_id",
+		match: "zawa:marinetang",
+		timer: 0L
+	}],
+	rewards: [{
+		uid: "2eec507e",
+		type: "ftbmoney:money",
+		ftb_money: 10L
+	}]
+}

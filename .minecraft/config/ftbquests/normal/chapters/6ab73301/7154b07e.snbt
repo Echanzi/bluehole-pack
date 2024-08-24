@@ -1,0 +1,19 @@
+{
+	title: "Boxed Out",
+	x: 11.5d,
+	y: 9.0d,
+	dependencies: [
+		"80bd5470"
+	],
+	tasks: [{
+		uid: "018e578f",
+		type: "kill",
+		entity: "minecraft:shulker",
+		value: 1L
+	}],
+	rewards: [{
+		uid: "1c64ee1a",
+		type: "ftbmoney:money",
+		ftb_money: 15L
+	}]
+}

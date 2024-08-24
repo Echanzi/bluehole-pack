@@ -1,0 +1,33 @@
+{
+	x: -12.5d,
+	y: -4.0d,
+	hide_dependency_lines: true,
+	dependencies: [
+		"d19cf0d7"
+	],
+	tasks: [{
+		uid: "9cf78e4b",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {},
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "spartanfire:boomerang_ice_dragonsteel",
+			tag: {
+				AmmoUsed: 0,
+				UUIDMost: 6187007596324538580L,
+				UUIDLeast: -6582017786871498523L,
+				enchChecked: 1b,
+				Original: 1b
+			}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "8d422954",
+		type: "ftbmoney:money",
+		ftb_money: 60L
+	}]
+}

@@ -1,0 +1,22 @@
+{
+	title: "DesertLowlandsOasis",
+	icon: {
+		ForgeCaps: {
+			"wizardryutils:summoneditemdata": {}
+		},
+		id: "minecraft:grass"
+	},
+	disable_toast: true,
+	x: 13.0d,
+	y: 5.0d,
+	tasks: [{
+		uid: "20001166",
+		type: "biome",
+		biome: "openterraingenerator:overworld_desertlowlandsoasis"
+	}],
+	rewards: [{
+		uid: "20001167",
+		type: "ftbmoney:money",
+		ftb_money: 25L
+	}]
+}

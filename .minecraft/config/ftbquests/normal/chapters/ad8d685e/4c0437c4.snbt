@@ -1,0 +1,26 @@
+{
+	title: "malding",
+	x: 2.0d,
+	y: 0.5d,
+	dependencies: [
+		"f5192b7c",
+		"381f3a0c"
+	],
+	tasks: [{
+		uid: "8c577aea",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "harvestcraft:saltitem"
+		}],
+		count: 1000L,
+		consume_items: true
+	}],
+	rewards: [{
+		uid: "de5dd14c",
+		type: "ftbmoney:money",
+		ftb_money: 50L
+	}]
+}

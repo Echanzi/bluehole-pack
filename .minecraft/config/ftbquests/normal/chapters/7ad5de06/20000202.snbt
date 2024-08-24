@@ -1,0 +1,22 @@
+{
+	title: "Eucalyptus Forest",
+	icon: {
+		ForgeCaps: {
+			"wizardryutils:summoneditemdata": {}
+		},
+		id: "minecraft:grass"
+	},
+	disable_toast: true,
+	x: -11.0d,
+	y: -4.0d,
+	tasks: [{
+		uid: "20000203",
+		type: "biome",
+		biome: "biomesoplenty:eucalyptus_forest"
+	}],
+	rewards: [{
+		uid: "20000204",
+		type: "ftbmoney:money",
+		ftb_money: 25L
+	}]
+}

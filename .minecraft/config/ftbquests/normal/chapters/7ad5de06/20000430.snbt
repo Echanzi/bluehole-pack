@@ -1,0 +1,22 @@
+{
+	title: "Marsh",
+	icon: {
+		ForgeCaps: {
+			"wizardryutils:summoneditemdata": {}
+		},
+		id: "biomesoplenty:grass"
+	},
+	disable_toast: true,
+	x: -1.0d,
+	y: -2.0d,
+	tasks: [{
+		uid: "20000431",
+		type: "biome",
+		biome: "biomesoplenty:marsh"
+	}],
+	rewards: [{
+		uid: "20000432",
+		type: "ftbmoney:money",
+		ftb_money: 25L
+	}]
+}

@@ -1,0 +1,27 @@
+{
+	title: "Jesse, we have to cook",
+	x: 13.5d,
+	y: -2.0d,
+	text: [
+		"Grants access to the Recall Potion in the Shop"
+	],
+	dependencies: [
+		"463222ca"
+	],
+	tasks: [{
+		uid: "37a2274c",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "minecraft:brewing_stand"
+		}],
+		only_from_crafting: true
+	}],
+	rewards: [{
+		uid: "966a5d08",
+		type: "ftbmoney:money",
+		ftb_money: 30L
+	}]
+}

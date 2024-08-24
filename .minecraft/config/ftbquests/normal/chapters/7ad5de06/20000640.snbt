@@ -1,0 +1,22 @@
+{
+	title: "ForestEnchantedBorder",
+	icon: {
+		ForgeCaps: {
+			"wizardryutils:summoneditemdata": {}
+		},
+		id: "minecraft:grass"
+	},
+	disable_toast: true,
+	x: 3.0d,
+	y: 0.0d,
+	tasks: [{
+		uid: "20000641",
+		type: "biome",
+		biome: "openterraingenerator:overworld_forestenchantedborder"
+	}],
+	rewards: [{
+		uid: "20000642",
+		type: "ftbmoney:money",
+		ftb_money: 25L
+	}]
+}

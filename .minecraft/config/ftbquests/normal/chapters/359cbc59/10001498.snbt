@@ -1,0 +1,29 @@
+{
+	title: "Sea Serpent",
+	icon: {
+		ForgeCaps: {
+			"wizardryutils:summoneditemdata": {}
+		},
+		id: "minecraft:spawn_egg",
+		tag: {
+			EntityTag: {
+				id: "iceandfire:seaserpent"
+			}
+		}
+	},
+	disable_toast: true,
+	x: 12.0d,
+	y: 28.0d,
+	tasks: [{
+		uid: "10001499",
+		type: "observation",
+		match_type: "entity_id",
+		match: "iceandfire:seaserpent",
+		timer: 0L
+	}],
+	rewards: [{
+		uid: "10001500",
+		type: "ftbmoney:money",
+		ftb_money: 10L
+	}]
+}

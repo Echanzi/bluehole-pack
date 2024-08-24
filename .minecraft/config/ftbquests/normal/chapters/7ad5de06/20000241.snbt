@@ -1,0 +1,22 @@
+{
+	title: "TROPICS_RAINFOREST_ISLAND_MOUNTAINS",
+	icon: {
+		ForgeCaps: {
+			"wizardryutils:summoneditemdata": {}
+		},
+		id: "minecraft:grass"
+	},
+	disable_toast: true,
+	x: 2.0d,
+	y: -4.0d,
+	tasks: [{
+		uid: "20000242",
+		type: "biome",
+		biome: "tropicraft:tc_tropics_rainforest_island_mountains"
+	}],
+	rewards: [{
+		uid: "20000243",
+		type: "ftbmoney:money",
+		ftb_money: 25L
+	}]
+}

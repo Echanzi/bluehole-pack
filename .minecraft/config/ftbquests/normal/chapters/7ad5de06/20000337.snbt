@@ -1,0 +1,22 @@
+{
+	title: "The Void",
+	icon: {
+		ForgeCaps: {
+			"wizardryutils:summoneditemdata": {}
+		},
+		id: "minecraft:grass"
+	},
+	disable_toast: true,
+	x: 1.0d,
+	y: -3.0d,
+	tasks: [{
+		uid: "20000338",
+		type: "biome",
+		biome: "minecraft:void"
+	}],
+	rewards: [{
+		uid: "20000339",
+		type: "ftbmoney:money",
+		ftb_money: 25L
+	}]
+}

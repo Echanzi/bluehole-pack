@@ -1,0 +1,104 @@
+{
+	title: "Artic Fish",
+	x: -3.5d,
+	y: 7.5d,
+	dependencies: [
+		"5d486fa5"
+	],
+	tasks: [{
+		uid: "cfdbe7dd",
+		type: "item",
+		disable_toast: true,
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "aquaculture:fish",
+			Damage: 24s
+		}],
+		ignore_nbt: 2b
+	},
+	{
+		uid: "0292b5e4",
+		type: "item",
+		disable_toast: true,
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "aquaculture:fish",
+			Damage: 25s
+		}],
+		ignore_nbt: 2b
+	},
+	{
+		uid: "dfda0b59",
+		type: "item",
+		disable_toast: true,
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "aquaculture:fish",
+			Damage: 26s
+		}],
+		ignore_nbt: 2b
+	},
+	{
+		uid: "3e8c8b2c",
+		type: "item",
+		disable_toast: true,
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "aquaculture:fish",
+			Damage: 27s
+		}],
+		ignore_nbt: 2b
+	},
+	{
+		uid: "5448dd26",
+		type: "item",
+		disable_toast: true,
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "aquaculture:fish",
+			Damage: 28s
+		}],
+		ignore_nbt: 2b
+	},
+	{
+		uid: "0112e413",
+		type: "item",
+		disable_toast: true,
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "aquaculture:fish",
+			Damage: 29s
+		}],
+		ignore_nbt: 2b
+	},
+	{
+		uid: "106149da",
+		type: "item",
+		disable_toast: true,
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "aquaculture:fish",
+			Damage: 30s
+		}],
+		ignore_nbt: 2b
+	}],
+	rewards: [{
+		uid: "fdfebc10",
+		type: "ftbmoney:money",
+		ftb_money: 75L
+	}]
+}

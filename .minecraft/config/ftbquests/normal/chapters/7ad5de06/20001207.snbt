@@ -1,0 +1,22 @@
+{
+	title: "Highlands",
+	icon: {
+		ForgeCaps: {
+			"wizardryutils:summoneditemdata": {}
+		},
+		id: "minecraft:grass"
+	},
+	disable_toast: true,
+	x: -6.0d,
+	y: 6.0d,
+	tasks: [{
+		uid: "20001208",
+		type: "biome",
+		biome: "openterraingenerator:overworld_highlands"
+	}],
+	rewards: [{
+		uid: "20001209",
+		type: "ftbmoney:money",
+		ftb_money: 25L
+	}]
+}

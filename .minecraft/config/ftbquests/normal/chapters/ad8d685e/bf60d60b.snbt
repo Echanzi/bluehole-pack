@@ -1,0 +1,32 @@
+{
+	title: "Munch",
+	x: -3.5d,
+	y: -6.0d,
+	tasks: [{
+		uid: "14346b36",
+		type: "item",
+		disable_toast: true,
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "minecraft:ice"
+		}]
+	},
+	{
+		uid: "7e5ebd88",
+		type: "item",
+		disable_toast: true,
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "harvestcraft:fivespiceitem"
+		}]
+	}],
+	rewards: [{
+		uid: "9a8bef04",
+		type: "ftbmoney:money",
+		ftb_money: 35L
+	}]
+}

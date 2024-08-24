@@ -1,0 +1,29 @@
+{
+	title: "Mule",
+	icon: {
+		ForgeCaps: {
+			"wizardryutils:summoneditemdata": {}
+		},
+		id: "minecraft:spawn_egg",
+		tag: {
+			EntityTag: {
+				id: "minecraft:mule"
+			}
+		}
+	},
+	disable_toast: true,
+	x: 17.0d,
+	y: 13.0d,
+	tasks: [{
+		uid: "10000029",
+		type: "observation",
+		match_type: "entity_id",
+		match: "minecraft:mule",
+		timer: 0L
+	}],
+	rewards: [{
+		uid: "10000030",
+		type: "ftbmoney:money",
+		ftb_money: 10L
+	}]
+}

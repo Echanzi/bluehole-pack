@@ -1,0 +1,40 @@
+{
+	title: "Stone Cold",
+	icon: {
+		ForgeCaps: {
+			"wizardryutils:summoneditemdata": {}
+		},
+		id: "aether_legacy:icestone"
+	},
+	x: 2.5d,
+	y: 1.0d,
+	dependencies: [
+		"91476cc6"
+	],
+	tasks: [{
+		uid: "9a746373",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "aether_legacy:icestone"
+		}],
+		count: 16L
+	},
+	{
+		uid: "7f527481",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "aether_legacy:freezer"
+		}]
+	}],
+	rewards: [{
+		uid: "8da526ee",
+		type: "ftbmoney:money",
+		ftb_money: 45L
+	}]
+}

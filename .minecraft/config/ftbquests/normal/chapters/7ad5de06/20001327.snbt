@@ -1,0 +1,22 @@
+{
+	title: "Mega Spruce Taiga Hills",
+	icon: {
+		ForgeCaps: {
+			"wizardryutils:summoneditemdata": {}
+		},
+		id: "minecraft:grass"
+	},
+	disable_toast: true,
+	x: 1.0d,
+	y: 7.0d,
+	tasks: [{
+		uid: "20001328",
+		type: "biome",
+		biome: "openterraingenerator:overworld_mega_spruce_taiga_hills"
+	}],
+	rewards: [{
+		uid: "20001329",
+		type: "ftbmoney:money",
+		ftb_money: 25L
+	}]
+}

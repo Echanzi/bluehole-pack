@@ -1,0 +1,22 @@
+{
+	title: "Tundra",
+	icon: {
+		ForgeCaps: {
+			"wizardryutils:summoneditemdata": {}
+		},
+		id: "minecraft:grass"
+	},
+	disable_toast: true,
+	x: 0.0d,
+	y: 5.0d,
+	tasks: [{
+		uid: "20001127",
+		type: "biome",
+		biome: "openterraingenerator:overworld_tundra"
+	}],
+	rewards: [{
+		uid: "20001128",
+		type: "ftbmoney:money",
+		ftb_money: 25L
+	}]
+}

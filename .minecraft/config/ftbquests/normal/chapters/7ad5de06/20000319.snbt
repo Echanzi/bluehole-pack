@@ -1,0 +1,17 @@
+{
+	title: "Black Void",
+	icon: "minecraft:air",
+	disable_toast: true,
+	x: -5.0d,
+	y: -3.0d,
+	tasks: [{
+		uid: "20000320",
+		type: "biome",
+		biome: "dimdoors:black_void"
+	}],
+	rewards: [{
+		uid: "20000321",
+		type: "ftbmoney:money",
+		ftb_money: 25L
+	}]
+}

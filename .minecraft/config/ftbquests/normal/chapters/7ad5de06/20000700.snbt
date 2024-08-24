@@ -1,0 +1,22 @@
+{
+	title: "DesertFlats",
+	icon: {
+		ForgeCaps: {
+			"wizardryutils:summoneditemdata": {}
+		},
+		id: "minecraft:grass"
+	},
+	disable_toast: true,
+	x: -10.0d,
+	y: 1.0d,
+	tasks: [{
+		uid: "20000701",
+		type: "biome",
+		biome: "openterraingenerator:overworld_desertflats"
+	}],
+	rewards: [{
+		uid: "20000702",
+		type: "ftbmoney:money",
+		ftb_money: 25L
+	}]
+}

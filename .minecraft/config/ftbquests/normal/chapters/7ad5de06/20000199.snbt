@@ -1,0 +1,22 @@
+{
+	title: "Mortum",
+	icon: {
+		ForgeCaps: {
+			"wizardryutils:summoneditemdata": {}
+		},
+		id: "divinerpg:mortum_grass"
+	},
+	disable_toast: true,
+	x: -12.0d,
+	y: -4.0d,
+	tasks: [{
+		uid: "20000200",
+		type: "biome",
+		biome: "divinerpg:mortum"
+	}],
+	rewards: [{
+		uid: "20000201",
+		type: "ftbmoney:money",
+		ftb_money: 25L
+	}]
+}

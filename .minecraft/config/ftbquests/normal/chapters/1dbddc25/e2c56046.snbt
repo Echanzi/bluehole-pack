@@ -1,0 +1,24 @@
+{
+	icon: {
+		ForgeCaps: {
+			"wizardryutils:summoneditemdata": {},
+			"astralsorcery:cap_item_amulet_holder": {}
+		},
+		id: "cqrepoured:sword_turtle"
+	},
+	disable_toast: true,
+	x: 1.5d,
+	y: -4.0d,
+	can_repeat: true,
+	tasks: [{
+		uid: "0b6210b6",
+		type: "kill",
+		entity: "cqrepoured:giant_tortoise",
+		value: 1L
+	}],
+	rewards: [{
+		uid: "d1215e5b",
+		type: "ftbmoney:money",
+		ftb_money: 500L
+	}]
+}

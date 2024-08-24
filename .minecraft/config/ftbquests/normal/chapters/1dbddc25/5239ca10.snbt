@@ -1,0 +1,27 @@
+{
+	disable_toast: true,
+	x: 0.5d,
+	y: -1.0d,
+	can_repeat: true,
+	dependencies: [
+		"2e007dd4"
+	],
+	tasks: [{
+		uid: "913074da",
+		type: "kill",
+		icon: {
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {},
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "thebetweenlands:chiromaw_tame_lightning"
+		},
+		entity: "thebetweenlands:chiromaw_matriarch",
+		value: 1L
+	}],
+	rewards: [{
+		uid: "3b8ffdcc",
+		type: "ftbmoney:money",
+		ftb_money: 150L
+	}]
+}

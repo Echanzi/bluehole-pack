@@ -1,0 +1,24 @@
+{
+	title: "Glowstone Golem",
+	disable_toast: true,
+	x: 16.0d,
+	y: 36.0d,
+	tasks: [{
+		uid: "b57f8f42",
+		type: "observation",
+		icon: {
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "minecraft:glowstone"
+		},
+		match_type: "entity_id",
+		match: "golems:golem_glowstone",
+		timer: 0L
+	}],
+	rewards: [{
+		uid: "f7fabc9c",
+		type: "ftbmoney:money",
+		ftb_money: 10L
+	}]
+}

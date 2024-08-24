@@ -1,0 +1,26 @@
+{
+	x: 18.0d,
+	y: 19.0d,
+	hide_dependency_lines: true,
+	dependencies: [
+		"be8d523a"
+	],
+	tasks: [{
+		uid: "2f54f0fd",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {},
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "spartanfire:spear_jungle_venom"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "dd51a8a2",
+		type: "ftbmoney:money",
+		ftb_money: 30L
+	}]
+}

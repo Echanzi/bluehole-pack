@@ -1,0 +1,22 @@
+{
+	x: -2.0d,
+	y: -1.5d,
+	tasks: [{
+		uid: "8603bab4",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {},
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "harvestcraft:skilletitem"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "b7af510c",
+		type: "ftbmoney:money",
+		ftb_money: 25L
+	}]
+}

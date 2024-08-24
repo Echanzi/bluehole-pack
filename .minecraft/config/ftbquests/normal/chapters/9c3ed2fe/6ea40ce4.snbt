@@ -1,0 +1,24 @@
+{
+	title: "Isn't This Familiar?",
+	x: 1.0d,
+	y: -0.5d,
+	dependencies: [
+		"ad208b40"
+	],
+	tasks: [{
+		uid: "bbe8d4c5",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "aether_legacy:aether_log"
+		}],
+		count: 4L
+	}],
+	rewards: [{
+		uid: "e451c4ec",
+		type: "ftbmoney:money",
+		ftb_money: 40L
+	}]
+}

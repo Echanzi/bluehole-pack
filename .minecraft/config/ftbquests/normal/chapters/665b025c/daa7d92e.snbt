@@ -1,0 +1,26 @@
+{
+	title: "Pepperless Mace",
+	x: -2.5d,
+	y: 3.5d,
+	dependencies: [
+		"c8f3a510"
+	],
+	tasks: [{
+		uid: "657c6bca",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {},
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "spartanweaponry:mace_wood"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "4e321e16",
+		type: "ftbmoney:money",
+		ftb_money: 15L
+	}]
+}

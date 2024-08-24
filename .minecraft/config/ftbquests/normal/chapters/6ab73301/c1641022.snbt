@@ -1,0 +1,26 @@
+{
+	x: 5.5d,
+	y: 7.0d,
+	description: "Activate 3 Waystones",
+	dependencies: [
+		"b56a3e2f"
+	],
+	tasks: [{
+		uid: "2de885bc",
+		type: "stat",
+		title: "Public Transit",
+		icon: {
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "waystones:waystone"
+		},
+		stat: "stat.waystones:waystonesActivated",
+		value: 3
+	}],
+	rewards: [{
+		uid: "41396479",
+		type: "ftbmoney:money",
+		ftb_money: 20L
+	}]
+}

@@ -1,0 +1,36 @@
+{
+	title: "Spiritual Lumberjack",
+	x: 10.0d,
+	y: 4.5d,
+	dependencies: [
+		"f437dfaa"
+	],
+	tasks: [{
+		uid: "63bb115b",
+		type: "kill",
+		icon: {
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {},
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "thebetweenlands:spirit_tree_face_large_mask"
+		},
+		entity: "thebetweenlands:spirit_tree_face_large",
+		value: 1L
+	}],
+	rewards: [{
+		uid: "8ff3839d",
+		type: "ftbmoney:money",
+		ftb_money: 350L
+	},
+	{
+		uid: "b80aa263",
+		type: "item",
+		item: {
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "chancecubes:chance_cube"
+		}
+	}]
+}

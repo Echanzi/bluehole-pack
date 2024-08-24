@@ -1,0 +1,20 @@
+{
+	title: "Gazing Upon My Orb",
+	x: 0.0d,
+	y: 2.5d,
+	tasks: [{
+		uid: "ac3f187c",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "ancientspellcraft:sphere_cognizance"
+		}]
+	}],
+	rewards: [{
+		uid: "b7b97ab0",
+		type: "ftbmoney:money",
+		ftb_money: 30L
+	}]
+}

@@ -1,0 +1,24 @@
+{
+	title: "Dispenser Golem",
+	disable_toast: true,
+	x: 2.0d,
+	y: 36.0d,
+	tasks: [{
+		uid: "24f17d0b",
+		type: "observation",
+		icon: {
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "minecraft:dispenser"
+		},
+		match_type: "entity_id",
+		match: "golems:golem_dispenser",
+		timer: 0L
+	}],
+	rewards: [{
+		uid: "6620097f",
+		type: "ftbmoney:money",
+		ftb_money: 10L
+	}]
+}

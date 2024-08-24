@@ -1,0 +1,23 @@
+{
+	title: "Find a Spirit Tree",
+	x: 6.0d,
+	y: 4.5d,
+	tasks: [{
+		uid: "d3687a6d",
+		type: "observation",
+		icon: {
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "thebetweenlands:log_spirit_tree"
+		},
+		match_type: "block_id",
+		match: "thebetweenlands:log_spirit_tree",
+		timer: 0L
+	}],
+	rewards: [{
+		uid: "26dabc75",
+		type: "ftbmoney:money",
+		ftb_money: 20L
+	}]
+}

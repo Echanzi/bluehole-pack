@@ -1,0 +1,57 @@
+{
+	title: "Meat Mountain™",
+	icon: {
+		ForgeCaps: {
+			"wizardryutils:summoneditemdata": {}
+		},
+		id: "harvestcraft:friedchickenitem"
+	},
+	x: 0.0d,
+	y: -2.0d,
+	text: [
+		""
+	],
+	dependencies: [
+		"7c1d5409"
+	],
+	tasks: [{
+		uid: "3a9ad0d4",
+		type: "kill",
+		entity: "minecraft:chicken",
+		value: 1L
+	},
+	{
+		uid: "dd4e3538",
+		type: "kill",
+		icon: {
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "minecraft:spawn_egg",
+			tag: {
+				EntityTag: {
+					id: "minecraft:cow"
+				}
+			}
+		},
+		entity: "minecraft:cow",
+		value: 1L
+	},
+	{
+		uid: "dfd0a2fc",
+		type: "kill",
+		entity: "minecraft:sheep",
+		value: 1L
+	},
+	{
+		uid: "82f8eab5",
+		type: "kill",
+		entity: "minecraft:pig",
+		value: 1L
+	}],
+	rewards: [{
+		uid: "4221e0de",
+		type: "ftbmoney:money",
+		ftb_money: 30L
+	}]
+}

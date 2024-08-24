@@ -1,0 +1,30 @@
+{
+	title: "Questing Ram",
+	icon: {
+		ForgeCaps: {
+			"wizardryutils:summoneditemdata": {}
+		},
+		id: "minecraft:spawn_egg",
+		tag: {
+			EntityTag: {
+				id: "twilightforest:quest_ram"
+			}
+		}
+	},
+	disable_toast: true,
+	x: -2.0d,
+	y: 24.0d,
+	hide_dependency_lines: true,
+	tasks: [{
+		uid: "10001061",
+		type: "observation",
+		match_type: "entity_id",
+		match: "twilightforest:quest_ram",
+		timer: 0L
+	}],
+	rewards: [{
+		uid: "10001062",
+		type: "ftbmoney:money",
+		ftb_money: 10L
+	}]
+}

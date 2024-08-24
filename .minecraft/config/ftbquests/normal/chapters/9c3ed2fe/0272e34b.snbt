@@ -1,0 +1,25 @@
+{
+	x: 2.0d,
+	y: -3.0d,
+	dependencies: [
+		"a3d2faee"
+	],
+	tasks: [{
+		uid: "64ed7c59",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {},
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "aether_legacy:dart_shooter",
+			Damage: 2s
+		}],
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "68738754",
+		type: "ftbmoney:money",
+		ftb_money: 50L
+	}]
+}

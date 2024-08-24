@@ -1,0 +1,22 @@
+{
+	title: "MushroomIsland",
+	icon: {
+		ForgeCaps: {
+			"wizardryutils:summoneditemdata": {}
+		},
+		id: "minecraft:mycelium"
+	},
+	disable_toast: true,
+	x: 19.0d,
+	y: -6.0d,
+	tasks: [{
+		uid: "20000095",
+		type: "biome",
+		biome: "minecraft:mushroom_island"
+	}],
+	rewards: [{
+		uid: "20000096",
+		type: "ftbmoney:money",
+		ftb_money: 25L
+	}]
+}

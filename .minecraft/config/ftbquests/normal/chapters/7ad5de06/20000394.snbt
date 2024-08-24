@@ -1,0 +1,22 @@
+{
+	title: "Cold Beach",
+	icon: {
+		ForgeCaps: {
+			"wizardryutils:summoneditemdata": {}
+		},
+		id: "minecraft:sand"
+	},
+	disable_toast: true,
+	x: 20.0d,
+	y: -3.0d,
+	tasks: [{
+		uid: "20000395",
+		type: "biome",
+		biome: "minecraft:cold_beach"
+	}],
+	rewards: [{
+		uid: "20000396",
+		type: "ftbmoney:money",
+		ftb_money: 25L
+	}]
+}

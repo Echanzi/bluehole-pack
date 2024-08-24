@@ -1,0 +1,25 @@
+{
+	x: -8.5d,
+	y: -8.0d,
+	dependencies: [
+		"98d8fcc2"
+	],
+	tasks: [{
+		uid: "cb3f56d3",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {},
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "iceandfire:dragonarmor_dragonsteel_fire",
+			Damage: 1s
+		}],
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "67538b82",
+		type: "ftbmoney:money",
+		ftb_money: 30L
+	}]
+}

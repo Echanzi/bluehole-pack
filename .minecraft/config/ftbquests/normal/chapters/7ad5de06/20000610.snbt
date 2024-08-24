@@ -1,0 +1,22 @@
+{
+	title: "Webbed Forest",
+	icon: {
+		ForgeCaps: {
+			"wizardryutils:summoneditemdata": {}
+		},
+		id: "minecraft:grass"
+	},
+	disable_toast: true,
+	x: -7.0d,
+	y: 0.0d,
+	tasks: [{
+		uid: "20000611",
+		type: "biome",
+		biome: "openterraingenerator:overworld_webbed_forest"
+	}],
+	rewards: [{
+		uid: "20000612",
+		type: "ftbmoney:money",
+		ftb_money: 25L
+	}]
+}

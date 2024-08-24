@@ -1,0 +1,33 @@
+{
+	title: "Fate in my Hands",
+	x: -6.5d,
+	y: -1.5d,
+	dependencies: [
+		"fb792609"
+	],
+	tasks: [{
+		uid: "ad6d5cf3",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {},
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "tombstone:grave_key",
+			tag: {
+				tombPosZ: 715,
+				tombPosY: 126,
+				tombPosX: 255,
+				tombPosD: 0,
+				enchant: 1b
+			}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "35633714",
+		type: "ftbmoney:money",
+		ftb_money: 15L
+	}]
+}

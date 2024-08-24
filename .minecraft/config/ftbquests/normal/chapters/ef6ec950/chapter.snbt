@@ -1,0 +1,12 @@
+{
+	title: "Estranged Marshes",
+	icon: {
+		ForgeCaps: {
+			"wizardryutils:summoneditemdata": {}
+		},
+		id: "thebetweenlands:swamp_grass"
+	},
+	always_invisible: false,
+	group: 0,
+	default_quest_shape: ""
+}

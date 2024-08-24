@@ -1,0 +1,26 @@
+{
+	title: "THIS is a Sword!!!",
+	x: -1.0d,
+	y: 5.0d,
+	dependencies: [
+		"c8f3a510"
+	],
+	tasks: [{
+		uid: "ab53b25e",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {},
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "spartanweaponry:greatsword_wood"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "3d1b37d2",
+		type: "ftbmoney:money",
+		ftb_money: 15L
+	}]
+}

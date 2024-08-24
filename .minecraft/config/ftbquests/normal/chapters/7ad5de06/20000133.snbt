@@ -1,0 +1,22 @@
+{
+	title: "Cold Taiga",
+	icon: {
+		ForgeCaps: {
+			"wizardryutils:summoneditemdata": {}
+		},
+		id: "minecraft:grass"
+	},
+	disable_toast: true,
+	x: -1.0d,
+	y: -5.0d,
+	tasks: [{
+		uid: "20000134",
+		type: "biome",
+		biome: "minecraft:taiga_cold"
+	}],
+	rewards: [{
+		uid: "20000135",
+		type: "ftbmoney:money",
+		ftb_money: 25L
+	}]
+}

@@ -1,0 +1,24 @@
+{
+	title: "Wooden Golem",
+	disable_toast: true,
+	x: -6.0d,
+	y: 37.0d,
+	tasks: [{
+		uid: "7cf521ec",
+		type: "observation",
+		icon: {
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "minecraft:planks"
+		},
+		match_type: "entity_id",
+		match: "golems:golem_wooden",
+		timer: 0L
+	}],
+	rewards: [{
+		uid: "ebbb0195",
+		type: "ftbmoney:money",
+		ftb_money: 10L
+	}]
+}

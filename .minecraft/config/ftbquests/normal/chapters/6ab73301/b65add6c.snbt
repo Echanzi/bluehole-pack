@@ -1,0 +1,23 @@
+{
+	title: "Rod Collector",
+	x: 15.5d,
+	y: 9.0d,
+	dependencies: [
+		"80bd5470"
+	],
+	tasks: [{
+		uid: "2d8bc87b",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "minecraft:end_rod"
+		}]
+	}],
+	rewards: [{
+		uid: "2841e603",
+		type: "ftbmoney:money",
+		ftb_money: 15L
+	}]
+}

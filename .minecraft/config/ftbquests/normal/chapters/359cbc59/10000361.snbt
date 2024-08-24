@@ -1,0 +1,29 @@
+{
+	title: "Skittish Cliptail Grazer",
+	icon: {
+		ForgeCaps: {
+			"wizardryutils:summoneditemdata": {}
+		},
+		id: "minecraft:spawn_egg",
+		tag: {
+			EntityTag: {
+				id: "thebetweenlands:anadia"
+			}
+		}
+	},
+	disable_toast: true,
+	x: -4.0d,
+	y: 17.0d,
+	tasks: [{
+		uid: "10000362",
+		type: "observation",
+		match_type: "entity_id",
+		match: "thebetweenlands:anadia",
+		timer: 0L
+	}],
+	rewards: [{
+		uid: "10000363",
+		type: "ftbmoney:money",
+		ftb_money: 10L
+	}]
+}

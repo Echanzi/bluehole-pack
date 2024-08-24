@@ -1,0 +1,23 @@
+{
+	x: -12.0d,
+	y: 13.5d,
+	dependencies: [
+		"d5afb240"
+	],
+	tasks: [{
+		uid: "125f2f26",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "cgm:advanced_ammo"
+		}],
+		count: 16L
+	}],
+	rewards: [{
+		uid: "f3d8f150",
+		type: "ftbmoney:money",
+		ftb_money: 25L
+	}]
+}

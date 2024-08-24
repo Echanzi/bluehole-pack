@@ -1,0 +1,29 @@
+{
+	title: "Sludge Menace",
+	icon: {
+		ForgeCaps: {
+			"wizardryutils:summoneditemdata": {}
+		},
+		id: "minecraft:spawn_egg",
+		tag: {
+			EntityTag: {
+				id: "thebetweenlands:sludge_menace"
+			}
+		}
+	},
+	disable_toast: true,
+	x: -10.0d,
+	y: 17.0d,
+	tasks: [{
+		uid: "10000344",
+		type: "observation",
+		match_type: "entity_id",
+		match: "thebetweenlands:sludge_menace",
+		timer: 0L
+	}],
+	rewards: [{
+		uid: "10000345",
+		type: "ftbmoney:money",
+		ftb_money: 10L
+	}]
+}

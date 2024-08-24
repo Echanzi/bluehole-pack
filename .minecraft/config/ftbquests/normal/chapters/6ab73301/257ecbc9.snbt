@@ -1,0 +1,65 @@
+{
+	title: "Desert Fish",
+	x: -4.0d,
+	y: 6.5d,
+	dependencies: [
+		"5d486fa5"
+	],
+	tasks: [{
+		uid: "482b27d8",
+		type: "item",
+		disable_toast: true,
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "aquaculture:fish",
+			Damage: 31s
+		}],
+		ignore_nbt: 2b
+	},
+	{
+		uid: "748bf51e",
+		type: "item",
+		disable_toast: true,
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "aquaculture:fish",
+			Damage: 32s
+		}],
+		ignore_nbt: 2b
+	},
+	{
+		uid: "c6e0bf83",
+		type: "item",
+		disable_toast: true,
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "aquaculture:fish",
+			Damage: 33s
+		}],
+		ignore_nbt: 2b
+	},
+	{
+		uid: "b27b9adb",
+		type: "item",
+		disable_toast: true,
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "aquaculture:fish",
+			Damage: 34s
+		}],
+		ignore_nbt: 2b
+	}],
+	rewards: [{
+		uid: "56e329b7",
+		type: "ftbmoney:money",
+		ftb_money: 75L
+	}]
+}

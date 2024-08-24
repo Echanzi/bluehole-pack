@@ -1,0 +1,22 @@
+{
+	title: "ForestPlateauRoofed",
+	icon: {
+		ForgeCaps: {
+			"wizardryutils:summoneditemdata": {}
+		},
+		id: "minecraft:grass"
+	},
+	disable_toast: true,
+	x: 11.0d,
+	y: 10.0d,
+	tasks: [{
+		uid: "20001655",
+		type: "biome",
+		biome: "openterraingenerator:overworld_forestplateauroofed"
+	}],
+	rewards: [{
+		uid: "20001656",
+		type: "ftbmoney:money",
+		ftb_money: 25L
+	}]
+}

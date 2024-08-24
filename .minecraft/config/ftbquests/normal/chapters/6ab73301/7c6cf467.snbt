@@ -1,0 +1,403 @@
+{
+	title: "Brewing V",
+	x: 15.0d,
+	y: -3.0d,
+	dependencies: [
+		"bb4c8a27"
+	],
+	tasks: [{
+		uid: "24449e34",
+		type: "item",
+		disable_toast: true,
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "minecraft:potion",
+			tag: {
+				Potion: "potioncore:saturation"
+			}
+		}],
+		ignore_damage: true
+	},
+	{
+		uid: "3a67a11d",
+		type: "item",
+		disable_toast: true,
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "minecraft:potion",
+			tag: {
+				Potion: "potioncore:flight"
+			}
+		}],
+		ignore_damage: true
+	},
+	{
+		uid: "5c08b788",
+		type: "item",
+		disable_toast: true,
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "minecraft:potion",
+			tag: {
+				Potion: "potioncore:absorption"
+			}
+		}],
+		ignore_damage: true
+	},
+	{
+		uid: "a0b086f4",
+		type: "item",
+		disable_toast: true,
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "minecraft:potion",
+			tag: {
+				Potion: "potioncore:glowing"
+			}
+		}],
+		ignore_damage: true
+	},
+	{
+		uid: "88cc1e3b",
+		type: "item",
+		disable_toast: true,
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "minecraft:potion",
+			tag: {
+				Potion: "potioncore:health_boost"
+			}
+		}],
+		ignore_damage: true
+	},
+	{
+		uid: "e1b42caa",
+		type: "item",
+		disable_toast: true,
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "minecraft:potion",
+			tag: {
+				Potion: "potioncore:solid_core"
+			}
+		}],
+		ignore_damage: true
+	},
+	{
+		uid: "643b53ee",
+		type: "item",
+		disable_toast: true,
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "minecraft:potion",
+			tag: {
+				Potion: "potioncore:climb"
+			}
+		}],
+		ignore_damage: true
+	},
+	{
+		uid: "192e5379",
+		type: "item",
+		disable_toast: true,
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "minecraft:potion",
+			tag: {
+				Potion: "potioncore:teleport_spawn"
+			}
+		}],
+		ignore_damage: true
+	},
+	{
+		uid: "8e1202e5",
+		type: "item",
+		disable_toast: true,
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "minecraft:potion",
+			tag: {
+				Potion: "potioncore:step_up"
+			}
+		}],
+		ignore_damage: true
+	},
+	{
+		uid: "3983cdf1",
+		type: "item",
+		disable_toast: true,
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "minecraft:potion",
+			tag: {
+				Potion: "potioncore:cure"
+			}
+		}],
+		ignore_damage: true
+	},
+	{
+		uid: "aedd4b87",
+		type: "item",
+		disable_toast: true,
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "minecraft:potion",
+			tag: {
+				Potion: "potioncore:magic_focus"
+			}
+		}],
+		ignore_damage: true
+	},
+	{
+		uid: "f29c9c6d",
+		type: "item",
+		disable_toast: true,
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "minecraft:potion",
+			tag: {
+				Potion: "potioncore:teleport_surface"
+			}
+		}],
+		ignore_damage: true
+	},
+	{
+		uid: "fd20c340",
+		type: "item",
+		disable_toast: true,
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "minecraft:potion",
+			tag: {
+				Potion: "potioncore:diamond_skin"
+			}
+		}],
+		ignore_damage: true
+	},
+	{
+		uid: "5871e8b4",
+		type: "item",
+		disable_toast: true,
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "minecraft:potion",
+			tag: {
+				Potion: "potioncore:reach"
+			}
+		}],
+		ignore_damage: true
+	},
+	{
+		uid: "3bc3812f",
+		type: "item",
+		disable_toast: true,
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "minecraft:potion",
+			tag: {
+				Potion: "potioncore:purity"
+			}
+		}],
+		ignore_damage: true
+	},
+	{
+		uid: "577a76ac",
+		type: "item",
+		disable_toast: true,
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "minecraft:potion",
+			tag: {
+				Potion: "potioncore:iron_skin"
+			}
+		}],
+		ignore_damage: true
+	},
+	{
+		uid: "de757c89",
+		type: "item",
+		disable_toast: true,
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "minecraft:potion",
+			tag: {
+				Potion: "potioncore:recoil"
+			}
+		}],
+		ignore_damage: true
+	},
+	{
+		uid: "c7481657",
+		type: "item",
+		disable_toast: true,
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "minecraft:potion",
+			tag: {
+				Potion: "potioncore:extension"
+			}
+		}],
+		ignore_damage: true
+	},
+	{
+		uid: "15fed9a0",
+		type: "item",
+		disable_toast: true,
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "minecraft:potion",
+			tag: {
+				Potion: "potioncore:repair"
+			}
+		}],
+		ignore_damage: true
+	},
+	{
+		uid: "75ab2377",
+		type: "item",
+		disable_toast: true,
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "minecraft:potion",
+			tag: {
+				Potion: "potioncore:love"
+			}
+		}],
+		ignore_damage: true
+	},
+	{
+		uid: "83836162",
+		type: "item",
+		disable_toast: true,
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "minecraft:potion",
+			tag: {
+				Potion: "potioncore:revival"
+			}
+		}],
+		ignore_damage: true
+	},
+	{
+		uid: "220dd953",
+		type: "item",
+		disable_toast: true,
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "minecraft:potion",
+			tag: {
+				Potion: "potioncore:magic_shield"
+			}
+		}],
+		ignore_damage: true
+	},
+	{
+		uid: "bc5064d2",
+		type: "item",
+		disable_toast: true,
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "minecraft:potion",
+			tag: {
+				Potion: "potioncore:slow_fall"
+			}
+		}],
+		ignore_damage: true
+	},
+	{
+		uid: "fca6ceee",
+		type: "item",
+		disable_toast: true,
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "minecraft:potion",
+			tag: {
+				Potion: "potioncore:antidote"
+			}
+		}],
+		ignore_damage: true
+	},
+	{
+		uid: "83f97e49",
+		type: "item",
+		disable_toast: true,
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "minecraft:potion",
+			tag: {
+				Potion: "potioncore:archery"
+			}
+		}],
+		ignore_damage: true
+	},
+	{
+		uid: "f40dca25",
+		type: "item",
+		disable_toast: true,
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "minecraft:potion",
+			tag: {
+				Potion: "potioncore:burst"
+			}
+		}],
+		ignore_damage: true
+	}],
+	rewards: [{
+		uid: "9dab7407",
+		type: "ftbmoney:money",
+		ftb_money: 750L
+	}]
+}

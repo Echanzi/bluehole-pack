@@ -1,0 +1,22 @@
+{
+	title: "ForestFirThicket",
+	icon: {
+		ForgeCaps: {
+			"wizardryutils:summoneditemdata": {}
+		},
+		id: "minecraft:grass"
+	},
+	disable_toast: true,
+	x: -8.0d,
+	y: 8.0d,
+	tasks: [{
+		uid: "20001400",
+		type: "biome",
+		biome: "openterraingenerator:overworld_forestfirthicket"
+	}],
+	rewards: [{
+		uid: "20001401",
+		type: "ftbmoney:money",
+		ftb_money: 25L
+	}]
+}

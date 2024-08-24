@@ -1,0 +1,26 @@
+{
+	disable_toast: true,
+	x: -1.5d,
+	y: -5.5d,
+	can_repeat: true,
+	dependencies: [
+		"a32c9b75"
+	],
+	tasks: [{
+		uid: "b0010e79",
+		type: "kill",
+		icon: {
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "iceandfire:ice_dragon_blood"
+		},
+		entity: "iceandfire:icedragon",
+		value: 1L
+	}],
+	rewards: [{
+		uid: "da2cc1a6",
+		type: "ftbmoney:money",
+		ftb_money: 100L
+	}]
+}

@@ -1,0 +1,28 @@
+{
+	title: "Tree Transportation",
+	x: 3.5d,
+	y: 0.0d,
+	text: [
+		"Use the Swamp Talisman on a Sapling in a Flat area to create The Betweenlands Portal"
+	],
+	dependencies: [
+		"9d96f2bf"
+	],
+	tasks: [{
+		uid: "b0809745",
+		type: "dimension",
+		title: "Visit the Betweenlands",
+		icon: {
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "thebetweenlands:sapling_weedwood"
+		},
+		dim: 20
+	}],
+	rewards: [{
+		uid: "75527839",
+		type: "ftbmoney:money",
+		ftb_money: 50L
+	}]
+}

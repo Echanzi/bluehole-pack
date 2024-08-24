@@ -1,0 +1,22 @@
+{
+	title: "SpookyGroveEdge",
+	icon: {
+		ForgeCaps: {
+			"wizardryutils:summoneditemdata": {}
+		},
+		id: "minecraft:grass"
+	},
+	disable_toast: true,
+	x: 8.0d,
+	y: 5.0d,
+	tasks: [{
+		uid: "20001151",
+		type: "biome",
+		biome: "openterraingenerator:overworld_spookygroveedge"
+	}],
+	rewards: [{
+		uid: "20001152",
+		type: "ftbmoney:money",
+		ftb_money: 25L
+	}]
+}

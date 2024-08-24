@@ -1,0 +1,22 @@
+{
+	x: -2.0d,
+	y: 0.0d,
+	text: [
+		"Your thinking it. We're all thinking it."
+	],
+	tasks: [{
+		uid: "1f385ac3",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "cookingforblockheads:cow_jar"
+		}]
+	}],
+	rewards: [{
+		uid: "94c3c767",
+		type: "ftbmoney:money",
+		ftb_money: 50L
+	}]
+}

@@ -1,0 +1,23 @@
+{
+	title: "The Skies Hold Riches",
+	x: 5.5d,
+	y: -0.5d,
+	dependencies: [
+		"ce02e404"
+	],
+	tasks: [{
+		uid: "b6f652ff",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "aether_legacy:gravitite_ore"
+		}]
+	}],
+	rewards: [{
+		uid: "3e147eb2",
+		type: "ftbmoney:money",
+		ftb_money: 65L
+	}]
+}

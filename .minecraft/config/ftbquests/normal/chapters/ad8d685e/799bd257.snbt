@@ -1,0 +1,20 @@
+{
+	title: "Squeeze Machine",
+	x: 6.0d,
+	y: 2.5d,
+	tasks: [{
+		uid: "050765a3",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "harvestcraft:presser"
+		}]
+	}],
+	rewards: [{
+		uid: "b166520d",
+		type: "ftbmoney:money",
+		ftb_money: 20L
+	}]
+}

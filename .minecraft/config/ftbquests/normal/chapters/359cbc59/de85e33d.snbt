@@ -1,0 +1,24 @@
+{
+	title: "Great Horned Owl",
+	disable_toast: true,
+	x: 11.0d,
+	y: 34.0d,
+	tasks: [{
+		uid: "ce547f87",
+		type: "observation",
+		icon: {
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "zawa:great_horned_owl"
+		},
+		match_type: "entity_id",
+		match: "zawa:greathornedowl",
+		timer: 0L
+	}],
+	rewards: [{
+		uid: "9372cfaf",
+		type: "ftbmoney:money",
+		ftb_money: 10L
+	}]
+}

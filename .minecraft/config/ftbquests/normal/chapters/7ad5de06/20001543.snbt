@@ -1,0 +1,22 @@
+{
+	title: "ForestOakSmall",
+	icon: {
+		ForgeCaps: {
+			"wizardryutils:summoneditemdata": {}
+		},
+		id: "minecraft:grass"
+	},
+	disable_toast: true,
+	x: 7.0d,
+	y: 9.0d,
+	tasks: [{
+		uid: "20001544",
+		type: "biome",
+		biome: "openterraingenerator:overworld_forestoaksmall"
+	}],
+	rewards: [{
+		uid: "20001545",
+		type: "ftbmoney:money",
+		ftb_money: 25L
+	}]
+}

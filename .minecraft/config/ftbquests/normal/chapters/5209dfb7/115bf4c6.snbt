@@ -1,0 +1,40 @@
+{
+	x: 6.0d,
+	y: -5.5d,
+	dependencies: [
+		"828a42c4"
+	],
+	tasks: [{
+		uid: "8d9b03dd",
+		type: "item",
+		disable_toast: true,
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "twilightforest:alpha_fur"
+		}]
+	},
+	{
+		uid: "ccc96b1a",
+		type: "kill",
+		disable_toast: true,
+		entity: "twilightforest:yeti_alpha",
+		value: 1L
+	}],
+	rewards: [{
+		uid: "24d20b30",
+		type: "item",
+		item: {
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "twilightforest:alpha_fur"
+		}
+	},
+	{
+		uid: "cadb699a",
+		type: "ftbmoney:money",
+		ftb_money: 80L
+	}]
+}

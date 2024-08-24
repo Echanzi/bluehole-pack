@@ -1,0 +1,24 @@
+{
+	title: "Coconut Crab",
+	disable_toast: true,
+	x: 16.0d,
+	y: 34.0d,
+	tasks: [{
+		uid: "dcb5572c",
+		type: "observation",
+		icon: {
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "zawa:coconut_crab"
+		},
+		match_type: "entity_id",
+		match: "zawa:coconutcrab",
+		timer: 0L
+	}],
+	rewards: [{
+		uid: "d929ba93",
+		type: "ftbmoney:money",
+		ftb_money: 10L
+	}]
+}

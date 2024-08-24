@@ -1,0 +1,22 @@
+{
+	title: "Plains",
+	icon: {
+		ForgeCaps: {
+			"wizardryutils:summoneditemdata": {}
+		},
+		id: "minecraft:grass"
+	},
+	disable_toast: true,
+	x: -11.0d,
+	y: -5.0d,
+	tasks: [{
+		uid: "20000104",
+		type: "biome",
+		biome: "minecraft:plains"
+	}],
+	rewards: [{
+		uid: "20000105",
+		type: "ftbmoney:money",
+		ftb_money: 25L
+	}]
+}

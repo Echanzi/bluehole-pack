@@ -1,0 +1,29 @@
+{
+	title: "Endermite",
+	icon: {
+		ForgeCaps: {
+			"wizardryutils:summoneditemdata": {}
+		},
+		id: "minecraft:spawn_egg",
+		tag: {
+			EntityTag: {
+				id: "minecraft:endermite"
+			}
+		}
+	},
+	disable_toast: true,
+	x: 4.0d,
+	y: 14.0d,
+	tasks: [{
+		uid: "10000089",
+		type: "observation",
+		match_type: "entity_id",
+		match: "minecraft:endermite",
+		timer: 0L
+	}],
+	rewards: [{
+		uid: "10000090",
+		type: "ftbmoney:money",
+		ftb_money: 10L
+	}]
+}

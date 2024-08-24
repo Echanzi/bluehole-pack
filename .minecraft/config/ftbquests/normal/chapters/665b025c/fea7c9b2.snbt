@@ -1,0 +1,33 @@
+{
+	x: -1.5d,
+	y: 20.0d,
+	hide_dependency_lines: true,
+	dependencies: [
+		"0c5cc95e"
+	],
+	tasks: [{
+		uid: "58e351fb",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {},
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "spartanfire:throwing_axe_desert",
+			tag: {
+				AmmoUsed: 0,
+				UUIDMost: -6243207385635602407L,
+				UUIDLeast: -4611955044885425645L,
+				enchChecked: 1b,
+				Original: 1b
+			}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "9f02df0b",
+		type: "ftbmoney:money",
+		ftb_money: 25L
+	}]
+}

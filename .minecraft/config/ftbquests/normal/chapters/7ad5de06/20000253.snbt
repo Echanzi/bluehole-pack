@@ -1,0 +1,22 @@
+{
+	title: "Oasis",
+	icon: {
+		ForgeCaps: {
+			"wizardryutils:summoneditemdata": {}
+		},
+		id: "minecraft:sand"
+	},
+	disable_toast: true,
+	x: 6.0d,
+	y: -4.0d,
+	tasks: [{
+		uid: "20000254",
+		type: "biome",
+		biome: "biomesoplenty:oasis"
+	}],
+	rewards: [{
+		uid: "20000255",
+		type: "ftbmoney:money",
+		ftb_money: 25L
+	}]
+}

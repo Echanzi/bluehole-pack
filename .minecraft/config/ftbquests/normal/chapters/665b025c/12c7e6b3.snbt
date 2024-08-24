@@ -1,0 +1,33 @@
+{
+	x: -5.0d,
+	y: 15.0d,
+	hide_dependency_lines: true,
+	dependencies: [
+		"476b243d"
+	],
+	tasks: [{
+		uid: "dd25a75a",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {},
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "spartantwilight:throwing_knife_knightly",
+			tag: {
+				AmmoUsed: 0,
+				UUIDMost: 5694024910264748444L,
+				UUIDLeast: -8060147658431089346L,
+				enchChecked: 1b,
+				Original: 1b
+			}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "b8d105c2",
+		type: "ftbmoney:money",
+		ftb_money: 40L
+	}]
+}

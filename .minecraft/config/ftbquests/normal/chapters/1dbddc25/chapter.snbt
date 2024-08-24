@@ -1,0 +1,14 @@
+{
+	title: "grindr",
+	icon: {
+		ForgeCaps: {
+			"wizardryutils:summoneditemdata": {},
+			"astralsorcery:cap_item_amulet_holder": {}
+		},
+		id: "treasure2:skeleton"
+	},
+	disable_toast: true,
+	always_invisible: false,
+	group: 0,
+	default_quest_shape: "circle"
+}

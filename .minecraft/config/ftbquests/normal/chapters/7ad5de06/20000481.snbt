@@ -1,0 +1,22 @@
+{
+	title: "Flower Field",
+	icon: {
+		ForgeCaps: {
+			"wizardryutils:summoneditemdata": {}
+		},
+		id: "minecraft:grass"
+	},
+	disable_toast: true,
+	x: 16.0d,
+	y: -2.0d,
+	tasks: [{
+		uid: "20000482",
+		type: "biome",
+		biome: "biomesoplenty:flower_field"
+	}],
+	rewards: [{
+		uid: "20000483",
+		type: "ftbmoney:money",
+		ftb_money: 25L
+	}]
+}

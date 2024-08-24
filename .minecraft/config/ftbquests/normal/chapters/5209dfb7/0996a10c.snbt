@@ -1,0 +1,52 @@
+{
+	title: "Bug Stomper",
+	x: 9.5d,
+	y: 0.5d,
+	tasks: [{
+		uid: "219a6f0d",
+		type: "kill",
+		disable_toast: true,
+		entity: "twilightforest:swarm_spider",
+		value: 1L
+	},
+	{
+		uid: "4b157b5a",
+		type: "kill",
+		disable_toast: true,
+		entity: "twilightforest:mosquito_swarm",
+		value: 1L
+	},
+	{
+		uid: "1a1fb14b",
+		type: "kill",
+		disable_toast: true,
+		entity: "twilightforest:slime_beetle",
+		value: 1L
+	},
+	{
+		uid: "a009c57e",
+		type: "kill",
+		disable_toast: true,
+		entity: "twilightforest:fire_beetle",
+		value: 1L
+	},
+	{
+		uid: "c42a4ddb",
+		type: "kill",
+		disable_toast: true,
+		entity: "twilightforest:fire_beetle",
+		value: 1L
+	},
+	{
+		uid: "48ddcf06",
+		type: "kill",
+		disable_toast: true,
+		entity: "twilightforest:hedge_spider",
+		value: 1L
+	}],
+	rewards: [{
+		uid: "76a93745",
+		type: "ftbmoney:money",
+		ftb_money: 75L
+	}]
+}

@@ -1,0 +1,22 @@
+{
+	title: "Cold Plains",
+	icon: {
+		ForgeCaps: {
+			"wizardryutils:summoneditemdata": {}
+		},
+		id: "minecraft:grass"
+	},
+	disable_toast: true,
+	x: 3.0d,
+	y: 11.0d,
+	tasks: [{
+		uid: "20001730",
+		type: "biome",
+		biome: "openterraingenerator:overworld_cold_plains"
+	}],
+	rewards: [{
+		uid: "20001731",
+		type: "ftbmoney:money",
+		ftb_money: 25L
+	}]
+}

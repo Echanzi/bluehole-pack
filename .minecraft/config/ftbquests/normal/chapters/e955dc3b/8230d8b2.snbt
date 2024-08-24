@@ -1,0 +1,26 @@
+{
+	title: "Terrarian Superiority",
+	x: -0.5d,
+	y: 2.5d,
+	tasks: [{
+		uid: "0d67d219",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {},
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "bountifulbaubles:shieldankh",
+			tag: {
+				HideFlags: 2
+			}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "d31adff0",
+		type: "ftbmoney:money",
+		ftb_money: 500L
+	}]
+}

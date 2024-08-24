@@ -1,0 +1,24 @@
+{
+	disable_toast: true,
+	x: 14.5d,
+	y: 3.5d,
+	dependencies: [
+		"0fe05f91"
+	],
+	dependency_requirement: "all_started",
+	tasks: [{
+		uid: "ccfa66bd",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "thebetweenlands:green_middle_gem"
+		}]
+	}],
+	rewards: [{
+		uid: "75e9aa46",
+		type: "ftbmoney:money",
+		ftb_money: 30L
+	}]
+}

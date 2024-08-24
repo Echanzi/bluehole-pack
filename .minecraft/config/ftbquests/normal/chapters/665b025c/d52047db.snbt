@@ -1,0 +1,26 @@
+{
+	title: "Big Club Make Enemy Fall Ground",
+	x: -5.0d,
+	y: 1.0d,
+	tasks: [{
+		uid: "07172bbe",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {},
+				"astralsorcery:cap_item_amulet_holder": {
+					AS_Amulet_HolderLeast: -6480113167060876494L,
+					AS_Amulet_HolderMost: 2911248940407866704L
+				}
+			},
+			id: "spartanweaponry:club_wood"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "31db4af5",
+		type: "ftbmoney:money",
+		ftb_money: 15L
+	}]
+}

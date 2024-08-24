@@ -1,0 +1,22 @@
+{
+	title: "Final Plateau",
+	icon: {
+		ForgeCaps: {
+			"wizardryutils:summoneditemdata": {}
+		},
+		id: "twilightforest:deadrock"
+	},
+	disable_toast: true,
+	x: 1.0d,
+	y: -4.0d,
+	tasks: [{
+		uid: "20000239",
+		type: "biome",
+		biome: "twilightforest:highlands_center"
+	}],
+	rewards: [{
+		uid: "20000240",
+		type: "ftbmoney:money",
+		ftb_money: 25L
+	}]
+}

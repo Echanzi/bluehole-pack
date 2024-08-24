@@ -1,0 +1,24 @@
+{
+	disable_toast: true,
+	x: 3.5d,
+	y: -2.5d,
+	can_repeat: true,
+	tasks: [{
+		uid: "15be604c",
+		type: "kill",
+		icon: {
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {},
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "mutantbeasts:creeper_shard"
+		},
+		entity: "mutantbeasts:mutant_creeper",
+		value: 1L
+	}],
+	rewards: [{
+		uid: "9b51d50f",
+		type: "ftbmoney:money",
+		ftb_money: 175L
+	}]
+}

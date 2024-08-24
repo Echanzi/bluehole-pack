@@ -1,0 +1,26 @@
+{
+	title: "Dyslexic Nightmare",
+	x: 2.5d,
+	y: 0.5d,
+	dependencies: [
+		"c8f3a510"
+	],
+	tasks: [{
+		uid: "54d68566",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {},
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "spartanweaponry:pike_wood"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "2d66e664",
+		type: "ftbmoney:money",
+		ftb_money: 15L
+	}]
+}

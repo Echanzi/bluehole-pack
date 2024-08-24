@@ -1,0 +1,24 @@
+{
+	title: "Coatimundi",
+	disable_toast: true,
+	x: -5.0d,
+	y: 34.0d,
+	tasks: [{
+		uid: "a360413b",
+		type: "observation",
+		icon: {
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "zawa:coatimundi"
+		},
+		match_type: "entity_id",
+		match: "zawa:coatimundi",
+		timer: 0L
+	}],
+	rewards: [{
+		uid: "a7fe3c09",
+		type: "ftbmoney:money",
+		ftb_money: 10L
+	}]
+}

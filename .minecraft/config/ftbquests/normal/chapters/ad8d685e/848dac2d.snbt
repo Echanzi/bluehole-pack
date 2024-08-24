@@ -1,0 +1,38 @@
+{
+	title: "Chocolate Chocolate Chip",
+	icon: {
+		ForgeCaps: {
+			"wizardryutils:summoneditemdata": {}
+		},
+		id: "harvestcraft:chocolateicecreamitem"
+	},
+	x: -5.0d,
+	y: -7.5d,
+	tasks: [{
+		uid: "89473b1b",
+		type: "item",
+		disable_toast: true,
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "harvestcraft:chocolateicecreamitem"
+		}]
+	},
+	{
+		uid: "59df16d8",
+		type: "item",
+		disable_toast: true,
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "harvestcraft:chocolatebaritem"
+		}]
+	}],
+	rewards: [{
+		uid: "4b6ce48e",
+		type: "ftbmoney:money",
+		ftb_money: 35L
+	}]
+}

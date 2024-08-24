@@ -1,0 +1,20 @@
+{
+	title: "Writer's Block",
+	x: 2.0d,
+	y: 2.5d,
+	tasks: [{
+		uid: "74ebcfee",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "ancientspellcraft:scribing_desk"
+		}]
+	}],
+	rewards: [{
+		uid: "9922480d",
+		type: "ftbmoney:money",
+		ftb_money: 30L
+	}]
+}

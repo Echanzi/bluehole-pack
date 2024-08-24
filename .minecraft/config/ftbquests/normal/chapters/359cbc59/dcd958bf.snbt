@@ -1,0 +1,24 @@
+{
+	title: "Toucan",
+	disable_toast: true,
+	x: 19.0d,
+	y: 33.0d,
+	tasks: [{
+		uid: "d862c146",
+		type: "observation",
+		icon: {
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "zawa:toucan"
+		},
+		match_type: "entity_id",
+		match: "zawa:toucan",
+		timer: 0L
+	}],
+	rewards: [{
+		uid: "49010e50",
+		type: "ftbmoney:money",
+		ftb_money: 10L
+	}]
+}

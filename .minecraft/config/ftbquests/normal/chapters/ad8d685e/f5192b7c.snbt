@@ -1,0 +1,20 @@
+{
+	title: "Poland Spring's Biggest Competitor",
+	x: 4.0d,
+	y: 0.5d,
+	tasks: [{
+		uid: "2c9dd9c4",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "harvestcraft:waterfilter"
+		}]
+	}],
+	rewards: [{
+		uid: "8accd5ee",
+		type: "ftbmoney:money",
+		ftb_money: 20L
+	}]
+}

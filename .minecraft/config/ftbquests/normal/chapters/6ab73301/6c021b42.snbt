@@ -1,0 +1,39 @@
+{
+	title: "Queen of the Nether",
+	x: 10.5d,
+	y: -4.0d,
+	dependencies: [
+		"87645b72"
+	],
+	tasks: [{
+		uid: "91093363",
+		type: "kill",
+		entity: "netherex:ghast_queen",
+		value: 1L
+	}],
+	rewards: [{
+		uid: "353e94cd",
+		type: "ftbmoney:money",
+		ftb_money: 250L
+	},
+	{
+		uid: "0520d9a3",
+		type: "item",
+		item: {
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "chancecubes:chance_cube"
+		}
+	},
+	{
+		uid: "5455bb38",
+		type: "item",
+		item: {
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "netherex:ghast_queen_tear"
+		}
+	}]
+}

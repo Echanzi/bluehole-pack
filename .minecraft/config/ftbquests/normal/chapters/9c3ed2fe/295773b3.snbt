@@ -1,0 +1,23 @@
+{
+	title: "Altar-native Enchantment",
+	x: 4.0d,
+	y: 1.0d,
+	dependencies: [
+		"ce02e404"
+	],
+	tasks: [{
+		uid: "98a1a1c8",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "aether_legacy:enchanter"
+		}]
+	}],
+	rewards: [{
+		uid: "bfb78627",
+		type: "ftbmoney:money",
+		ftb_money: 35L
+	}]
+}

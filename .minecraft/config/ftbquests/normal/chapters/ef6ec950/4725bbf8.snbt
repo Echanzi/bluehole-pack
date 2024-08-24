@@ -1,0 +1,27 @@
+{
+	title: "Strange Bog Altar",
+	x: 0.5d,
+	y: 0.0d,
+	dependencies: [
+		"22d06503"
+	],
+	tasks: [{
+		uid: "75ecf471",
+		type: "interaction",
+		title: "Look into the Druid Altar",
+		icon: {
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "thebetweenlands:druid_altar"
+		},
+		disable_toast: true,
+		match_type: "block_id",
+		match: "thebetweenlands:druid_altar"
+	}],
+	rewards: [{
+		uid: "39cb8a40",
+		type: "ftbmoney:money",
+		ftb_money: 15L
+	}]
+}

@@ -1,0 +1,29 @@
+{
+	icon: {
+		ForgeCaps: {
+			"wizardryutils:summoneditemdata": {}
+		},
+		id: "thebetweenlands:sulfur_ore"
+	},
+	x: 5.0d,
+	y: -2.0d,
+	dependencies: [
+		"debfec6b"
+	],
+	tasks: [{
+		uid: "ea82d063",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "thebetweenlands:items_misc",
+			Damage: 18s
+		}]
+	}],
+	rewards: [{
+		uid: "bd45c21c",
+		type: "ftbmoney:money",
+		ftb_money: 15L
+	}]
+}

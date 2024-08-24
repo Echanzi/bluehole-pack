@@ -1,0 +1,29 @@
+{
+	title: "Greebling",
+	icon: {
+		ForgeCaps: {
+			"wizardryutils:summoneditemdata": {}
+		},
+		id: "minecraft:spawn_egg",
+		tag: {
+			EntityTag: {
+				id: "thebetweenlands:greebling"
+			}
+		}
+	},
+	disable_toast: true,
+	x: 5.0d,
+	y: 16.0d,
+	tasks: [{
+		uid: "10000290",
+		type: "observation",
+		match_type: "entity_id",
+		match: "thebetweenlands:greebling",
+		timer: 0L
+	}],
+	rewards: [{
+		uid: "10000291",
+		type: "ftbmoney:money",
+		ftb_money: 10L
+	}]
+}

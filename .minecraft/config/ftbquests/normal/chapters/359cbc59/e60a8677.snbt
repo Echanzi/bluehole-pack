@@ -1,0 +1,24 @@
+{
+	title: "Nether Brick Golem",
+	disable_toast: true,
+	x: 20.0d,
+	y: 36.0d,
+	tasks: [{
+		uid: "17130a37",
+		type: "observation",
+		icon: {
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "minecraft:nether_brick"
+		},
+		match_type: "entity_id",
+		match: "golems:golem_nether_brick",
+		timer: 0L
+	}],
+	rewards: [{
+		uid: "e5b3e367",
+		type: "ftbmoney:money",
+		ftb_money: 10L
+	}]
+}

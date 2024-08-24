@@ -1,0 +1,24 @@
+{
+	title: "Botanist",
+	disable_toast: true,
+	x: -7.0d,
+	y: 34.0d,
+	tasks: [{
+		uid: "bbd500b1",
+		type: "observation",
+		icon: {
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "zawa:botanist"
+		},
+		match_type: "entity_id",
+		match: "zawa:botanist",
+		timer: 0L
+	}],
+	rewards: [{
+		uid: "6fb0121a",
+		type: "ftbmoney:money",
+		ftb_money: 10L
+	}]
+}

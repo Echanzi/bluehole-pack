@@ -1,0 +1,22 @@
+{
+	x: 3.5d,
+	y: 7.0d,
+	dependencies: [
+		"d9ecc832"
+	],
+	tasks: [{
+		uid: "ba07ddc6",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "scalinghealth:heartcontainer"
+		}]
+	}],
+	rewards: [{
+		uid: "7ae5b5ae",
+		type: "ftbmoney:money",
+		ftb_money: 50L
+	}]
+}

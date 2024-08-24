@@ -1,0 +1,29 @@
+{
+	title: "Gravel Creeper",
+	icon: {
+		ForgeCaps: {
+			"wizardryutils:summoneditemdata": {}
+		},
+		id: "minecraft:spawn_egg",
+		tag: {
+			EntityTag: {
+				id: "specialmobs:gravelcreeper"
+			}
+		}
+	},
+	disable_toast: true,
+	x: -10.0d,
+	y: 31.0d,
+	tasks: [{
+		uid: "10001730",
+		type: "observation",
+		match_type: "entity_id",
+		match: "specialmobs:gravelcreeper",
+		timer: 0L
+	}],
+	rewards: [{
+		uid: "10001731",
+		type: "ftbmoney:money",
+		ftb_money: 10L
+	}]
+}

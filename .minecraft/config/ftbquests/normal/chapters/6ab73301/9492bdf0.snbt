@@ -1,0 +1,23 @@
+{
+	title: "Golemancy!",
+	x: 5.5d,
+	y: -3.0d,
+	dependencies: [
+		"3ba3d581"
+	],
+	tasks: [{
+		uid: "cb64b879",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "golems:golem_paper"
+		}]
+	}],
+	rewards: [{
+		uid: "53e02831",
+		type: "ftbmoney:money",
+		ftb_money: 45L
+	}]
+}

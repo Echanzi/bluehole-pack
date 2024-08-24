@@ -1,0 +1,29 @@
+{
+	title: "Incinerator",
+	icon: {
+		ForgeCaps: {
+			"wizardryutils:summoneditemdata": {}
+		},
+		id: "minecraft:spawn_egg",
+		tag: {
+			EntityTag: {
+				id: "grimoireofgaia:illager_fire"
+			}
+		}
+	},
+	disable_toast: true,
+	x: -8.0d,
+	y: 27.0d,
+	tasks: [{
+		uid: "10001340",
+		type: "observation",
+		match_type: "entity_id",
+		match: "grimoireofgaia:illager_fire",
+		timer: 0L
+	}],
+	rewards: [{
+		uid: "10001341",
+		type: "ftbmoney:money",
+		ftb_money: 10L
+	}]
+}

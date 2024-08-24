@@ -1,0 +1,25 @@
+{
+	title: "Aha That's hot",
+	x: -10.0d,
+	y: -3.5d,
+	text: [
+		""
+	],
+	tasks: [{
+		uid: "238c76d1",
+		type: "kill",
+		icon: {
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "iceandfire:fire_dragon_heart"
+		},
+		entity: "iceandfire:firedragon",
+		value: 1L
+	}],
+	rewards: [{
+		uid: "f4a1be2d",
+		type: "ftbmoney:money",
+		ftb_money: 125L
+	}]
+}

@@ -1,0 +1,78 @@
+{
+	title: "Brewing IV",
+	x: 14.0d,
+	y: -4.0d,
+	dependencies: [
+		"bb4c8a27"
+	],
+	tasks: [{
+		uid: "9cbd04de",
+		type: "item",
+		disable_toast: true,
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {},
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "dynamictrees:dendropotion"
+		}]
+	},
+	{
+		uid: "b3db8368",
+		type: "item",
+		disable_toast: true,
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {},
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "dynamictrees:dendropotion",
+			Damage: 3s
+		}]
+	},
+	{
+		uid: "f7ce5dc2",
+		type: "item",
+		disable_toast: true,
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {},
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "dynamictrees:dendropotion",
+			Damage: 1s
+		}]
+	},
+	{
+		uid: "5098717f",
+		type: "item",
+		disable_toast: true,
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {},
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "dynamictrees:dendropotion",
+			Damage: 2s
+		}]
+	},
+	{
+		uid: "682e9e10",
+		type: "item",
+		disable_toast: true,
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {},
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "dynamictrees:dendropotion",
+			Damage: 6s
+		}],
+		ignore_nbt: 2b
+	}],
+	rewards: [{
+		uid: "972aa063",
+		type: "ftbmoney:money",
+		ftb_money: 75L
+	}]
+}

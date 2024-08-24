@@ -1,0 +1,26 @@
+{
+	title: "Supreme Knowledge Scroll",
+	x: -7.0d,
+	y: -0.5d,
+	text: [
+		"Grants access to the Scroll of Identification in the Shop"
+	],
+	dependencies: [
+		"82338442"
+	],
+	tasks: [{
+		uid: "09460a1f",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "ebwizardry:identification_scroll"
+		}]
+	}],
+	rewards: [{
+		uid: "927d5aed",
+		type: "ftbmoney:money",
+		ftb_money: 25L
+	}]
+}

@@ -1,0 +1,23 @@
+{
+	disable_toast: true,
+	x: -2.5d,
+	y: -3.0d,
+	text: [
+		"This item replaces the Diamond's function in creating a Twilight Forest Portal"
+	],
+	tasks: [{
+		uid: "90326f9b",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "minecraft:dragon_egg"
+		}]
+	}],
+	rewards: [{
+		uid: "82951722",
+		type: "ftbmoney:money",
+		ftb_money: 15L
+	}]
+}

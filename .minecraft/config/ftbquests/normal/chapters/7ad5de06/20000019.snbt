@@ -1,0 +1,22 @@
+{
+	title: "Pasture",
+	icon: {
+		ForgeCaps: {
+			"wizardryutils:summoneditemdata": {}
+		},
+		id: "biomesoplenty:grass"
+	},
+	disable_toast: true,
+	x: -6.0d,
+	y: -6.0d,
+	tasks: [{
+		uid: "20000020",
+		type: "biome",
+		biome: "biomesoplenty:pasture"
+	}],
+	rewards: [{
+		uid: "20000021",
+		type: "ftbmoney:money",
+		ftb_money: 25L
+	}]
+}

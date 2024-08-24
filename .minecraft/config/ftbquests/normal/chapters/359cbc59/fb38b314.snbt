@@ -1,0 +1,24 @@
+{
+	title: "African Lion",
+	disable_toast: true,
+	x: 4.0d,
+	y: 35.0d,
+	tasks: [{
+		uid: "977bf0ff",
+		type: "observation",
+		icon: {
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "zawa:african_lion"
+		},
+		match_type: "entity_id",
+		match: "zawa:africanlion",
+		timer: 0L
+	}],
+	rewards: [{
+		uid: "e6197441",
+		type: "ftbmoney:money",
+		ftb_money: 10L
+	}]
+}

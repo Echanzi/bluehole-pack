@@ -1,0 +1,88 @@
+{
+	title: "Cactus Jack",
+	icon: {
+		ForgeCaps: {
+			"wizardryutils:summoneditemdata": {}
+		},
+		id: "harvestcraft:baconcheeseburgeritem"
+	},
+	x: -0.5d,
+	y: -6.0d,
+	tasks: [{
+		uid: "b9381f5d",
+		type: "item",
+		disable_toast: true,
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "harvestcraft:baconcheeseburgeritem"
+		}],
+		consume_items: true
+	},
+	{
+		uid: "090e242e",
+		type: "item",
+		disable_toast: true,
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "harvestcraft:lettuceitem"
+		}],
+		consume_items: true
+	},
+	{
+		uid: "718ee840",
+		type: "item",
+		disable_toast: true,
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "harvestcraft:picklesitem"
+		}],
+		consume_items: true
+	},
+	{
+		uid: "a23a77ce",
+		type: "item",
+		disable_toast: true,
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "harvestcraft:lemonlimesodaitem"
+		}],
+		consume_items: true
+	},
+	{
+		uid: "f223eff4",
+		type: "item",
+		disable_toast: true,
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "harvestcraft:friesitem"
+		}],
+		consume_items: true
+	},
+	{
+		uid: "d12c6a80",
+		type: "item",
+		disable_toast: true,
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "harvestcraft:bbqsauceitem"
+		}],
+		consume_items: true
+	}],
+	rewards: [{
+		uid: "238b6760",
+		type: "ftbmoney:money",
+		ftb_money: 100L
+	}]
+}

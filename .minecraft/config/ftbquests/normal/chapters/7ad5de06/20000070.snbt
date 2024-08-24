@@ -1,0 +1,22 @@
+{
+	title: "Tropical Island",
+	icon: {
+		ForgeCaps: {
+			"wizardryutils:summoneditemdata": {}
+		},
+		id: "minecraft:grass"
+	},
+	disable_toast: true,
+	x: 11.0d,
+	y: -6.0d,
+	tasks: [{
+		uid: "20000071",
+		type: "biome",
+		biome: "biomesoplenty:tropical_island"
+	}],
+	rewards: [{
+		uid: "20000072",
+		type: "ftbmoney:money",
+		ftb_money: 25L
+	}]
+}

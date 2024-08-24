@@ -1,0 +1,29 @@
+{
+	title: "Blockling",
+	icon: {
+		ForgeCaps: {
+			"wizardryutils:summoneditemdata": {}
+		},
+		id: "minecraft:spawn_egg",
+		tag: {
+			EntityTag: {
+				id: "blocklings:entity_blockling"
+			}
+		}
+	},
+	disable_toast: true,
+	x: 9.0d,
+	y: 15.0d,
+	tasks: [{
+		uid: "10000203",
+		type: "observation",
+		match_type: "entity_id",
+		match: "blocklings:entity_blockling",
+		timer: 0L
+	}],
+	rewards: [{
+		uid: "10000204",
+		type: "ftbmoney:money",
+		ftb_money: 10L
+	}]
+}

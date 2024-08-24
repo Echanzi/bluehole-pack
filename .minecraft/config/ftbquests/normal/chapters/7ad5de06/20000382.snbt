@@ -1,0 +1,22 @@
+{
+	title: "Vethea",
+	icon: {
+		ForgeCaps: {
+			"wizardryutils:summoneditemdata": {}
+		},
+		id: "divinerpg:dream_grass"
+	},
+	disable_toast: true,
+	x: 16.0d,
+	y: -3.0d,
+	tasks: [{
+		uid: "20000383",
+		type: "biome",
+		biome: "divinerpg:vethea"
+	}],
+	rewards: [{
+		uid: "20000384",
+		type: "ftbmoney:money",
+		ftb_money: 25L
+	}]
+}

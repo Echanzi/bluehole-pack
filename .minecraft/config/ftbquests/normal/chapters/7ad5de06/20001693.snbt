@@ -1,0 +1,22 @@
+{
+	title: "JungleCliffsCanyonMid",
+	icon: {
+		ForgeCaps: {
+			"wizardryutils:summoneditemdata": {}
+		},
+		id: "minecraft:grass"
+	},
+	disable_toast: true,
+	x: -9.0d,
+	y: 11.0d,
+	tasks: [{
+		uid: "20001694",
+		type: "biome",
+		biome: "openterraingenerator:overworld_junglecliffscanyonmid"
+	}],
+	rewards: [{
+		uid: "20001695",
+		type: "ftbmoney:money",
+		ftb_money: 25L
+	}]
+}

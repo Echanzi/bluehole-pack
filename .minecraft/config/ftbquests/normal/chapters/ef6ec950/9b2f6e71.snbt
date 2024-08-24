@@ -1,0 +1,24 @@
+{
+	title: "Bright Light for Dark Caves",
+	x: 5.0d,
+	y: -3.0d,
+	dependencies: [
+		"32b01228"
+	],
+	tasks: [{
+		uid: "a2efd56a",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "thebetweenlands:sulfur_torch"
+		}],
+		only_from_crafting: true
+	}],
+	rewards: [{
+		uid: "d19bd6a6",
+		type: "ftbmoney:money",
+		ftb_money: 15L
+	}]
+}

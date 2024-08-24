@@ -1,0 +1,26 @@
+{
+	title: "King of the Castle",
+	x: 3.0d,
+	y: 3.5d,
+	dependencies: [
+		"e00b6ac8"
+	],
+	tasks: [{
+		uid: "3abf6ddb",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {},
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "bountifulbaubles:crowngold"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "310389ae",
+		type: "ftbmoney:money",
+		ftb_money: 30L
+	}]
+}

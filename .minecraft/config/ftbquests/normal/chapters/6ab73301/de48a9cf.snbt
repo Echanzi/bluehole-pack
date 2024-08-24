@@ -1,0 +1,26 @@
+{
+	title: "Golden Records :dvd:",
+	x: 5.5d,
+	y: -7.5d,
+	dependencies: [
+		"53330c2d"
+	],
+	tasks: [{
+		uid: "187593a9",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {},
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "audiocassettes:goldenaudiocassette"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "c32f893b",
+		type: "ftbmoney:money",
+		ftb_money: 65L
+	}]
+}

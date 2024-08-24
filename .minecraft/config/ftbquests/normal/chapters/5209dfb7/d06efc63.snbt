@@ -1,0 +1,20 @@
+{
+	x: 7.0d,
+	y: -8.0d,
+	tasks: [{
+		uid: "86965c9a",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "twilightforest:trophy",
+			Damage: 8s
+		}]
+	}],
+	rewards: [{
+		uid: "74c0f27f",
+		type: "ftbmoney:money",
+		ftb_money: 150L
+	}]
+}

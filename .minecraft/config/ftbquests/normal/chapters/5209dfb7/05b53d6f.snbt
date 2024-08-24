@@ -1,0 +1,23 @@
+{
+	title: "twilight maze walkthough",
+	x: 6.0d,
+	y: -4.0d,
+	dependencies: [
+		"0bbfad1b"
+	],
+	tasks: [{
+		uid: "6eea6d39",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "twilightforest:maze_map_empty"
+		}]
+	}],
+	rewards: [{
+		uid: "fa5c8c67",
+		type: "ftbmoney:money",
+		ftb_money: 100L
+	}]
+}

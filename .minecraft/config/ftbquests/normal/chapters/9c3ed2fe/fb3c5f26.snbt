@@ -1,0 +1,80 @@
+{
+	title: "Elevated Botanical Survey",
+	icon: {
+		ForgeCaps: {
+			"wizardryutils:summoneditemdata": {}
+		},
+		id: "aether_legacy:skyroot_sapling"
+	},
+	x: -0.5d,
+	y: 1.0d,
+	hide_dependency_lines: true,
+	dependencies: [
+		"ad208b40"
+	],
+	tasks: [{
+		uid: "f7c2f342",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "aether_legacy:skyroot_sapling"
+		}]
+	},
+	{
+		uid: "b9dbbb3d",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "aether_legacy:golden_oak_sapling"
+		}]
+	},
+	{
+		uid: "21dc6434",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "lost_aether:crystal_sapling"
+		}]
+	},
+	{
+		uid: "f2f94e2c",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "aether_legacy:purple_flower"
+		}]
+	},
+	{
+		uid: "2b1c7d40",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "aether_legacy:white_flower"
+		}]
+	},
+	{
+		uid: "9f2e9da0",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "aether_legacy:berry_bush_stem"
+		}]
+	}],
+	rewards: [{
+		uid: "2d539d06",
+		type: "ftbmoney:money",
+		ftb_money: 75L
+	}]
+}

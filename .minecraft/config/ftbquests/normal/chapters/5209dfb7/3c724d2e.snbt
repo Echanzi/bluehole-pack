@@ -1,0 +1,64 @@
+{
+	x: 6.0d,
+	y: -0.5d,
+	dependencies: [
+		"828a42c4"
+	],
+	tasks: [{
+		uid: "f4927aca",
+		type: "item",
+		disable_toast: true,
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "twilightforest:trophy",
+			Damage: 4s
+		}]
+	},
+	{
+		uid: "bac5541f",
+		type: "kill",
+		disable_toast: true,
+		entity: "twilightforest:knight_phantom",
+		value: 1L
+	}],
+	rewards: [{
+		uid: "82ab960a",
+		type: "item",
+		item: {
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {},
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "twilightforest:phantom_chestplate",
+			Damage: 479s
+		}
+	},
+	{
+		uid: "06309efc",
+		type: "item",
+		item: {
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "twilightforest:trophy_pedestal"
+		}
+	},
+	{
+		uid: "cc189dac",
+		type: "item",
+		item: {
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "twilightforest:trophy",
+			Damage: 4s
+		}
+	},
+	{
+		uid: "f0e93e7c",
+		type: "ftbmoney:money",
+		ftb_money: 80L
+	}]
+}

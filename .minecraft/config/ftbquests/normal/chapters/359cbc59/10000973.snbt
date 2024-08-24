@@ -1,0 +1,29 @@
+{
+	title: "Lady Luna",
+	icon: {
+		ForgeCaps: {
+			"wizardryutils:summoneditemdata": {}
+		},
+		id: "minecraft:spawn_egg",
+		tag: {
+			EntityTag: {
+				id: "divinerpg:lady_luna"
+			}
+		}
+	},
+	disable_toast: true,
+	x: 2.0d,
+	y: 23.0d,
+	tasks: [{
+		uid: "10000974",
+		type: "observation",
+		match_type: "entity_id",
+		match: "divinerpg:lady_luna",
+		timer: 0L
+	}],
+	rewards: [{
+		uid: "10000975",
+		type: "ftbmoney:money",
+		ftb_money: 10L
+	}]
+}

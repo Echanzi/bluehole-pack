@@ -1,0 +1,24 @@
+{
+	title: "Pufferfish",
+	disable_toast: true,
+	x: 8.0d,
+	y: 34.0d,
+	tasks: [{
+		uid: "3162bf14",
+		type: "observation",
+		icon: {
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "zawa:puffer_fish"
+		},
+		match_type: "entity_id",
+		match: "zawa:pufferfish",
+		timer: 0L
+	}],
+	rewards: [{
+		uid: "317c4d8f",
+		type: "ftbmoney:money",
+		ftb_money: 10L
+	}]
+}

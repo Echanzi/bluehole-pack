@@ -1,0 +1,26 @@
+{
+	title: "My Specific Collection",
+	x: -6.5d,
+	y: 5.5d,
+	dependencies: [
+		"2d35e996"
+	],
+	tasks: [{
+		uid: "d6ef801b",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "storagedrawers:basicdrawers",
+			tag: {
+				material: "oak"
+			}
+		}]
+	}],
+	rewards: [{
+		uid: "40752159",
+		type: "ftbmoney:money",
+		ftb_money: 15L
+	}]
+}

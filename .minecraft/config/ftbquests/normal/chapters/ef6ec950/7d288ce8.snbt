@@ -1,0 +1,23 @@
+{
+	x: 5.0d,
+	y: 9.0d,
+	dependencies: [
+		"7fadeabd"
+	],
+	tasks: [{
+		uid: "2c29613e",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "thebetweenlands:angry_pebble"
+		}],
+		only_from_crafting: true
+	}],
+	rewards: [{
+		uid: "775cc7a3",
+		type: "ftbmoney:money",
+		ftb_money: 30L
+	}]
+}

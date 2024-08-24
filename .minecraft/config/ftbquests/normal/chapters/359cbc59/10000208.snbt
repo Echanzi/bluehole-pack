@@ -1,0 +1,29 @@
+{
+	title: "Dark Druid",
+	icon: {
+		ForgeCaps: {
+			"wizardryutils:summoneditemdata": {}
+		},
+		id: "minecraft:spawn_egg",
+		tag: {
+			EntityTag: {
+				id: "thebetweenlands:dark_druid"
+			}
+		}
+	},
+	disable_toast: true,
+	x: 11.0d,
+	y: 15.0d,
+	tasks: [{
+		uid: "10000209",
+		type: "observation",
+		match_type: "entity_id",
+		match: "thebetweenlands:dark_druid",
+		timer: 0L
+	}],
+	rewards: [{
+		uid: "10000210",
+		type: "ftbmoney:money",
+		ftb_money: 10L
+	}]
+}

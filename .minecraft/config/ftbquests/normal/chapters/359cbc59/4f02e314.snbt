@@ -1,0 +1,24 @@
+{
+	title: "Sponge Golem",
+	disable_toast: true,
+	x: -4.0d,
+	y: 36.0d,
+	tasks: [{
+		uid: "aa82bf1c",
+		type: "observation",
+		icon: {
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "minecraft:sponge"
+		},
+		match_type: "entity_id",
+		match: "golems:golem_sponge",
+		timer: 0L
+	}],
+	rewards: [{
+		uid: "88047074",
+		type: "ftbmoney:money",
+		ftb_money: 10L
+	}]
+}

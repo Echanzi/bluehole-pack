@@ -1,0 +1,41 @@
+{
+	title: "Mc Rib",
+	icon: {
+		ForgeCaps: {
+			"wizardryutils:summoneditemdata": {}
+		},
+		id: "harvestcraft:honeysoyribsitem"
+	},
+	x: -2.0d,
+	y: -9.0d,
+	tasks: [{
+		uid: "74f1fb3b",
+		type: "item",
+		disable_toast: true,
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "minecraft:bread"
+		}],
+		count: 2L,
+		consume_items: false
+	},
+	{
+		uid: "45b90c22",
+		type: "item",
+		disable_toast: true,
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "harvestcraft:honeysoyribsitem"
+		}],
+		consume_items: false
+	}],
+	rewards: [{
+		uid: "694be6d6",
+		type: "ftbmoney:money",
+		ftb_money: 50L
+	}]
+}

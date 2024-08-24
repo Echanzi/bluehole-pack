@@ -1,0 +1,23 @@
+{
+	title: "Punch Out!!",
+	x: 4.0d,
+	y: 1.0d,
+	tasks: [{
+		uid: "573dbac2",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {},
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "spartanweaponry:caestus"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "0a1525bc",
+		type: "ftbmoney:money",
+		ftb_money: 15L
+	}]
+}

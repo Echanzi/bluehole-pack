@@ -1,0 +1,33 @@
+{
+	x: -4.0d,
+	y: 13.0d,
+	hide_dependency_lines: true,
+	dependencies: [
+		"476b243d"
+	],
+	tasks: [{
+		uid: "f6ad102c",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {},
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "spartancompat:throwing_knife_gravitite",
+			tag: {
+				AmmoUsed: 0,
+				UUIDMost: 8351619970715500609L,
+				UUIDLeast: -7342805106184408667L,
+				enchChecked: 1b,
+				Original: 1b
+			}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "1311aff7",
+		type: "ftbmoney:money",
+		ftb_money: 40L
+	}]
+}

@@ -1,0 +1,29 @@
+{
+	title: "Witch of the Wilds",
+	icon: {
+		ForgeCaps: {
+			"wizardryutils:summoneditemdata": {}
+		},
+		id: "minecraft:spawn_egg",
+		tag: {
+			EntityTag: {
+				id: "specialmobs:wildswitch"
+			}
+		}
+	},
+	disable_toast: true,
+	x: 0.0d,
+	y: 33.0d,
+	tasks: [{
+		uid: "10001958",
+		type: "observation",
+		match_type: "entity_id",
+		match: "specialmobs:wildswitch",
+		timer: 0L
+	}],
+	rewards: [{
+		uid: "10001959",
+		type: "ftbmoney:money",
+		ftb_money: 10L
+	}]
+}

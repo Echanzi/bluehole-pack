@@ -1,0 +1,24 @@
+{
+	title: "Galapagos Tortoise",
+	disable_toast: true,
+	x: -10.0d,
+	y: 34.0d,
+	tasks: [{
+		uid: "37abce2b",
+		type: "observation",
+		icon: {
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "zawa:galapagos_tortoise"
+		},
+		match_type: "entity_id",
+		match: "zawa:galapagostortoise",
+		timer: 0L
+	}],
+	rewards: [{
+		uid: "1b6a3179",
+		type: "ftbmoney:money",
+		ftb_money: 10L
+	}]
+}

@@ -1,0 +1,36 @@
+{
+	title: "Tomahawk!",
+	x: -1.0d,
+	y: -3.0d,
+	dependencies: [
+		"c8f3a510"
+	],
+	tasks: [{
+		uid: "c58a614d",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {},
+				"astralsorcery:cap_item_amulet_holder": {
+					AS_Amulet_HolderLeast: -6480113167060876494L,
+					AS_Amulet_HolderMost: 2911248940407866704L
+				}
+			},
+			id: "spartanweaponry:throwing_axe_wood",
+			tag: {
+				AmmoUsed: 0,
+				UUIDMost: -102231916834438512L,
+				UUIDLeast: -7377480264177190014L,
+				enchChecked: 1b,
+				Original: 1b
+			}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "ee9f0df5",
+		type: "ftbmoney:money",
+		ftb_money: 15L
+	}]
+}

@@ -1,0 +1,31 @@
+{
+	title: "Crafting and Handling",
+	x: -0.5d,
+	y: 1.0d,
+	tasks: [{
+		uid: "99e1b4b1",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "spartanweaponry:material"
+		}]
+	},
+	{
+		uid: "bea6f175",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "spartanweaponry:material",
+			Damage: 1s
+		}]
+	}],
+	rewards: [{
+		uid: "5df5f5e1",
+		type: "ftbmoney:money",
+		ftb_money: 15L
+	}]
+}

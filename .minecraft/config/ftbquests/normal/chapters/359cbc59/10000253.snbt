@@ -1,0 +1,29 @@
+{
+	title: "Olm",
+	icon: {
+		ForgeCaps: {
+			"wizardryutils:summoneditemdata": {}
+		},
+		id: "minecraft:spawn_egg",
+		tag: {
+			EntityTag: {
+				id: "thebetweenlands:olm"
+			}
+		}
+	},
+	disable_toast: true,
+	x: -7.0d,
+	y: 16.0d,
+	tasks: [{
+		uid: "10000254",
+		type: "observation",
+		match_type: "entity_id",
+		match: "thebetweenlands:olm",
+		timer: 0L
+	}],
+	rewards: [{
+		uid: "10000255",
+		type: "ftbmoney:money",
+		ftb_money: 10L
+	}]
+}

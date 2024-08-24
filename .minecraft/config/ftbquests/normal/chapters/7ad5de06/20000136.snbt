@@ -1,0 +1,22 @@
+{
+	title: "Defiled Swamp",
+	icon: {
+		ForgeCaps: {
+			"wizardryutils:summoneditemdata": {}
+		},
+		id: "defiledlands:grass_defiled"
+	},
+	disable_toast: true,
+	x: 0.0d,
+	y: -5.0d,
+	tasks: [{
+		uid: "20000137",
+		type: "biome",
+		biome: "defiledlands:swamp_defiled"
+	}],
+	rewards: [{
+		uid: "20000138",
+		type: "ftbmoney:money",
+		ftb_money: 25L
+	}]
+}

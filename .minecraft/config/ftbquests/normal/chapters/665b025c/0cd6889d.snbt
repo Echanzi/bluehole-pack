@@ -1,0 +1,33 @@
+{
+	x: -12.5d,
+	y: -2.0d,
+	hide_dependency_lines: true,
+	dependencies: [
+		"d19cf0d7"
+	],
+	tasks: [{
+		uid: "28abab21",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {},
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "spartanfire:boomerang_desert_venom",
+			tag: {
+				AmmoUsed: 0,
+				UUIDMost: 3189413456856435771L,
+				UUIDLeast: -8787031861490914275L,
+				enchChecked: 1b,
+				Original: 1b
+			}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "7148e0fe",
+		type: "ftbmoney:money",
+		ftb_money: 30L
+	}]
+}

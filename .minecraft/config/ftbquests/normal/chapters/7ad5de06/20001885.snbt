@@ -1,0 +1,22 @@
+{
+	title: "Beach Desert",
+	icon: {
+		ForgeCaps: {
+			"wizardryutils:summoneditemdata": {}
+		},
+		id: "minecraft:grass"
+	},
+	disable_toast: true,
+	x: -11.0d,
+	y: 13.0d,
+	tasks: [{
+		uid: "20001886",
+		type: "biome",
+		biome: "openterraingenerator:overworld_beach_desert"
+	}],
+	rewards: [{
+		uid: "20001887",
+		type: "ftbmoney:money",
+		ftb_money: 25L
+	}]
+}

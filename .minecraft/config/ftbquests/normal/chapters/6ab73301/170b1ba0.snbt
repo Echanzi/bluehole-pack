@@ -1,0 +1,23 @@
+{
+	title: "Enlightening ",
+	x: 10.5d,
+	y: 2.0d,
+	dependencies: [
+		"49d84025"
+	],
+	tasks: [{
+		uid: "53afa213",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "minecraft:glowstone"
+		}]
+	}],
+	rewards: [{
+		uid: "2a14dff6",
+		type: "ftbmoney:money",
+		ftb_money: 25L
+	}]
+}

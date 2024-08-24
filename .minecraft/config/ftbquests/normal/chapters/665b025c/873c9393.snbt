@@ -1,0 +1,33 @@
+{
+	x: 0.5d,
+	y: 17.0d,
+	hide_dependency_lines: true,
+	dependencies: [
+		"ea105265"
+	],
+	tasks: [{
+		uid: "fa61188f",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {},
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "spartanlands:javelin_weedwood",
+			tag: {
+				AmmoUsed: 0,
+				UUIDMost: -6195348386432464346L,
+				UUIDLeast: -7067401786060420797L,
+				enchChecked: 1b,
+				Original: 1b
+			}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "6983e679",
+		type: "ftbmoney:money",
+		ftb_money: 20L
+	}]
+}

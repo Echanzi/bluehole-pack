@@ -1,0 +1,29 @@
+{
+	title: "Sunstorm",
+	icon: {
+		ForgeCaps: {
+			"wizardryutils:summoneditemdata": {}
+		},
+		id: "minecraft:spawn_egg",
+		tag: {
+			EntityTag: {
+				id: "divinerpg:sunstorm"
+			}
+		}
+	},
+	disable_toast: true,
+	x: 8.0d,
+	y: 23.0d,
+	tasks: [{
+		uid: "10000992",
+		type: "observation",
+		match_type: "entity_id",
+		match: "divinerpg:sunstorm",
+		timer: 0L
+	}],
+	rewards: [{
+		uid: "10000993",
+		type: "ftbmoney:money",
+		ftb_money: 10L
+	}]
+}

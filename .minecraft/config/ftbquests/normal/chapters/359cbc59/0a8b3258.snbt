@@ -1,0 +1,24 @@
+{
+	title: "Gila Monster",
+	disable_toast: true,
+	x: -11.0d,
+	y: 34.0d,
+	tasks: [{
+		uid: "e6f9c2f0",
+		type: "observation",
+		icon: {
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "zawa:gila_monster"
+		},
+		match_type: "entity_id",
+		match: "zawa:gilamonster",
+		timer: 0L
+	}],
+	rewards: [{
+		uid: "007492b1",
+		type: "ftbmoney:money",
+		ftb_money: 10L
+	}]
+}

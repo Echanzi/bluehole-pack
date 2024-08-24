@@ -1,0 +1,67 @@
+{
+	title: "Cloud Watching",
+	icon: {
+		ForgeCaps: {
+			"wizardryutils:summoneditemdata": {}
+		},
+		id: "aether_legacy:aercloud"
+	},
+	x: -2.0d,
+	y: 1.0d,
+	hide_dependency_lines: true,
+	dependencies: [
+		"ad208b40"
+	],
+	tasks: [{
+		uid: "88fc33ff",
+		type: "item",
+		disable_toast: true,
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "aether_legacy:aercloud"
+		}]
+	},
+	{
+		uid: "1fc70a7f",
+		type: "item",
+		disable_toast: true,
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "aether_legacy:aercloud",
+			Damage: 2s
+		}]
+	},
+	{
+		uid: "753e6485",
+		type: "item",
+		disable_toast: true,
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "aether_legacy:aercloud",
+			Damage: 1s
+		}]
+	},
+	{
+		uid: "aff8e2bb",
+		type: "item",
+		disable_toast: true,
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "aether_legacy:aercloud",
+			Damage: 3s
+		}]
+	}],
+	rewards: [{
+		uid: "fc976cdb",
+		type: "ftbmoney:money",
+		ftb_money: 50L
+	}]
+}

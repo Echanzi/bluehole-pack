@@ -1,0 +1,29 @@
+{
+	title: "Giant",
+	icon: {
+		ForgeCaps: {
+			"wizardryutils:summoneditemdata": {}
+		},
+		id: "minecraft:spawn_egg",
+		tag: {
+			EntityTag: {
+				id: "ancientbeasts:giant_zombie"
+			}
+		}
+	},
+	disable_toast: true,
+	x: 10.0d,
+	y: 14.0d,
+	tasks: [{
+		uid: "10000107",
+		type: "observation",
+		match_type: "entity_id",
+		match: "ancientbeasts:giant_zombie",
+		timer: 0L
+	}],
+	rewards: [{
+		uid: "10000108",
+		type: "ftbmoney:money",
+		ftb_money: 10L
+	}]
+}

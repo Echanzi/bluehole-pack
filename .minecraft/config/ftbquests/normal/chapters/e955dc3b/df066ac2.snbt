@@ -1,0 +1,284 @@
+{
+	title: "TY full collection",
+	x: 1.5d,
+	y: 2.5d,
+	tasks: [{
+		uid: "d186b3fe",
+		type: "item",
+		disable_toast: true,
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "zawa:lion_plush"
+		}]
+	},
+	{
+		uid: "e69836ce",
+		type: "item",
+		disable_toast: true,
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "zawa:orca_plush"
+		}]
+	},
+	{
+		uid: "ba8d685d",
+		type: "item",
+		disable_toast: true,
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "zawa:turtle_plush"
+		}]
+	},
+	{
+		uid: "aed2b1ce",
+		type: "item",
+		disable_toast: true,
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "zawa:platypus_plush"
+		}]
+	},
+	{
+		uid: "e6bf6616",
+		type: "item",
+		disable_toast: true,
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "zawa:gorilla_plush"
+		}]
+	},
+	{
+		uid: "77ed3014",
+		type: "item",
+		disable_toast: true,
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "zawa:elephant_plush"
+		}]
+	},
+	{
+		uid: "89338452",
+		type: "item",
+		disable_toast: true,
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "zawa:monkey_plush"
+		}]
+	},
+	{
+		uid: "85da667b",
+		type: "item",
+		disable_toast: true,
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "zawa:tiger_plush"
+		}]
+	},
+	{
+		uid: "2006b7c0",
+		type: "item",
+		disable_toast: true,
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "zawa:bald_eagle_plush"
+		}]
+	},
+	{
+		uid: "2d767ed2",
+		type: "item",
+		disable_toast: true,
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "zawa:giraffe_plush"
+		}]
+	},
+	{
+		uid: "bf4af62f",
+		type: "item",
+		disable_toast: true,
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "zawa:grizzly_plush"
+		}]
+	},
+	{
+		uid: "5e15ac43",
+		type: "item",
+		disable_toast: true,
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "zawa:moose_plush"
+		}]
+	},
+	{
+		uid: "eb924d22",
+		type: "item",
+		disable_toast: true,
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "zawa:octopus_plush"
+		}]
+	},
+	{
+		uid: "0506f6d6",
+		type: "item",
+		disable_toast: true,
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "zawa:red_panda_plush"
+		}]
+	},
+	{
+		uid: "1b691776",
+		type: "item",
+		disable_toast: true,
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "zawa:cockatoo_plush"
+		}]
+	},
+	{
+		uid: "40c8ed80",
+		type: "item",
+		disable_toast: true,
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "zawa:dolphin_plush"
+		}]
+	},
+	{
+		uid: "d0fa715e",
+		type: "item",
+		disable_toast: true,
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "zawa:kangaroo_plush"
+		}]
+	},
+	{
+		uid: "7e974067",
+		type: "item",
+		disable_toast: true,
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "zawa:okapi_plush"
+		}]
+	},
+	{
+		uid: "e7578f36",
+		type: "item",
+		disable_toast: true,
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "zawa:rhino_plush"
+		}]
+	},
+	{
+		uid: "b5e18132",
+		type: "item",
+		disable_toast: true,
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "zawa:shark_plush"
+		}]
+	},
+	{
+		uid: "e14ac305",
+		type: "item",
+		disable_toast: true,
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "zawa:zebra_plush"
+		}]
+	},
+	{
+		uid: "e13f7dac",
+		type: "item",
+		disable_toast: true,
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "zawa:zebra_rainbow_plush"
+		}]
+	},
+	{
+		uid: "d12795a1",
+		type: "item",
+		disable_toast: true,
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "zawa:macaw_plush"
+		}]
+	},
+	{
+		uid: "245068ff",
+		type: "item",
+		disable_toast: true,
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "zawa:macaw_plush_red"
+		}]
+	},
+	{
+		uid: "e80cb3cd",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "zawa:koala_plush"
+		}]
+	}],
+	rewards: [{
+		uid: "5506cf12",
+		type: "ftbmoney:money",
+		ftb_money: 250L
+	}]
+}

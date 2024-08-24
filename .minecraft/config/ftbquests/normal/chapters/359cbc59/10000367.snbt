@@ -1,0 +1,29 @@
+{
+	title: "Jellyfish",
+	icon: {
+		ForgeCaps: {
+			"wizardryutils:summoneditemdata": {}
+		},
+		id: "minecraft:spawn_egg",
+		tag: {
+			EntityTag: {
+				id: "thebetweenlands:jellyfish"
+			}
+		}
+	},
+	disable_toast: true,
+	x: -2.0d,
+	y: 17.0d,
+	tasks: [{
+		uid: "10000368",
+		type: "observation",
+		match_type: "entity_id",
+		match: "thebetweenlands:jellyfish",
+		timer: 0L
+	}],
+	rewards: [{
+		uid: "10000369",
+		type: "ftbmoney:money",
+		ftb_money: 10L
+	}]
+}

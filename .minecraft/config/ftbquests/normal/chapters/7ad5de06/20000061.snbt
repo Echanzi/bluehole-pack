@@ -1,0 +1,22 @@
+{
+	title: "Outback",
+	icon: {
+		ForgeCaps: {
+			"wizardryutils:summoneditemdata": {}
+		},
+		id: "minecraft:sand"
+	},
+	disable_toast: true,
+	x: 8.0d,
+	y: -6.0d,
+	tasks: [{
+		uid: "20000062",
+		type: "biome",
+		biome: "biomesoplenty:outback"
+	}],
+	rewards: [{
+		uid: "20000063",
+		type: "ftbmoney:money",
+		ftb_money: 25L
+	}]
+}

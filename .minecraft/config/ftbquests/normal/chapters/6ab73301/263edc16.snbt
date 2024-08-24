@@ -1,0 +1,27 @@
+{
+	title: "Now we're cooking",
+	x: 1.5d,
+	y: -0.5d,
+	text: [
+		"Grants access to the Furnace in the Shop",
+		"(Why would you need to buy one?)"
+	],
+	dependencies: [
+		"621eb046"
+	],
+	tasks: [{
+		uid: "da78b065",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "minecraft:furnace"
+		}]
+	}],
+	rewards: [{
+		uid: "0253f310",
+		type: "ftbmoney:money",
+		ftb_money: 15L
+	}]
+}
