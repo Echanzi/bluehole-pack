@@ -156,11 +156,11 @@ paneGlassWhite
 listAllfishraw
 listAllfishcooked
 cropSeaweed
+materialStoneTool
 tallow
 buttonWood
 gemEnderBiotite
 mushroomAny
-materialStoneTool
 blockSlimeGreen
 blockSlimeBlue
 blockSlimeRed
@@ -1607,6 +1607,9 @@ alcoholBorgiaabsinthe
 alcoholRedbeer
 alcoholBluebeer
 alcoholMalort
+shardGlass
+stonePolished
+plankStained
 bookshelf
 bookshelfOak
 bookshelfSpruce
@@ -1617,8 +1620,6 @@ bookshelfDarkOak
 blockCandle
 pressurePlateWood
 blockCharcoal
-stonePolished
-plankStained
 stoneBasaltPolished
 stoneMarblePolished
 stoneLimestonePolished
@@ -1628,7 +1629,6 @@ stoneBrimstonePolished
 stonePermafrostPolished
 blockPrismarineElderBrick
 blockPrismarineElderDark
-shardGlass
 blockSlimeCyan
 blockSlimeMagenta
 blockSlimeYellow

@@ -17,3 +17,5 @@ instance.cfg
 .minecraft/config/splash.properties
 .minecraft/.ReAuth.cfg
 instance.cfg
+.minecraft/usercache.json
+.minecraft/usernamecache.json
