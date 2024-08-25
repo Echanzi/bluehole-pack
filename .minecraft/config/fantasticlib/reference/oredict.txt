@@ -158,9 +158,12 @@ listAllfishcooked
 cropSeaweed
 materialStoneTool
 tallow
-mushroomAny
 buttonWood
 gemEnderBiotite
+mushroomAny
+blockSlimeGreen
+blockSlimeBlue
+blockSlimeRed
 stoneBasalt
 stoneMarble
 stoneLimestone
@@ -170,9 +173,6 @@ gemBiotite
 stoneBrimstone
 stonePermafrost
 blockPrismarineElder
-blockSlimeGreen
-blockSlimeBlue
-blockSlimeRed
 paneQuartzGlass
 blockQuartzGlass
 blockCincinnasite
@@ -343,6 +343,9 @@ ingotValonite
 ingotWeedwood
 drawerBasic
 drawerTrim
+amethyst
+onyx
+gemOnyx
 sapphire
 ruby
 blockMarble
@@ -1607,9 +1610,9 @@ alcoholBorgiaabsinthe
 alcoholRedbeer
 alcoholBluebeer
 alcoholMalort
-shardGlass
 stonePolished
 plankStained
+shardGlass
 bookshelf
 bookshelfOak
 bookshelfSpruce
