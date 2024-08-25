@@ -126,8 +126,8 @@
     {
         "mojang":
         {
-            "text" : "Pack Version 1.0.0\n  Click for Credits",
-            "hoverText" : "§nPack Version 1.0.0\n§n  Click for Credits",
+            "text" : "Pack Version 1.2.0\n  Click for Credits",
+            "hoverText" : "§nPack Version 1.2.0\n§n  Click for Credits",
             "posX" : -90,
             "posY" : -18,
             "color" : -1,
