@@ -1,5 +1,5 @@
-#Sat Aug 24 19:53:21 EDT 2024
-shaderPack=
+#Sat Apr 01 01:59:09 EDT 2023
+shaderPack=OFF
 antialiasingLevel=0
 normalMapEnabled=true
 specularMapEnabled=true
