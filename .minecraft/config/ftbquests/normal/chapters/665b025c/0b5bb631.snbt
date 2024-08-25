@@ -9,11 +9,11 @@
 		uid: "dbecfb67",
 		type: "item",
 		items: [{
+			id: "spartanweaponry:greatsword_stone",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {},
 				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "spartanweaponry:greatsword_stone"
+			}
 		}],
 		ignore_damage: true,
 		ignore_nbt: 1b

@@ -1,14 +1,14 @@
 {
 	title: "Pyrad",
 	icon: {
-		ForgeCaps: {
-			"wizardryutils:summoneditemdata": {}
-		},
 		id: "minecraft:spawn_egg",
 		tag: {
 			EntityTag: {
 				id: "thebetweenlands:pyrad"
 			}
+		},
+		ForgeCaps: {
+			"wizardryutils:summoneditemdata": {}
 		}
 	},
 	disable_toast: true,

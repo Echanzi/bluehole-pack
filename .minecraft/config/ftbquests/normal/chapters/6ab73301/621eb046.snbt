@@ -14,20 +14,20 @@
 		uid: "f56ae662",
 		type: "item",
 		items: [{
+			id: "minecraft:crafting_table",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "minecraft:crafting_table"
+			}
 		}]
 	}],
 	rewards: [{
 		uid: "648bc74f",
 		type: "item",
 		item: {
+			id: "harvestcraft:apple_sapling",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "harvestcraft:apple_sapling"
+			}
 		}
 	},
 	{

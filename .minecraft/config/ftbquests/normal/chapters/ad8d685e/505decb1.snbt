@@ -5,11 +5,10 @@
 		uid: "8603bab4",
 		type: "item",
 		items: [{
+			id: "harvestcraft:skilletitem",
 			ForgeCaps: {
-				"wizardryutils:summoneditemdata": {},
-				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "harvestcraft:skilletitem"
+				"wizardryutils:summoneditemdata": {}
+			}
 		}],
 		ignore_damage: true,
 		ignore_nbt: 1b

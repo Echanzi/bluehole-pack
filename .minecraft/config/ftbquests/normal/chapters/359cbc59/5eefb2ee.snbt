@@ -7,10 +7,10 @@
 		uid: "6e99b51c",
 		type: "observation",
 		icon: {
+			id: "zawa:black_rhinoceros",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "zawa:black_rhinoceros"
+			}
 		},
 		match_type: "entity_id",
 		match: "zawa:blackrhinoceros",

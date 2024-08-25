@@ -9,11 +9,11 @@
 		uid: "da6016e9",
 		type: "item",
 		items: [{
+			id: "spartantwilight:lance_knightly",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {},
 				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "spartantwilight:lance_knightly"
+			}
 		}],
 		ignore_damage: true,
 		ignore_nbt: 1b

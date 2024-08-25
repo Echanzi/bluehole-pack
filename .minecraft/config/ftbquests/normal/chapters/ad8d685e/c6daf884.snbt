@@ -5,11 +5,10 @@
 		uid: "99b5884a",
 		type: "item",
 		items: [{
+			id: "harvestcraft:juiceritem",
 			ForgeCaps: {
-				"wizardryutils:summoneditemdata": {},
-				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "harvestcraft:juiceritem"
+				"wizardryutils:summoneditemdata": {}
+			}
 		}],
 		ignore_damage: true,
 		ignore_nbt: 1b

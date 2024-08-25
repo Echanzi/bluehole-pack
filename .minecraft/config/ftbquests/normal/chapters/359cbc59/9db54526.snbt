@@ -7,10 +7,10 @@
 		uid: "72d48df7",
 		type: "observation",
 		icon: {
+			id: "zawa:great_white_shark",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "zawa:great_white_shark"
+			}
 		},
 		match_type: "entity_id",
 		match: "zawa:greatwhiteshark",

@@ -7,10 +7,10 @@
 		uid: "6541649f",
 		type: "observation",
 		icon: {
+			id: "zawa:sockeye_salmon",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "zawa:sockeye_salmon"
+			}
 		},
 		match_type: "entity_id",
 		match: "zawa:sockeyesalmon",

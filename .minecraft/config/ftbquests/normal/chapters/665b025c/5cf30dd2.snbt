@@ -9,11 +9,11 @@
 		uid: "f3cf41f3",
 		type: "item",
 		items: [{
+			id: "spartancompat:saber_gravitite",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {},
 				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "spartancompat:saber_gravitite"
+			}
 		}],
 		ignore_damage: true,
 		ignore_nbt: 1b

@@ -9,10 +9,10 @@
 		uid: "8f482318",
 		type: "item",
 		items: [{
+			id: "waystones:warp_scroll",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "waystones:warp_scroll"
+			}
 		}]
 	}],
 	rewards: [{

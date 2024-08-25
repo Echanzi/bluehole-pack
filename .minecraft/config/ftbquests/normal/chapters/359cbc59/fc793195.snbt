@@ -7,10 +7,10 @@
 		uid: "37abce2b",
 		type: "observation",
 		icon: {
+			id: "zawa:galapagos_tortoise",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "zawa:galapagos_tortoise"
+			}
 		},
 		match_type: "entity_id",
 		match: "zawa:galapagostortoise",

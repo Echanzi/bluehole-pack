@@ -9,10 +9,6 @@
 		uid: "27534ad3",
 		type: "item",
 		items: [{
-			ForgeCaps: {
-				"wizardryutils:summoneditemdata": {},
-				"astralsorcery:cap_item_amulet_holder": {}
-			},
 			id: "spartanweaponry:javelin_silver",
 			tag: {
 				AmmoUsed: 0,
@@ -20,6 +16,10 @@
 				UUIDLeast: -6740278123175309723L,
 				enchChecked: 1b,
 				Original: 1b
+			},
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {},
+				"astralsorcery:cap_item_amulet_holder": {}
 			}
 		}],
 		ignore_damage: true,

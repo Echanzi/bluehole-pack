@@ -6,11 +6,10 @@
 		uid: "a531c443",
 		type: "item",
 		items: [{
+			id: "tropicraft:water_wand",
 			ForgeCaps: {
-				"wizardryutils:summoneditemdata": {},
-				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "tropicraft:water_wand"
+				"wizardryutils:summoneditemdata": {}
+			}
 		}],
 		ignore_damage: true,
 		ignore_nbt: 1b

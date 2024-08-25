@@ -7,10 +7,10 @@
 		uid: "f4526446",
 		type: "observation",
 		icon: {
+			id: "zawa:frigate",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "zawa:frigate"
+			}
 		},
 		match_type: "entity_id",
 		match: "zawa:frigate",

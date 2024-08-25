@@ -6,20 +6,20 @@
 		uid: "c3455baf",
 		type: "item",
 		items: [{
+			id: "harvestcraft:watertrap",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "harvestcraft:watertrap"
+			}
 		}]
 	}],
 	rewards: [{
 		uid: "10c256ec",
 		type: "item",
 		item: {
+			id: "harvestcraft:fishtrapbaititem",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "harvestcraft:fishtrapbaititem"
+			}
 		},
 		count: 4
 	}]

@@ -6,11 +6,10 @@
 		type: "item",
 		disable_toast: true,
 		items: [{
+			id: "cqrepoured:helmet_bull",
 			ForgeCaps: {
-				"wizardryutils:summoneditemdata": {},
-				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "cqrepoured:helmet_bull"
+				"wizardryutils:summoneditemdata": {}
+			}
 		}],
 		ignore_damage: true,
 		ignore_nbt: 1b
@@ -20,11 +19,10 @@
 		type: "item",
 		disable_toast: true,
 		items: [{
+			id: "cqrepoured:chestplate_bull",
 			ForgeCaps: {
-				"wizardryutils:summoneditemdata": {},
-				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "cqrepoured:chestplate_bull"
+				"wizardryutils:summoneditemdata": {}
+			}
 		}],
 		ignore_damage: true,
 		ignore_nbt: 1b
@@ -34,11 +32,10 @@
 		type: "item",
 		disable_toast: true,
 		items: [{
+			id: "cqrepoured:leggings_bull",
 			ForgeCaps: {
-				"wizardryutils:summoneditemdata": {},
-				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "cqrepoured:leggings_bull"
+				"wizardryutils:summoneditemdata": {}
+			}
 		}],
 		ignore_damage: true,
 		ignore_nbt: 1b
@@ -48,11 +45,10 @@
 		type: "item",
 		disable_toast: true,
 		items: [{
+			id: "cqrepoured:boots_bull",
 			ForgeCaps: {
-				"wizardryutils:summoneditemdata": {},
-				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "cqrepoured:boots_bull"
+				"wizardryutils:summoneditemdata": {}
+			}
 		}],
 		ignore_damage: true,
 		ignore_nbt: 1b

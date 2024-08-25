@@ -6,11 +6,11 @@
 		uid: "580192af",
 		type: "stat",
 		icon: {
+			id: "grimoireofgaia:pickup_heart",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {},
 				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "grimoireofgaia:pickup_heart"
+			}
 		},
 		stat: "stat.animalsBred",
 		value: 1000

@@ -10,11 +10,11 @@
 		type: "item",
 		disable_toast: true,
 		items: [{
+			id: "aquaculture:iron_fishing_rod",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {},
 				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "aquaculture:iron_fishing_rod"
+			}
 		}],
 		ignore_damage: true,
 		ignore_nbt: 1b
@@ -24,11 +24,11 @@
 		type: "item",
 		disable_toast: true,
 		items: [{
+			id: "aquaculture:gold_fishing_rod",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {},
 				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "aquaculture:gold_fishing_rod"
+			}
 		}],
 		ignore_damage: true,
 		ignore_nbt: 1b
@@ -38,11 +38,11 @@
 		type: "item",
 		disable_toast: true,
 		items: [{
+			id: "aquaculture:diamond_fishing_rod",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {},
 				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "aquaculture:diamond_fishing_rod"
+			}
 		}],
 		ignore_damage: true,
 		ignore_nbt: 1b

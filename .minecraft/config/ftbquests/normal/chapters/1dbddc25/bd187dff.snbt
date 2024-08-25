@@ -10,11 +10,11 @@
 		uid: "0f4a4ec0",
 		type: "kill",
 		icon: {
+			id: "twilightforest:trophy",
+			Damage: 3s,
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "twilightforest:trophy",
-			Damage: 3s
+			}
 		},
 		entity: "twilightforest:ur_ghast",
 		value: 1L

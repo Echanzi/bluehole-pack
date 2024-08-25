@@ -12,11 +12,11 @@
 		uid: "34da4fc8",
 		type: "advancement",
 		icon: {
+			id: "ancientspellcraft:head_merchant",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {},
 				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "ancientspellcraft:head_merchant"
+			}
 		},
 		advancement: "raids:hero_of_the_village",
 		criterion: ""

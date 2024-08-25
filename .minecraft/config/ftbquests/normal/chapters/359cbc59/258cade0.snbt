@@ -7,10 +7,10 @@
 		uid: "1603edb3",
 		type: "observation",
 		icon: {
+			id: "zawa:fiji_banded_iguana",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "zawa:fiji_banded_iguana"
+			}
 		},
 		match_type: "entity_id",
 		match: "zawa:fijibandediguana",

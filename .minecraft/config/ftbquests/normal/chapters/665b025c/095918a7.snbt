@@ -9,10 +9,6 @@
 		uid: "11765558",
 		type: "item",
 		items: [{
-			ForgeCaps: {
-				"wizardryutils:summoneditemdata": {},
-				"astralsorcery:cap_item_amulet_holder": {}
-			},
 			id: "spartanfire:javelin_fire_dragonbone",
 			tag: {
 				AmmoUsed: 0,
@@ -20,6 +16,10 @@
 				UUIDLeast: -6880137808636257596L,
 				enchChecked: 1b,
 				Original: 1b
+			},
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {},
+				"astralsorcery:cap_item_amulet_holder": {}
 			}
 		}],
 		ignore_damage: true,

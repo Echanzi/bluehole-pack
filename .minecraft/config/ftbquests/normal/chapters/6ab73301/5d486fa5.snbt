@@ -12,11 +12,11 @@
 		uid: "682de6e5",
 		type: "item",
 		items: [{
+			id: "aquaculture:fishing_rod",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {},
 				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "aquaculture:fishing_rod"
+			}
 		}],
 		ignore_damage: true,
 		ignore_nbt: 1b

@@ -9,11 +9,11 @@
 		uid: "d941e051",
 		type: "item",
 		items: [{
+			id: "spartantwilight:warhammer_steeleaf",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {},
 				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "spartantwilight:warhammer_steeleaf"
+			}
 		}],
 		ignore_damage: true,
 		ignore_nbt: 1b

@@ -8,10 +8,10 @@
 		uid: "db785d8d",
 		type: "item",
 		items: [{
+			id: "thebetweenlands:gallery_frame_large",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "thebetweenlands:gallery_frame_large"
+			}
 		}]
 	}],
 	rewards: [{

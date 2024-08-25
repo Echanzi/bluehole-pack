@@ -5,10 +5,10 @@
 		uid: "9d1a1ea1",
 		type: "item",
 		items: [{
+			id: "iceandfire:manuscript",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "iceandfire:manuscript"
+			}
 		}]
 	}],
 	rewards: [{

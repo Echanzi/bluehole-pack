@@ -9,11 +9,11 @@
 		uid: "16ce8f93",
 		type: "item",
 		items: [{
+			id: "spartanlands:pike_octine",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {},
 				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "spartanlands:pike_octine"
+			}
 		}],
 		ignore_damage: true,
 		ignore_nbt: 1b

@@ -9,12 +9,12 @@
 		uid: "d9605bac",
 		type: "item",
 		items: [{
+			id: "spartanfire:crossbow_fire_dragonsteel",
+			tag: {},
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {},
 				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "spartanfire:crossbow_fire_dragonsteel",
-			tag: {}
+			}
 		}],
 		ignore_damage: true,
 		ignore_nbt: 1b

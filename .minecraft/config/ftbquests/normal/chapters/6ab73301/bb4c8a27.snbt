@@ -12,10 +12,10 @@
 		uid: "37a2274c",
 		type: "item",
 		items: [{
+			id: "minecraft:brewing_stand",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "minecraft:brewing_stand"
+			}
 		}],
 		only_from_crafting: true
 	}],

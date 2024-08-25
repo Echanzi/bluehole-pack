@@ -3,11 +3,11 @@
 	loot_size: 1,
 	rewards: [{
 		item: {
+			id: "minecraft:skull",
+			Damage: 1s,
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "minecraft:skull",
-			Damage: 1s
+			}
 		}
 	},
 	{

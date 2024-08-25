@@ -7,10 +7,10 @@
 		uid: "e0f31740",
 		type: "observation",
 		icon: {
+			id: "zawa:tasmanian_devil",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "zawa:tasmanian_devil"
+			}
 		},
 		match_type: "entity_id",
 		match: "zawa:tasmaniandevil",

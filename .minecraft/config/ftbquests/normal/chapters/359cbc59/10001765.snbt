@@ -1,14 +1,14 @@
 {
 	title: "Zombie Pigman Brute",
 	icon: {
-		ForgeCaps: {
-			"wizardryutils:summoneditemdata": {}
-		},
 		id: "minecraft:spawn_egg",
 		tag: {
 			EntityTag: {
 				id: "specialmobs:brutepigzombie"
 			}
+		},
+		ForgeCaps: {
+			"wizardryutils:summoneditemdata": {}
 		}
 	},
 	disable_toast: true,

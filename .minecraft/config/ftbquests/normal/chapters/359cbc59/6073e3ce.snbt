@@ -7,10 +7,10 @@
 		uid: "9cb27c6b",
 		type: "observation",
 		icon: {
+			id: "zawa:brazilian_tapir",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "zawa:brazilian_tapir"
+			}
 		},
 		match_type: "entity_id",
 		match: "zawa:braziliantapir",

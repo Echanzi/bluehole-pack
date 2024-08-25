@@ -9,10 +9,6 @@
 		uid: "0493f1c6",
 		type: "item",
 		items: [{
-			ForgeCaps: {
-				"wizardryutils:summoneditemdata": {},
-				"astralsorcery:cap_item_amulet_holder": {}
-			},
 			id: "spartancompat:javelin_holystone",
 			tag: {
 				AmmoUsed: 0,
@@ -20,6 +16,10 @@
 				UUIDLeast: -5102282159526077550L,
 				enchChecked: 1b,
 				Original: 1b
+			},
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {},
+				"astralsorcery:cap_item_amulet_holder": {}
 			}
 		}],
 		ignore_damage: true,

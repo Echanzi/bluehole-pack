@@ -6,14 +6,14 @@
 		uid: "92655a3f",
 		type: "kill",
 		icon: {
-			ForgeCaps: {
-				"wizardryutils:summoneditemdata": {}
-			},
 			id: "minecraft:spawn_egg",
 			tag: {
 				EntityTag: {
 					id: "thebetweenlands:dark_druid"
 				}
+			},
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
 			}
 		},
 		entity: "thebetweenlands:dark_druid",

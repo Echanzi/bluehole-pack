@@ -1,10 +1,10 @@
 {
 	title: "Cold Plains",
 	icon: {
+		id: "minecraft:grass",
 		ForgeCaps: {
 			"wizardryutils:summoneditemdata": {}
-		},
-		id: "minecraft:grass"
+		}
 	},
 	disable_toast: true,
 	x: 3.0d,

@@ -1,8 +1,5 @@
 {
 	icon: {
-		ForgeCaps: {
-			"wizardryutils:summoneditemdata": {}
-		},
 		id: "minecraft:lingering_potion",
 		tag: {
 			ench: [{
@@ -10,6 +7,9 @@
 				id: 1
 			}],
 			Potion: "minecraft:water"
+		},
+		ForgeCaps: {
+			"wizardryutils:summoneditemdata": {}
 		}
 	},
 	x: -4.0d,
@@ -23,12 +23,12 @@
 		type: "checkmark",
 		title: "#00d9ff-007bffWelcome to the Blue Hole",
 		icon: {
-			ForgeCaps: {
-				"wizardryutils:summoneditemdata": {}
-			},
 			id: "minecraft:lingering_potion",
 			tag: {
 				Potion: "minecraft:water"
+			},
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
 			}
 		}
 	}],
@@ -36,12 +36,12 @@
 		uid: "9da690e9",
 		type: "item",
 		item: {
-			ForgeCaps: {
-				"wizardryutils:summoneditemdata": {}
-			},
 			id: "minecraft:potion",
 			tag: {
 				Potion: "potioncore:chance"
+			},
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
 			}
 		}
 	}]

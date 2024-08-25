@@ -8,10 +8,10 @@
 		uid: "1f385ac3",
 		type: "item",
 		items: [{
+			id: "cookingforblockheads:cow_jar",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "cookingforblockheads:cow_jar"
+			}
 		}]
 	}],
 	rewards: [{

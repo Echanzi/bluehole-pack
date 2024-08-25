@@ -10,10 +10,10 @@
 		type: "item",
 		disable_toast: true,
 		items: [{
+			id: "harvestcraft:carrotcakeitem",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "harvestcraft:carrotcakeitem"
+			}
 		}]
 	},
 	{
@@ -21,10 +21,10 @@
 		type: "item",
 		disable_toast: true,
 		items: [{
+			id: "harvestcraft:cheesecakeitem",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "harvestcraft:cheesecakeitem"
+			}
 		}]
 	},
 	{
@@ -32,10 +32,10 @@
 		type: "item",
 		disable_toast: true,
 		items: [{
+			id: "harvestcraft:cherrycheesecakeitem",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "harvestcraft:cherrycheesecakeitem"
+			}
 		}]
 	},
 	{
@@ -43,10 +43,10 @@
 		type: "item",
 		disable_toast: true,
 		items: [{
+			id: "harvestcraft:chocolatesprinklecakeitem",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "harvestcraft:chocolatesprinklecakeitem"
+			}
 		}]
 	},
 	{
@@ -54,10 +54,10 @@
 		type: "item",
 		disable_toast: true,
 		items: [{
+			id: "harvestcraft:holidaycakeitem",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "harvestcraft:holidaycakeitem"
+			}
 		}]
 	},
 	{
@@ -65,10 +65,10 @@
 		type: "item",
 		disable_toast: true,
 		items: [{
+			id: "harvestcraft:pineappleupsidedowncakeitem",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "harvestcraft:pineappleupsidedowncakeitem"
+			}
 		}]
 	},
 	{
@@ -76,10 +76,10 @@
 		type: "item",
 		disable_toast: true,
 		items: [{
+			id: "harvestcraft:pumpkincheesecakeitem",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "harvestcraft:pumpkincheesecakeitem"
+			}
 		}]
 	},
 	{
@@ -87,10 +87,10 @@
 		type: "item",
 		disable_toast: true,
 		items: [{
+			id: "harvestcraft:redvelvetcakeitem",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "harvestcraft:redvelvetcakeitem"
+			}
 		}]
 	},
 	{
@@ -98,10 +98,10 @@
 		type: "item",
 		disable_toast: true,
 		items: [{
+			id: "harvestcraft:pavlovaitem",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "harvestcraft:pavlovaitem"
+			}
 		}]
 	},
 	{
@@ -109,10 +109,10 @@
 		type: "item",
 		disable_toast: true,
 		items: [{
+			id: "harvestcraft:lamingtonitem",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "harvestcraft:lamingtonitem"
+			}
 		}]
 	}],
 	rewards: [{
@@ -124,10 +124,10 @@
 		uid: "741e8341",
 		type: "item",
 		item: {
+			id: "chancecubes:chance_cube",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "chancecubes:chance_cube"
+			}
 		}
 	}]
 }

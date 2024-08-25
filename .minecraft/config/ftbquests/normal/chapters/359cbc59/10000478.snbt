@@ -1,14 +1,14 @@
 {
 	title: "Boarmage",
 	icon: {
-		ForgeCaps: {
-			"wizardryutils:summoneditemdata": {}
-		},
 		id: "minecraft:spawn_egg",
 		tag: {
 			EntityTag: {
 				id: "cqrepoured:boar_mage"
 			}
+		},
+		ForgeCaps: {
+			"wizardryutils:summoneditemdata": {}
 		}
 	},
 	disable_toast: true,

@@ -7,10 +7,10 @@
 		uid: "4d43bc74",
 		type: "observation",
 		icon: {
+			id: "zawa:okapi",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "zawa:okapi"
+			}
 		},
 		match_type: "entity_id",
 		match: "zawa:okapi",

@@ -7,10 +7,10 @@
 		uid: "46e0e243",
 		type: "observation",
 		icon: {
+			id: "zawa:macaw",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "zawa:macaw"
+			}
 		},
 		match_type: "entity_id",
 		match: "zawa:macaw",

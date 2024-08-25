@@ -9,11 +9,11 @@
 		uid: "f4e6d6e7",
 		type: "item",
 		items: [{
+			id: "spartanlands:saber_octine",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {},
 				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "spartanlands:saber_octine"
+			}
 		}],
 		ignore_damage: true,
 		ignore_nbt: 1b

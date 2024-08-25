@@ -9,11 +9,11 @@
 		uid: "0cf715d5",
 		type: "item",
 		items: [{
+			id: "spartanfire:katana_desert_venom",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {},
 				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "spartanfire:katana_desert_venom"
+			}
 		}],
 		ignore_damage: true,
 		ignore_nbt: 1b

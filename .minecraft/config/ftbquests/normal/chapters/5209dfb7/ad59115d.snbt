@@ -9,11 +9,11 @@
 		uid: "3af0f7a4",
 		type: "item",
 		items: [{
+			id: "twilightforest:block_and_chain",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {},
 				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "twilightforest:block_and_chain"
+			}
 		}],
 		ignore_damage: true,
 		ignore_nbt: 1b

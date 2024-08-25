@@ -9,11 +9,11 @@
 		uid: "682b0f87",
 		type: "item",
 		items: [{
+			id: "spartanlands:longsword_valonite",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {},
 				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "spartanlands:longsword_valonite"
+			}
 		}],
 		ignore_damage: true,
 		ignore_nbt: 1b

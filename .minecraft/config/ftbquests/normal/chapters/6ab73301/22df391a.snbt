@@ -13,10 +13,10 @@
 		uid: "fac86c59",
 		type: "item",
 		items: [{
+			id: "qualitytools:reforging_station",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "qualitytools:reforging_station"
+			}
 		}]
 	}],
 	rewards: [{

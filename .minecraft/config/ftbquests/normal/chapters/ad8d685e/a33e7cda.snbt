@@ -5,11 +5,10 @@
 		uid: "331d0a46",
 		type: "item",
 		items: [{
+			id: "harvestcraft:potitem",
 			ForgeCaps: {
-				"wizardryutils:summoneditemdata": {},
-				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "harvestcraft:potitem"
+				"wizardryutils:summoneditemdata": {}
+			}
 		}],
 		ignore_damage: true,
 		ignore_nbt: 1b

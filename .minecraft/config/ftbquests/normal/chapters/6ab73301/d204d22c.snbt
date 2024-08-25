@@ -9,10 +9,10 @@
 		uid: "9a591863",
 		type: "item",
 		items: [{
+			id: "tombstone:dark_marble",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "tombstone:dark_marble"
+			}
 		}]
 	}],
 	rewards: [{

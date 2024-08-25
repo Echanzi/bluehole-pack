@@ -1,14 +1,14 @@
 {
 	title: "Void Creeper",
 	icon: {
-		ForgeCaps: {
-			"wizardryutils:summoneditemdata": {}
-		},
 		id: "minecraft:spawn_egg",
 		tag: {
 			EntityTag: {
 				id: "ancientspellcraft:void_creeper"
 			}
+		},
+		ForgeCaps: {
+			"wizardryutils:summoneditemdata": {}
 		}
 	},
 	disable_toast: true,

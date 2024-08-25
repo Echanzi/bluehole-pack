@@ -5,11 +5,10 @@
 		uid: "d87fbaf6",
 		type: "item",
 		items: [{
+			id: "thebetweenlands:critter_cruncher",
 			ForgeCaps: {
-				"wizardryutils:summoneditemdata": {},
-				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "thebetweenlands:critter_cruncher"
+				"wizardryutils:summoneditemdata": {}
+			}
 		}],
 		ignore_damage: true,
 		ignore_nbt: 1b

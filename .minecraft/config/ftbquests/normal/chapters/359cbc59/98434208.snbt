@@ -7,10 +7,10 @@
 		uid: "5d15541c",
 		type: "observation",
 		icon: {
+			id: "minecraft:clay",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "minecraft:clay"
+			}
 		},
 		match_type: "entity_id",
 		match: "golems:golem_clay",

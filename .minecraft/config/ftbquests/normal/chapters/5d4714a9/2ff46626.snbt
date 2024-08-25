@@ -8,11 +8,11 @@
 		uid: "6268fe74",
 		type: "item",
 		items: [{
+			id: "vc:modules/item_module_type",
+			Damage: 8s,
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "vc:modules/item_module_type",
-			Damage: 8s
+			}
 		}],
 		ignore_nbt: 1b
 	}],
@@ -25,10 +25,10 @@
 		uid: "2afb6e25",
 		type: "item",
 		item: {
+			id: "vc:modules/item_module_type",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "vc:modules/item_module_type"
+			}
 		}
 	}]
 }

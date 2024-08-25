@@ -10,18 +10,18 @@
 		type: "item",
 		disable_toast: true,
 		items: [{
-			ForgeCaps: {
-				"wizardryutils:summoneditemdata": {},
-				"astralsorcery:cap_item_amulet_holder": {}
-			},
 			id: "thebetweenlands:bl_bucket",
+			Damage: 1s,
 			tag: {
 				Fluid: {
 					FluidName: "swamp_water",
 					Amount: 1000
 				}
 			},
-			Damage: 1s
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {},
+				"astralsorcery:cap_item_amulet_holder": {}
+			}
 		}]
 	},
 	{
@@ -29,18 +29,18 @@
 		type: "item",
 		disable_toast: true,
 		items: [{
-			ForgeCaps: {
-				"wizardryutils:summoneditemdata": {},
-				"astralsorcery:cap_item_amulet_holder": {}
-			},
 			id: "thebetweenlands:bl_bucket",
+			Damage: 1s,
 			tag: {
 				Fluid: {
 					FluidName: "stagnant_water",
 					Amount: 1000
 				}
 			},
-			Damage: 1s
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {},
+				"astralsorcery:cap_item_amulet_holder": {}
+			}
 		}]
 	},
 	{
@@ -48,18 +48,18 @@
 		type: "item",
 		disable_toast: true,
 		items: [{
-			ForgeCaps: {
-				"wizardryutils:summoneditemdata": {},
-				"astralsorcery:cap_item_amulet_holder": {}
-			},
 			id: "thebetweenlands:bl_bucket",
+			Damage: 1s,
 			tag: {
 				Fluid: {
 					FluidName: "tar",
 					Amount: 1000
 				}
 			},
-			Damage: 1s
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {},
+				"astralsorcery:cap_item_amulet_holder": {}
+			}
 		}]
 	},
 	{
@@ -67,13 +67,13 @@
 		type: "item",
 		disable_toast: true,
 		items: [{
+			id: "thebetweenlands:bl_bucket_rubber",
+			Damage: 1s,
+			tag: {},
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {},
 				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "thebetweenlands:bl_bucket_rubber",
-			tag: {},
-			Damage: 1s
+			}
 		}]
 	},
 	{
@@ -81,11 +81,11 @@
 		type: "item",
 		disable_toast: true,
 		items: [{
+			id: "thebetweenlands:syrmorite_bucket_solid_rubber",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {},
 				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "thebetweenlands:syrmorite_bucket_solid_rubber"
+			}
 		}],
 		ignore_damage: true
 	}],

@@ -10,10 +10,10 @@
 		uid: "8c577aea",
 		type: "item",
 		items: [{
+			id: "harvestcraft:saltitem",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "harvestcraft:saltitem"
+			}
 		}],
 		count: 1000L,
 		consume_items: true

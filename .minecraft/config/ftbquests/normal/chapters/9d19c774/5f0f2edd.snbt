@@ -9,11 +9,11 @@
 		uid: "9ab824da",
 		type: "kill",
 		icon: {
+			id: "iceandfire:dragonarmor_silver",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {},
 				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "iceandfire:dragonarmor_silver"
+			}
 		},
 		entity: "cqrepoured:nether_dragon",
 		value: 1L
@@ -27,10 +27,10 @@
 		uid: "75f17687",
 		type: "item",
 		item: {
+			id: "chancecubes:chance_cube",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "chancecubes:chance_cube"
+			}
 		}
 	}]
 }

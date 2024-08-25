@@ -8,10 +8,10 @@
 		uid: "9ec43519",
 		type: "item",
 		items: [{
+			id: "thebetweenlands:syrmorite_ore",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "thebetweenlands:syrmorite_ore"
+			}
 		}]
 	}],
 	rewards: [{

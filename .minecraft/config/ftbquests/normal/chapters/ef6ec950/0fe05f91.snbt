@@ -6,11 +6,10 @@
 		uid: "bfce7382",
 		type: "item",
 		items: [{
+			id: "thebetweenlands:gem_singer",
 			ForgeCaps: {
-				"wizardryutils:summoneditemdata": {},
-				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "thebetweenlands:gem_singer"
+				"wizardryutils:summoneditemdata": {}
+			}
 		}],
 		ignore_damage: true,
 		ignore_nbt: 1b

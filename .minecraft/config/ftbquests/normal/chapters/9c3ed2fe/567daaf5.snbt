@@ -11,11 +11,11 @@
 		type: "item",
 		disable_toast: true,
 		items: [{
+			id: "aether_legacy:red_cape",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {},
 				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "aether_legacy:red_cape"
+			}
 		}],
 		ignore_damage: true,
 		ignore_nbt: 1b
@@ -25,11 +25,11 @@
 		type: "item",
 		disable_toast: true,
 		items: [{
+			id: "aether_legacy:blue_cape",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {},
 				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "aether_legacy:blue_cape"
+			}
 		}],
 		ignore_damage: true,
 		ignore_nbt: 1b
@@ -39,11 +39,11 @@
 		type: "item",
 		disable_toast: true,
 		items: [{
+			id: "aether_legacy:yellow_cape",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {},
 				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "aether_legacy:yellow_cape"
+			}
 		}],
 		ignore_damage: true,
 		ignore_nbt: 1b
@@ -53,11 +53,11 @@
 		type: "item",
 		disable_toast: true,
 		items: [{
+			id: "aether_legacy:white_cape",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {},
 				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "aether_legacy:white_cape"
+			}
 		}],
 		ignore_damage: true,
 		ignore_nbt: 1b
@@ -67,11 +67,11 @@
 		type: "item",
 		disable_toast: true,
 		items: [{
+			id: "aether_legacy:swet_cape",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {},
 				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "aether_legacy:swet_cape"
+			}
 		}],
 		ignore_damage: true,
 		ignore_nbt: 1b
@@ -81,11 +81,11 @@
 		type: "item",
 		disable_toast: true,
 		items: [{
+			id: "aether_legacy:agility_cape",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {},
 				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "aether_legacy:agility_cape"
+			}
 		}],
 		ignore_damage: true,
 		ignore_nbt: 1b
@@ -95,11 +95,11 @@
 		type: "item",
 		disable_toast: true,
 		items: [{
+			id: "aether_legacy:valkyrie_cape",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {},
 				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "aether_legacy:valkyrie_cape"
+			}
 		}],
 		ignore_damage: true,
 		ignore_nbt: 1b
@@ -109,11 +109,11 @@
 		type: "item",
 		disable_toast: true,
 		items: [{
+			id: "lost_aether:phoenix_cape",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {},
 				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "lost_aether:phoenix_cape"
+			}
 		}],
 		ignore_damage: true,
 		ignore_nbt: 1b

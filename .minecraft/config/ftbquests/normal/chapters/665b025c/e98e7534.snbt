@@ -6,11 +6,10 @@
 		uid: "573dbac2",
 		type: "item",
 		items: [{
+			id: "spartanweaponry:caestus",
 			ForgeCaps: {
-				"wizardryutils:summoneditemdata": {},
-				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "spartanweaponry:caestus"
+				"wizardryutils:summoneditemdata": {}
+			}
 		}],
 		ignore_damage: true,
 		ignore_nbt: 1b

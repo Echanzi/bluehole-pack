@@ -1,11 +1,11 @@
 {
 	title: "Caught LACKING in 4K :nerd:",
 	icon: {
+		id: "camera:camera",
 		ForgeCaps: {
 			"wizardryutils:summoneditemdata": {},
 			"astralsorcery:cap_item_amulet_holder": {}
-		},
-		id: "camera:camera"
+		}
 	},
 	x: 3.5d,
 	y: -5.0d,
@@ -16,11 +16,11 @@
 		uid: "7a44be60",
 		type: "item",
 		items: [{
+			id: "camera:camera",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {},
 				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "camera:camera"
+			}
 		}],
 		ignore_damage: true,
 		ignore_nbt: 1b
@@ -29,12 +29,12 @@
 		uid: "a14e0188",
 		type: "item",
 		items: [{
-			ForgeCaps: {
-				"wizardryutils:summoneditemdata": {}
-			},
 			id: "camera:image",
 			tag: {
 				image: {}
+			},
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
 			}
 		}]
 	}],

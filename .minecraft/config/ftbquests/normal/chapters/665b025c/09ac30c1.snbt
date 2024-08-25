@@ -9,10 +9,6 @@
 		uid: "6f238f7a",
 		type: "item",
 		items: [{
-			ForgeCaps: {
-				"wizardryutils:summoneditemdata": {},
-				"astralsorcery:cap_item_amulet_holder": {}
-			},
 			id: "spartanfire:throwing_knife_fire_dragonbone",
 			tag: {
 				AmmoUsed: 0,
@@ -20,6 +16,10 @@
 				UUIDLeast: -6944131483914632296L,
 				enchChecked: 1b,
 				Original: 1b
+			},
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {},
+				"astralsorcery:cap_item_amulet_holder": {}
 			}
 		}],
 		ignore_damage: true,

@@ -1,10 +1,10 @@
 {
 	title: "Mesa",
 	icon: {
+		id: "minecraft:sand",
 		ForgeCaps: {
 			"wizardryutils:summoneditemdata": {}
-		},
-		id: "minecraft:sand"
+		}
 	},
 	disable_toast: true,
 	x: 2.0d,

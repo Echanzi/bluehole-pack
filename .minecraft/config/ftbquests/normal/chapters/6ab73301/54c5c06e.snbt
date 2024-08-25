@@ -8,10 +8,10 @@
 		uid: "84ec2998",
 		type: "item",
 		items: [{
+			id: "storagedrawers:upgrade_storage",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "storagedrawers:upgrade_storage"
+			}
 		}]
 	}],
 	rewards: [{

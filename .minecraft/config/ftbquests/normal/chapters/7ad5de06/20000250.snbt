@@ -1,10 +1,10 @@
 {
 	title: "Coarse Islands",
 	icon: {
+		id: "thebetweenlands:swamp_grass",
 		ForgeCaps: {
 			"wizardryutils:summoneditemdata": {}
-		},
-		id: "thebetweenlands:swamp_grass"
+		}
 	},
 	disable_toast: true,
 	x: 5.0d,

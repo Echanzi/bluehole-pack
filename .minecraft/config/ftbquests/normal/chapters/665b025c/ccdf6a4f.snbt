@@ -9,11 +9,11 @@
 		uid: "b33961e7",
 		type: "item",
 		items: [{
+			id: "spartanweaponry:caestus_studded",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {},
 				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "spartanweaponry:caestus_studded"
+			}
 		}],
 		ignore_damage: true,
 		ignore_nbt: 1b

@@ -10,11 +10,11 @@
 		uid: "913074da",
 		type: "kill",
 		icon: {
+			id: "thebetweenlands:chiromaw_tame_lightning",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {},
 				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "thebetweenlands:chiromaw_tame_lightning"
+			}
 		},
 		entity: "thebetweenlands:chiromaw_matriarch",
 		value: 1L

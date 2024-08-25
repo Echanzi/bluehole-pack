@@ -9,11 +9,11 @@
 		uid: "1b8013fa",
 		type: "item",
 		items: [{
+			id: "spartanweaponry:mace_gold",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {},
 				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "spartanweaponry:mace_gold"
+			}
 		}],
 		ignore_damage: true,
 		ignore_nbt: 1b

@@ -10,11 +10,11 @@
 		type: "item",
 		disable_toast: true,
 		items: [{
+			id: "aether_legacy:ice_ring",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {},
 				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "aether_legacy:ice_ring"
+			}
 		}],
 		ignore_damage: true,
 		ignore_nbt: 1b
@@ -24,11 +24,11 @@
 		type: "item",
 		disable_toast: true,
 		items: [{
+			id: "aether_legacy:ice_pendant",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {},
 				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "aether_legacy:ice_pendant"
+			}
 		}],
 		ignore_damage: true,
 		ignore_nbt: 1b

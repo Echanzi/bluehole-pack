@@ -9,11 +9,11 @@
 		uid: "601d6a07",
 		type: "item",
 		items: [{
+			id: "spartanweaponry:battleaxe_iron",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {},
 				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "spartanweaponry:battleaxe_iron"
+			}
 		}],
 		ignore_damage: true,
 		ignore_nbt: 1b

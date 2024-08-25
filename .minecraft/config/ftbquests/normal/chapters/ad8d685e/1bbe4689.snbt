@@ -6,10 +6,10 @@
 		uid: "37391efa",
 		type: "item",
 		items: [{
+			id: "harvestcraft:friedchickenitem",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "harvestcraft:friedchickenitem"
+			}
 		}],
 		consume_items: true
 	}],

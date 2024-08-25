@@ -12,10 +12,10 @@
 		uid: "4e038ec2",
 		type: "item",
 		items: [{
+			id: "harvestcraft:soymilkitem",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "harvestcraft:soymilkitem"
+			}
 		}]
 	}]
 }

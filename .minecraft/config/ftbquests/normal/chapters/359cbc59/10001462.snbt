@@ -1,14 +1,14 @@
 {
 	title: "Siren",
 	icon: {
-		ForgeCaps: {
-			"wizardryutils:summoneditemdata": {}
-		},
 		id: "minecraft:spawn_egg",
 		tag: {
 			EntityTag: {
 				id: "iceandfire:siren"
 			}
+		},
+		ForgeCaps: {
+			"wizardryutils:summoneditemdata": {}
 		}
 	},
 	disable_toast: true,

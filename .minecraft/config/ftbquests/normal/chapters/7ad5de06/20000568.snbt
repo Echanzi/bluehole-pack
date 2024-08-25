@@ -1,10 +1,10 @@
 {
 	title: "Visceral Heap",
 	icon: {
+		id: "biomesoplenty:flesh",
 		ForgeCaps: {
 			"wizardryutils:summoneditemdata": {}
-		},
-		id: "biomesoplenty:flesh"
+		}
 	},
 	disable_toast: true,
 	x: 12.0d,

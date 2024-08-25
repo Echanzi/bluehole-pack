@@ -8,10 +8,10 @@
 		uid: "c46c666e",
 		type: "item",
 		items: [{
+			id: "harvestcraft:currypowderitem",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "harvestcraft:currypowderitem"
+			}
 		}]
 	}],
 	rewards: [{

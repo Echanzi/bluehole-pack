@@ -9,11 +9,11 @@
 		uid: "49b03741",
 		type: "item",
 		items: [{
+			id: "spartancompat:rapier_skyroot",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {},
 				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "spartancompat:rapier_skyroot"
+			}
 		}],
 		ignore_damage: true,
 		ignore_nbt: 1b

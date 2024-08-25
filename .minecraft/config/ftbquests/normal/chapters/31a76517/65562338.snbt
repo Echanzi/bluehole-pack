@@ -8,10 +8,10 @@
 		uid: "99e81717",
 		type: "item",
 		items: [{
+			id: "futuremc:bamboo",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "futuremc:bamboo"
+			}
 		}],
 		count: 128L
 	}],
@@ -21,14 +21,14 @@
 		team_reward: true,
 		auto: "enabled",
 		item: {
-			ForgeCaps: {
-				"wizardryutils:summoneditemdata": {}
-			},
 			id: "minecraft:spawn_egg",
 			tag: {
 				EntityTag: {
 					id: "futuremc:panda"
 				}
+			},
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
 			}
 		}
 	},
@@ -37,14 +37,14 @@
 		type: "item",
 		team_reward: true,
 		item: {
-			ForgeCaps: {
-				"wizardryutils:summoneditemdata": {}
-			},
 			id: "minecraft:spawn_egg",
 			tag: {
 				EntityTag: {
 					id: "futuremc:panda"
 				}
+			},
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
 			}
 		}
 	}]

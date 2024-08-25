@@ -6,11 +6,10 @@
 		type: "item",
 		disable_toast: true,
 		items: [{
+			id: "cqrepoured:helmet_turtle",
 			ForgeCaps: {
-				"wizardryutils:summoneditemdata": {},
-				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "cqrepoured:helmet_turtle"
+				"wizardryutils:summoneditemdata": {}
+			}
 		}],
 		ignore_damage: true,
 		ignore_nbt: 1b
@@ -20,11 +19,10 @@
 		type: "item",
 		disable_toast: true,
 		items: [{
+			id: "cqrepoured:chestplate_turtle",
 			ForgeCaps: {
-				"wizardryutils:summoneditemdata": {},
-				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "cqrepoured:chestplate_turtle"
+				"wizardryutils:summoneditemdata": {}
+			}
 		}],
 		ignore_damage: true,
 		ignore_nbt: 1b
@@ -34,11 +32,10 @@
 		type: "item",
 		disable_toast: true,
 		items: [{
+			id: "cqrepoured:leggings_turtle",
 			ForgeCaps: {
-				"wizardryutils:summoneditemdata": {},
-				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "cqrepoured:leggings_turtle"
+				"wizardryutils:summoneditemdata": {}
+			}
 		}],
 		ignore_damage: true,
 		ignore_nbt: 1b
@@ -48,11 +45,10 @@
 		type: "item",
 		disable_toast: true,
 		items: [{
+			id: "cqrepoured:boots_turtle",
 			ForgeCaps: {
-				"wizardryutils:summoneditemdata": {},
-				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "cqrepoured:boots_turtle"
+				"wizardryutils:summoneditemdata": {}
+			}
 		}],
 		ignore_damage: true,
 		ignore_nbt: 1b

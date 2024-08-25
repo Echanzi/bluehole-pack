@@ -12,10 +12,10 @@
 		uid: "6360fe6e",
 		type: "item",
 		items: [{
+			id: "minecraft:diamond_block",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "minecraft:diamond_block"
+			}
 		}],
 		count: 9L
 	}],

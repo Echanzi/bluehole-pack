@@ -7,11 +7,10 @@
 		type: "item",
 		disable_toast: true,
 		items: [{
+			id: "aether_legacy:golden_feather",
 			ForgeCaps: {
-				"wizardryutils:summoneditemdata": {},
-				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "aether_legacy:golden_feather"
+				"wizardryutils:summoneditemdata": {}
+			}
 		}],
 		ignore_damage: true,
 		ignore_nbt: 1b
@@ -21,11 +20,10 @@
 		type: "item",
 		disable_toast: true,
 		items: [{
+			id: "aether_legacy:regeneration_stone",
 			ForgeCaps: {
-				"wizardryutils:summoneditemdata": {},
-				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "aether_legacy:regeneration_stone"
+				"wizardryutils:summoneditemdata": {}
+			}
 		}],
 		ignore_damage: true,
 		ignore_nbt: 1b
@@ -35,11 +33,10 @@
 		type: "item",
 		disable_toast: true,
 		items: [{
+			id: "aether_legacy:iron_bubble",
 			ForgeCaps: {
-				"wizardryutils:summoneditemdata": {},
-				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "aether_legacy:iron_bubble"
+				"wizardryutils:summoneditemdata": {}
+			}
 		}],
 		ignore_damage: true,
 		ignore_nbt: 1b
@@ -49,11 +46,10 @@
 		type: "item",
 		disable_toast: true,
 		items: [{
+			id: "aether_legacy:repulsion_shield",
 			ForgeCaps: {
-				"wizardryutils:summoneditemdata": {},
-				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "aether_legacy:repulsion_shield"
+				"wizardryutils:summoneditemdata": {}
+			}
 		}],
 		ignore_damage: true,
 		ignore_nbt: 1b
@@ -63,11 +59,10 @@
 		type: "item",
 		disable_toast: true,
 		items: [{
+			id: "lost_aether:sentry_shield",
 			ForgeCaps: {
-				"wizardryutils:summoneditemdata": {},
-				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "lost_aether:sentry_shield"
+				"wizardryutils:summoneditemdata": {}
+			}
 		}],
 		ignore_damage: true,
 		ignore_nbt: 1b
@@ -77,11 +72,10 @@
 		type: "item",
 		disable_toast: true,
 		items: [{
+			id: "lost_aether:invisibility_gem",
 			ForgeCaps: {
-				"wizardryutils:summoneditemdata": {},
-				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "lost_aether:invisibility_gem"
+				"wizardryutils:summoneditemdata": {}
+			}
 		}],
 		ignore_damage: true,
 		ignore_nbt: 1b

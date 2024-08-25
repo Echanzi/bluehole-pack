@@ -9,11 +9,11 @@
 		uid: "f53dd48d",
 		type: "item",
 		items: [{
+			id: "spartanlands:lance_octine",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {},
 				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "spartanlands:lance_octine"
+			}
 		}],
 		ignore_damage: true,
 		ignore_nbt: 1b

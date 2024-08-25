@@ -9,10 +9,10 @@
 		uid: "238c76d1",
 		type: "kill",
 		icon: {
+			id: "iceandfire:fire_dragon_heart",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "iceandfire:fire_dragon_heart"
+			}
 		},
 		entity: "iceandfire:firedragon",
 		value: 1L

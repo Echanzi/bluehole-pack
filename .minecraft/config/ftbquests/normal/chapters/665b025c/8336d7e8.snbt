@@ -9,11 +9,11 @@
 		uid: "2f3bcb47",
 		type: "item",
 		items: [{
+			id: "spartanweaponry:glaive_diamond",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {},
 				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "spartanweaponry:glaive_diamond"
+			}
 		}],
 		ignore_damage: true,
 		ignore_nbt: 1b

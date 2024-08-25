@@ -7,11 +7,10 @@
 		type: "item",
 		disable_toast: true,
 		items: [{
+			id: "minecraft:record_13",
 			ForgeCaps: {
-				"wizardryutils:summoneditemdata": {},
-				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "minecraft:record_13"
+				"wizardryutils:summoneditemdata": {}
+			}
 		}],
 		ignore_damage: true,
 		ignore_nbt: 1b
@@ -21,11 +20,10 @@
 		type: "item",
 		disable_toast: true,
 		items: [{
+			id: "minecraft:record_cat",
 			ForgeCaps: {
-				"wizardryutils:summoneditemdata": {},
-				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "minecraft:record_cat"
+				"wizardryutils:summoneditemdata": {}
+			}
 		}],
 		ignore_damage: true,
 		ignore_nbt: 1b
@@ -35,11 +33,10 @@
 		type: "item",
 		disable_toast: true,
 		items: [{
+			id: "minecraft:record_blocks",
 			ForgeCaps: {
-				"wizardryutils:summoneditemdata": {},
-				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "minecraft:record_blocks"
+				"wizardryutils:summoneditemdata": {}
+			}
 		}],
 		ignore_damage: true,
 		ignore_nbt: 1b
@@ -49,11 +46,10 @@
 		type: "item",
 		disable_toast: true,
 		items: [{
+			id: "minecraft:record_chirp",
 			ForgeCaps: {
-				"wizardryutils:summoneditemdata": {},
-				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "minecraft:record_chirp"
+				"wizardryutils:summoneditemdata": {}
+			}
 		}],
 		ignore_damage: true,
 		ignore_nbt: 1b
@@ -63,11 +59,10 @@
 		type: "item",
 		disable_toast: true,
 		items: [{
+			id: "minecraft:record_far",
 			ForgeCaps: {
-				"wizardryutils:summoneditemdata": {},
-				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "minecraft:record_far"
+				"wizardryutils:summoneditemdata": {}
+			}
 		}],
 		ignore_damage: true,
 		ignore_nbt: 1b
@@ -77,11 +72,10 @@
 		type: "item",
 		disable_toast: true,
 		items: [{
+			id: "minecraft:record_mall",
 			ForgeCaps: {
-				"wizardryutils:summoneditemdata": {},
-				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "minecraft:record_mall"
+				"wizardryutils:summoneditemdata": {}
+			}
 		}],
 		ignore_damage: true,
 		ignore_nbt: 1b
@@ -91,11 +85,10 @@
 		type: "item",
 		disable_toast: true,
 		items: [{
+			id: "minecraft:record_mellohi",
 			ForgeCaps: {
-				"wizardryutils:summoneditemdata": {},
-				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "minecraft:record_mellohi"
+				"wizardryutils:summoneditemdata": {}
+			}
 		}],
 		ignore_damage: true,
 		ignore_nbt: 1b
@@ -105,11 +98,10 @@
 		type: "item",
 		disable_toast: true,
 		items: [{
+			id: "minecraft:record_stal",
 			ForgeCaps: {
-				"wizardryutils:summoneditemdata": {},
-				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "minecraft:record_stal"
+				"wizardryutils:summoneditemdata": {}
+			}
 		}],
 		ignore_damage: true,
 		ignore_nbt: 1b
@@ -119,11 +111,10 @@
 		type: "item",
 		disable_toast: true,
 		items: [{
+			id: "minecraft:record_strad",
 			ForgeCaps: {
-				"wizardryutils:summoneditemdata": {},
-				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "minecraft:record_strad"
+				"wizardryutils:summoneditemdata": {}
+			}
 		}],
 		ignore_damage: true,
 		ignore_nbt: 1b
@@ -133,11 +124,10 @@
 		type: "item",
 		disable_toast: true,
 		items: [{
+			id: "minecraft:record_ward",
 			ForgeCaps: {
-				"wizardryutils:summoneditemdata": {},
-				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "minecraft:record_ward"
+				"wizardryutils:summoneditemdata": {}
+			}
 		}],
 		ignore_damage: true,
 		ignore_nbt: 1b
@@ -147,11 +137,10 @@
 		type: "item",
 		disable_toast: true,
 		items: [{
+			id: "minecraft:record_11",
 			ForgeCaps: {
-				"wizardryutils:summoneditemdata": {},
-				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "minecraft:record_11"
+				"wizardryutils:summoneditemdata": {}
+			}
 		}],
 		ignore_damage: true,
 		ignore_nbt: 1b
@@ -161,11 +150,10 @@
 		type: "item",
 		disable_toast: true,
 		items: [{
+			id: "minecraft:record_wait",
 			ForgeCaps: {
-				"wizardryutils:summoneditemdata": {},
-				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "minecraft:record_wait"
+				"wizardryutils:summoneditemdata": {}
+			}
 		}],
 		ignore_damage: true,
 		ignore_nbt: 1b
@@ -179,9 +167,6 @@
 		uid: "d5cbbe27",
 		type: "item",
 		item: {
-			ForgeCaps: {
-				"wizardryutils:summoneditemdata": {}
-			},
 			id: "minecraft:chest",
 			tag: {
 				RepairCost: 0,
@@ -265,6 +250,9 @@
 					],
 					Name: "Disc Box"
 				}
+			},
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
 			}
 		}
 	}]

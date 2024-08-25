@@ -13,11 +13,11 @@
 		uid: "353f1e67",
 		type: "item",
 		items: [{
+			id: "minecraft:fishing_rod",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {},
 				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "minecraft:fishing_rod"
+			}
 		}],
 		ignore_damage: true,
 		ignore_nbt: 1b,

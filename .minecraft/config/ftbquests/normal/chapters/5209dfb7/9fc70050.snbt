@@ -1,11 +1,11 @@
 {
 	title: "The Cold Never Bothered Me Anyway",
 	icon: {
+		id: "twilightforest:trophy",
+		Damage: 5s,
 		ForgeCaps: {
 			"wizardryutils:summoneditemdata": {}
-		},
-		id: "twilightforest:trophy",
-		Damage: 5s
+		}
 	},
 	x: 8.0d,
 	y: -5.5d,
@@ -17,11 +17,11 @@
 		type: "item",
 		disable_toast: true,
 		items: [{
+			id: "twilightforest:trophy",
+			Damage: 5s,
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "twilightforest:trophy",
-			Damage: 5s
+			}
 		}]
 	},
 	{
@@ -35,11 +35,11 @@
 		uid: "22c0e45f",
 		type: "item",
 		item: {
+			id: "twilightforest:trophy",
+			Damage: 5s,
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "twilightforest:trophy",
-			Damage: 5s
+			}
 		}
 	},
 	{
@@ -51,10 +51,10 @@
 		uid: "461ba88a",
 		type: "item",
 		item: {
+			id: "chancecubes:chance_cube",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "chancecubes:chance_cube"
+			}
 		}
 	}]
 }

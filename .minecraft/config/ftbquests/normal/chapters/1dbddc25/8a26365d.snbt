@@ -7,11 +7,11 @@
 		uid: "c661a881",
 		type: "kill",
 		icon: {
+			id: "mutantbeasts:mutant_skeleton_skull",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {},
 				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "mutantbeasts:mutant_skeleton_skull"
+			}
 		},
 		entity: "mutantbeasts:mutant_skeleton",
 		value: 1L

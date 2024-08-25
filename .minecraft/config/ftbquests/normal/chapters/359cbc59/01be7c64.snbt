@@ -7,10 +7,10 @@
 		uid: "3162bf14",
 		type: "observation",
 		icon: {
+			id: "zawa:puffer_fish",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "zawa:puffer_fish"
+			}
 		},
 		match_type: "entity_id",
 		match: "zawa:pufferfish",

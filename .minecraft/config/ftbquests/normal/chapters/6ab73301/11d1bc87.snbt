@@ -8,10 +8,10 @@
 		uid: "76c9dfa2",
 		type: "item",
 		items: [{
+			id: "minecraft:dragon_breath",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "minecraft:dragon_breath"
+			}
 		}]
 	}],
 	rewards: [{

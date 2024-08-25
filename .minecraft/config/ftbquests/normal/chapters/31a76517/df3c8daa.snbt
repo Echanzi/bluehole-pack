@@ -6,11 +6,10 @@
 		uid: "8e4ecce2",
 		type: "item",
 		items: [{
+			id: "tropicraft:buried_treasure",
 			ForgeCaps: {
-				"wizardryutils:summoneditemdata": {},
-				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "tropicraft:buried_treasure"
+				"wizardryutils:summoneditemdata": {}
+			}
 		}],
 		ignore_damage: true,
 		ignore_nbt: 1b
@@ -19,11 +18,10 @@
 		uid: "22ba4ec5",
 		type: "item",
 		items: [{
+			id: "tropicraft:eastern_isles",
 			ForgeCaps: {
-				"wizardryutils:summoneditemdata": {},
-				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "tropicraft:eastern_isles"
+				"wizardryutils:summoneditemdata": {}
+			}
 		}],
 		ignore_damage: true,
 		ignore_nbt: 1b
@@ -32,11 +30,10 @@
 		uid: "94bd1e3d",
 		type: "item",
 		items: [{
+			id: "tropicraft:summering",
 			ForgeCaps: {
-				"wizardryutils:summoneditemdata": {},
-				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "tropicraft:summering"
+				"wizardryutils:summoneditemdata": {}
+			}
 		}],
 		ignore_damage: true,
 		ignore_nbt: 1b
@@ -45,11 +42,10 @@
 		uid: "240c8125",
 		type: "item",
 		items: [{
+			id: "tropicraft:the_tribe",
 			ForgeCaps: {
-				"wizardryutils:summoneditemdata": {},
-				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "tropicraft:the_tribe"
+				"wizardryutils:summoneditemdata": {}
+			}
 		}],
 		ignore_damage: true,
 		ignore_nbt: 1b
@@ -58,11 +54,10 @@
 		uid: "ad5a3649",
 		type: "item",
 		items: [{
+			id: "tropicraft:low_tide",
 			ForgeCaps: {
-				"wizardryutils:summoneditemdata": {},
-				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "tropicraft:low_tide"
+				"wizardryutils:summoneditemdata": {}
+			}
 		}],
 		ignore_damage: true,
 		ignore_nbt: 1b
@@ -71,11 +66,10 @@
 		uid: "8ff2502b",
 		type: "item",
 		items: [{
+			id: "tropicraft:trade_winds",
 			ForgeCaps: {
-				"wizardryutils:summoneditemdata": {},
-				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "tropicraft:trade_winds"
+				"wizardryutils:summoneditemdata": {}
+			}
 		}],
 		ignore_damage: true,
 		ignore_nbt: 1b

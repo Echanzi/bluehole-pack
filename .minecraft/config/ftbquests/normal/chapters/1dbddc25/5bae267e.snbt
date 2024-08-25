@@ -9,11 +9,11 @@
 		uid: "ef9882b1",
 		type: "stat",
 		icon: {
+			id: "minecraft:diamond_sword",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {},
 				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "minecraft:diamond_sword"
+			}
 		},
 		stat: "stat.mobKills",
 		value: 1000

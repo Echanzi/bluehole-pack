@@ -7,10 +7,10 @@
 		uid: "6457a11d",
 		type: "observation",
 		icon: {
+			id: "minecraft:slime",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "minecraft:slime"
+			}
 		},
 		match_type: "entity_id",
 		match: "golems:golem_slime",

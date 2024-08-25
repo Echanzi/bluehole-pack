@@ -7,10 +7,10 @@
 		uid: "bb6e2b0a",
 		type: "observation",
 		icon: {
+			id: "zawa:amazon_river_dolphin",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "zawa:amazon_river_dolphin"
+			}
 		},
 		match_type: "entity_id",
 		match: "zawa:amazonriverdolphin",

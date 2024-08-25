@@ -6,11 +6,10 @@
 		type: "item",
 		disable_toast: true,
 		items: [{
+			id: "aether_legacy:obsidian_helmet",
 			ForgeCaps: {
-				"wizardryutils:summoneditemdata": {},
-				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "aether_legacy:obsidian_helmet"
+				"wizardryutils:summoneditemdata": {}
+			}
 		}],
 		ignore_damage: true,
 		ignore_nbt: 1b
@@ -20,11 +19,10 @@
 		type: "item",
 		disable_toast: true,
 		items: [{
+			id: "aether_legacy:obsidian_chestplate",
 			ForgeCaps: {
-				"wizardryutils:summoneditemdata": {},
-				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "aether_legacy:obsidian_chestplate"
+				"wizardryutils:summoneditemdata": {}
+			}
 		}],
 		ignore_damage: true,
 		ignore_nbt: 1b
@@ -34,11 +32,10 @@
 		type: "item",
 		disable_toast: true,
 		items: [{
+			id: "aether_legacy:obsidian_leggings",
 			ForgeCaps: {
-				"wizardryutils:summoneditemdata": {},
-				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "aether_legacy:obsidian_leggings"
+				"wizardryutils:summoneditemdata": {}
+			}
 		}],
 		ignore_damage: true,
 		ignore_nbt: 1b
@@ -48,11 +45,10 @@
 		type: "item",
 		disable_toast: true,
 		items: [{
+			id: "aether_legacy:obsidian_boots",
 			ForgeCaps: {
-				"wizardryutils:summoneditemdata": {},
-				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "aether_legacy:obsidian_boots"
+				"wizardryutils:summoneditemdata": {}
+			}
 		}],
 		ignore_damage: true,
 		ignore_nbt: 1b
@@ -62,11 +58,10 @@
 		type: "item",
 		disable_toast: true,
 		items: [{
+			id: "aether_legacy:obsidian_gloves",
 			ForgeCaps: {
-				"wizardryutils:summoneditemdata": {},
-				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "aether_legacy:obsidian_gloves"
+				"wizardryutils:summoneditemdata": {}
+			}
 		}],
 		ignore_damage: true,
 		ignore_nbt: 1b

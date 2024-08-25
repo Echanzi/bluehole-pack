@@ -1,10 +1,10 @@
 {
 	title: "Stone Cold",
 	icon: {
+		id: "aether_legacy:icestone",
 		ForgeCaps: {
 			"wizardryutils:summoneditemdata": {}
-		},
-		id: "aether_legacy:icestone"
+		}
 	},
 	x: 2.5d,
 	y: 1.0d,
@@ -15,10 +15,10 @@
 		uid: "9a746373",
 		type: "item",
 		items: [{
+			id: "aether_legacy:icestone",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "aether_legacy:icestone"
+			}
 		}],
 		count: 16L
 	},
@@ -26,10 +26,10 @@
 		uid: "7f527481",
 		type: "item",
 		items: [{
+			id: "aether_legacy:freezer",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "aether_legacy:freezer"
+			}
 		}]
 	}],
 	rewards: [{

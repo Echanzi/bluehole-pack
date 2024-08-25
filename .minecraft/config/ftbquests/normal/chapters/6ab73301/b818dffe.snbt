@@ -13,10 +13,10 @@
 		uid: "a42696ff",
 		type: "item",
 		items: [{
+			id: "rats:block_of_cheese",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "rats:block_of_cheese"
+			}
 		}]
 	}],
 	rewards: [{

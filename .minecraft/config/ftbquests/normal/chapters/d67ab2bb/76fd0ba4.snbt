@@ -7,11 +7,10 @@
 		type: "item",
 		disable_toast: true,
 		items: [{
+			id: "wolfarmor:leather_wolf_armor",
 			ForgeCaps: {
-				"wizardryutils:summoneditemdata": {},
-				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "wolfarmor:leather_wolf_armor"
+				"wizardryutils:summoneditemdata": {}
+			}
 		}],
 		ignore_damage: true,
 		ignore_nbt: 1b
@@ -21,11 +20,10 @@
 		type: "item",
 		disable_toast: true,
 		items: [{
+			id: "wolfarmor:chainmail_wolf_armor",
 			ForgeCaps: {
-				"wizardryutils:summoneditemdata": {},
-				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "wolfarmor:chainmail_wolf_armor"
+				"wizardryutils:summoneditemdata": {}
+			}
 		}],
 		ignore_damage: true,
 		ignore_nbt: 1b
@@ -35,11 +33,10 @@
 		type: "item",
 		disable_toast: true,
 		items: [{
+			id: "wolfarmor:iron_wolf_armor",
 			ForgeCaps: {
-				"wizardryutils:summoneditemdata": {},
-				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "wolfarmor:iron_wolf_armor"
+				"wizardryutils:summoneditemdata": {}
+			}
 		}],
 		ignore_damage: true,
 		ignore_nbt: 1b
@@ -49,11 +46,10 @@
 		type: "item",
 		disable_toast: true,
 		items: [{
+			id: "wolfarmor:gold_wolf_armor",
 			ForgeCaps: {
-				"wizardryutils:summoneditemdata": {},
-				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "wolfarmor:gold_wolf_armor"
+				"wizardryutils:summoneditemdata": {}
+			}
 		}],
 		ignore_damage: true,
 		ignore_nbt: 1b
@@ -63,11 +59,10 @@
 		type: "item",
 		disable_toast: true,
 		items: [{
+			id: "wolfarmor:diamond_wolf_armor",
 			ForgeCaps: {
-				"wizardryutils:summoneditemdata": {},
-				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "wolfarmor:diamond_wolf_armor"
+				"wizardryutils:summoneditemdata": {}
+			}
 		}],
 		ignore_damage: true,
 		ignore_nbt: 1b

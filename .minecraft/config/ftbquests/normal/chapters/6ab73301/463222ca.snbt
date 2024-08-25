@@ -9,10 +9,10 @@
 		uid: "9aeb513a",
 		type: "item",
 		items: [{
+			id: "minecraft:blaze_rod",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "minecraft:blaze_rod"
+			}
 		}]
 	}],
 	rewards: [{

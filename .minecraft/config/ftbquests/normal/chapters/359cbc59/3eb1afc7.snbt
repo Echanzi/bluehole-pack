@@ -7,10 +7,10 @@
 		uid: "0a3170cb",
 		type: "observation",
 		icon: {
+			id: "zawa:animal_trader",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "zawa:animal_trader"
+			}
 		},
 		match_type: "entity_id",
 		match: "zawa:animaltrader",

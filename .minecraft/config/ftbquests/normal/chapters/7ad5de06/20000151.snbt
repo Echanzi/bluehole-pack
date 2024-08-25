@@ -1,10 +1,10 @@
 {
 	title: "Sludge Plains",
 	icon: {
+		id: "thebetweenlands:mud",
 		ForgeCaps: {
 			"wizardryutils:summoneditemdata": {}
-		},
-		id: "thebetweenlands:mud"
+		}
 	},
 	disable_toast: true,
 	x: 5.0d,

@@ -9,11 +9,11 @@
 		uid: "ef49b4cf",
 		type: "item",
 		items: [{
+			id: "spartantwilight:halberd_ironwood",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {},
 				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "spartantwilight:halberd_ironwood"
+			}
 		}],
 		ignore_damage: true,
 		ignore_nbt: 1b

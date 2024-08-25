@@ -6,10 +6,10 @@
 		uid: "e2448882",
 		type: "item",
 		items: [{
+			id: "harvestcraft:grinder",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "harvestcraft:grinder"
+			}
 		}]
 	}],
 	rewards: [{

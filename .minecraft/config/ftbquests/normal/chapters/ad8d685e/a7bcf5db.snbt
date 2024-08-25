@@ -5,11 +5,10 @@
 		uid: "3d660b2b",
 		type: "item",
 		items: [{
+			id: "harvestcraft:mortarandpestleitem",
 			ForgeCaps: {
-				"wizardryutils:summoneditemdata": {},
-				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "harvestcraft:mortarandpestleitem"
+				"wizardryutils:summoneditemdata": {}
+			}
 		}],
 		ignore_damage: true,
 		ignore_nbt: 1b

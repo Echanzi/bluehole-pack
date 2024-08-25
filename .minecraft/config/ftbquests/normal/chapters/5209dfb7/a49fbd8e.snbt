@@ -1,11 +1,11 @@
 {
 	title: "Herculean Feat",
 	icon: {
+		id: "twilightforest:trophy",
+		Damage: 2s,
 		ForgeCaps: {
 			"wizardryutils:summoneditemdata": {}
-		},
-		id: "twilightforest:trophy",
-		Damage: 2s
+		}
 	},
 	x: 8.0d,
 	y: -3.0d,
@@ -18,11 +18,11 @@
 		type: "item",
 		disable_toast: true,
 		items: [{
+			id: "twilightforest:trophy",
+			Damage: 2s,
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "twilightforest:trophy",
-			Damage: 2s
+			}
 		}]
 	},
 	{
@@ -36,10 +36,10 @@
 		uid: "320c4b6b",
 		type: "item",
 		item: {
+			id: "twilightforest:fiery_blood",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "twilightforest:fiery_blood"
+			}
 		}
 	},
 	{
@@ -51,10 +51,10 @@
 		uid: "f95d22b7",
 		type: "item",
 		item: {
+			id: "chancecubes:chance_cube",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "chancecubes:chance_cube"
+			}
 		}
 	}]
 }

@@ -11,10 +11,10 @@
 		uid: "badc63ef",
 		type: "item",
 		items: [{
+			id: "thebetweenlands:octine_ingot",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "thebetweenlands:octine_ingot"
+			}
 		}]
 	}],
 	rewards: [{

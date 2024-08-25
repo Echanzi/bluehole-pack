@@ -9,11 +9,11 @@
 		uid: "9866937c",
 		type: "item",
 		items: [{
+			id: "spartanfire:staff_desert",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {},
 				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "spartanfire:staff_desert"
+			}
 		}],
 		ignore_damage: true,
 		ignore_nbt: 1b

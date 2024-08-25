@@ -1,18 +1,11 @@
 {
 	x: 6.5d,
-	y: -1.0d,
+	y: 0.0d,
 	can_repeat: true,
 	tasks: [{
 		uid: "92a9b0d6",
 		type: "kill",
 		icon: {
-			ForgeCaps: {
-				"wizardryutils:summoneditemdata": {},
-				"astralsorcery:cap_item_amulet_holder": {
-					AS_Amulet_HolderLeast: -6480113167060876494L,
-					AS_Amulet_HolderMost: 2911248940407866704L
-				}
-			},
 			id: "mod_lavacow:sludge_wand",
 			tag: {
 				Quality: {
@@ -53,6 +46,13 @@
 						Name: "qualitytools"
 					}],
 					Name: "quality.legendary.name"
+				}
+			},
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {},
+				"astralsorcery:cap_item_amulet_holder": {
+					AS_Amulet_HolderLeast: -6480113167060876494L,
+					AS_Amulet_HolderMost: 2911248940407866704L
 				}
 			}
 		},

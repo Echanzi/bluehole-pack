@@ -6,11 +6,11 @@
 		uid: "61d60039",
 		type: "kill",
 		icon: {
+			id: "mowziesmobs:ice_crystal",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {},
 				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "mowziesmobs:ice_crystal"
+			}
 		},
 		entity: "mowziesmobs:frostmaw",
 		value: 1L

@@ -9,11 +9,11 @@
 		uid: "8bcf5df4",
 		type: "item",
 		items: [{
+			id: "vc:modules/item_module_type",
+			Damage: 15s,
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "vc:modules/item_module_type",
-			Damage: 15s
+			}
 		}],
 		ignore_nbt: 1b
 	}],

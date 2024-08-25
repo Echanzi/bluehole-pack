@@ -13,10 +13,10 @@
 		type: "item",
 		disable_toast: true,
 		items: [{
+			id: "thebetweenlands:angler_tooth_arrow",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "thebetweenlands:angler_tooth_arrow"
+			}
 		}]
 	},
 	{
@@ -24,10 +24,10 @@
 		type: "item",
 		disable_toast: true,
 		items: [{
+			id: "thebetweenlands:poisoned_angler_tooth_arrow",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "thebetweenlands:poisoned_angler_tooth_arrow"
+			}
 		}]
 	},
 	{
@@ -35,10 +35,10 @@
 		type: "item",
 		disable_toast: true,
 		items: [{
+			id: "thebetweenlands:octine_arrow",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "thebetweenlands:octine_arrow"
+			}
 		}]
 	},
 	{
@@ -46,10 +46,10 @@
 		type: "item",
 		disable_toast: true,
 		items: [{
+			id: "thebetweenlands:basilisk_arrow",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "thebetweenlands:basilisk_arrow"
+			}
 		}]
 	},
 	{
@@ -57,10 +57,10 @@
 		type: "item",
 		disable_toast: true,
 		items: [{
+			id: "thebetweenlands:sludge_worm_arrow",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "thebetweenlands:sludge_worm_arrow"
+			}
 		}]
 	},
 	{
@@ -68,10 +68,10 @@
 		type: "item",
 		disable_toast: true,
 		items: [{
+			id: "thebetweenlands:shock_arrow",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "thebetweenlands:shock_arrow"
+			}
 		}]
 	}],
 	rewards: [{

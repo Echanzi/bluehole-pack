@@ -1,11 +1,11 @@
 {
 	title: "Touch Grass Challenge",
 	icon: {
+		id: "minecraft:tallgrass",
+		Damage: 1s,
 		ForgeCaps: {
 			"wizardryutils:summoneditemdata": {}
-		},
-		id: "minecraft:tallgrass",
-		Damage: 1s
+		}
 	},
 	x: 1.5d,
 	y: -1.5d,
@@ -17,10 +17,10 @@
 		type: "item",
 		disable_toast: true,
 		items: [{
+			id: "minecraft:grass",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "minecraft:grass"
+			}
 		}]
 	},
 	{
@@ -28,11 +28,11 @@
 		type: "item",
 		disable_toast: true,
 		items: [{
+			id: "biomesoplenty:grass",
+			Damage: 2s,
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "biomesoplenty:grass",
-			Damage: 2s
+			}
 		}]
 	},
 	{
@@ -40,11 +40,11 @@
 		type: "item",
 		disable_toast: true,
 		items: [{
+			id: "biomesoplenty:grass",
+			Damage: 3s,
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "biomesoplenty:grass",
-			Damage: 3s
+			}
 		}]
 	},
 	{
@@ -52,11 +52,11 @@
 		type: "item",
 		disable_toast: true,
 		items: [{
+			id: "biomesoplenty:grass",
+			Damage: 4s,
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "biomesoplenty:grass",
-			Damage: 4s
+			}
 		}]
 	},
 	{
@@ -64,11 +64,11 @@
 		type: "item",
 		disable_toast: true,
 		items: [{
+			id: "biomesoplenty:grass",
+			Damage: 7s,
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "biomesoplenty:grass",
-			Damage: 7s
+			}
 		}],
 		ignore_nbt: 1b
 	},
@@ -77,10 +77,10 @@
 		type: "item",
 		disable_toast: true,
 		items: [{
+			id: "defiledlands:grass_defiled",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "defiledlands:grass_defiled"
+			}
 		}]
 	},
 	{
@@ -88,10 +88,10 @@
 		type: "item",
 		disable_toast: true,
 		items: [{
+			id: "iceandfire:chared_grass",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "iceandfire:chared_grass"
+			}
 		}]
 	},
 	{
@@ -99,10 +99,10 @@
 		type: "item",
 		disable_toast: true,
 		items: [{
+			id: "iceandfire:frozen_grass",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "iceandfire:frozen_grass"
+			}
 		}]
 	},
 	{
@@ -110,10 +110,10 @@
 		type: "item",
 		disable_toast: true,
 		items: [{
+			id: "rats:marbled_cheese_grass",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "rats:marbled_cheese_grass"
+			}
 		}]
 	},
 	{
@@ -121,10 +121,10 @@
 		type: "item",
 		disable_toast: true,
 		items: [{
+			id: "aether_legacy:aether_grass",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "aether_legacy:aether_grass"
+			}
 		}]
 	},
 	{
@@ -132,10 +132,10 @@
 		type: "item",
 		disable_toast: true,
 		items: [{
+			id: "aether_legacy:enchanted_aether_grass",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "aether_legacy:enchanted_aether_grass"
+			}
 		}]
 	},
 	{
@@ -143,10 +143,10 @@
 		type: "item",
 		disable_toast: true,
 		items: [{
+			id: "thebetweenlands:slimy_grass",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "thebetweenlands:slimy_grass"
+			}
 		}]
 	},
 	{
@@ -154,10 +154,10 @@
 		type: "item",
 		disable_toast: true,
 		items: [{
+			id: "thebetweenlands:slimy_grass",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "thebetweenlands:slimy_grass"
+			}
 		}]
 	},
 	{
@@ -165,10 +165,10 @@
 		type: "item",
 		disable_toast: true,
 		items: [{
+			id: "thebetweenlands:swamp_grass",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "thebetweenlands:swamp_grass"
+			}
 		}]
 	},
 	{
@@ -176,10 +176,10 @@
 		type: "item",
 		disable_toast: true,
 		items: [{
+			id: "thebetweenlands:dead_grass",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "thebetweenlands:dead_grass"
+			}
 		}]
 	}],
 	rewards: [{

@@ -9,10 +9,10 @@
 		uid: "7e9447e8",
 		type: "item",
 		items: [{
+			id: "audiocassettes:cassetteframe",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "audiocassettes:cassetteframe"
+			}
 		}]
 	}],
 	rewards: [{

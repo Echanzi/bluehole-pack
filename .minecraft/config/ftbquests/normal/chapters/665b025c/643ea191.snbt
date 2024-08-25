@@ -9,11 +9,11 @@
 		uid: "5df68f17",
 		type: "item",
 		items: [{
+			id: "spartanfire:glaive_ice_dragonbone",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {},
 				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "spartanfire:glaive_ice_dragonbone"
+			}
 		}],
 		ignore_damage: true,
 		ignore_nbt: 1b

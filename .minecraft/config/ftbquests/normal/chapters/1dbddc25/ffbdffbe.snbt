@@ -1,10 +1,8 @@
 {
 	title: "Head Hunter: Slime",
 	icon: {
-		ForgeCaps: {
-			"wizardryutils:summoneditemdata": {}
-		},
 		id: "minecraft:skull",
+		Damage: 3s,
 		tag: {
 			SkullOwner: {
 				Id: "c87b73f6-e28e-41e1-b82f-ded7537dc6e7",
@@ -18,7 +16,9 @@
 				Name: "slime"
 			}
 		},
-		Damage: 3s
+		ForgeCaps: {
+			"wizardryutils:summoneditemdata": {}
+		}
 	},
 	x: -0.5d,
 	y: -2.0d,
@@ -76,14 +76,14 @@
 		uid: "83e6a55e",
 		type: "kill",
 		icon: {
-			ForgeCaps: {
-				"wizardryutils:summoneditemdata": {}
-			},
 			id: "minecraft:spawn_egg",
 			tag: {
 				EntityTag: {
 					id: "minecraft:slime"
 				}
+			},
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
 			}
 		},
 		disable_toast: true,

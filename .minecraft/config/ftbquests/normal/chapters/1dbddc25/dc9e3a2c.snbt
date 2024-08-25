@@ -1,10 +1,10 @@
 {
 	title: "A fair trade",
 	icon: {
+		id: "zawa:coin",
 		ForgeCaps: {
 			"wizardryutils:summoneditemdata": {}
-		},
-		id: "zawa:coin"
+		}
 	},
 	x: 7.0d,
 	y: -8.5d,
@@ -19,10 +19,10 @@
 		uid: "b7074637",
 		type: "item",
 		items: [{
+			id: "minecraft:diamond",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "minecraft:diamond"
+			}
 		}]
 	}],
 	rewards: [{

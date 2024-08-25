@@ -10,10 +10,10 @@
 		uid: "dd18a250",
 		type: "item",
 		items: [{
+			id: "aether_legacy:enchanted_gravitite",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "aether_legacy:enchanted_gravitite"
+			}
 		}]
 	}],
 	rewards: [{

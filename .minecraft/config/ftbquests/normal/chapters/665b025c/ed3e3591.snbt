@@ -9,10 +9,6 @@
 		uid: "1853164d",
 		type: "item",
 		items: [{
-			ForgeCaps: {
-				"wizardryutils:summoneditemdata": {},
-				"astralsorcery:cap_item_amulet_holder": {}
-			},
 			id: "spartanlands:javelin_octine",
 			tag: {
 				AmmoUsed: 0,
@@ -20,6 +16,10 @@
 				UUIDLeast: -6211595057836889323L,
 				enchChecked: 1b,
 				Original: 1b
+			},
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {},
+				"astralsorcery:cap_item_amulet_holder": {}
 			}
 		}],
 		ignore_damage: true,

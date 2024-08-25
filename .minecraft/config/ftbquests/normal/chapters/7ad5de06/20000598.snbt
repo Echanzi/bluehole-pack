@@ -1,10 +1,10 @@
 {
 	title: "Crag",
 	icon: {
+		id: "minecraft:gravel",
 		ForgeCaps: {
 			"wizardryutils:summoneditemdata": {}
-		},
-		id: "minecraft:gravel"
+		}
 	},
 	disable_toast: true,
 	x: -11.0d,

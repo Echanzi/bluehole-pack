@@ -8,11 +8,11 @@
 		uid: "542144bf",
 		type: "item",
 		items: [{
+			id: "storagedrawers:upgrade_storage",
+			Damage: 4s,
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "storagedrawers:upgrade_storage",
-			Damage: 4s
+			}
 		}]
 	}],
 	rewards: [{

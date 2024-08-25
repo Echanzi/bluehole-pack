@@ -6,11 +6,10 @@
 		type: "item",
 		disable_toast: true,
 		items: [{
+			id: "thebetweenlands:ancient_helmet",
 			ForgeCaps: {
-				"wizardryutils:summoneditemdata": {},
-				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "thebetweenlands:ancient_helmet"
+				"wizardryutils:summoneditemdata": {}
+			}
 		}],
 		ignore_damage: true,
 		ignore_nbt: 1b
@@ -20,11 +19,10 @@
 		type: "item",
 		disable_toast: true,
 		items: [{
+			id: "thebetweenlands:ancient_chestplate",
 			ForgeCaps: {
-				"wizardryutils:summoneditemdata": {},
-				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "thebetweenlands:ancient_chestplate"
+				"wizardryutils:summoneditemdata": {}
+			}
 		}],
 		ignore_damage: true,
 		ignore_nbt: 1b
@@ -34,11 +32,10 @@
 		type: "item",
 		disable_toast: true,
 		items: [{
+			id: "thebetweenlands:ancient_leggings",
 			ForgeCaps: {
-				"wizardryutils:summoneditemdata": {},
-				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "thebetweenlands:ancient_leggings"
+				"wizardryutils:summoneditemdata": {}
+			}
 		}],
 		ignore_damage: true,
 		ignore_nbt: 1b
@@ -48,11 +45,10 @@
 		type: "item",
 		disable_toast: true,
 		items: [{
+			id: "thebetweenlands:ancient_boots",
 			ForgeCaps: {
-				"wizardryutils:summoneditemdata": {},
-				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "thebetweenlands:ancient_boots"
+				"wizardryutils:summoneditemdata": {}
+			}
 		}],
 		ignore_damage: true,
 		ignore_nbt: 1b

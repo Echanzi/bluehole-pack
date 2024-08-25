@@ -9,12 +9,12 @@
 		uid: "087786fc",
 		type: "item",
 		items: [{
+			id: "spartantwilight:crossbow_knightly",
+			tag: {},
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {},
 				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "spartantwilight:crossbow_knightly",
-			tag: {}
+			}
 		}],
 		ignore_damage: true,
 		ignore_nbt: 1b

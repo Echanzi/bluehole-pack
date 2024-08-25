@@ -8,10 +8,10 @@
 		uid: "836d2b1e",
 		type: "item",
 		items: [{
+			id: "harvestcraft:blackpepperitem",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "harvestcraft:blackpepperitem"
+			}
 		}]
 	}],
 	rewards: [{

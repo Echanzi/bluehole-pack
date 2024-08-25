@@ -6,11 +6,11 @@
 		uid: "6a66bde9",
 		type: "item",
 		items: [{
+			id: "tropicraft:bongo",
+			Damage: 2s,
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "tropicraft:bongo",
-			Damage: 2s
+			}
 		}],
 		count: 2L
 	}],

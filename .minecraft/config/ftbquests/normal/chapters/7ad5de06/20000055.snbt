@@ -1,10 +1,10 @@
 {
 	title: "Glacier",
 	icon: {
+		id: "minecraft:ice",
 		ForgeCaps: {
 			"wizardryutils:summoneditemdata": {}
-		},
-		id: "minecraft:ice"
+		}
 	},
 	disable_toast: true,
 	x: 6.0d,

@@ -9,12 +9,12 @@
 		uid: "fe58fd76",
 		type: "item",
 		items: [{
+			id: "paraglider:paraglider",
+			tag: {},
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {},
 				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "paraglider:paraglider",
-			tag: {}
+			}
 		}],
 		ignore_nbt: 1b
 	}],

@@ -9,11 +9,11 @@
 		uid: "7e4ac0fa",
 		type: "item",
 		items: [{
+			id: "spartancompat:dagger_gravitite",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {},
 				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "spartancompat:dagger_gravitite"
+			}
 		}],
 		ignore_damage: true,
 		ignore_nbt: 1b

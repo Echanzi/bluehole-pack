@@ -1,10 +1,10 @@
 {
 	title: "Heavenly Delights",
 	icon: {
+		id: "aether_legacy:healing_stone",
 		ForgeCaps: {
 			"wizardryutils:summoneditemdata": {}
-		},
-		id: "aether_legacy:healing_stone"
+		}
 	},
 	x: -2.0d,
 	y: -0.5d,
@@ -17,10 +17,10 @@
 		type: "item",
 		disable_toast: true,
 		items: [{
+			id: "aether_legacy:blue_berry",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "aether_legacy:blue_berry"
+			}
 		}]
 	},
 	{
@@ -28,10 +28,10 @@
 		type: "item",
 		disable_toast: true,
 		items: [{
+			id: "aether_legacy:enchanted_blueberry",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "aether_legacy:enchanted_blueberry"
+			}
 		}]
 	},
 	{
@@ -39,10 +39,10 @@
 		type: "item",
 		disable_toast: true,
 		items: [{
+			id: "aether_legacy:gummy_swet",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "aether_legacy:gummy_swet"
+			}
 		}]
 	},
 	{
@@ -50,11 +50,11 @@
 		type: "item",
 		disable_toast: true,
 		items: [{
+			id: "aether_legacy:gummy_swet",
+			Damage: 1s,
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "aether_legacy:gummy_swet",
-			Damage: 1s
+			}
 		}]
 	},
 	{
@@ -62,10 +62,10 @@
 		type: "item",
 		disable_toast: true,
 		items: [{
+			id: "aether_legacy:healing_stone",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "aether_legacy:healing_stone"
+			}
 		}]
 	},
 	{
@@ -73,20 +73,20 @@
 		type: "item",
 		disable_toast: true,
 		items: [{
+			id: "aether_legacy:cooked_enchanted_cockatrice",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "aether_legacy:cooked_enchanted_cockatrice"
+			}
 		}]
 	},
 	{
 		uid: "89346a64",
 		type: "item",
 		items: [{
+			id: "aether_legacy:ambrosium_shard",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "aether_legacy:ambrosium_shard"
+			}
 		}]
 	}],
 	rewards: [{

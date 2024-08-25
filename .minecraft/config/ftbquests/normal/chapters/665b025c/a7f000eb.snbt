@@ -9,11 +9,10 @@
 		uid: "da92d76e",
 		type: "item",
 		items: [{
+			id: "minecraft:bow",
 			ForgeCaps: {
-				"wizardryutils:summoneditemdata": {},
-				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "minecraft:bow"
+				"wizardryutils:summoneditemdata": {}
+			}
 		}],
 		ignore_damage: true,
 		ignore_nbt: 1b

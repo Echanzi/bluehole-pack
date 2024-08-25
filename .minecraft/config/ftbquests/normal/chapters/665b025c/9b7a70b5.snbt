@@ -10,10 +10,10 @@
 		type: "item",
 		disable_toast: true,
 		items: [{
+			id: "minecraft:arrow",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "minecraft:arrow"
+			}
 		}]
 	},
 	{
@@ -21,10 +21,10 @@
 		type: "item",
 		disable_toast: true,
 		items: [{
+			id: "spartanweaponry:arrow_wood",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "spartanweaponry:arrow_wood"
+			}
 		}]
 	},
 	{
@@ -32,10 +32,10 @@
 		type: "item",
 		disable_toast: true,
 		items: [{
+			id: "spartanweaponry:arrow_iron",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "spartanweaponry:arrow_iron"
+			}
 		}]
 	},
 	{
@@ -43,10 +43,10 @@
 		type: "item",
 		disable_toast: true,
 		items: [{
+			id: "spartanweaponry:arrow_diamond",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "spartanweaponry:arrow_diamond"
+			}
 		}]
 	}],
 	rewards: [{

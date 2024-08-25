@@ -10,11 +10,11 @@
 		uid: "06173cb6",
 		type: "item",
 		items: [{
+			id: "spartanweaponry:glaive_wood",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {},
 				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "spartanweaponry:glaive_wood"
+			}
 		}],
 		ignore_damage: true,
 		ignore_nbt: 1b

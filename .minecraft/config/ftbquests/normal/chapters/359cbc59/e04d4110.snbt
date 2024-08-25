@@ -7,10 +7,10 @@
 		uid: "005c6070",
 		type: "observation",
 		icon: {
+			id: "zawa:rattlesnake",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "zawa:rattlesnake"
+			}
 		},
 		match_type: "entity_id",
 		match: "zawa:rattlesnake",

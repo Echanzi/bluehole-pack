@@ -1,10 +1,10 @@
 {
 	title: "Ice Plains Spikes",
 	icon: {
+		id: "minecraft:snow",
 		ForgeCaps: {
 			"wizardryutils:summoneditemdata": {}
-		},
-		id: "minecraft:snow"
+		}
 	},
 	disable_toast: true,
 	x: 6.0d,

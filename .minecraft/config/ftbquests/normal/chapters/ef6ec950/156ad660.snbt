@@ -6,10 +6,10 @@
 		uid: "d3687a6d",
 		type: "observation",
 		icon: {
+			id: "thebetweenlands:log_spirit_tree",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "thebetweenlands:log_spirit_tree"
+			}
 		},
 		match_type: "block_id",
 		match: "thebetweenlands:log_spirit_tree",

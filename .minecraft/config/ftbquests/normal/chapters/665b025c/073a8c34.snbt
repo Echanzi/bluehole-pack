@@ -9,11 +9,11 @@
 		uid: "8c6b37d1",
 		type: "item",
 		items: [{
+			id: "spartancompat:katana_zanite",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {},
 				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "spartancompat:katana_zanite"
+			}
 		}],
 		ignore_damage: true,
 		ignore_nbt: 1b

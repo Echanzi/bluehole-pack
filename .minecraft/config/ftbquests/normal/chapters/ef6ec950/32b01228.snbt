@@ -1,9 +1,9 @@
 {
 	icon: {
+		id: "thebetweenlands:sulfur_ore",
 		ForgeCaps: {
 			"wizardryutils:summoneditemdata": {}
-		},
-		id: "thebetweenlands:sulfur_ore"
+		}
 	},
 	x: 5.0d,
 	y: -2.0d,
@@ -14,11 +14,11 @@
 		uid: "ea82d063",
 		type: "item",
 		items: [{
+			id: "thebetweenlands:items_misc",
+			Damage: 18s,
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "thebetweenlands:items_misc",
-			Damage: 18s
+			}
 		}]
 	}],
 	rewards: [{

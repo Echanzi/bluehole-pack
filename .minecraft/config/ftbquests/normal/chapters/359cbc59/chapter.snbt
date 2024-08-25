@@ -1,11 +1,11 @@
 {
 	title: "Pokemon Snap!",
 	icon: {
+		id: "camera:camera",
 		ForgeCaps: {
 			"wizardryutils:summoneditemdata": {},
 			"astralsorcery:cap_item_amulet_holder": {}
-		},
-		id: "camera:camera"
+		}
 	},
 	always_invisible: false,
 	group: 0,

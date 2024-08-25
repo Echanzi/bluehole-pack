@@ -7,10 +7,10 @@
 		uid: "d895742e",
 		type: "observation",
 		icon: {
+			id: "zawa:blue_fish",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "zawa:blue_fish"
+			}
 		},
 		match_type: "entity_id",
 		match: "zawa:bluefish",

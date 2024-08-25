@@ -8,11 +8,11 @@
 		uid: "4a644204",
 		type: "kill",
 		icon: {
+			id: "thebetweenlands:rune_door_key",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {},
 				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "thebetweenlands:rune_door_key"
+			}
 		},
 		entity: "thebetweenlands:barrishee",
 		value: 1L

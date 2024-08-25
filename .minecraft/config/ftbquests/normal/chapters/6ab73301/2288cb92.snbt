@@ -13,10 +13,10 @@
 		uid: "1d3e948d",
 		type: "item",
 		items: [{
+			id: "minecraft:iron_ingot",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "minecraft:iron_ingot"
+			}
 		}],
 		only_from_crafting: true
 	}],

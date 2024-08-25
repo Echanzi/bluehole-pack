@@ -11,11 +11,11 @@
 		uid: "72c92103",
 		type: "item",
 		items: [{
+			id: "vc:upgrades/item_upgrade_airship_engine",
+			Damage: 5s,
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "vc:upgrades/item_upgrade_airship_engine",
-			Damage: 5s
+			}
 		}],
 		ignore_nbt: 1b
 	}],

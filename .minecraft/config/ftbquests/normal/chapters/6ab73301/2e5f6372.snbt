@@ -10,11 +10,11 @@
 		type: "item",
 		disable_toast: true,
 		items: [{
+			id: "aquaculture:fish",
+			Damage: 10s,
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "aquaculture:fish",
-			Damage: 10s
+			}
 		}],
 		ignore_nbt: 2b
 	},
@@ -23,11 +23,11 @@
 		type: "item",
 		disable_toast: true,
 		items: [{
+			id: "aquaculture:fish",
+			Damage: 11s,
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "aquaculture:fish",
-			Damage: 11s
+			}
 		}],
 		ignore_nbt: 2b
 	},
@@ -36,11 +36,11 @@
 		type: "item",
 		disable_toast: true,
 		items: [{
+			id: "aquaculture:fish",
+			Damage: 9s,
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "aquaculture:fish",
-			Damage: 9s
+			}
 		}],
 		ignore_nbt: 2b
 	},
@@ -49,11 +49,11 @@
 		type: "item",
 		disable_toast: true,
 		items: [{
+			id: "aquaculture:fish",
+			Damage: 12s,
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "aquaculture:fish",
-			Damage: 12s
+			}
 		}],
 		ignore_nbt: 2b
 	},
@@ -62,11 +62,11 @@
 		type: "item",
 		disable_toast: true,
 		items: [{
+			id: "aquaculture:fish",
+			Damage: 13s,
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "aquaculture:fish",
-			Damage: 13s
+			}
 		}],
 		ignore_nbt: 2b
 	},
@@ -75,11 +75,11 @@
 		type: "item",
 		disable_toast: true,
 		items: [{
+			id: "aquaculture:fish",
+			Damage: 14s,
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "aquaculture:fish",
-			Damage: 14s
+			}
 		}],
 		ignore_nbt: 2b
 	},
@@ -88,11 +88,11 @@
 		type: "item",
 		disable_toast: true,
 		items: [{
+			id: "aquaculture:fish",
+			Damage: 15s,
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "aquaculture:fish",
-			Damage: 15s
+			}
 		}],
 		ignore_nbt: 2b
 	},
@@ -101,11 +101,11 @@
 		type: "item",
 		disable_toast: true,
 		items: [{
+			id: "aquaculture:fish",
+			Damage: 8s,
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "aquaculture:fish",
-			Damage: 8s
+			}
 		}],
 		ignore_nbt: 2b
 	},
@@ -114,11 +114,11 @@
 		type: "item",
 		disable_toast: true,
 		items: [{
+			id: "aquaculture:fish",
+			Damage: 16s,
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "aquaculture:fish",
-			Damage: 16s
+			}
 		}],
 		ignore_nbt: 2b
 	}],

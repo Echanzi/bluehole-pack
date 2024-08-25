@@ -7,32 +7,28 @@
 		type: "item",
 		title: "Collect an Ice Dragon Egg",
 		items: [{
+			id: "iceandfire:dragonegg_blue",
 			ForgeCaps: {
-				"wizardryutils:summoneditemdata": {},
-				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "iceandfire:dragonegg_blue"
+				"wizardryutils:summoneditemdata": {}
+			}
 		},
 		{
+			id: "iceandfire:dragonegg_white",
 			ForgeCaps: {
-				"wizardryutils:summoneditemdata": {},
-				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "iceandfire:dragonegg_white"
+				"wizardryutils:summoneditemdata": {}
+			}
 		},
 		{
+			id: "iceandfire:dragonegg_sapphire",
 			ForgeCaps: {
-				"wizardryutils:summoneditemdata": {},
-				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "iceandfire:dragonegg_sapphire"
+				"wizardryutils:summoneditemdata": {}
+			}
 		},
 		{
+			id: "iceandfire:dragonegg_silver",
 			ForgeCaps: {
-				"wizardryutils:summoneditemdata": {},
-				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "iceandfire:dragonegg_silver"
+				"wizardryutils:summoneditemdata": {}
+			}
 		}],
 		ignore_nbt: 1b
 	}]

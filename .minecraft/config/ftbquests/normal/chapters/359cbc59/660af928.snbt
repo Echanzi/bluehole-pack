@@ -7,10 +7,10 @@
 		uid: "a3e1b62f",
 		type: "observation",
 		icon: {
+			id: "zawa:western_lowland_gorilla",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "zawa:western_lowland_gorilla"
+			}
 		},
 		match_type: "entity_id",
 		match: "zawa:westernlowlandgorilla",

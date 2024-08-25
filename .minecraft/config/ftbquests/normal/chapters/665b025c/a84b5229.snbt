@@ -9,11 +9,11 @@
 		uid: "4a2f4c4c",
 		type: "item",
 		items: [{
+			id: "spartantwilight:hammer_knightly",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {},
 				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "spartantwilight:hammer_knightly"
+			}
 		}],
 		ignore_damage: true,
 		ignore_nbt: 1b

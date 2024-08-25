@@ -1,10 +1,10 @@
 {
 	title: "Mc Rib",
 	icon: {
+		id: "harvestcraft:honeysoyribsitem",
 		ForgeCaps: {
 			"wizardryutils:summoneditemdata": {}
-		},
-		id: "harvestcraft:honeysoyribsitem"
+		}
 	},
 	x: -2.0d,
 	y: -9.0d,
@@ -13,10 +13,10 @@
 		type: "item",
 		disable_toast: true,
 		items: [{
+			id: "minecraft:bread",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "minecraft:bread"
+			}
 		}],
 		count: 2L,
 		consume_items: false
@@ -26,10 +26,10 @@
 		type: "item",
 		disable_toast: true,
 		items: [{
+			id: "harvestcraft:honeysoyribsitem",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "harvestcraft:honeysoyribsitem"
+			}
 		}],
 		consume_items: false
 	}],

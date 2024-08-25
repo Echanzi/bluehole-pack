@@ -9,11 +9,11 @@
 		uid: "fc1c0a92",
 		type: "item",
 		items: [{
+			id: "spartantwilight:lance_fiery",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {},
 				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "spartantwilight:lance_fiery"
+			}
 		}],
 		ignore_damage: true,
 		ignore_nbt: 1b

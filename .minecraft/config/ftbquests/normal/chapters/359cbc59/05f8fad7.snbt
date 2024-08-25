@@ -7,10 +7,10 @@
 		uid: "6fe30308",
 		type: "observation",
 		icon: {
+			id: "zawa:marine_tang",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "zawa:marine_tang"
+			}
 		},
 		match_type: "entity_id",
 		match: "zawa:marinetang",

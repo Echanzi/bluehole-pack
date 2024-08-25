@@ -1,10 +1,8 @@
 {
 	title: "Head Hunter: Spider",
 	icon: {
-		ForgeCaps: {
-			"wizardryutils:summoneditemdata": {}
-		},
 		id: "minecraft:skull",
+		Damage: 3s,
 		tag: {
 			SkullOwner: {
 				Id: "b02c4857-4f45-4cd7-874e-82f0a6826d6f",
@@ -18,7 +16,9 @@
 				Name: "Spider"
 			}
 		},
-		Damage: 3s
+		ForgeCaps: {
+			"wizardryutils:summoneditemdata": {}
+		}
 	},
 	x: -1.5d,
 	y: -1.0d,
@@ -97,14 +97,14 @@
 		uid: "366e1883",
 		type: "kill",
 		icon: {
-			ForgeCaps: {
-				"wizardryutils:summoneditemdata": {}
-			},
 			id: "minecraft:spawn_egg",
 			tag: {
 				EntityTag: {
 					id: "minecraft:spider"
 				}
+			},
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
 			}
 		},
 		disable_toast: true,

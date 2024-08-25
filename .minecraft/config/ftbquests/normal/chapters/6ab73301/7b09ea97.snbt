@@ -12,10 +12,10 @@
 		uid: "e090bf46",
 		type: "item",
 		items: [{
+			id: "add_potion:blackstonebrick",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "add_potion:blackstonebrick"
+			}
 		}]
 	}],
 	rewards: [{

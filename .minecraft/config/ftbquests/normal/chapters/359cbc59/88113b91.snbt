@@ -7,10 +7,10 @@
 		uid: "6a26bccc",
 		type: "observation",
 		icon: {
+			id: "minecraft:coal_block",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "minecraft:coal_block"
+			}
 		},
 		match_type: "entity_id",
 		match: "golems:golem_coal",

@@ -7,11 +7,11 @@
 		uid: "5576c8d1",
 		type: "observation",
 		icon: {
+			id: "minecraft:stained_hardened_clay",
+			Damage: 1s,
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "minecraft:stained_hardened_clay",
-			Damage: 1s
+			}
 		},
 		match_type: "entity_id",
 		match: "golems:golem_stained_clay",

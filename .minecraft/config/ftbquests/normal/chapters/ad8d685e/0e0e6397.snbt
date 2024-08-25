@@ -5,11 +5,10 @@
 		uid: "d8a5556d",
 		type: "item",
 		items: [{
+			id: "harvestcraft:mixingbowlitem",
 			ForgeCaps: {
-				"wizardryutils:summoneditemdata": {},
-				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "harvestcraft:mixingbowlitem"
+				"wizardryutils:summoneditemdata": {}
+			}
 		}],
 		ignore_damage: true,
 		ignore_nbt: 1b

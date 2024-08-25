@@ -9,11 +9,11 @@
 		uid: "d6384232",
 		type: "item",
 		items: [{
+			id: "spartancompat:lance_zanite",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {},
 				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "spartancompat:lance_zanite"
+			}
 		}],
 		ignore_damage: true,
 		ignore_nbt: 1b

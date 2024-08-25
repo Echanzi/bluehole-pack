@@ -7,10 +7,10 @@
 		uid: "dcb5572c",
 		type: "observation",
 		icon: {
+			id: "zawa:coconut_crab",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "zawa:coconut_crab"
+			}
 		},
 		match_type: "entity_id",
 		match: "zawa:coconutcrab",

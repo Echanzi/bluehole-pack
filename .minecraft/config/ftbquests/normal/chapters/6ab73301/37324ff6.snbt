@@ -12,10 +12,10 @@
 		uid: "156265fa",
 		type: "item",
 		items: [{
+			id: "minecraft:noteblock",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "minecraft:noteblock"
+			}
 		}]
 	}],
 	rewards: [{

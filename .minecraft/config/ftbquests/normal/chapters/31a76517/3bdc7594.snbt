@@ -6,10 +6,10 @@
 		uid: "a0222067",
 		type: "item",
 		items: [{
+			id: "tropicraft:fertilizer",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "tropicraft:fertilizer"
+			}
 		}]
 	}],
 	rewards: [{

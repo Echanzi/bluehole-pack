@@ -20,10 +20,10 @@
 		uid: "17e59ef2",
 		type: "item",
 		item: {
+			id: "chancecubes:chance_cube",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "chancecubes:chance_cube"
+			}
 		}
 	}]
 }

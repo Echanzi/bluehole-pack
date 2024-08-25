@@ -8,10 +8,10 @@
 		uid: "8a62bf40",
 		type: "item",
 		items: [{
+			id: "harvestcraft:meringueitem",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "harvestcraft:meringueitem"
+			}
 		}]
 	}],
 	rewards: [{

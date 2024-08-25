@@ -9,11 +9,11 @@
 		uid: "71dbe828",
 		type: "item",
 		items: [{
+			id: "spartanlands:glaive_weedwood",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {},
 				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "spartanlands:glaive_weedwood"
+			}
 		}],
 		ignore_damage: true,
 		ignore_nbt: 1b

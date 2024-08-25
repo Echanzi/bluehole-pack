@@ -8,10 +8,10 @@
 		uid: "2c29613e",
 		type: "item",
 		items: [{
+			id: "thebetweenlands:angry_pebble",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "thebetweenlands:angry_pebble"
+			}
 		}],
 		only_from_crafting: true
 	}],

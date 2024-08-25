@@ -7,10 +7,10 @@
 		uid: "bd3d21f5",
 		type: "observation",
 		icon: {
+			id: "zawa:black_spider_monkey",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "zawa:black_spider_monkey"
+			}
 		},
 		match_type: "entity_id",
 		match: "zawa:blackspidermonkey",

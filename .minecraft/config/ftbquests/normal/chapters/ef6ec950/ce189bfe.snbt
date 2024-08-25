@@ -8,10 +8,10 @@
 		uid: "a6a8b6ef",
 		type: "item",
 		items: [{
+			id: "thebetweenlands:weedwood_jukebox",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "thebetweenlands:weedwood_jukebox"
+			}
 		}]
 	}],
 	rewards: [{

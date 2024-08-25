@@ -7,10 +7,10 @@
 		type: "item",
 		disable_toast: true,
 		items: [{
+			id: "twilightforest:block_storage",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "twilightforest:block_storage"
+			}
 		}]
 	},
 	{
@@ -18,11 +18,11 @@
 		type: "item",
 		disable_toast: true,
 		items: [{
+			id: "twilightforest:block_storage",
+			Damage: 1s,
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "twilightforest:block_storage",
-			Damage: 1s
+			}
 		}]
 	},
 	{
@@ -30,11 +30,11 @@
 		type: "item",
 		disable_toast: true,
 		items: [{
+			id: "twilightforest:block_storage",
+			Damage: 2s,
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "twilightforest:block_storage",
-			Damage: 2s
+			}
 		}]
 	},
 	{
@@ -42,10 +42,10 @@
 		type: "item",
 		disable_toast: true,
 		items: [{
+			id: "twilightforest:knightmetal_block",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "twilightforest:knightmetal_block"
+			}
 		}]
 	},
 	{
@@ -53,11 +53,11 @@
 		type: "item",
 		disable_toast: true,
 		items: [{
+			id: "twilightforest:block_storage",
+			Damage: 4s,
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "twilightforest:block_storage",
-			Damage: 4s
+			}
 		}]
 	},
 	{
@@ -65,11 +65,11 @@
 		type: "item",
 		disable_toast: true,
 		items: [{
+			id: "twilightforest:block_storage",
+			Damage: 3s,
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "twilightforest:block_storage",
-			Damage: 3s
+			}
 		}]
 	}],
 	rewards: [{
@@ -81,10 +81,10 @@
 		uid: "94663dee",
 		type: "item",
 		item: {
+			id: "chancecubes:chance_cube",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "chancecubes:chance_cube"
+			}
 		}
 	}]
 }

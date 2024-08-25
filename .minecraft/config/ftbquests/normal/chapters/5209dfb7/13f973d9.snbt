@@ -1,10 +1,10 @@
 {
 	title: "Snake Striker",
 	icon: {
+		id: "twilightforest:trophy",
 		ForgeCaps: {
 			"wizardryutils:summoneditemdata": {}
-		},
-		id: "twilightforest:trophy"
+		}
 	},
 	x: 2.0d,
 	y: -3.0d,
@@ -16,10 +16,10 @@
 		type: "item",
 		disable_toast: true,
 		items: [{
+			id: "twilightforest:trophy",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "twilightforest:trophy"
+			}
 		}]
 	},
 	{
@@ -33,10 +33,10 @@
 		uid: "34a0e937",
 		type: "item",
 		item: {
+			id: "twilightforest:naga_scale",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "twilightforest:naga_scale"
+			}
 		}
 	},
 	{

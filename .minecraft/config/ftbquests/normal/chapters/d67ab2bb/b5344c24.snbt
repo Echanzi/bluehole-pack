@@ -5,11 +5,10 @@
 		uid: "281785b8",
 		type: "item",
 		items: [{
+			id: "dimdoors:woven_world_thread_helmet",
 			ForgeCaps: {
-				"wizardryutils:summoneditemdata": {},
-				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "dimdoors:woven_world_thread_helmet"
+				"wizardryutils:summoneditemdata": {}
+			}
 		}],
 		ignore_damage: true,
 		ignore_nbt: 1b
@@ -18,11 +17,10 @@
 		uid: "883a9e16",
 		type: "item",
 		items: [{
+			id: "dimdoors:woven_world_thread_chestplate",
 			ForgeCaps: {
-				"wizardryutils:summoneditemdata": {},
-				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "dimdoors:woven_world_thread_chestplate"
+				"wizardryutils:summoneditemdata": {}
+			}
 		}],
 		ignore_damage: true,
 		ignore_nbt: 1b
@@ -31,11 +29,10 @@
 		uid: "3ba6112c",
 		type: "item",
 		items: [{
+			id: "dimdoors:woven_world_thread_leggings",
 			ForgeCaps: {
-				"wizardryutils:summoneditemdata": {},
-				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "dimdoors:woven_world_thread_leggings"
+				"wizardryutils:summoneditemdata": {}
+			}
 		}],
 		ignore_damage: true,
 		ignore_nbt: 1b
@@ -44,11 +41,10 @@
 		uid: "f8edcde6",
 		type: "item",
 		items: [{
+			id: "dimdoors:woven_world_thread_boots",
 			ForgeCaps: {
-				"wizardryutils:summoneditemdata": {},
-				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "dimdoors:woven_world_thread_boots"
+				"wizardryutils:summoneditemdata": {}
+			}
 		}],
 		ignore_damage: true,
 		ignore_nbt: 1b

@@ -7,10 +7,10 @@
 		uid: "86d0c27c",
 		type: "observation",
 		icon: {
+			id: "zawa:bengal_tiger",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "zawa:bengal_tiger"
+			}
 		},
 		match_type: "entity_id",
 		match: "zawa:bengaltiger",

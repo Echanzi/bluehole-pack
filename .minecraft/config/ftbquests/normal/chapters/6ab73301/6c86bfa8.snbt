@@ -12,10 +12,10 @@
 		uid: "84b8fcda",
 		type: "kill",
 		icon: {
+			id: "minecraft:nether_star",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "minecraft:nether_star"
+			}
 		},
 		entity: "minecraft:wither",
 		value: 1L
@@ -29,10 +29,10 @@
 		uid: "50507579",
 		type: "item",
 		item: {
+			id: "chancecubes:chance_cube",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "chancecubes:chance_cube"
+			}
 		}
 	}]
 }

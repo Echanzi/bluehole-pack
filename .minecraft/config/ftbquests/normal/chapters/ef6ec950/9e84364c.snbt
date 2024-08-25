@@ -9,10 +9,10 @@
 		uid: "c476895f",
 		type: "item",
 		items: [{
+			id: "thebetweenlands:crimson_middle_gem",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "thebetweenlands:crimson_middle_gem"
+			}
 		}]
 	}],
 	rewards: [{

@@ -6,10 +6,10 @@
 		uid: "15ecfb17",
 		type: "item",
 		items: [{
+			id: "brewcraft:distiller",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "brewcraft:distiller"
+			}
 		}]
 	}],
 	rewards: [{

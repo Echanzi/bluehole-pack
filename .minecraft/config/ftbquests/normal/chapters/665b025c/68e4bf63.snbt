@@ -9,11 +9,11 @@
 		uid: "2236b669",
 		type: "item",
 		items: [{
+			id: "spartanlands:mace_octine",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {},
 				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "spartanlands:mace_octine"
+			}
 		}],
 		ignore_damage: true,
 		ignore_nbt: 1b

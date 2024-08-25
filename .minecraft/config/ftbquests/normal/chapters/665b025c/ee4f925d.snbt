@@ -9,11 +9,11 @@
 		uid: "440e7c15",
 		type: "item",
 		items: [{
+			id: "spartanfire:mace_dragonbone",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {},
 				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "spartanfire:mace_dragonbone"
+			}
 		}],
 		ignore_damage: true,
 		ignore_nbt: 1b

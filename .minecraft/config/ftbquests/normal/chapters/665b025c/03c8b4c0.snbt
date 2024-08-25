@@ -9,11 +9,11 @@
 		uid: "897b06b9",
 		type: "item",
 		items: [{
+			id: "spartantwilight:staff_steeleaf",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {},
 				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "spartantwilight:staff_steeleaf"
+			}
 		}],
 		ignore_damage: true,
 		ignore_nbt: 1b

@@ -8,11 +8,11 @@
 		uid: "90a7f66b",
 		type: "item",
 		items: [{
+			id: "spartanlands:caestus_lurker",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {},
 				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "spartanlands:caestus_lurker"
+			}
 		}],
 		ignore_damage: true,
 		ignore_nbt: 1b

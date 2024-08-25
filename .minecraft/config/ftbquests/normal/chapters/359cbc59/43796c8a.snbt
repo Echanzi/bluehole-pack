@@ -7,10 +7,10 @@
 		uid: "8ea03f04",
 		type: "observation",
 		icon: {
+			id: "zawa:clown_fish",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "zawa:clown_fish"
+			}
 		},
 		match_type: "entity_id",
 		match: "zawa:clownfish",

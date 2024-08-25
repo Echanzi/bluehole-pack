@@ -9,10 +9,10 @@
 		uid: "86c2f852",
 		type: "stat",
 		icon: {
+			id: "minecraft:emerald_block",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "minecraft:emerald_block"
+			}
 		},
 		stat: "stat.tradedWithVillager",
 		value: 1000
@@ -26,9 +26,6 @@
 		uid: "dfaeb13f",
 		type: "item",
 		item: {
-			ForgeCaps: {
-				"wizardryutils:summoneditemdata": {}
-			},
 			id: "minecraft:potion",
 			tag: {
 				CustomPotionColor: 1234510,
@@ -44,6 +41,9 @@
 					],
 					Name: "Hero Serum"
 				}
+			},
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
 			}
 		}
 	}]

@@ -9,11 +9,11 @@
 		uid: "8ba4daef",
 		type: "item",
 		items: [{
+			id: "spartancompat:spear_gravitite",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {},
 				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "spartancompat:spear_gravitite"
+			}
 		}],
 		ignore_damage: true,
 		ignore_nbt: 1b

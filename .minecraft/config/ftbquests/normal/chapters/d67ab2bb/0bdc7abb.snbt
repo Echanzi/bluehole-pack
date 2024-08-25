@@ -6,11 +6,10 @@
 		type: "item",
 		disable_toast: true,
 		items: [{
+			id: "thebetweenlands:lurker_skin_helmet",
 			ForgeCaps: {
-				"wizardryutils:summoneditemdata": {},
-				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "thebetweenlands:lurker_skin_helmet"
+				"wizardryutils:summoneditemdata": {}
+			}
 		}],
 		ignore_damage: true,
 		ignore_nbt: 1b
@@ -20,11 +19,10 @@
 		type: "item",
 		disable_toast: true,
 		items: [{
+			id: "thebetweenlands:lurker_skin_chestplate",
 			ForgeCaps: {
-				"wizardryutils:summoneditemdata": {},
-				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "thebetweenlands:lurker_skin_chestplate"
+				"wizardryutils:summoneditemdata": {}
+			}
 		}],
 		consume_items: false,
 		ignore_damage: true,
@@ -35,11 +33,10 @@
 		type: "item",
 		disable_toast: true,
 		items: [{
+			id: "thebetweenlands:lurker_skin_leggings",
 			ForgeCaps: {
-				"wizardryutils:summoneditemdata": {},
-				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "thebetweenlands:lurker_skin_leggings"
+				"wizardryutils:summoneditemdata": {}
+			}
 		}],
 		ignore_damage: true,
 		ignore_nbt: 1b
@@ -49,11 +46,10 @@
 		type: "item",
 		disable_toast: true,
 		items: [{
+			id: "thebetweenlands:lurker_skin_boots",
 			ForgeCaps: {
-				"wizardryutils:summoneditemdata": {},
-				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "thebetweenlands:lurker_skin_boots"
+				"wizardryutils:summoneditemdata": {}
+			}
 		}],
 		ignore_damage: true,
 		ignore_nbt: 1b

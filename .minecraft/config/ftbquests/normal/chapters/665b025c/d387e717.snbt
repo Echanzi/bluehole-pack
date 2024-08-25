@@ -9,11 +9,11 @@
 		uid: "7e4bab34",
 		type: "item",
 		items: [{
+			id: "spartanfire:halberd_fire_dragonsteel",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {},
 				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "spartanfire:halberd_fire_dragonsteel"
+			}
 		}],
 		ignore_damage: true,
 		ignore_nbt: 1b

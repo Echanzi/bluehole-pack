@@ -7,10 +7,10 @@
 		uid: "9049cd69",
 		type: "observation",
 		icon: {
+			id: "zawa:echidna",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "zawa:echidna"
+			}
 		},
 		match_type: "entity_id",
 		match: "zawa:echidna",

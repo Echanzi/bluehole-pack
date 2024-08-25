@@ -7,10 +7,10 @@
 		uid: "ef7e2403",
 		type: "observation",
 		icon: {
+			id: "zawa:harpy_eagle",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "zawa:harpy_eagle"
+			}
 		},
 		match_type: "entity_id",
 		match: "zawa:harpyeagle",

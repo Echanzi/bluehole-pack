@@ -9,10 +9,10 @@
 		uid: "2d8bc87b",
 		type: "item",
 		items: [{
+			id: "minecraft:end_rod",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "minecraft:end_rod"
+			}
 		}]
 	}],
 	rewards: [{

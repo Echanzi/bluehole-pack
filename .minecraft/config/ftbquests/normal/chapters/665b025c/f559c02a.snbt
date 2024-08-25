@@ -9,11 +9,11 @@
 		uid: "a753ac3f",
 		type: "item",
 		items: [{
+			id: "spartanfire:rapier_desert_venom",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {},
 				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "spartanfire:rapier_desert_venom"
+			}
 		}],
 		ignore_damage: true,
 		ignore_nbt: 1b

@@ -1,10 +1,10 @@
 {
 	title: "Chocolate Chocolate Chip",
 	icon: {
+		id: "harvestcraft:chocolateicecreamitem",
 		ForgeCaps: {
 			"wizardryutils:summoneditemdata": {}
-		},
-		id: "harvestcraft:chocolateicecreamitem"
+		}
 	},
 	x: -5.0d,
 	y: -7.5d,
@@ -13,10 +13,10 @@
 		type: "item",
 		disable_toast: true,
 		items: [{
+			id: "harvestcraft:chocolateicecreamitem",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "harvestcraft:chocolateicecreamitem"
+			}
 		}]
 	},
 	{
@@ -24,10 +24,10 @@
 		type: "item",
 		disable_toast: true,
 		items: [{
+			id: "harvestcraft:chocolatebaritem",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "harvestcraft:chocolatebaritem"
+			}
 		}]
 	}],
 	rewards: [{

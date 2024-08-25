@@ -6,11 +6,11 @@
 		uid: "5401d2fa",
 		type: "stat",
 		icon: {
+			id: "spartanweaponry:dagger_wood",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {},
 				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "spartanweaponry:dagger_wood"
+			}
 		},
 		stat: "stat.mobKills",
 		value: 50

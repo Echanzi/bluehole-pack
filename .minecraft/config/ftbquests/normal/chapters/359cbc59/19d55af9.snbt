@@ -7,10 +7,10 @@
 		uid: "5060093b",
 		type: "observation",
 		icon: {
+			id: "zawa:pygmy_hippopotamus",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "zawa:pygmy_hippopotamus"
+			}
 		},
 		match_type: "entity_id",
 		match: "zawa:pygmyhippopotamus",

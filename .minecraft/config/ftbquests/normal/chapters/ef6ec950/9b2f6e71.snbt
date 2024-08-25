@@ -9,10 +9,10 @@
 		uid: "a2efd56a",
 		type: "item",
 		items: [{
+			id: "thebetweenlands:sulfur_torch",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "thebetweenlands:sulfur_torch"
+			}
 		}],
 		only_from_crafting: true
 	}],

@@ -10,10 +10,10 @@
 		uid: "5838fb4b",
 		type: "item",
 		items: [{
+			id: "eplus:advanced_table",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "eplus:advanced_table"
+			}
 		}]
 	}],
 	rewards: [{
@@ -25,10 +25,10 @@
 		uid: "e0969d0f",
 		type: "item",
 		item: {
+			id: "minecraft:book",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "minecraft:book"
+			}
 		},
 		count: 3
 	}]

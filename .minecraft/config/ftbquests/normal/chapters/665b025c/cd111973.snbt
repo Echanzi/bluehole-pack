@@ -9,11 +9,11 @@
 		uid: "a676d32f",
 		type: "item",
 		items: [{
+			id: "spartanlands:mace_slimybone",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {},
 				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "spartanlands:mace_slimybone"
+			}
 		}],
 		ignore_damage: true,
 		ignore_nbt: 1b

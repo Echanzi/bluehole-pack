@@ -8,10 +8,10 @@
 		uid: "cde13672",
 		type: "item",
 		items: [{
+			id: "thebetweenlands:rope_item",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "thebetweenlands:rope_item"
+			}
 		}]
 	}],
 	rewards: [{

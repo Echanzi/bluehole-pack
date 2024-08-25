@@ -9,17 +9,16 @@
 		uid: "13382f7e",
 		type: "item",
 		items: [{
-			ForgeCaps: {
-				"wizardryutils:summoneditemdata": {},
-				Parent: {
-					walkman: []
-				},
-				"astralsorcery:cap_item_amulet_holder": {}
-			},
 			id: "audiocassettes:walkman",
 			tag: {
 				uid: "6294",
 				walkman: []
+			},
+			ForgeCaps: {
+				Parent: {
+					walkman: []
+				},
+				"wizardryutils:summoneditemdata": {}
 			}
 		}],
 		ignore_damage: true,

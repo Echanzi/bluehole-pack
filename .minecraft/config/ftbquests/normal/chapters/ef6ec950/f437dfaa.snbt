@@ -8,10 +8,10 @@
 		uid: "87293fd9",
 		type: "kill",
 		icon: {
+			id: "thebetweenlands:spirit_tree_face_small_mask_animated",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "thebetweenlands:spirit_tree_face_small_mask_animated"
+			}
 		},
 		entity: "thebetweenlands:spirit_tree_face_small",
 		value: 1L

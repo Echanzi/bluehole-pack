@@ -9,11 +9,11 @@
 		uid: "62dfbf81",
 		type: "item",
 		items: [{
+			id: "spartanfire:longsword_dragonbone",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {},
 				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "spartanfire:longsword_dragonbone"
+			}
 		}],
 		ignore_damage: true,
 		ignore_nbt: 1b

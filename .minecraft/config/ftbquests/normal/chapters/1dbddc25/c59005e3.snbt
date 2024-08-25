@@ -10,11 +10,11 @@
 		uid: "6ec5e81f",
 		type: "kill",
 		icon: {
+			id: "lost_aether:phoenix_cape",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {},
 				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "lost_aether:phoenix_cape"
+			}
 		},
 		entity: "aether_legacy:sun_spirit",
 		value: 1L

@@ -9,11 +9,11 @@
 		uid: "941c9a8a",
 		type: "item",
 		items: [{
+			id: "spartanweaponry:katana_silver",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {},
 				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "spartanweaponry:katana_silver"
+			}
 		}],
 		ignore_damage: true,
 		ignore_nbt: 1b

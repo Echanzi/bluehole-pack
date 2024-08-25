@@ -7,10 +7,10 @@
 		uid: "d6fcaecb",
 		type: "observation",
 		icon: {
+			id: "zawa:asian_elephant",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "zawa:asian_elephant"
+			}
 		},
 		match_type: "entity_id",
 		match: "zawa:asianelephant",

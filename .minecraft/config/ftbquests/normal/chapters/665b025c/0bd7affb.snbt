@@ -9,11 +9,11 @@
 		uid: "fa0859ad",
 		type: "item",
 		items: [{
+			id: "spartanweaponry:saber_diamond",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {},
 				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "spartanweaponry:saber_diamond"
+			}
 		}],
 		ignore_damage: true,
 		ignore_nbt: 1b

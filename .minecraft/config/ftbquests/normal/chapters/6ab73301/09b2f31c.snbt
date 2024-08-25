@@ -1,11 +1,11 @@
 {
 	title: "Interspecial Profiling",
 	icon: {
+		id: "cqrepoured:cqr_zombie_spawn_egg_0",
 		ForgeCaps: {
 			"wizardryutils:summoneditemdata": {},
 			"astralsorcery:cap_item_amulet_holder": {}
-		},
-		id: "cqrepoured:cqr_zombie_spawn_egg_0"
+		}
 	},
 	x: 0.0d,
 	y: -4.5d,
@@ -19,11 +19,11 @@
 		uid: "8f72b51f",
 		type: "kill",
 		icon: {
+			id: "minecraft:skull",
+			Damage: 2s,
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "minecraft:skull",
-			Damage: 2s
+			}
 		},
 		entity: "specialmobs:specialzombie",
 		value: 1L
@@ -32,11 +32,11 @@
 		uid: "4771e6be",
 		type: "kill",
 		icon: {
+			id: "minecraft:skull",
+			Damage: 4s,
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "minecraft:skull",
-			Damage: 4s
+			}
 		},
 		entity: "specialmobs:specialcreeper",
 		value: 1L
@@ -45,10 +45,10 @@
 		uid: "f51da334",
 		type: "kill",
 		icon: {
+			id: "minecraft:skull",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "minecraft:skull"
+			}
 		},
 		entity: "specialmobs:specialskeleton",
 		value: 1L
@@ -57,11 +57,10 @@
 		uid: "ad3338a1",
 		type: "kill",
 		icon: {
+			id: "treasure2:spider_chest",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "treasure2:spider_chest",
-			Count: 1b
+			}
 		},
 		entity: "specialmobs:specialspider",
 		value: 1L

@@ -8,11 +8,11 @@
 		uid: "1b81a4a4",
 		type: "item",
 		items: [{
+			id: "iceandfire:dragonsteel_fire_sword",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {},
 				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "iceandfire:dragonsteel_fire_sword"
+			}
 		}],
 		ignore_damage: true,
 		ignore_nbt: 1b

@@ -9,11 +9,11 @@
 		uid: "097cff23",
 		type: "item",
 		items: [{
+			id: "spartantwilight:pike_ironwood",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {},
 				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "spartantwilight:pike_ironwood"
+			}
 		}],
 		ignore_damage: true,
 		ignore_nbt: 1b

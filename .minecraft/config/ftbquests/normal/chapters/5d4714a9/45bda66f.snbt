@@ -5,10 +5,10 @@
 		uid: "6b0a63bb",
 		type: "item",
 		items: [{
+			id: "vc:item_airship_engine",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "vc:item_airship_engine"
+			}
 		}]
 	}],
 	rewards: [{

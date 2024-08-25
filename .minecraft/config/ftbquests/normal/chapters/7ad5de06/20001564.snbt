@@ -1,10 +1,10 @@
 {
 	title: "Tropical Savanna Canyon Mid",
 	icon: {
+		id: "minecraft:grass",
 		ForgeCaps: {
 			"wizardryutils:summoneditemdata": {}
-		},
-		id: "minecraft:grass"
+		}
 	},
 	x: 14.0d,
 	y: 9.0d,

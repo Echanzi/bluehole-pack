@@ -9,11 +9,11 @@
 		uid: "c4816df2",
 		type: "item",
 		items: [{
+			id: "spartancompat:mace_holystone",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {},
 				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "spartancompat:mace_holystone"
+			}
 		}],
 		ignore_damage: true,
 		ignore_nbt: 1b

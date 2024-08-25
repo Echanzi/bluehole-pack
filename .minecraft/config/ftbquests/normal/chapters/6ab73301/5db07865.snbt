@@ -10,11 +10,11 @@
 		type: "item",
 		disable_toast: true,
 		items: [{
+			id: "dynamictrees:dendropotion",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {},
 				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "dynamictrees:dendropotion"
+			}
 		}]
 	},
 	{
@@ -22,12 +22,12 @@
 		type: "item",
 		disable_toast: true,
 		items: [{
+			id: "dynamictrees:dendropotion",
+			Damage: 3s,
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {},
 				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "dynamictrees:dendropotion",
-			Damage: 3s
+			}
 		}]
 	},
 	{
@@ -35,12 +35,12 @@
 		type: "item",
 		disable_toast: true,
 		items: [{
+			id: "dynamictrees:dendropotion",
+			Damage: 1s,
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {},
 				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "dynamictrees:dendropotion",
-			Damage: 1s
+			}
 		}]
 	},
 	{
@@ -48,12 +48,12 @@
 		type: "item",
 		disable_toast: true,
 		items: [{
+			id: "dynamictrees:dendropotion",
+			Damage: 2s,
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {},
 				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "dynamictrees:dendropotion",
-			Damage: 2s
+			}
 		}]
 	},
 	{
@@ -61,12 +61,12 @@
 		type: "item",
 		disable_toast: true,
 		items: [{
+			id: "dynamictrees:dendropotion",
+			Damage: 6s,
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {},
 				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "dynamictrees:dendropotion",
-			Damage: 6s
+			}
 		}],
 		ignore_nbt: 2b
 	}],

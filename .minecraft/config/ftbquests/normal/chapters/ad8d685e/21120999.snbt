@@ -8,10 +8,10 @@
 		uid: "1bd70f3b",
 		type: "item",
 		items: [{
+			id: "harvestcraft:soysauceitem",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "harvestcraft:soysauceitem"
+			}
 		}]
 	}],
 	rewards: [{

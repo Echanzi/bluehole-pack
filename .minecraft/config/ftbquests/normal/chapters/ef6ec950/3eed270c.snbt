@@ -13,10 +13,10 @@
 		uid: "3c885138",
 		type: "item",
 		items: [{
+			id: "thebetweenlands:sap_ball",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "thebetweenlands:sap_ball"
+			}
 		}]
 	}],
 	rewards: [{

@@ -1,10 +1,10 @@
 {
 	title: "Twilight Forest",
 	icon: {
+		id: "twilightforest:miniature_structure",
 		ForgeCaps: {
 			"wizardryutils:summoneditemdata": {}
-		},
-		id: "twilightforest:miniature_structure"
+		}
 	},
 	always_invisible: false,
 	group: 0,

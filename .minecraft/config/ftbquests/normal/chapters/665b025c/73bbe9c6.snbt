@@ -9,11 +9,11 @@
 		uid: "fd8b92cf",
 		type: "item",
 		items: [{
+			id: "spartanfire:spear_desert",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {},
 				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "spartanfire:spear_desert"
+			}
 		}],
 		ignore_damage: true,
 		ignore_nbt: 1b

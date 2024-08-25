@@ -9,12 +9,12 @@
 		uid: "cfc5a53e",
 		type: "item",
 		items: [{
+			id: "spartanlands:crossbow_weedwood",
+			tag: {},
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {},
 				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "spartanlands:crossbow_weedwood",
-			tag: {}
+			}
 		}],
 		ignore_damage: true,
 		ignore_nbt: 1b

@@ -1,10 +1,8 @@
 {
 	title: "Head Hunter: Zombie Pigman",
 	icon: {
-		ForgeCaps: {
-			"wizardryutils:summoneditemdata": {}
-		},
 		id: "minecraft:skull",
+		Damage: 3s,
 		tag: {
 			SkullOwner: {
 				Id: "41afdca6-3d48-4f01-bcc3-f7708f6c967d",
@@ -18,7 +16,9 @@
 				Name: "Zombie Pigman"
 			}
 		},
-		Damage: 3s
+		ForgeCaps: {
+			"wizardryutils:summoneditemdata": {}
+		}
 	},
 	x: 0.5d,
 	y: -3.0d,
@@ -76,14 +76,14 @@
 		uid: "139cd857",
 		type: "kill",
 		icon: {
-			ForgeCaps: {
-				"wizardryutils:summoneditemdata": {}
-			},
 			id: "minecraft:spawn_egg",
 			tag: {
 				EntityTag: {
 					id: "minecraft:zombie_pigman"
 				}
+			},
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
 			}
 		},
 		entity: "specialmobs:specialpigzombie",

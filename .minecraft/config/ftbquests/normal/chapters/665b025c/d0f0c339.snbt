@@ -9,12 +9,12 @@
 		uid: "e6739795",
 		type: "item",
 		items: [{
+			id: "spartantwilight:crossbow_fiery",
+			tag: {},
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {},
 				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "spartantwilight:crossbow_fiery",
-			tag: {}
+			}
 		}],
 		ignore_damage: true,
 		ignore_nbt: 1b

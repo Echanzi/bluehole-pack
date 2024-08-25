@@ -9,10 +9,10 @@
 		uid: "cb64b879",
 		type: "item",
 		items: [{
+			id: "golems:golem_paper",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "golems:golem_paper"
+			}
 		}]
 	}],
 	rewards: [{

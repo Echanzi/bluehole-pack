@@ -8,10 +8,10 @@
 		uid: "901c843a",
 		type: "item",
 		items: [{
+			id: "minecraft:cauldron",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "minecraft:cauldron"
+			}
 		}]
 	}],
 	rewards: [{

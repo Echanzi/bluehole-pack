@@ -12,10 +12,10 @@
 		uid: "9ced22f4",
 		type: "item",
 		items: [{
+			id: "bountifulbaubles:reforger",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "bountifulbaubles:reforger"
+			}
 		}]
 	}],
 	rewards: [{

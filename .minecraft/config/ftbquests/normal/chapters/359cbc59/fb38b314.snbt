@@ -7,10 +7,10 @@
 		uid: "977bf0ff",
 		type: "observation",
 		icon: {
+			id: "zawa:african_lion",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "zawa:african_lion"
+			}
 		},
 		match_type: "entity_id",
 		match: "zawa:africanlion",

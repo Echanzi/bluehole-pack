@@ -9,12 +9,12 @@
 		uid: "71834140",
 		type: "item",
 		items: [{
+			id: "spartanfire:crossbow_desert_venom",
+			tag: {},
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {},
 				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "spartanfire:crossbow_desert_venom",
-			tag: {}
+			}
 		}],
 		ignore_damage: true,
 		ignore_nbt: 1b

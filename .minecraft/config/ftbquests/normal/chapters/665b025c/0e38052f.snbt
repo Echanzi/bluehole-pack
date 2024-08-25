@@ -9,11 +9,11 @@
 		uid: "e89fd1e0",
 		type: "item",
 		items: [{
+			id: "spartanfire:lance_desert",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {},
 				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "spartanfire:lance_desert"
+			}
 		}],
 		ignore_damage: true,
 		ignore_nbt: 1b

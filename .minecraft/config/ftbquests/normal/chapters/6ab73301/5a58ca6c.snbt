@@ -9,11 +9,11 @@
 		uid: "a46df704",
 		type: "item",
 		items: [{
+			id: "bountifulbaubles:disintegrationtablet",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {},
 				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "bountifulbaubles:disintegrationtablet"
+			}
 		}],
 		ignore_damage: true,
 		ignore_nbt: 1b

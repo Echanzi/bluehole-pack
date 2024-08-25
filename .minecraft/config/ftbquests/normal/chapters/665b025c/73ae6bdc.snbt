@@ -9,11 +9,11 @@
 		uid: "6302f508",
 		type: "item",
 		items: [{
+			id: "spartanfire:glaive_jungle",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {},
 				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "spartanfire:glaive_jungle"
+			}
 		}],
 		ignore_damage: true,
 		ignore_nbt: 1b

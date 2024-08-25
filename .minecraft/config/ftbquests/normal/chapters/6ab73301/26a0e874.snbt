@@ -9,11 +9,11 @@
 		uid: "49d81ca7",
 		type: "item",
 		items: [{
+			id: "improvedbackpacks:ender_backpack",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {},
 				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "improvedbackpacks:ender_backpack"
+			}
 		}],
 		ignore_damage: true,
 		ignore_nbt: 1b

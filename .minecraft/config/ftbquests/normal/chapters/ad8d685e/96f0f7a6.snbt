@@ -6,10 +6,10 @@
 		uid: "614750e5",
 		type: "item",
 		items: [{
+			id: "harvestcraft:hamburgeritem",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "harvestcraft:hamburgeritem"
+			}
 		}]
 	}],
 	rewards: [{

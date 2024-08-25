@@ -10,11 +10,11 @@
 		uid: "b0ab49d5",
 		type: "kill",
 		icon: {
+			id: "aether_legacy:valkyrie_cape",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {},
 				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "aether_legacy:valkyrie_cape"
+			}
 		},
 		entity: "aether_legacy:valkyrie_queen",
 		value: 1L

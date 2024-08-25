@@ -9,13 +9,6 @@
 		uid: "3b24f877",
 		type: "item",
 		items: [{
-			ForgeCaps: {
-				"wizardryutils:summoneditemdata": {},
-				"astralsorcery:cap_item_amulet_holder": {
-					AS_Amulet_HolderLeast: -6480113167060876494L,
-					AS_Amulet_HolderMost: 2911248940407866704L
-				}
-			},
 			id: "spartanlands:boomerang_octine",
 			tag: {
 				AmmoUsed: 0,
@@ -23,6 +16,13 @@
 				UUIDLeast: -5518641028341651663L,
 				enchChecked: 1b,
 				Original: 1b
+			},
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {},
+				"astralsorcery:cap_item_amulet_holder": {
+					AS_Amulet_HolderLeast: -6480113167060876494L,
+					AS_Amulet_HolderMost: 2911248940407866704L
+				}
 			}
 		}],
 		ignore_damage: true,

@@ -9,11 +9,11 @@
 		uid: "73c1b28e",
 		type: "item",
 		items: [{
+			id: "spartantwilight:halberd_steeleaf",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {},
 				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "spartantwilight:halberd_steeleaf"
+			}
 		}],
 		ignore_damage: true,
 		ignore_nbt: 1b

@@ -9,10 +9,10 @@
 		type: "item",
 		disable_toast: true,
 		items: [{
+			id: "twilightforest:alpha_fur",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "twilightforest:alpha_fur"
+			}
 		}]
 	},
 	{
@@ -26,10 +26,10 @@
 		uid: "24d20b30",
 		type: "item",
 		item: {
+			id: "twilightforest:alpha_fur",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "twilightforest:alpha_fur"
+			}
 		}
 	},
 	{

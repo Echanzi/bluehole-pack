@@ -1,10 +1,10 @@
 {
 	icon: {
+		id: "colossalchests:colossal_chest",
+		Damage: 2s,
 		ForgeCaps: {
 			"wizardryutils:summoneditemdata": {}
-		},
-		id: "colossalchests:colossal_chest",
-		Damage: 2s
+		}
 	},
 	x: -9.5d,
 	y: 3.0d,
@@ -16,11 +16,11 @@
 		type: "item",
 		disable_toast: true,
 		items: [{
+			id: "colossalchests:colossal_chest",
+			Damage: 3s,
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "colossalchests:colossal_chest",
-			Damage: 3s
+			}
 		}]
 	},
 	{
@@ -28,11 +28,11 @@
 		type: "item",
 		disable_toast: true,
 		items: [{
+			id: "colossalchests:chest_wall",
+			Damage: 3s,
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "colossalchests:chest_wall",
-			Damage: 3s
+			}
 		}],
 		count: 3L
 	}],

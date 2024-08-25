@@ -14,10 +14,10 @@
 		type: "item",
 		disable_toast: true,
 		items: [{
+			id: "minecraft:cooked_porkchop",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "minecraft:cooked_porkchop"
+			}
 		}]
 	},
 	{
@@ -25,10 +25,10 @@
 		type: "item",
 		disable_toast: true,
 		items: [{
+			id: "minecraft:cooked_chicken",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "minecraft:cooked_chicken"
+			}
 		}]
 	},
 	{
@@ -36,10 +36,10 @@
 		type: "item",
 		disable_toast: true,
 		items: [{
+			id: "minecraft:cooked_beef",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "minecraft:cooked_beef"
+			}
 		}]
 	},
 	{
@@ -47,10 +47,10 @@
 		type: "item",
 		disable_toast: true,
 		items: [{
+			id: "minecraft:cooked_mutton",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "minecraft:cooked_mutton"
+			}
 		}]
 	}],
 	rewards: [{

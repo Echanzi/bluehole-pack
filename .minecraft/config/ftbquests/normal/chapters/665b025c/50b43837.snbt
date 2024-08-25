@@ -9,11 +9,11 @@
 		uid: "5f1efd46",
 		type: "item",
 		items: [{
+			id: "spartantwilight:greatsword_steeleaf",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {},
 				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "spartantwilight:greatsword_steeleaf"
+			}
 		}],
 		ignore_damage: true,
 		ignore_nbt: 1b

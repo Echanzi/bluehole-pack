@@ -8,10 +8,10 @@
 		uid: "2ee59702",
 		type: "item",
 		items: [{
+			id: "colossalchests:uncolossal_chest",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "colossalchests:uncolossal_chest"
+			}
 		}]
 	}],
 	rewards: [{

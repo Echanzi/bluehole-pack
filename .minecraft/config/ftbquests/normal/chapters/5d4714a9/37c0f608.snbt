@@ -5,10 +5,10 @@
 		uid: "fea2ecfa",
 		type: "item",
 		items: [{
+			id: "vc:item_airship_ignition",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "vc:item_airship_ignition"
+			}
 		}]
 	}],
 	rewards: [{

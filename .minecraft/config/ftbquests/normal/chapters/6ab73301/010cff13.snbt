@@ -10,12 +10,12 @@
 		type: "item",
 		disable_toast: true,
 		items: [{
-			ForgeCaps: {
-				"wizardryutils:summoneditemdata": {}
-			},
 			id: "minecraft:potion",
 			tag: {
 				Potion: "potioncore:chance"
+			},
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
 			}
 		}],
 		ignore_damage: true
@@ -25,12 +25,12 @@
 		type: "item",
 		disable_toast: true,
 		items: [{
-			ForgeCaps: {
-				"wizardryutils:summoneditemdata": {}
-			},
 			id: "minecraft:potion",
 			tag: {
 				Potion: "potioncore:bless"
+			},
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
 			}
 		}],
 		ignore_damage: true
@@ -40,12 +40,12 @@
 		type: "item",
 		disable_toast: true,
 		items: [{
-			ForgeCaps: {
-				"wizardryutils:summoneditemdata": {}
-			},
 			id: "minecraft:potion",
 			tag: {
 				Potion: "potioncore:curse"
+			},
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
 			}
 		}],
 		ignore_damage: true

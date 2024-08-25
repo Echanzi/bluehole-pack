@@ -8,14 +8,14 @@
 		uid: "1f88eb7c",
 		type: "item",
 		items: [{
-			ForgeCaps: {
-				"wizardryutils:summoneditemdata": {}
-			},
 			id: "thebetweenlands:bl_bucket",
+			Damage: 1s,
 			tag: {
 				Fluid: {}
 			},
-			Damage: 1s
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			}
 		}]
 	}],
 	rewards: [{

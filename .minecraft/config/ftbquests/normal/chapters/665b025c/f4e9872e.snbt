@@ -9,11 +9,11 @@
 		uid: "0fafe6f0",
 		type: "item",
 		items: [{
+			id: "spartanlands:saber_valonite",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {},
 				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "spartanlands:saber_valonite"
+			}
 		}],
 		ignore_damage: true,
 		ignore_nbt: 1b

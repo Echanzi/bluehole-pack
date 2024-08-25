@@ -8,11 +8,11 @@
 		uid: "0db7a5da",
 		type: "item",
 		items: [{
+			id: "vc:upgrades/item_upgrade_airship_engine",
+			Damage: 1s,
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "vc:upgrades/item_upgrade_airship_engine",
-			Damage: 1s
+			}
 		}],
 		ignore_nbt: 1b
 	}],
@@ -25,10 +25,10 @@
 		uid: "d6a4aac8",
 		type: "item",
 		item: {
+			id: "vc:item_logic_chip",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "vc:item_logic_chip"
+			}
 		}
 	}]
 }

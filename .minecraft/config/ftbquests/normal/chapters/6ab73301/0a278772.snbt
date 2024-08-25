@@ -9,20 +9,20 @@
 		uid: "95a46956",
 		type: "item",
 		items: [{
+			id: "harvestcraft:market",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "harvestcraft:market"
+			}
 		}]
 	},
 	{
 		uid: "4866ec4c",
 		type: "item",
 		items: [{
+			id: "harvestcraft:shippingbin",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "harvestcraft:shippingbin"
+			}
 		}]
 	}],
 	rewards: [{

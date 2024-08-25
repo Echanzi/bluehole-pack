@@ -9,11 +9,11 @@
 		uid: "91f1015a",
 		type: "item",
 		items: [{
+			id: "spartanlands:rapier_octine",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {},
 				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "spartanlands:rapier_octine"
+			}
 		}],
 		ignore_damage: true,
 		ignore_nbt: 1b

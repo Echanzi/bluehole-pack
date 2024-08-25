@@ -10,10 +10,10 @@
 		uid: "ccfa66bd",
 		type: "item",
 		items: [{
+			id: "thebetweenlands:green_middle_gem",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "thebetweenlands:green_middle_gem"
+			}
 		}]
 	}],
 	rewards: [{

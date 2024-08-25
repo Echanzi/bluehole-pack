@@ -8,10 +8,10 @@
 		uid: "97c1701d",
 		type: "item",
 		items: [{
+			id: "thebetweenlands:octine_ore",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "thebetweenlands:octine_ore"
+			}
 		}]
 	}],
 	rewards: [{

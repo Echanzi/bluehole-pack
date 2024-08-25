@@ -6,16 +6,15 @@
 		type: "item",
 		disable_toast: true,
 		items: [{
-			ForgeCaps: {
-				"wizardryutils:summoneditemdata": {},
-				"astralsorcery:cap_item_amulet_holder": {}
-			},
 			id: "twilightforest:ironwood_helmet",
 			tag: {
 				ench: [{
 					lvl: 1s,
 					id: 6s
 				}]
+			},
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
 			}
 		}],
 		ignore_damage: true,
@@ -26,16 +25,15 @@
 		type: "item",
 		disable_toast: true,
 		items: [{
-			ForgeCaps: {
-				"wizardryutils:summoneditemdata": {},
-				"astralsorcery:cap_item_amulet_holder": {}
-			},
 			id: "twilightforest:ironwood_chestplate",
 			tag: {
 				ench: [{
 					lvl: 1s,
 					id: 0s
 				}]
+			},
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
 			}
 		}],
 		ignore_damage: true,
@@ -46,16 +44,15 @@
 		type: "item",
 		disable_toast: true,
 		items: [{
-			ForgeCaps: {
-				"wizardryutils:summoneditemdata": {},
-				"astralsorcery:cap_item_amulet_holder": {}
-			},
 			id: "twilightforest:ironwood_leggings",
 			tag: {
 				ench: [{
 					lvl: 1s,
 					id: 0s
 				}]
+			},
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
 			}
 		}],
 		ignore_damage: true,
@@ -66,16 +63,15 @@
 		type: "item",
 		disable_toast: true,
 		items: [{
-			ForgeCaps: {
-				"wizardryutils:summoneditemdata": {},
-				"astralsorcery:cap_item_amulet_holder": {}
-			},
 			id: "twilightforest:ironwood_boots",
 			tag: {
 				ench: [{
 					lvl: 1s,
 					id: 2s
 				}]
+			},
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
 			}
 		}],
 		ignore_damage: true,

@@ -1,10 +1,10 @@
 {
 	title: "Epilogue to Vanilla",
 	icon: {
+		id: "minecraft:end_stone",
 		ForgeCaps: {
 			"wizardryutils:summoneditemdata": {}
-		},
-		id: "minecraft:end_stone"
+		}
 	},
 	x: 17.0d,
 	y: 6.0d,

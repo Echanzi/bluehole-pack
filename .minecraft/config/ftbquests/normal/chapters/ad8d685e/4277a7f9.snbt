@@ -9,10 +9,10 @@
 		uid: "6c7e7c43",
 		type: "item",
 		items: [{
+			id: "harvestcraft:gourmetbeefburgeritem",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "harvestcraft:gourmetbeefburgeritem"
+			}
 		}]
 	}],
 	rewards: [{

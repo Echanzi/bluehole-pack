@@ -7,10 +7,10 @@
 		uid: "72fd1882",
 		type: "observation",
 		icon: {
+			id: "zawa:sumatran_rhinoceros",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "zawa:sumatran_rhinoceros"
+			}
 		},
 		match_type: "entity_id",
 		match: "zawa:sumatranrhinoceros",

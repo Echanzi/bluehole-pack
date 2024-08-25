@@ -7,10 +7,10 @@
 		uid: "8997a448",
 		type: "observation",
 		icon: {
+			id: "zawa:amur_leopard",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "zawa:amur_leopard"
+			}
 		},
 		match_type: "entity_id",
 		match: "zawa:amurleopard",

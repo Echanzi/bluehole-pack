@@ -7,10 +7,10 @@
 		uid: "afcf566a",
 		type: "observation",
 		icon: {
+			id: "minecraft:sea_lantern",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "minecraft:sea_lantern"
+			}
 		},
 		match_type: "entity_id",
 		match: "golems:golem_sea_lantern",

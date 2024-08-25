@@ -7,10 +7,10 @@
 		uid: "baa2af94",
 		type: "observation",
 		icon: {
+			id: "zawa:gaur",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "zawa:gaur"
+			}
 		},
 		match_type: "entity_id",
 		match: "zawa:gaur",

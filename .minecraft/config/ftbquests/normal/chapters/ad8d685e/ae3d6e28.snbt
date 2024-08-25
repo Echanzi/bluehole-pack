@@ -8,10 +8,10 @@
 		uid: "b19ae885",
 		type: "item",
 		items: [{
+			id: "harvestcraft:groundcinnamonitem",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "harvestcraft:groundcinnamonitem"
+			}
 		}]
 	}],
 	rewards: [{

@@ -1,10 +1,10 @@
 {
 	title: "Rift Walker",
 	icon: {
+		id: "biomesoplenty:earth",
 		ForgeCaps: {
 			"wizardryutils:summoneditemdata": {}
-		},
-		id: "biomesoplenty:earth"
+		}
 	},
 	x: -0.5d,
 	y: 4.5d,
@@ -16,10 +16,10 @@
 		uid: "7332c4aa",
 		type: "dimension",
 		icon: {
+			id: "minecraft:chorus_fruit",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "minecraft:chorus_fruit"
+			}
 		},
 		disable_toast: true,
 		dim: 1
@@ -29,10 +29,10 @@
 		type: "dimension",
 		title: "Visit Dimension:#00AA00 The Aether",
 		icon: {
+			id: "aether_legacy:skyroot_sapling",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "aether_legacy:skyroot_sapling"
+			}
 		},
 		disable_toast: true,
 		dim: 4
@@ -42,11 +42,11 @@
 		type: "dimension",
 		title: "Visit Dimension:#00AA00 The Twilight Forest",
 		icon: {
+			id: "twilightforest:twilight_sapling",
+			Damage: 4s,
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "twilightforest:twilight_sapling",
-			Damage: 4s
+			}
 		},
 		disable_toast: true,
 		dim: 7
@@ -56,10 +56,10 @@
 		type: "dimension",
 		title: "Visit Dimension: #00AA00The Betweenlands",
 		icon: {
+			id: "thebetweenlands:sapling_weedwood",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "thebetweenlands:sapling_weedwood"
+			}
 		},
 		disable_toast: true,
 		dim: 20
@@ -69,10 +69,10 @@
 		type: "dimension",
 		title: "Visit Dimension: #00AA00The Nether",
 		icon: {
+			id: "minecraft:nether_wart",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "minecraft:nether_wart"
+			}
 		},
 		disable_toast: true,
 		dim: -1
@@ -81,10 +81,10 @@
 		uid: "74352bfc",
 		type: "dimension",
 		icon: {
+			id: "dimdoors:oak_dimensional_door",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "dimdoors:oak_dimensional_door"
+			}
 		},
 		disable_toast: true,
 		dim: 687
@@ -94,10 +94,10 @@
 		type: "checkmark",
 		title: "Visit Dimension: #00AA00Overworld",
 		icon: {
+			id: "minecraft:sapling",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "minecraft:sapling"
+			}
 		},
 		disable_toast: true
 	}],

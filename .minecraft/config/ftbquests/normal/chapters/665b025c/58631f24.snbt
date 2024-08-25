@@ -9,11 +9,11 @@
 		uid: "373efc1f",
 		type: "item",
 		items: [{
+			id: "spartanfire:mace_jungle",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {},
 				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "spartanfire:mace_jungle"
+			}
 		}],
 		ignore_damage: true,
 		ignore_nbt: 1b

@@ -8,10 +8,10 @@
 		uid: "3675d401",
 		type: "item",
 		items: [{
+			id: "minecraft:end_crystal",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "minecraft:end_crystal"
+			}
 		}]
 	}],
 	rewards: [{

@@ -6,11 +6,11 @@
 		uid: "1b7ea3b3",
 		type: "kill",
 		icon: {
+			id: "iceandfire:gorgon_head",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {},
 				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "iceandfire:gorgon_head"
+			}
 		},
 		disable_toast: true,
 		entity: "iceandfire:gorgon",

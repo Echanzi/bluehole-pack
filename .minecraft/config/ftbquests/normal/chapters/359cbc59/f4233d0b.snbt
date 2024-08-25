@@ -7,10 +7,10 @@
 		uid: "0cdc1594",
 		type: "observation",
 		icon: {
+			id: "zawa:polar_bear",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "zawa:polar_bear"
+			}
 		},
 		match_type: "entity_id",
 		match: "zawa:polarbear",

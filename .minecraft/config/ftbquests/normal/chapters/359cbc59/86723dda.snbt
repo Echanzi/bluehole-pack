@@ -7,10 +7,10 @@
 		uid: "16b97874",
 		type: "observation",
 		icon: {
+			id: "minecraft:crafting_table",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "minecraft:crafting_table"
+			}
 		},
 		match_type: "entity_id",
 		match: "golems:golem_crafting",

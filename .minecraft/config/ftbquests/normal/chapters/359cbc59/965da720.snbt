@@ -7,10 +7,10 @@
 		uid: "4f6a11d8",
 		type: "observation",
 		icon: {
+			id: "zawa:meerkat",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "zawa:meerkat"
+			}
 		},
 		match_type: "entity_id",
 		match: "zawa:meerkat",

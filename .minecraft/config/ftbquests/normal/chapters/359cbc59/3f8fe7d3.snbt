@@ -7,10 +7,10 @@
 		uid: "171afaf3",
 		type: "observation",
 		icon: {
+			id: "zawa:cassowary",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "zawa:cassowary"
+			}
 		},
 		match_type: "entity_id",
 		match: "zawa:cassowary",

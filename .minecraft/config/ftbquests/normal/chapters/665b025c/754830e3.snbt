@@ -9,11 +9,11 @@
 		uid: "c39ad8ac",
 		type: "item",
 		items: [{
+			id: "spartancompat:spear_zanite",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {},
 				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "spartancompat:spear_zanite"
+			}
 		}],
 		ignore_damage: true,
 		ignore_nbt: 1b

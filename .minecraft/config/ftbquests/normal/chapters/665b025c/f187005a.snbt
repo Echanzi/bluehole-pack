@@ -9,11 +9,11 @@
 		uid: "43ee9e41",
 		type: "item",
 		items: [{
+			id: "spartancompat:katana_skyroot",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {},
 				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "spartancompat:katana_skyroot"
+			}
 		}],
 		ignore_damage: true,
 		ignore_nbt: 1b

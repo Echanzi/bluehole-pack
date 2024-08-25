@@ -9,20 +9,20 @@
 		uid: "043410a8",
 		type: "item",
 		items: [{
+			id: "spartanweaponry:bolt",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "spartanweaponry:bolt"
+			}
 		}]
 	},
 	{
 		uid: "2cfd3dda",
 		type: "item",
 		items: [{
+			id: "spartanweaponry:bolt_diamond",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "spartanweaponry:bolt_diamond"
+			}
 		}]
 	}],
 	rewards: [{

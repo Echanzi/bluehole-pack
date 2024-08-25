@@ -8,10 +8,10 @@
 		uid: "bcbcb736",
 		type: "item",
 		items: [{
+			id: "harvestcraft:cocoapowderitem",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "harvestcraft:cocoapowderitem"
+			}
 		}]
 	}],
 	rewards: [{

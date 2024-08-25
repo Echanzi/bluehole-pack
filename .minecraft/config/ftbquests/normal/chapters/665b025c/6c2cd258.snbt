@@ -9,11 +9,11 @@
 		uid: "f968f063",
 		type: "item",
 		items: [{
+			id: "spartantwilight:battleaxe_ironwood",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {},
 				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "spartantwilight:battleaxe_ironwood"
+			}
 		}],
 		ignore_damage: true,
 		ignore_nbt: 1b

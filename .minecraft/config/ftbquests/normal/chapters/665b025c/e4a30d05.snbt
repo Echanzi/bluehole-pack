@@ -9,11 +9,11 @@
 		uid: "6c559fdd",
 		type: "item",
 		items: [{
+			id: "spartanweaponry:longbow_diamond",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {},
 				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "spartanweaponry:longbow_diamond"
+			}
 		}],
 		ignore_damage: true,
 		ignore_nbt: 1b

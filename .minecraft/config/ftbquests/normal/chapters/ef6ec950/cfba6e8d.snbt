@@ -8,10 +8,10 @@
 		uid: "54d946b8",
 		type: "item",
 		items: [{
+			id: "thebetweenlands:spirit_fruit",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "thebetweenlands:spirit_fruit"
+			}
 		}]
 	}],
 	rewards: [{

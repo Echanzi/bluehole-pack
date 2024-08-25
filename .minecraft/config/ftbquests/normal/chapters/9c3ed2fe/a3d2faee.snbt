@@ -11,11 +11,11 @@
 		uid: "1484249f",
 		type: "item",
 		items: [{
+			id: "aether_legacy:dart_shooter",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {},
 				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "aether_legacy:dart_shooter"
+			}
 		}],
 		ignore_nbt: 1b
 	}],

@@ -9,11 +9,11 @@
 		uid: "42ed0335",
 		type: "item",
 		items: [{
+			id: "spartancompat:dagger_zanite",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {},
 				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "spartancompat:dagger_zanite"
+			}
 		}],
 		ignore_damage: true,
 		ignore_nbt: 1b

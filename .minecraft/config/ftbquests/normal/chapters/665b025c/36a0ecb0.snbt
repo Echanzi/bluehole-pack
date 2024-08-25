@@ -8,17 +8,16 @@
 		uid: "920bda62",
 		type: "item",
 		items: [{
-			ForgeCaps: {
-				"wizardryutils:summoneditemdata": {},
-				Parent: {
-					Size: 6,
-					Items: []
-				},
-				"astralsorcery:cap_item_amulet_holder": {}
-			},
 			id: "spartanweaponry:quiver_bolt_moderate",
 			tag: {
 				ClientInventory: []
+			},
+			ForgeCaps: {
+				Parent: {
+					Items: [],
+					Size: 6
+				},
+				"wizardryutils:summoneditemdata": {}
 			}
 		}],
 		ignore_damage: true,

@@ -9,11 +9,11 @@
 		uid: "9ec3c65c",
 		type: "item",
 		items: [{
+			id: "spartancompat:staff_holystone",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {},
 				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "spartancompat:staff_holystone"
+			}
 		}],
 		ignore_damage: true,
 		ignore_nbt: 1b

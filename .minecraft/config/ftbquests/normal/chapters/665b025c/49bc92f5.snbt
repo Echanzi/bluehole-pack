@@ -9,11 +9,11 @@
 		uid: "9d037f88",
 		type: "item",
 		items: [{
+			id: "spartantwilight:rapier_ironwood",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {},
 				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "spartantwilight:rapier_ironwood"
+			}
 		}],
 		ignore_damage: true,
 		ignore_nbt: 1b

@@ -7,10 +7,10 @@
 		type: "item",
 		disable_toast: true,
 		items: [{
+			id: "tropicraft:pineapple",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "tropicraft:pineapple"
+			}
 		}]
 	},
 	{
@@ -18,10 +18,10 @@
 		type: "item",
 		disable_toast: true,
 		items: [{
+			id: "tropicraft:coconut",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "tropicraft:coconut"
+			}
 		}]
 	},
 	{
@@ -29,10 +29,10 @@
 		type: "item",
 		disable_toast: true,
 		items: [{
+			id: "tropicraft:bamboo_shoot",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "tropicraft:bamboo_shoot"
+			}
 		}],
 		count: 7L
 	}],

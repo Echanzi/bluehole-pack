@@ -7,11 +7,10 @@
 		type: "item",
 		disable_toast: true,
 		items: [{
+			id: "tropicraft:mask_square_zord",
 			ForgeCaps: {
-				"wizardryutils:summoneditemdata": {},
-				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "tropicraft:mask_square_zord"
+				"wizardryutils:summoneditemdata": {}
+			}
 		}],
 		ignore_damage: true,
 		ignore_nbt: 1b
@@ -21,11 +20,10 @@
 		type: "item",
 		disable_toast: true,
 		items: [{
+			id: "tropicraft:mask_horn_monkey",
 			ForgeCaps: {
-				"wizardryutils:summoneditemdata": {},
-				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "tropicraft:mask_horn_monkey"
+				"wizardryutils:summoneditemdata": {}
+			}
 		}],
 		ignore_damage: true,
 		ignore_nbt: 1b
@@ -35,11 +33,10 @@
 		type: "item",
 		disable_toast: true,
 		items: [{
+			id: "tropicraft:mask_oblongatron",
 			ForgeCaps: {
-				"wizardryutils:summoneditemdata": {},
-				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "tropicraft:mask_oblongatron"
+				"wizardryutils:summoneditemdata": {}
+			}
 		}],
 		ignore_damage: true,
 		ignore_nbt: 1b
@@ -49,11 +46,10 @@
 		type: "item",
 		disable_toast: true,
 		items: [{
+			id: "tropicraft:mask_headinator",
 			ForgeCaps: {
-				"wizardryutils:summoneditemdata": {},
-				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "tropicraft:mask_headinator"
+				"wizardryutils:summoneditemdata": {}
+			}
 		}],
 		ignore_damage: true,
 		ignore_nbt: 1b
@@ -63,11 +59,10 @@
 		type: "item",
 		disable_toast: true,
 		items: [{
+			id: "tropicraft:mask_square_horn",
 			ForgeCaps: {
-				"wizardryutils:summoneditemdata": {},
-				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "tropicraft:mask_square_horn"
+				"wizardryutils:summoneditemdata": {}
+			}
 		}],
 		ignore_damage: true,
 		ignore_nbt: 1b
@@ -77,11 +72,10 @@
 		type: "item",
 		disable_toast: true,
 		items: [{
+			id: "tropicraft:mask_screw_attack",
 			ForgeCaps: {
-				"wizardryutils:summoneditemdata": {},
-				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "tropicraft:mask_screw_attack"
+				"wizardryutils:summoneditemdata": {}
+			}
 		}],
 		ignore_damage: true,
 		ignore_nbt: 1b
@@ -91,11 +85,10 @@
 		type: "item",
 		disable_toast: true,
 		items: [{
+			id: "tropicraft:mask_the_brain",
 			ForgeCaps: {
-				"wizardryutils:summoneditemdata": {},
-				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "tropicraft:mask_the_brain"
+				"wizardryutils:summoneditemdata": {}
+			}
 		}],
 		ignore_damage: true,
 		ignore_nbt: 1b
@@ -105,11 +98,10 @@
 		type: "item",
 		disable_toast: true,
 		items: [{
+			id: "tropicraft:mask_bat_boy",
 			ForgeCaps: {
-				"wizardryutils:summoneditemdata": {},
-				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "tropicraft:mask_bat_boy"
+				"wizardryutils:summoneditemdata": {}
+			}
 		}],
 		ignore_damage: true,
 		ignore_nbt: 1b

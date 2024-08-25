@@ -7,10 +7,10 @@
 		uid: "78788aa9",
 		type: "observation",
 		icon: {
+			id: "zawa:octopus",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "zawa:octopus"
+			}
 		},
 		match_type: "entity_id",
 		match: "zawa:octopus",

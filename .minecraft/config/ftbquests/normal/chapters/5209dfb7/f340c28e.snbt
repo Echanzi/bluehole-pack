@@ -11,11 +11,11 @@
 		type: "item",
 		disable_toast: true,
 		items: [{
+			id: "twilightforest:lamp_of_cinders",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {},
 				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "twilightforest:lamp_of_cinders"
+			}
 		}],
 		ignore_damage: true,
 		ignore_nbt: 1b
@@ -31,11 +31,11 @@
 		uid: "4b8fbd53",
 		type: "item",
 		item: {
+			id: "twilightforest:lamp_of_cinders",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {},
 				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "twilightforest:lamp_of_cinders"
+			}
 		}
 	},
 	{

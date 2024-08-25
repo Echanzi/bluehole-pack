@@ -9,11 +9,11 @@
 		uid: "29a0c479",
 		type: "item",
 		items: [{
+			id: "spartancompat:mace_zanite",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {},
 				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "spartancompat:mace_zanite"
+			}
 		}],
 		ignore_damage: true,
 		ignore_nbt: 1b

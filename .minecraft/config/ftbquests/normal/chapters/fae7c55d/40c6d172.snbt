@@ -6,10 +6,10 @@
 		uid: "74ebcfee",
 		type: "item",
 		items: [{
+			id: "ancientspellcraft:scribing_desk",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "ancientspellcraft:scribing_desk"
+			}
 		}]
 	}],
 	rewards: [{

@@ -9,10 +9,10 @@
 		uid: "5a151e41",
 		type: "item",
 		items: [{
+			id: "camera:image_frame",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "camera:image_frame"
+			}
 		}]
 	}],
 	rewards: [{

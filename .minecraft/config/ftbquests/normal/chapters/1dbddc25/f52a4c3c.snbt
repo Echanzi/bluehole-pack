@@ -10,11 +10,11 @@
 		uid: "c1a033c4",
 		type: "kill",
 		icon: {
+			id: "aether_legacy:cloud_staff",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {},
 				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "aether_legacy:cloud_staff"
+			}
 		},
 		entity: "lost_aether:king_aerwhale",
 		value: 1L

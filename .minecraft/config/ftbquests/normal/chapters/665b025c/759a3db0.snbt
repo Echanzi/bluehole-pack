@@ -9,11 +9,11 @@
 		uid: "be21c1bf",
 		type: "item",
 		items: [{
+			id: "spartanlands:halberd_weedwood",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {},
 				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "spartanlands:halberd_weedwood"
+			}
 		}],
 		ignore_damage: true,
 		ignore_nbt: 1b

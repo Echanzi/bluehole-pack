@@ -9,10 +9,10 @@
 		uid: "a04d58c4",
 		type: "item",
 		items: [{
+			id: "bibliocraft:bell",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "bibliocraft:bell"
+			}
 		}]
 	}],
 	rewards: [{

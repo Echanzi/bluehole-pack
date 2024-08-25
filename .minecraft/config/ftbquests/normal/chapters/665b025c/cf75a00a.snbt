@@ -9,11 +9,11 @@
 		uid: "6a494ff0",
 		type: "item",
 		items: [{
+			id: "spartantwilight:katana_ironwood",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {},
 				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "spartantwilight:katana_ironwood"
+			}
 		}],
 		ignore_damage: true,
 		ignore_nbt: 1b

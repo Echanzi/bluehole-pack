@@ -8,10 +8,10 @@
 		uid: "125f2f26",
 		type: "item",
 		items: [{
+			id: "cgm:advanced_ammo",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "cgm:advanced_ammo"
+			}
 		}],
 		count: 16L
 	}],

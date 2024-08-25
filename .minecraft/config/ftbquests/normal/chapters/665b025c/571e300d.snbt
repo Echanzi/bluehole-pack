@@ -8,10 +8,10 @@
 		uid: "eabd2758",
 		type: "item",
 		items: [{
+			id: "cgm:basic_ammo",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "cgm:basic_ammo"
+			}
 		}],
 		count: 32L
 	}],

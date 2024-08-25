@@ -8,11 +8,11 @@
 		uid: "72b24088",
 		type: "item",
 		items: [{
+			id: "thebetweenlands:syrmorite_shears",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {},
 				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "thebetweenlands:syrmorite_shears"
+			}
 		}],
 		ignore_damage: true,
 		ignore_nbt: 1b

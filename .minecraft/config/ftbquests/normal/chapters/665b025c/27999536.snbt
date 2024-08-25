@@ -9,11 +9,11 @@
 		uid: "1878fdf4",
 		type: "item",
 		items: [{
+			id: "spartanfire:dagger_jungle",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {},
 				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "spartanfire:dagger_jungle"
+			}
 		}],
 		ignore_damage: true,
 		ignore_nbt: 1b

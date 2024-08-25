@@ -8,10 +8,10 @@
 		uid: "29f8feb5",
 		type: "item",
 		items: [{
+			id: "minecraft:hopper",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "minecraft:hopper"
+			}
 		}]
 	}],
 	rewards: [{

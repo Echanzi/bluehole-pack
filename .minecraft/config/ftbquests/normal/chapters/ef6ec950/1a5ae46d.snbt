@@ -9,11 +9,11 @@
 		uid: "ec031909",
 		type: "item",
 		items: [{
+			id: "thebetweenlands:volarkite",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {},
 				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "thebetweenlands:volarkite"
+			}
 		}],
 		ignore_damage: true,
 		ignore_nbt: 1b

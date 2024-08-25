@@ -9,11 +9,11 @@
 		uid: "108e3d8a",
 		type: "item",
 		items: [{
+			id: "spartantwilight:spear_fiery",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {},
 				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "spartantwilight:spear_fiery"
+			}
 		}],
 		ignore_damage: true,
 		ignore_nbt: 1b

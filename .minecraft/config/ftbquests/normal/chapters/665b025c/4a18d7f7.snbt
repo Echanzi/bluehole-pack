@@ -6,12 +6,11 @@
 		uid: "701d5991",
 		type: "item",
 		items: [{
-			ForgeCaps: {
-				"wizardryutils:summoneditemdata": {},
-				"astralsorcery:cap_item_amulet_holder": {}
-			},
 			id: "spartanweaponry:crossbow_wood",
-			tag: {}
+			tag: {},
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			}
 		}],
 		ignore_damage: true,
 		ignore_nbt: 1b

@@ -9,11 +9,11 @@
 		uid: "2a7ba52d",
 		type: "item",
 		items: [{
+			id: "spartantwilight:dagger_knightly",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {},
 				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "spartantwilight:dagger_knightly"
+			}
 		}],
 		ignore_damage: true,
 		ignore_nbt: 1b

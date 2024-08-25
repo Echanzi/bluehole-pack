@@ -8,10 +8,10 @@
 		uid: "17c495c7",
 		type: "item",
 		items: [{
+			id: "harvestcraft:batteritem",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "harvestcraft:batteritem"
+			}
 		}]
 	}],
 	rewards: [{

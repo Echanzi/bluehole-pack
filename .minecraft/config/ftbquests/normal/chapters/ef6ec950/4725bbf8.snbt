@@ -10,10 +10,10 @@
 		type: "interaction",
 		title: "Look into the Druid Altar",
 		icon: {
+			id: "thebetweenlands:druid_altar",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "thebetweenlands:druid_altar"
+			}
 		},
 		disable_toast: true,
 		match_type: "block_id",

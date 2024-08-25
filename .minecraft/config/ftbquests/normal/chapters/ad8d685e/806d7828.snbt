@@ -6,10 +6,10 @@
 		uid: "d9ed0b22",
 		type: "item",
 		items: [{
+			id: "harvestcraft:netherstartoastitem",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "harvestcraft:netherstartoastitem"
+			}
 		}],
 		consume_items: true
 	}],

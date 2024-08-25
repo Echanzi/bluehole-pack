@@ -9,11 +9,11 @@
 		uid: "9b71f246",
 		type: "item",
 		items: [{
+			id: "spartanlands:warhammer_slimybone",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {},
 				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "spartanlands:warhammer_slimybone"
+			}
 		}],
 		ignore_damage: true,
 		ignore_nbt: 1b

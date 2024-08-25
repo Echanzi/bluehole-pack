@@ -7,10 +7,10 @@
 		type: "item",
 		disable_toast: true,
 		items: [{
+			id: "minecraft:ice",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "minecraft:ice"
+			}
 		}]
 	},
 	{
@@ -18,10 +18,10 @@
 		type: "item",
 		disable_toast: true,
 		items: [{
+			id: "harvestcraft:fivespiceitem",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "harvestcraft:fivespiceitem"
+			}
 		}]
 	}],
 	rewards: [{

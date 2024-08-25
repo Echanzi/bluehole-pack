@@ -9,11 +9,11 @@
 		uid: "7b60d634",
 		type: "item",
 		items: [{
+			id: "spartanlands:battleaxe_valonite",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {},
 				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "spartanlands:battleaxe_valonite"
+			}
 		}],
 		ignore_damage: true,
 		ignore_nbt: 1b

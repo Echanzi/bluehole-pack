@@ -6,12 +6,12 @@
 		uid: "e24779bd",
 		type: "kill",
 		icon: {
+			id: "iceandfire:myrmex_desert_egg",
+			Damage: 4s,
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {},
 				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "iceandfire:myrmex_desert_egg",
-			Damage: 4s
+			}
 		},
 		disable_toast: true,
 		entity: "iceandfire:myrmex_queen",

@@ -5,10 +5,10 @@
 		uid: "bec0bc62",
 		type: "item",
 		items: [{
+			id: "iceandfire:dragon_meal",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "iceandfire:dragon_meal"
+			}
 		}]
 	}],
 	rewards: [{

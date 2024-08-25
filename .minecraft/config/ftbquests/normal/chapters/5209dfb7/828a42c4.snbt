@@ -1,11 +1,11 @@
 {
 	title: "Devious Lich",
 	icon: {
+		id: "twilightforest:trophy",
+		Damage: 1s,
 		ForgeCaps: {
 			"wizardryutils:summoneditemdata": {}
-		},
-		id: "twilightforest:trophy",
-		Damage: 1s
+		}
 	},
 	x: 4.0d,
 	y: -3.0d,
@@ -17,11 +17,11 @@
 		type: "item",
 		disable_toast: true,
 		items: [{
+			id: "twilightforest:trophy",
+			Damage: 1s,
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "twilightforest:trophy",
-			Damage: 1s
+			}
 		}]
 	},
 	{
@@ -35,12 +35,12 @@
 		uid: "e127e7b2",
 		type: "item",
 		item: {
+			id: "twilightforest:twilight_scepter",
+			Damage: 99s,
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {},
 				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "twilightforest:twilight_scepter",
-			Damage: 99s
+			}
 		}
 	},
 	{

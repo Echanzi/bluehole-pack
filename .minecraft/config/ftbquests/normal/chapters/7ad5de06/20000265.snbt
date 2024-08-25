@@ -1,10 +1,10 @@
 {
 	title: "Ruthless Sands",
 	icon: {
+		id: "minecraft:soul_sand",
 		ForgeCaps: {
 			"wizardryutils:summoneditemdata": {}
-		},
-		id: "minecraft:soul_sand"
+		}
 	},
 	disable_toast: true,
 	x: 10.0d,

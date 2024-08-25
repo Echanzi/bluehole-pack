@@ -1,10 +1,10 @@
 {
 	title: "Miso Ramen",
 	icon: {
+		id: "harvestcraft:ramenitem",
 		ForgeCaps: {
 			"wizardryutils:summoneditemdata": {}
-		},
-		id: "harvestcraft:ramenitem"
+		}
 	},
 	x: 1.0d,
 	y: -9.0d,
@@ -13,10 +13,10 @@
 		type: "item",
 		disable_toast: true,
 		items: [{
+			id: "harvestcraft:ramenitem",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "harvestcraft:ramenitem"
+			}
 		}]
 	},
 	{
@@ -24,10 +24,10 @@
 		type: "item",
 		disable_toast: true,
 		items: [{
+			id: "harvestcraft:boiledeggitem",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "harvestcraft:boiledeggitem"
+			}
 		}]
 	},
 	{
@@ -35,10 +35,10 @@
 		type: "item",
 		disable_toast: true,
 		items: [{
+			id: "minecraft:cooked_porkchop",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "minecraft:cooked_porkchop"
+			}
 		}]
 	},
 	{
@@ -46,10 +46,10 @@
 		type: "item",
 		disable_toast: true,
 		items: [{
+			id: "harvestcraft:scallionitem",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "harvestcraft:scallionitem"
+			}
 		}]
 	},
 	{
@@ -57,10 +57,10 @@
 		type: "item",
 		disable_toast: true,
 		items: [{
+			id: "harvestcraft:misopasteitem",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "harvestcraft:misopasteitem"
+			}
 		}]
 	}],
 	rewards: [{

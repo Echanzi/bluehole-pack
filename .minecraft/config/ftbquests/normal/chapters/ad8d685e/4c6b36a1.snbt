@@ -1,10 +1,10 @@
 {
 	title: "Oreos in a Parked Car",
 	icon: {
+		id: "harvestcraft:creamcookieitem",
 		ForgeCaps: {
 			"wizardryutils:summoneditemdata": {}
-		},
-		id: "harvestcraft:creamcookieitem"
+		}
 	},
 	x: -3.5d,
 	y: -7.5d,
@@ -13,10 +13,10 @@
 		type: "item",
 		disable_toast: true,
 		items: [{
+			id: "harvestcraft:creamcookieitem",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "harvestcraft:creamcookieitem"
+			}
 		}],
 		count: 45L,
 		consume_items: false
@@ -26,10 +26,10 @@
 		type: "item",
 		disable_toast: true,
 		items: [{
+			id: "harvestcraft:freshwateritem",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "harvestcraft:freshwateritem"
+			}
 		}]
 	}],
 	rewards: [{

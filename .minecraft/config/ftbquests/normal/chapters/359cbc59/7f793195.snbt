@@ -7,10 +7,10 @@
 		uid: "c43d77fe",
 		type: "observation",
 		icon: {
+			id: "zawa:tree_frog",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "zawa:tree_frog"
+			}
 		},
 		match_type: "entity_id",
 		match: "zawa:treefrog",

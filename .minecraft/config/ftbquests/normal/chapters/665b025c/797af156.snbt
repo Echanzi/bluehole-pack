@@ -10,11 +10,11 @@
 		uid: "fbb95e01",
 		type: "item",
 		items: [{
+			id: "spartanweaponry:longbow_wood",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {},
 				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "spartanweaponry:longbow_wood"
+			}
 		}],
 		ignore_damage: true,
 		ignore_nbt: 1b

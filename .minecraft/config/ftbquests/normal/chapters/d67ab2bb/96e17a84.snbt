@@ -5,11 +5,10 @@
 		uid: "9b4d0da9",
 		type: "item",
 		items: [{
+			id: "iceandfire:dragonsteel_ice_helmet",
 			ForgeCaps: {
-				"wizardryutils:summoneditemdata": {},
-				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "iceandfire:dragonsteel_ice_helmet"
+				"wizardryutils:summoneditemdata": {}
+			}
 		}],
 		ignore_damage: true,
 		ignore_nbt: 1b
@@ -18,11 +17,10 @@
 		uid: "3f6eff07",
 		type: "item",
 		items: [{
+			id: "iceandfire:dragonsteel_ice_chestplate",
 			ForgeCaps: {
-				"wizardryutils:summoneditemdata": {},
-				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "iceandfire:dragonsteel_ice_chestplate"
+				"wizardryutils:summoneditemdata": {}
+			}
 		}],
 		ignore_damage: true,
 		ignore_nbt: 1b
@@ -31,11 +29,10 @@
 		uid: "0513e9fe",
 		type: "item",
 		items: [{
+			id: "iceandfire:dragonsteel_ice_leggings",
 			ForgeCaps: {
-				"wizardryutils:summoneditemdata": {},
-				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "iceandfire:dragonsteel_ice_leggings"
+				"wizardryutils:summoneditemdata": {}
+			}
 		}],
 		ignore_damage: true,
 		ignore_nbt: 1b
@@ -44,11 +41,10 @@
 		uid: "b0592646",
 		type: "item",
 		items: [{
+			id: "iceandfire:dragonsteel_ice_boots",
 			ForgeCaps: {
-				"wizardryutils:summoneditemdata": {},
-				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "iceandfire:dragonsteel_ice_boots"
+				"wizardryutils:summoneditemdata": {}
+			}
 		}],
 		ignore_damage: true,
 		ignore_nbt: 1b

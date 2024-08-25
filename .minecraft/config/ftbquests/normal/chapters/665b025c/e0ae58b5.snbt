@@ -9,11 +9,11 @@
 		uid: "6b2d5e7c",
 		type: "item",
 		items: [{
+			id: "spartancompat:longbow_gravitite",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {},
 				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "spartancompat:longbow_gravitite"
+			}
 		}],
 		ignore_damage: true,
 		ignore_nbt: 1b

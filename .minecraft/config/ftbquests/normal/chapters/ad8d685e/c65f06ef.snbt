@@ -10,10 +10,10 @@
 		type: "item",
 		disable_toast: true,
 		items: [{
+			id: "harvestcraft:cheeseitem",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "harvestcraft:cheeseitem"
+			}
 		}]
 	},
 	{
@@ -21,10 +21,10 @@
 		type: "item",
 		disable_toast: true,
 		items: [{
+			id: "rats:cheese",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "rats:cheese"
+			}
 		}]
 	}],
 	rewards: [{

@@ -7,10 +7,6 @@
 		type: "item",
 		disable_toast: true,
 		items: [{
-			ForgeCaps: {
-				"wizardryutils:summoneditemdata": {},
-				"astralsorcery:cap_item_amulet_holder": {}
-			},
 			id: "mutantbeasts:mutant_skeleton_skull",
 			tag: {
 				Quality: {
@@ -28,6 +24,9 @@
 					}],
 					Name: "quality.heavy.name"
 				}
+			},
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
 			}
 		}],
 		ignore_damage: true,
@@ -38,11 +37,10 @@
 		type: "item",
 		disable_toast: true,
 		items: [{
+			id: "iceandfire:hydra_skull",
 			ForgeCaps: {
-				"wizardryutils:summoneditemdata": {},
-				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "iceandfire:hydra_skull"
+				"wizardryutils:summoneditemdata": {}
+			}
 		}],
 		ignore_damage: true,
 		ignore_nbt: 1b
@@ -52,11 +50,10 @@
 		type: "item",
 		disable_toast: true,
 		items: [{
+			id: "iceandfire:amphithere_skull",
 			ForgeCaps: {
-				"wizardryutils:summoneditemdata": {},
-				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "iceandfire:amphithere_skull"
+				"wizardryutils:summoneditemdata": {}
+			}
 		}],
 		ignore_damage: true,
 		ignore_nbt: 1b
@@ -66,11 +63,10 @@
 		type: "item",
 		disable_toast: true,
 		items: [{
+			id: "iceandfire:cyclops_skull",
 			ForgeCaps: {
-				"wizardryutils:summoneditemdata": {},
-				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "iceandfire:cyclops_skull"
+				"wizardryutils:summoneditemdata": {}
+			}
 		}],
 		ignore_damage: true,
 		ignore_nbt: 1b
@@ -80,14 +76,13 @@
 		type: "item",
 		disable_toast: true,
 		items: [{
-			ForgeCaps: {
-				"wizardryutils:summoneditemdata": {},
-				"astralsorcery:cap_item_amulet_holder": {}
-			},
 			id: "iceandfire:dragon_skull",
 			tag: {
 				Stage: 4,
 				DragonAge: 75
+			},
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
 			}
 		}],
 		ignore_nbt: 1b
@@ -97,11 +92,10 @@
 		type: "item",
 		disable_toast: true,
 		items: [{
+			id: "iceandfire:hippogryph_skull",
 			ForgeCaps: {
-				"wizardryutils:summoneditemdata": {},
-				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "iceandfire:hippogryph_skull"
+				"wizardryutils:summoneditemdata": {}
+			}
 		}],
 		ignore_damage: true,
 		ignore_nbt: 1b
@@ -111,11 +105,10 @@
 		type: "item",
 		disable_toast: true,
 		items: [{
+			id: "iceandfire:seaserpent_skull",
 			ForgeCaps: {
-				"wizardryutils:summoneditemdata": {},
-				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "iceandfire:seaserpent_skull"
+				"wizardryutils:summoneditemdata": {}
+			}
 		}],
 		ignore_damage: true,
 		ignore_nbt: 1b
@@ -125,11 +118,10 @@
 		type: "item",
 		disable_toast: true,
 		items: [{
+			id: "iceandfire:troll_skull",
 			ForgeCaps: {
-				"wizardryutils:summoneditemdata": {},
-				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "iceandfire:troll_skull"
+				"wizardryutils:summoneditemdata": {}
+			}
 		}],
 		ignore_damage: true,
 		ignore_nbt: 1b
@@ -139,11 +131,11 @@
 		type: "item",
 		disable_toast: true,
 		items: [{
+			id: "minecraft:skull",
+			Damage: 5s,
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "minecraft:skull",
-			Damage: 5s
+			}
 		}]
 	},
 	{
@@ -151,10 +143,10 @@
 		type: "item",
 		disable_toast: true,
 		items: [{
+			id: "rats:marbled_cheese_rat_head",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "rats:marbled_cheese_rat_head"
+			}
 		}]
 	},
 	{
@@ -162,11 +154,10 @@
 		type: "item",
 		disable_toast: true,
 		items: [{
+			id: "iceandfire:gorgon_head",
 			ForgeCaps: {
-				"wizardryutils:summoneditemdata": {},
-				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "iceandfire:gorgon_head"
+				"wizardryutils:summoneditemdata": {}
+			}
 		}],
 		ignore_damage: true,
 		ignore_nbt: 1b
@@ -176,10 +167,10 @@
 		type: "item",
 		disable_toast: true,
 		items: [{
+			id: "golems:golem_head",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "golems:golem_head"
+			}
 		}]
 	},
 	{
@@ -187,10 +178,10 @@
 		type: "item",
 		disable_toast: true,
 		items: [{
+			id: "minecraft:skull",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "minecraft:skull"
+			}
 		}]
 	},
 	{
@@ -198,13 +189,12 @@
 		type: "item",
 		disable_toast: true,
 		items: [{
-			ForgeCaps: {
-				"wizardryutils:summoneditemdata": {},
-				"astralsorcery:cap_item_amulet_holder": {}
-			},
 			id: "bountifulbaubles:trinketobsidianskull",
 			tag: {
 				Quality: {}
+			},
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
 			}
 		}],
 		ignore_damage: true,
@@ -215,16 +205,15 @@
 		type: "item",
 		disable_toast: true,
 		items: [{
-			ForgeCaps: {
-				"wizardryutils:summoneditemdata": {},
-				"astralsorcery:cap_item_amulet_holder": {}
-			},
 			id: "iceandfire:dragon_skull",
+			Damage: 1s,
 			tag: {
 				Stage: 4,
 				DragonAge: 75
 			},
-			Damage: 1s
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			}
 		}],
 		ignore_nbt: 1b
 	},
@@ -233,11 +222,10 @@
 		type: "item",
 		disable_toast: true,
 		items: [{
+			id: "iceandfire:cockatrice_skull",
 			ForgeCaps: {
-				"wizardryutils:summoneditemdata": {},
-				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "iceandfire:cockatrice_skull"
+				"wizardryutils:summoneditemdata": {}
+			}
 		}],
 		ignore_damage: true,
 		ignore_nbt: 1b
@@ -247,11 +235,10 @@
 		type: "item",
 		disable_toast: true,
 		items: [{
+			id: "iceandfire:stymphalian_skull",
 			ForgeCaps: {
-				"wizardryutils:summoneditemdata": {},
-				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "iceandfire:stymphalian_skull"
+				"wizardryutils:summoneditemdata": {}
+			}
 		}],
 		ignore_damage: true,
 		ignore_nbt: 1b
@@ -261,11 +248,11 @@
 		type: "item",
 		disable_toast: true,
 		items: [{
+			id: "minecraft:skull",
+			Damage: 4s,
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "minecraft:skull",
-			Damage: 4s
+			}
 		}]
 	},
 	{
@@ -273,11 +260,11 @@
 		type: "item",
 		disable_toast: true,
 		items: [{
+			id: "minecraft:skull",
+			Damage: 2s,
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "minecraft:skull",
-			Damage: 2s
+			}
 		}]
 	},
 	{
@@ -285,11 +272,11 @@
 		type: "item",
 		disable_toast: true,
 		items: [{
+			id: "minecraft:skull",
+			Damage: 1s,
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "minecraft:skull",
-			Damage: 1s
+			}
 		}]
 	}],
 	rewards: [{

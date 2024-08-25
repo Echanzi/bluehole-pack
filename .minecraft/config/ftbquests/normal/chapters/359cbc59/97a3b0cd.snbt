@@ -7,10 +7,10 @@
 		uid: "b57f8f42",
 		type: "observation",
 		icon: {
+			id: "minecraft:glowstone",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "minecraft:glowstone"
+			}
 		},
 		match_type: "entity_id",
 		match: "golems:golem_glowstone",

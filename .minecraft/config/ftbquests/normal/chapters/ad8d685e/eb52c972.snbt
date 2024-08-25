@@ -9,10 +9,10 @@
 		uid: "d8c89a00",
 		type: "item",
 		items: [{
+			id: "harvestcraft:pastaitem",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "harvestcraft:pastaitem"
+			}
 		}]
 	}],
 	rewards: [{

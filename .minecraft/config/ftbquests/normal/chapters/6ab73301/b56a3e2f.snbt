@@ -10,10 +10,10 @@
 		type: "interaction",
 		title: "Activate a Waystone",
 		icon: {
+			id: "waystones:waystone",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "waystones:waystone"
+			}
 		},
 		match_type: "block_id",
 		match: "waystones:waystone"

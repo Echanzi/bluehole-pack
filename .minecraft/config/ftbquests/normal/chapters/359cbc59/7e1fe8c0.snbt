@@ -7,10 +7,10 @@
 		uid: "1c554c83",
 		type: "observation",
 		icon: {
+			id: "zawa:albatross",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "zawa:albatross"
+			}
 		},
 		match_type: "entity_id",
 		match: "zawa:albatross",

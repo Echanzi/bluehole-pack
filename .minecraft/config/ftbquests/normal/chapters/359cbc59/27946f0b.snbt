@@ -7,10 +7,10 @@
 		uid: "1279bb11",
 		type: "observation",
 		icon: {
+			id: "zawa:orca",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "zawa:orca"
+			}
 		},
 		match_type: "entity_id",
 		match: "zawa:orca",

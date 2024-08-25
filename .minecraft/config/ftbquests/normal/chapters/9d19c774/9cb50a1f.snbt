@@ -10,10 +10,10 @@
 		uid: "aec90f6d",
 		type: "item",
 		items: [{
+			id: "iceandfire:dragonsteel_ice_ingot",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "iceandfire:dragonsteel_ice_ingot"
+			}
 		}]
 	}],
 	rewards: [{

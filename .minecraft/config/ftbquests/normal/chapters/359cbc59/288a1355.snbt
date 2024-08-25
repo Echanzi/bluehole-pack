@@ -7,10 +7,10 @@
 		uid: "352f5765",
 		type: "observation",
 		icon: {
+			id: "minecraft:lapis_block",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "minecraft:lapis_block"
+			}
 		},
 		match_type: "entity_id",
 		match: "golems:golem_lapis",

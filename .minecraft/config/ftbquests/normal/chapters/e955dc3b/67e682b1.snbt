@@ -7,10 +7,10 @@
 		type: "item",
 		disable_toast: true,
 		items: [{
+			id: "biomesoplenty:terrarium",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "biomesoplenty:terrarium"
+			}
 		}]
 	},
 	{
@@ -18,11 +18,11 @@
 		type: "item",
 		disable_toast: true,
 		items: [{
+			id: "biomesoplenty:terrarium",
+			Damage: 1s,
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "biomesoplenty:terrarium",
-			Damage: 1s
+			}
 		}]
 	},
 	{
@@ -30,11 +30,11 @@
 		type: "item",
 		disable_toast: true,
 		items: [{
+			id: "biomesoplenty:terrarium",
+			Damage: 2s,
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "biomesoplenty:terrarium",
-			Damage: 2s
+			}
 		}]
 	},
 	{
@@ -42,11 +42,11 @@
 		type: "item",
 		disable_toast: true,
 		items: [{
+			id: "biomesoplenty:terrarium",
+			Damage: 3s,
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "biomesoplenty:terrarium",
-			Damage: 3s
+			}
 		}]
 	},
 	{
@@ -54,11 +54,11 @@
 		type: "item",
 		disable_toast: true,
 		items: [{
+			id: "biomesoplenty:terrarium",
+			Damage: 4s,
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "biomesoplenty:terrarium",
-			Damage: 4s
+			}
 		}]
 	},
 	{
@@ -66,11 +66,11 @@
 		type: "item",
 		disable_toast: true,
 		items: [{
+			id: "biomesoplenty:terrarium",
+			Damage: 5s,
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "biomesoplenty:terrarium",
-			Damage: 5s
+			}
 		}]
 	},
 	{
@@ -78,11 +78,11 @@
 		type: "item",
 		disable_toast: true,
 		items: [{
+			id: "biomesoplenty:terrarium",
+			Damage: 6s,
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "biomesoplenty:terrarium",
-			Damage: 6s
+			}
 		}]
 	},
 	{
@@ -90,11 +90,11 @@
 		type: "item",
 		disable_toast: true,
 		items: [{
+			id: "biomesoplenty:terrarium",
+			Damage: 7s,
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "biomesoplenty:terrarium",
-			Damage: 7s
+			}
 		}]
 	},
 	{
@@ -102,11 +102,11 @@
 		type: "item",
 		disable_toast: true,
 		items: [{
+			id: "biomesoplenty:terrarium",
+			Damage: 8s,
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "biomesoplenty:terrarium",
-			Damage: 8s
+			}
 		}]
 	},
 	{
@@ -114,11 +114,11 @@
 		type: "item",
 		disable_toast: true,
 		items: [{
+			id: "biomesoplenty:terrarium",
+			Damage: 9s,
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "biomesoplenty:terrarium",
-			Damage: 9s
+			}
 		}]
 	},
 	{
@@ -126,11 +126,11 @@
 		type: "item",
 		disable_toast: true,
 		items: [{
+			id: "biomesoplenty:terrarium",
+			Damage: 10s,
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "biomesoplenty:terrarium",
-			Damage: 10s
+			}
 		}]
 	},
 	{
@@ -138,11 +138,11 @@
 		type: "item",
 		disable_toast: true,
 		items: [{
+			id: "biomesoplenty:terrarium",
+			Damage: 11s,
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "biomesoplenty:terrarium",
-			Damage: 11s
+			}
 		}]
 	},
 	{
@@ -150,11 +150,11 @@
 		type: "item",
 		disable_toast: true,
 		items: [{
+			id: "biomesoplenty:terrarium",
+			Damage: 12s,
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "biomesoplenty:terrarium",
-			Damage: 12s
+			}
 		}]
 	},
 	{
@@ -162,11 +162,11 @@
 		type: "item",
 		disable_toast: true,
 		items: [{
+			id: "biomesoplenty:terrarium",
+			Damage: 13s,
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "biomesoplenty:terrarium",
-			Damage: 13s
+			}
 		}]
 	},
 	{
@@ -174,11 +174,11 @@
 		type: "item",
 		disable_toast: true,
 		items: [{
+			id: "biomesoplenty:terrarium",
+			Damage: 14s,
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "biomesoplenty:terrarium",
-			Damage: 14s
+			}
 		}]
 	},
 	{
@@ -186,11 +186,11 @@
 		type: "item",
 		disable_toast: true,
 		items: [{
+			id: "biomesoplenty:terrarium",
+			Damage: 15s,
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "biomesoplenty:terrarium",
-			Damage: 15s
+			}
 		}]
 	}],
 	rewards: [{
@@ -202,11 +202,11 @@
 		uid: "0c2fcc1d",
 		type: "choice",
 		icon: {
+			id: "biomesoplenty:terrarium",
+			Damage: 13s,
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "biomesoplenty:terrarium",
-			Damage: 13s
+			}
 		},
 		table: 0
 	}]

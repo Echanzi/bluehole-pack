@@ -9,12 +9,12 @@
 		uid: "d6ef801b",
 		type: "item",
 		items: [{
-			ForgeCaps: {
-				"wizardryutils:summoneditemdata": {}
-			},
 			id: "storagedrawers:basicdrawers",
 			tag: {
 				material: "oak"
+			},
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
 			}
 		}]
 	}],

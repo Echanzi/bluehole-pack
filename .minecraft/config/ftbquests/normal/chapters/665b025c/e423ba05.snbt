@@ -9,11 +9,11 @@
 		uid: "ab53b25e",
 		type: "item",
 		items: [{
+			id: "spartanweaponry:greatsword_wood",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {},
 				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "spartanweaponry:greatsword_wood"
+			}
 		}],
 		ignore_damage: true,
 		ignore_nbt: 1b

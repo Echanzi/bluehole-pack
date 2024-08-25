@@ -13,12 +13,12 @@
 		uid: "31d45e48",
 		type: "stat",
 		icon: {
-			ForgeCaps: {
-				"wizardryutils:summoneditemdata": {}
-			},
 			id: "minecraft:enchanted_book",
 			tag: {
 				reforgeCost: 318
+			},
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
 			}
 		},
 		stat: "stat.itemEnchanted",

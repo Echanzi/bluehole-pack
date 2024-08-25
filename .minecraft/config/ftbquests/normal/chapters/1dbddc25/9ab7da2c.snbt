@@ -1,17 +1,17 @@
 {
 	disable_toast: true,
 	x: 7.5d,
-	y: -3.0d,
+	y: -2.0d,
 	can_repeat: true,
 	tasks: [{
 		uid: "4dc07b7e",
 		type: "kill",
 		icon: {
+			id: "cqrepoured:sword_walker",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {},
 				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "cqrepoured:sword_walker"
+			}
 		},
 		entity: "cqrepoured:walker_king",
 		value: 1L

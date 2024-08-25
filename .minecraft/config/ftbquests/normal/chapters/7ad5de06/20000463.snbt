@@ -1,10 +1,10 @@
 {
 	title: "Sludge Plains Clearing",
 	icon: {
+		id: "thebetweenlands:compacted_mud",
 		ForgeCaps: {
 			"wizardryutils:summoneditemdata": {}
-		},
-		id: "thebetweenlands:compacted_mud"
+		}
 	},
 	disable_toast: true,
 	x: 10.0d,

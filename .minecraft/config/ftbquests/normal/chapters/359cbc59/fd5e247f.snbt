@@ -7,10 +7,10 @@
 		uid: "e4b39fde",
 		type: "observation",
 		icon: {
+			id: "zawa:tiger_shark",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "zawa:tiger_shark"
+			}
 		},
 		match_type: "entity_id",
 		match: "zawa:tigershark",

@@ -9,11 +9,11 @@
 		uid: "06f24619",
 		type: "item",
 		items: [{
+			id: "spartanlands:longbow_weedwood",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {},
 				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "spartanlands:longbow_weedwood"
+			}
 		}],
 		ignore_damage: true,
 		ignore_nbt: 1b

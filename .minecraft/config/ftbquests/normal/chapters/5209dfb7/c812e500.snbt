@@ -9,10 +9,10 @@
 		uid: "90326f9b",
 		type: "item",
 		items: [{
+			id: "minecraft:dragon_egg",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "minecraft:dragon_egg"
+			}
 		}]
 	}],
 	rewards: [{

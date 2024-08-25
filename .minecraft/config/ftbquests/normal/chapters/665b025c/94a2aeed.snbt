@@ -9,11 +9,11 @@
 		uid: "7840dee4",
 		type: "item",
 		items: [{
+			id: "spartanfire:warhammer_ice_dragonbone",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {},
 				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "spartanfire:warhammer_ice_dragonbone"
+			}
 		}],
 		ignore_damage: true,
 		ignore_nbt: 1b

@@ -12,10 +12,10 @@
 		uid: "a23d0e0e",
 		type: "item",
 		items: [{
+			id: "minecraft:diamond",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "minecraft:diamond"
+			}
 		}]
 	}],
 	rewards: [{

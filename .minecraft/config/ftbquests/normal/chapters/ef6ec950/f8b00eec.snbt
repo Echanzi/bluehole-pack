@@ -9,10 +9,10 @@
 		uid: "fcbc8179",
 		type: "item",
 		items: [{
+			id: "thebetweenlands:mummy_bait",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "thebetweenlands:mummy_bait"
+			}
 		}]
 	}],
 	rewards: [{

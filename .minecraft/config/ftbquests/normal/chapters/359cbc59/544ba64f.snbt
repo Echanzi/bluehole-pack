@@ -7,10 +7,10 @@
 		uid: "a360413b",
 		type: "observation",
 		icon: {
+			id: "zawa:coatimundi",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "zawa:coatimundi"
+			}
 		},
 		match_type: "entity_id",
 		match: "zawa:coatimundi",

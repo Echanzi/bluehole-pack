@@ -9,11 +9,11 @@
 		uid: "cf282df7",
 		type: "item",
 		items: [{
+			id: "spartanfire:staff_jungle",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {},
 				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "spartanfire:staff_jungle"
+			}
 		}],
 		ignore_damage: true,
 		ignore_nbt: 1b

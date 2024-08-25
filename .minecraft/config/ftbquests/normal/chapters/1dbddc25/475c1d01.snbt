@@ -1,10 +1,10 @@
 {
 	title: "Head Hunter: Skeleton",
 	icon: {
+		id: "minecraft:skull",
 		ForgeCaps: {
 			"wizardryutils:summoneditemdata": {}
-		},
-		id: "minecraft:skull"
+		}
 	},
 	x: -0.5d,
 	y: -3.0d,
@@ -83,14 +83,14 @@
 		uid: "bdb651fb",
 		type: "kill",
 		icon: {
-			ForgeCaps: {
-				"wizardryutils:summoneditemdata": {}
-			},
 			id: "minecraft:spawn_egg",
 			tag: {
 				EntityTag: {
 					id: "minecraft:skeleton"
 				}
+			},
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
 			}
 		},
 		entity: "specialmobs:specialskeleton",

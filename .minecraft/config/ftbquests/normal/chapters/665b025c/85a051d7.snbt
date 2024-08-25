@@ -9,11 +9,11 @@
 		uid: "adfa4d1a",
 		type: "item",
 		items: [{
+			id: "spartanfire:rapier_ice_dragonsteel",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {},
 				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "spartanfire:rapier_ice_dragonsteel"
+			}
 		}],
 		ignore_damage: true,
 		ignore_nbt: 1b

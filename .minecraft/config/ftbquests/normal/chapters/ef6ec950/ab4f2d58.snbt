@@ -1,11 +1,11 @@
 {
 	icon: {
+		id: "thebetweenlands:shimmer_stone",
+		tag: {},
 		ForgeCaps: {
 			"wizardryutils:summoneditemdata": {},
 			"astralsorcery:cap_item_amulet_holder": {}
-		},
-		id: "thebetweenlands:shimmer_stone",
-		tag: {}
+		}
 	},
 	x: 12.5d,
 	y: -6.5d,

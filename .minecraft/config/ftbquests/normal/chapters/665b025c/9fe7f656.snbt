@@ -9,12 +9,12 @@
 		uid: "ca2116be",
 		type: "item",
 		items: [{
+			id: "spartanlands:crossbow_octine",
+			tag: {},
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {},
 				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "spartanlands:crossbow_octine",
-			tag: {}
+			}
 		}],
 		ignore_damage: true,
 		ignore_nbt: 1b

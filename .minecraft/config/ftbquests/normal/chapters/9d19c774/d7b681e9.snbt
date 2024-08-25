@@ -1,10 +1,10 @@
 {
 	icon: {
+		id: "iceandfire:bestiary",
 		ForgeCaps: {
 			"wizardryutils:summoneditemdata": {},
 			"astralsorcery:cap_item_amulet_holder": {}
-		},
-		id: "iceandfire:bestiary"
+		}
 	},
 	x: -5.5d,
 	y: -9.5d,
@@ -15,11 +15,11 @@
 		uid: "5342c681",
 		type: "item",
 		items: [{
+			id: "iceandfire:bestiary",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {},
 				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "iceandfire:bestiary"
+			}
 		}],
 		ignore_damage: true,
 		ignore_nbt: 1b
@@ -28,10 +28,10 @@
 		uid: "2d8594fb",
 		type: "item",
 		items: [{
+			id: "iceandfire:lectern",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "iceandfire:lectern"
+			}
 		}]
 	}],
 	rewards: [{

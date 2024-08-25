@@ -7,10 +7,10 @@
 		uid: "d1d0f576",
 		type: "observation",
 		icon: {
+			id: "zawa:three_toed_sloth",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "zawa:three_toed_sloth"
+			}
 		},
 		match_type: "entity_id",
 		match: "zawa:threetoedsloth",

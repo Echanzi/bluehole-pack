@@ -1,10 +1,10 @@
 {
 	title: "Swamplands",
 	icon: {
+		id: "thebetweenlands:dead_grass",
 		ForgeCaps: {
 			"wizardryutils:summoneditemdata": {}
-		},
-		id: "thebetweenlands:dead_grass"
+		}
 	},
 	disable_toast: true,
 	x: 19.0d,

@@ -9,11 +9,11 @@
 		uid: "ae073789",
 		type: "item",
 		items: [{
+			id: "spartancompat:lance_holystone",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {},
 				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "spartancompat:lance_holystone"
+			}
 		}],
 		ignore_damage: true,
 		ignore_nbt: 1b

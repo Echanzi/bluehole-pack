@@ -13,10 +13,10 @@
 		uid: "5f85124f",
 		type: "observation",
 		icon: {
+			id: "twilightforest:castle_brick",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "twilightforest:castle_brick"
+			}
 		},
 		match_type: "block_id",
 		match: "twilightforest:castle_brick",

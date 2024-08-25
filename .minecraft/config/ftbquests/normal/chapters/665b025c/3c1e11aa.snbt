@@ -9,11 +9,11 @@
 		uid: "577da7ad",
 		type: "item",
 		items: [{
+			id: "spartanweaponry:lance_iron",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {},
 				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "spartanweaponry:lance_iron"
+			}
 		}],
 		ignore_damage: true,
 		ignore_nbt: 1b

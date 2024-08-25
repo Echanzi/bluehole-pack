@@ -9,11 +9,11 @@
 		uid: "327cf413",
 		type: "item",
 		items: [{
+			id: "spartanlands:pike_slimybone",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {},
 				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "spartanlands:pike_slimybone"
+			}
 		}],
 		ignore_damage: true,
 		ignore_nbt: 1b

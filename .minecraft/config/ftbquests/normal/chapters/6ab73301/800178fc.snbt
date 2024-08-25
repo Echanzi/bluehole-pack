@@ -12,10 +12,10 @@
 		uid: "356f5e96",
 		type: "item",
 		items: [{
+			id: "minecraft:jukebox",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "minecraft:jukebox"
+			}
 		}]
 	}],
 	rewards: [{

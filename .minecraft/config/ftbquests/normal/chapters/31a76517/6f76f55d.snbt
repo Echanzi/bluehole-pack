@@ -6,11 +6,11 @@
 		uid: "8df66dd6",
 		type: "kill",
 		icon: {
+			id: "tropicraft:spawn_egg",
+			Damage: 14s,
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "tropicraft:spawn_egg",
-			Damage: 14s
+			}
 		},
 		disable_toast: true,
 		entity: "tropicraft:tropicreeper",
@@ -20,11 +20,11 @@
 		uid: "71589364",
 		type: "kill",
 		icon: {
+			id: "tropicraft:spawn_egg",
+			Damage: 15s,
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "tropicraft:spawn_egg",
-			Damage: 15s
+			}
 		},
 		disable_toast: true,
 		entity: "tropicraft:tropiskelly",
@@ -35,11 +35,11 @@
 		type: "item",
 		disable_toast: true,
 		items: [{
+			id: "tropicraft:spawn_egg",
+			Damage: 24s,
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "tropicraft:spawn_egg",
-			Damage: 24s
+			}
 		}]
 	}],
 	rewards: [{

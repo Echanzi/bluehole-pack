@@ -9,11 +9,11 @@
 		uid: "46d0e5c0",
 		type: "item",
 		items: [{
+			id: "spartantwilight:parrying_dagger_ironwood",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {},
 				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "spartantwilight:parrying_dagger_ironwood"
+			}
 		}],
 		ignore_damage: true,
 		ignore_nbt: 1b

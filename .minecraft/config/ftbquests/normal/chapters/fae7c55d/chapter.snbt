@@ -1,11 +1,11 @@
 {
 	title: "Shadow Wizard Money Gang",
 	icon: {
+		id: "ebwizardry:wizard_hat",
 		ForgeCaps: {
 			"wizardryutils:summoneditemdata": {},
 			"astralsorcery:cap_item_amulet_holder": {}
-		},
-		id: "ebwizardry:wizard_hat"
+		}
 	},
 	always_invisible: false,
 	group: 0,

@@ -7,10 +7,10 @@
 		uid: "ebecdc6c",
 		type: "observation",
 		icon: {
+			id: "zawa:humpback_whale",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "zawa:humpback_whale"
+			}
 		},
 		match_type: "entity_id",
 		match: "zawa:humpbackwhale",

@@ -9,10 +9,10 @@
 		uid: "fbdd6e44",
 		type: "item",
 		items: [{
+			id: "minecraft:redstone",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "minecraft:redstone"
+			}
 		}]
 	}],
 	rewards: [{

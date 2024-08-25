@@ -9,10 +9,10 @@
 		uid: "77c83cf3",
 		type: "item",
 		items: [{
+			id: "audiocassettes:tapedeck",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "audiocassettes:tapedeck"
+			}
 		}]
 	}],
 	rewards: [{

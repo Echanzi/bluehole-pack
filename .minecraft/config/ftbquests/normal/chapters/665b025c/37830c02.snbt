@@ -9,11 +9,11 @@
 		uid: "848d1669",
 		type: "item",
 		items: [{
+			id: "spartanweaponry:warhammer_wood",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {},
 				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "spartanweaponry:warhammer_wood"
+			}
 		}],
 		ignore_damage: true,
 		ignore_nbt: 1b

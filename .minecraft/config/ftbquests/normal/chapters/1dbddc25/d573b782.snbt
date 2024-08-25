@@ -10,11 +10,11 @@
 		uid: "9d86f81d",
 		type: "kill",
 		icon: {
+			id: "minecraft:skull",
+			Damage: 5s,
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "minecraft:skull",
-			Damage: 5s
+			}
 		},
 		disable_toast: true,
 		entity: "minecraft:ender_dragon",

@@ -7,10 +7,10 @@
 		type: "item",
 		disable_toast: true,
 		items: [{
+			id: "harvestcraft:fruitbaititem",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "harvestcraft:fruitbaititem"
+			}
 		}]
 	},
 	{
@@ -18,10 +18,10 @@
 		type: "item",
 		disable_toast: true,
 		items: [{
+			id: "harvestcraft:grainbaititem",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "harvestcraft:grainbaititem"
+			}
 		}]
 	},
 	{
@@ -29,10 +29,10 @@
 		type: "item",
 		disable_toast: true,
 		items: [{
+			id: "harvestcraft:veggiebaititem",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "harvestcraft:veggiebaititem"
+			}
 		}]
 	},
 	{
@@ -40,10 +40,10 @@
 		type: "item",
 		disable_toast: true,
 		items: [{
+			id: "harvestcraft:fishtrapbaititem",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "harvestcraft:fishtrapbaititem"
+			}
 		}]
 	}],
 	rewards: [{

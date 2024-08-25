@@ -9,11 +9,11 @@
 		uid: "73ccd0d2",
 		type: "item",
 		items: [{
+			id: "spartantwilight:dagger_fiery",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {},
 				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "spartantwilight:dagger_fiery"
+			}
 		}],
 		ignore_damage: true,
 		ignore_nbt: 1b

@@ -7,10 +7,10 @@
 		uid: "1d888344",
 		type: "observation",
 		icon: {
+			id: "zawa:american_bison",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "zawa:american_bison"
+			}
 		},
 		match_type: "entity_id",
 		match: "zawa:americanbison",

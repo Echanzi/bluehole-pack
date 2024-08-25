@@ -9,32 +9,32 @@
 		uid: "b930cf09",
 		type: "item",
 		items: [{
+			id: "aether_legacy:dart",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "aether_legacy:dart"
+			}
 		}]
 	},
 	{
 		uid: "53b2100c",
 		type: "item",
 		items: [{
+			id: "aether_legacy:dart",
+			Damage: 1s,
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "aether_legacy:dart",
-			Damage: 1s
+			}
 		}]
 	},
 	{
 		uid: "1528b29e",
 		type: "item",
 		items: [{
+			id: "aether_legacy:dart",
+			Damage: 2s,
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "aether_legacy:dart",
-			Damage: 2s
+			}
 		}]
 	}],
 	rewards: [{

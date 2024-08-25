@@ -12,11 +12,11 @@
 		uid: "fc799d35",
 		type: "item",
 		items: [{
+			id: "thebetweenlands:manual_hl",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {},
 				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "thebetweenlands:manual_hl"
+			}
 		}],
 		ignore_damage: true,
 		ignore_nbt: 1b

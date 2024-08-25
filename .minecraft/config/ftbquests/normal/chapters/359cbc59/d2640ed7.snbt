@@ -7,10 +7,10 @@
 		uid: "09efa4d2",
 		type: "observation",
 		icon: {
+			id: "zawa:hawksbill_sea_turtle",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "zawa:hawksbill_sea_turtle"
+			}
 		},
 		match_type: "entity_id",
 		match: "zawa:hawksbillseaturtle",

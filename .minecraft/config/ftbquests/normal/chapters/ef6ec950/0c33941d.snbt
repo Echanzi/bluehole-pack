@@ -6,10 +6,10 @@
 		type: "item",
 		disable_toast: true,
 		items: [{
+			id: "thebetweenlands:mortar",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "thebetweenlands:mortar"
+			}
 		}]
 	},
 	{
@@ -17,12 +17,11 @@
 		type: "item",
 		disable_toast: true,
 		items: [{
-			ForgeCaps: {
-				"wizardryutils:summoneditemdata": {},
-				"astralsorcery:cap_item_amulet_holder": {}
-			},
 			id: "thebetweenlands:pestle",
-			tag: {}
+			tag: {},
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			}
 		}],
 		ignore_damage: true,
 		ignore_nbt: 1b

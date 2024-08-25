@@ -9,10 +9,10 @@
 		uid: "ba07ddc6",
 		type: "item",
 		items: [{
+			id: "scalinghealth:heartcontainer",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "scalinghealth:heartcontainer"
+			}
 		}]
 	}],
 	rewards: [{

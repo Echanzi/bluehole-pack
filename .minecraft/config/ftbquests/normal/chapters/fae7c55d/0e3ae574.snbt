@@ -8,10 +8,10 @@
 		uid: "38273797",
 		type: "item",
 		items: [{
+			id: "ebwizardry:arcane_workbench",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "ebwizardry:arcane_workbench"
+			}
 		}]
 	}],
 	rewards: [{

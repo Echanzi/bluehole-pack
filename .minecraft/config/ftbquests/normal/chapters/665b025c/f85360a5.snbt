@@ -9,11 +9,11 @@
 		uid: "d96e84c7",
 		type: "item",
 		items: [{
+			id: "spartanweaponry:club_studded",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {},
 				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "spartanweaponry:club_studded"
+			}
 		}],
 		ignore_damage: true,
 		ignore_nbt: 1b

@@ -7,10 +7,10 @@
 		uid: "24f17d0b",
 		type: "observation",
 		icon: {
+			id: "minecraft:dispenser",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "minecraft:dispenser"
+			}
 		},
 		match_type: "entity_id",
 		match: "golems:golem_dispenser",

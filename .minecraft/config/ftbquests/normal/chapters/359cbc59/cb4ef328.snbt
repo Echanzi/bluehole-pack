@@ -7,10 +7,10 @@
 		uid: "5e012079",
 		type: "observation",
 		icon: {
+			id: "zawa:poacher",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "zawa:poacher"
+			}
 		},
 		match_type: "entity_id",
 		match: "zawa:poacher",

@@ -11,10 +11,10 @@
 		type: "location",
 		title: "Climb Over and Pass the Wall",
 		icon: {
+			id: "quark:stone_andesite_bricks_wall",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "quark:stone_andesite_bricks_wall"
+			}
 		},
 		location: [I;
 			0,

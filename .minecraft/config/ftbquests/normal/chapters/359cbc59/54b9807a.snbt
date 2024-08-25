@@ -7,10 +7,10 @@
 		uid: "bbd500b1",
 		type: "observation",
 		icon: {
+			id: "zawa:botanist",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "zawa:botanist"
+			}
 		},
 		match_type: "entity_id",
 		match: "zawa:botanist",

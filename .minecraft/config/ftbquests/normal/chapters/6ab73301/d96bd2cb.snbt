@@ -10,11 +10,11 @@
 		type: "item",
 		disable_toast: true,
 		items: [{
+			id: "biomesoplenty:gem_block",
+			Damage: 1s,
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "biomesoplenty:gem_block",
-			Damage: 1s
+			}
 		}]
 	},
 	{
@@ -22,11 +22,11 @@
 		type: "item",
 		disable_toast: true,
 		items: [{
+			id: "biomesoplenty:gem_block",
+			Damage: 2s,
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "biomesoplenty:gem_block",
-			Damage: 2s
+			}
 		}]
 	},
 	{
@@ -34,11 +34,11 @@
 		type: "item",
 		disable_toast: true,
 		items: [{
+			id: "biomesoplenty:gem_block",
+			Damage: 3s,
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "biomesoplenty:gem_block",
-			Damage: 3s
+			}
 		}],
 		consume_items: false
 	},
@@ -47,11 +47,11 @@
 		type: "item",
 		disable_toast: true,
 		items: [{
+			id: "biomesoplenty:gem_block",
+			Damage: 4s,
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "biomesoplenty:gem_block",
-			Damage: 4s
+			}
 		}]
 	},
 	{
@@ -59,11 +59,11 @@
 		type: "item",
 		disable_toast: true,
 		items: [{
+			id: "biomesoplenty:gem_block",
+			Damage: 5s,
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "biomesoplenty:gem_block",
-			Damage: 5s
+			}
 		}]
 	},
 	{
@@ -71,11 +71,11 @@
 		type: "item",
 		disable_toast: true,
 		items: [{
+			id: "biomesoplenty:gem_block",
+			Damage: 6s,
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "biomesoplenty:gem_block",
-			Damage: 6s
+			}
 		}]
 	},
 	{
@@ -83,11 +83,11 @@
 		type: "item",
 		disable_toast: true,
 		items: [{
+			id: "biomesoplenty:gem_block",
+			Damage: 7s,
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "biomesoplenty:gem_block",
-			Damage: 7s
+			}
 		}]
 	}],
 	rewards: [{

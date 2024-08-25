@@ -9,11 +9,11 @@
 		uid: "74fc2bc4",
 		type: "item",
 		items: [{
+			id: "spartantwilight:katana_fiery",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {},
 				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "spartantwilight:katana_fiery"
+			}
 		}],
 		ignore_damage: true,
 		ignore_nbt: 1b

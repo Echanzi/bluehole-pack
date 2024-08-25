@@ -7,10 +7,10 @@
 		uid: "9760a5d2",
 		type: "observation",
 		icon: {
+			id: "zawa:indian_gharial",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "zawa:indian_gharial"
+			}
 		},
 		match_type: "entity_id",
 		match: "zawa:indiangharial",

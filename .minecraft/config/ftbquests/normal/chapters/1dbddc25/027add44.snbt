@@ -10,11 +10,11 @@
 		uid: "5de556d3",
 		type: "kill",
 		icon: {
+			id: "minecraft:skull",
+			Damage: 1s,
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "minecraft:skull",
-			Damage: 1s
+			}
 		},
 		entity: "minecraft:wither",
 		value: 1L

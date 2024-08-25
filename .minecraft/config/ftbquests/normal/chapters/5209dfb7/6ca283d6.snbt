@@ -15,17 +15,17 @@
 		type: "item",
 		title: "Hidden",
 		icon: {
+			id: "minecraft:firework_charge",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "minecraft:firework_charge"
+			}
 		},
 		items: [{
+			id: "twilightforest:fiery_pickaxe",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {},
 				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "twilightforest:fiery_pickaxe"
+			}
 		}],
 		ignore_damage: true,
 		ignore_nbt: 1b

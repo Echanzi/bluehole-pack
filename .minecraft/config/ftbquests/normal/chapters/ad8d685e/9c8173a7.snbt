@@ -9,10 +9,10 @@
 		uid: "32b7f026",
 		type: "item",
 		items: [{
+			id: "harvestcraft:doughitem",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "harvestcraft:doughitem"
+			}
 		}]
 	}],
 	rewards: [{

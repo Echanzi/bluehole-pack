@@ -9,11 +9,11 @@
 		uid: "11c4373a",
 		type: "item",
 		items: [{
+			id: "spartantwilight:hammer_fiery",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {},
 				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "spartantwilight:hammer_fiery"
+			}
 		}],
 		ignore_damage: true,
 		ignore_nbt: 1b

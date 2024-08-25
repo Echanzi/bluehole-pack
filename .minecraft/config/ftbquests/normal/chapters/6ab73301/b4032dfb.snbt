@@ -8,10 +8,10 @@
 		uid: "330dce7a",
 		type: "item",
 		items: [{
+			id: "minecraft:chorus_fruit",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "minecraft:chorus_fruit"
+			}
 		}]
 	}],
 	rewards: [{

@@ -9,14 +9,14 @@
 		uid: "3dc404f8",
 		type: "item",
 		items: [{
-			ForgeCaps: {
-				"wizardryutils:summoneditemdata": {}
-			},
 			id: "claysoldiers:doll_turtle",
 			tag: {
 				dollTurtle: {
 					type: 8
 				}
+			},
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
 			}
 		}]
 	}],

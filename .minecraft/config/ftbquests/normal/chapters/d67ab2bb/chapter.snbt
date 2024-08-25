@@ -1,12 +1,12 @@
 {
 	title: "DRIP COLLECTION",
 	icon: {
+		id: "cqrepoured:king_crown",
 		ForgeCaps: {
 			"wizardryutils:summoneditemdata": {},
 			Parent: {},
 			"astralsorcery:cap_item_amulet_holder": {}
-		},
-		id: "cqrepoured:king_crown"
+		}
 	},
 	always_invisible: false,
 	group: 0,

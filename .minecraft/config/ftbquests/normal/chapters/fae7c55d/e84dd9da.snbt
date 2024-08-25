@@ -8,11 +8,11 @@
 		uid: "9db525ff",
 		type: "item",
 		items: [{
+			id: "ebwizardry:master_wand",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {},
 				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "ebwizardry:master_wand"
+			}
 		}],
 		ignore_damage: true,
 		ignore_nbt: 1b

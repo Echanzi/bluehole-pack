@@ -9,11 +9,11 @@
 		uid: "532c1301",
 		type: "item",
 		items: [{
+			id: "spartantwilight:longbow_steeleaf",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {},
 				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "spartantwilight:longbow_steeleaf"
+			}
 		}],
 		ignore_damage: true,
 		ignore_nbt: 1b

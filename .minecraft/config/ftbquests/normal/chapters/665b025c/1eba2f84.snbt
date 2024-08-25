@@ -9,12 +9,12 @@
 		uid: "f8fa2383",
 		type: "item",
 		items: [{
+			id: "spartanweaponry:crossbow_silver",
+			tag: {},
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {},
 				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "spartanweaponry:crossbow_silver",
-			tag: {}
+			}
 		}],
 		ignore_damage: true,
 		ignore_nbt: 1b

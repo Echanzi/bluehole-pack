@@ -13,10 +13,10 @@
 		uid: "da78b065",
 		type: "item",
 		items: [{
+			id: "minecraft:furnace",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "minecraft:furnace"
+			}
 		}]
 	}],
 	rewards: [{

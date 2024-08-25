@@ -9,11 +9,11 @@
 		uid: "1194ed63",
 		type: "item",
 		items: [{
+			id: "spartanweaponry:parrying_dagger_gold",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {},
 				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "spartanweaponry:parrying_dagger_gold"
+			}
 		}],
 		ignore_damage: true,
 		ignore_nbt: 1b

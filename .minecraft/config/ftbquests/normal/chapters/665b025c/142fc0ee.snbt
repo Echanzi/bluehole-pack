@@ -9,11 +9,11 @@
 		uid: "c475ad5c",
 		type: "item",
 		items: [{
+			id: "spartancompat:glaive_skyroot",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {},
 				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "spartancompat:glaive_skyroot"
+			}
 		}],
 		ignore_damage: true,
 		ignore_nbt: 1b

@@ -9,10 +9,10 @@
 		uid: "05a578ca",
 		type: "item",
 		items: [{
+			id: "minecraft:golden_rail",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "minecraft:golden_rail"
+			}
 		}]
 	}],
 	rewards: [{

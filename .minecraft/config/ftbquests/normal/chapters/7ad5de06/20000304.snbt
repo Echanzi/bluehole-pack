@@ -1,10 +1,10 @@
 {
 	title: "Lush Desert",
 	icon: {
+		id: "minecraft:hardened_clay",
 		ForgeCaps: {
 			"wizardryutils:summoneditemdata": {}
-		},
-		id: "minecraft:hardened_clay"
+		}
 	},
 	disable_toast: true,
 	x: -10.0d,

@@ -9,10 +9,10 @@
 		uid: "f1e47976",
 		type: "item",
 		items: [{
+			id: "minecraft:beacon",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "minecraft:beacon"
+			}
 		}]
 	}],
 	rewards: [{

@@ -8,11 +8,11 @@
 		uid: "8ea78202",
 		type: "item",
 		items: [{
+			id: "thebetweenlands:predator_bow",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {},
 				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "thebetweenlands:predator_bow"
+			}
 		}],
 		ignore_damage: true,
 		ignore_nbt: 1b

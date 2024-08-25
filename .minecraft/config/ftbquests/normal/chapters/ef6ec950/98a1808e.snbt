@@ -9,12 +9,12 @@
 		uid: "77eea920",
 		type: "item",
 		items: [{
+			id: "thebetweenlands:grappling_hook",
+			Damage: 16s,
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {},
 				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "thebetweenlands:grappling_hook",
-			Damage: 16s
+			}
 		}],
 		ignore_damage: true,
 		ignore_nbt: 1b

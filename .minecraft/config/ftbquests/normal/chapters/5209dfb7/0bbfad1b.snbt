@@ -1,11 +1,11 @@
 {
 	title: "Stroganmeoff till I Meef?",
 	icon: {
+		id: "twilightforest:trophy",
+		Damage: 6s,
 		ForgeCaps: {
 			"wizardryutils:summoneditemdata": {}
-		},
-		id: "twilightforest:trophy",
-		Damage: 6s
+		}
 	},
 	x: 6.0d,
 	y: -3.0d,
@@ -17,11 +17,11 @@
 		uid: "944a4692",
 		type: "item",
 		items: [{
+			id: "twilightforest:meef_stroganoff",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {},
 				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "twilightforest:meef_stroganoff"
+			}
 		}],
 		ignore_damage: true,
 		ignore_nbt: 1b
@@ -36,11 +36,11 @@
 		uid: "822fe521",
 		type: "item",
 		item: {
+			id: "twilightforest:meef_stroganoff",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {},
 				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "twilightforest:meef_stroganoff"
+			}
 		}
 	},
 	{
@@ -52,11 +52,11 @@
 		uid: "a7265a7b",
 		type: "item",
 		item: {
+			id: "twilightforest:trophy",
+			Damage: 6s,
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "twilightforest:trophy",
-			Damage: 6s
+			}
 		}
 	}]
 }

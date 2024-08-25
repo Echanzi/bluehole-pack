@@ -1,10 +1,10 @@
 {
 	icon: {
+		id: "twilightforest:trophy",
+		Damage: 4s,
 		ForgeCaps: {
 			"wizardryutils:summoneditemdata": {}
-		},
-		id: "twilightforest:trophy",
-		Damage: 4s
+		}
 	},
 	x: 6.0d,
 	y: -0.5d,
@@ -16,11 +16,11 @@
 		type: "item",
 		disable_toast: true,
 		items: [{
+			id: "twilightforest:trophy",
+			Damage: 4s,
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "twilightforest:trophy",
-			Damage: 4s
+			}
 		}]
 	},
 	{
@@ -34,33 +34,33 @@
 		uid: "82ab960a",
 		type: "item",
 		item: {
+			id: "twilightforest:phantom_chestplate",
+			Damage: 479s,
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {},
 				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "twilightforest:phantom_chestplate",
-			Damage: 479s
+			}
 		}
 	},
 	{
 		uid: "06309efc",
 		type: "item",
 		item: {
+			id: "twilightforest:trophy_pedestal",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "twilightforest:trophy_pedestal"
+			}
 		}
 	},
 	{
 		uid: "cc189dac",
 		type: "item",
 		item: {
+			id: "twilightforest:trophy",
+			Damage: 4s,
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "twilightforest:trophy",
-			Damage: 4s
+			}
 		}
 	},
 	{

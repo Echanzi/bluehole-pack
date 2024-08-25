@@ -6,10 +6,10 @@
 		uid: "29114f02",
 		type: "item",
 		items: [{
+			id: "scalinghealth:crystalshard",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "scalinghealth:crystalshard"
+			}
 		}]
 	}],
 	rewards: [{

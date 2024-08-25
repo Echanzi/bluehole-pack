@@ -7,10 +7,10 @@
 		uid: "0a70a428",
 		type: "observation",
 		icon: {
+			id: "minecraft:glass",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "minecraft:glass"
+			}
 		},
 		match_type: "entity_id",
 		match: "golems:golem_glass",

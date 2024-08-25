@@ -7,10 +7,10 @@
 		uid: "e216d822",
 		type: "observation",
 		icon: {
+			id: "zawa:reticulated_giraffe",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "zawa:reticulated_giraffe"
+			}
 		},
 		match_type: "entity_id",
 		match: "zawa:reticulatedgiraffe",

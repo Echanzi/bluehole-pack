@@ -1,10 +1,10 @@
 {
 	title: "Fungi Forest",
 	icon: {
+		id: "minecraft:netherrack",
 		ForgeCaps: {
 			"wizardryutils:summoneditemdata": {}
-		},
-		id: "minecraft:netherrack"
+		}
 	},
 	disable_toast: true,
 	x: 20.0d,

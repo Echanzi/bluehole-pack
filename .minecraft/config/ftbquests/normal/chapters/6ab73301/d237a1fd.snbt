@@ -9,10 +9,10 @@
 		uid: "73c2b410",
 		type: "item",
 		items: [{
+			id: "bonsaitrees:bonsaipot",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "bonsaitrees:bonsaipot"
+			}
 		}]
 	}],
 	rewards: [{

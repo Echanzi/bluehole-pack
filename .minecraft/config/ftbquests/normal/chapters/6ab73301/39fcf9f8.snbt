@@ -9,9 +9,6 @@
 		uid: "8c72da4f",
 		type: "item",
 		items: [{
-			ForgeCaps: {
-				"wizardryutils:summoneditemdata": {}
-			},
 			id: "fairylights:hanging_lights",
 			tag: {
 				twinkle: 0b,
@@ -20,6 +17,9 @@
 					light: 0
 				}],
 				tight: 0b
+			},
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
 			}
 		}],
 		ignore_nbt: 1b

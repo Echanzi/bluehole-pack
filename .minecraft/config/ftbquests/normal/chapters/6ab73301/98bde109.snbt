@@ -9,11 +9,11 @@
 		uid: "2c1605a8",
 		type: "item",
 		items: [{
+			id: "bonsaitrees:bonsaipot",
+			Damage: 1s,
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "bonsaitrees:bonsaipot",
-			Damage: 1s
+			}
 		}]
 	}],
 	rewards: [{

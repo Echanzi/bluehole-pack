@@ -9,11 +9,11 @@
 		uid: "97a39ad7",
 		type: "item",
 		items: [{
+			id: "spartantwilight:pike_steeleaf",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {},
 				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "spartantwilight:pike_steeleaf"
+			}
 		}],
 		ignore_damage: true,
 		ignore_nbt: 1b

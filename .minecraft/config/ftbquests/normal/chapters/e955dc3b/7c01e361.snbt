@@ -10,11 +10,11 @@
 		type: "item",
 		disable_toast: true,
 		items: [{
+			id: "thebetweenlands:between_you_and_me",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {},
 				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "thebetweenlands:between_you_and_me"
+			}
 		}],
 		ignore_damage: true,
 		ignore_nbt: 1b
@@ -23,11 +23,11 @@
 		uid: "0b338479",
 		type: "item",
 		items: [{
+			id: "thebetweenlands:christmas_on_the_marsh",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {},
 				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "thebetweenlands:christmas_on_the_marsh"
+			}
 		}],
 		ignore_damage: true,
 		ignore_nbt: 1b
@@ -37,11 +37,11 @@
 		type: "item",
 		disable_toast: true,
 		items: [{
+			id: "thebetweenlands:the_explorer",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {},
 				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "thebetweenlands:the_explorer"
+			}
 		}],
 		ignore_damage: true,
 		ignore_nbt: 1b
@@ -51,11 +51,11 @@
 		type: "item",
 		disable_toast: true,
 		items: [{
+			id: "thebetweenlands:hag_dance",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {},
 				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "thebetweenlands:hag_dance"
+			}
 		}],
 		ignore_damage: true,
 		ignore_nbt: 1b
@@ -65,11 +65,11 @@
 		type: "item",
 		disable_toast: true,
 		items: [{
+			id: "thebetweenlands:lonely_fire",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {},
 				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "thebetweenlands:lonely_fire"
+			}
 		}],
 		ignore_damage: true,
 		ignore_nbt: 1b
@@ -79,11 +79,11 @@
 		type: "item",
 		disable_toast: true,
 		items: [{
+			id: "thebetweenlands:mysterious_record",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {},
 				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "thebetweenlands:mysterious_record"
+			}
 		}],
 		ignore_damage: true,
 		ignore_nbt: 1b
@@ -93,11 +93,11 @@
 		type: "item",
 		disable_toast: true,
 		items: [{
+			id: "thebetweenlands:ancient",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {},
 				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "thebetweenlands:ancient"
+			}
 		}],
 		ignore_damage: true,
 		ignore_nbt: 1b
@@ -107,11 +107,11 @@
 		type: "item",
 		disable_toast: true,
 		items: [{
+			id: "thebetweenlands:beneath_a_green_sky",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {},
 				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "thebetweenlands:beneath_a_green_sky"
+			}
 		}],
 		ignore_damage: true,
 		ignore_nbt: 1b
@@ -121,11 +121,11 @@
 		type: "item",
 		disable_toast: true,
 		items: [{
+			id: "thebetweenlands:dj_wights_mixtape",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {},
 				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "thebetweenlands:dj_wights_mixtape"
+			}
 		}],
 		ignore_damage: true,
 		ignore_nbt: 1b
@@ -135,11 +135,11 @@
 		type: "item",
 		disable_toast: true,
 		items: [{
+			id: "thebetweenlands:onwards",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {},
 				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "thebetweenlands:onwards"
+			}
 		}],
 		ignore_damage: true,
 		ignore_nbt: 1b
@@ -149,11 +149,11 @@
 		type: "item",
 		disable_toast: true,
 		items: [{
+			id: "thebetweenlands:stuck_in_the_mud",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {},
 				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "thebetweenlands:stuck_in_the_mud"
+			}
 		}],
 		ignore_damage: true,
 		ignore_nbt: 1b
@@ -163,11 +163,11 @@
 		type: "item",
 		disable_toast: true,
 		items: [{
+			id: "thebetweenlands:wandering_wisps",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {},
 				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "thebetweenlands:wandering_wisps"
+			}
 		}],
 		ignore_damage: true,
 		ignore_nbt: 1b
@@ -177,11 +177,11 @@
 		type: "item",
 		disable_toast: true,
 		items: [{
+			id: "thebetweenlands:waterlogged",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {},
 				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "thebetweenlands:waterlogged"
+			}
 		}],
 		ignore_damage: true,
 		ignore_nbt: 1b
@@ -190,11 +190,11 @@
 		uid: "b090f25f",
 		type: "item",
 		items: [{
+			id: "thebetweenlands:astatos",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {},
 				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "thebetweenlands:astatos"
+			}
 		}],
 		ignore_damage: true,
 		ignore_nbt: 1b

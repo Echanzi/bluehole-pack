@@ -5,11 +5,10 @@
 		uid: "e1cd7416",
 		type: "item",
 		items: [{
+			id: "thebetweenlands:hag_hacker",
 			ForgeCaps: {
-				"wizardryutils:summoneditemdata": {},
-				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "thebetweenlands:hag_hacker"
+				"wizardryutils:summoneditemdata": {}
+			}
 		}],
 		ignore_damage: true,
 		ignore_nbt: 1b

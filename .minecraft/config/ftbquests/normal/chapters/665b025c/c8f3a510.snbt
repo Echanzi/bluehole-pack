@@ -6,21 +6,21 @@
 		uid: "99e1b4b1",
 		type: "item",
 		items: [{
+			id: "spartanweaponry:material",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "spartanweaponry:material"
+			}
 		}]
 	},
 	{
 		uid: "bea6f175",
 		type: "item",
 		items: [{
+			id: "spartanweaponry:material",
+			Damage: 1s,
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "spartanweaponry:material",
-			Damage: 1s
+			}
 		}]
 	}],
 	rewards: [{

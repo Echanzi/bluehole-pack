@@ -9,11 +9,11 @@
 		uid: "63bb115b",
 		type: "kill",
 		icon: {
+			id: "thebetweenlands:spirit_tree_face_large_mask",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {},
 				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "thebetweenlands:spirit_tree_face_large_mask"
+			}
 		},
 		entity: "thebetweenlands:spirit_tree_face_large",
 		value: 1L
@@ -27,10 +27,10 @@
 		uid: "b80aa263",
 		type: "item",
 		item: {
+			id: "chancecubes:chance_cube",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "chancecubes:chance_cube"
+			}
 		}
 	}]
 }

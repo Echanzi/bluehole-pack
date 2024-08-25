@@ -9,12 +9,12 @@
 		uid: "1d07d0b4",
 		type: "item",
 		items: [{
+			id: "spartanweaponry:crossbow_diamond",
+			tag: {},
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {},
 				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "spartanweaponry:crossbow_diamond",
-			tag: {}
+			}
 		}],
 		ignore_damage: true,
 		ignore_nbt: 1b

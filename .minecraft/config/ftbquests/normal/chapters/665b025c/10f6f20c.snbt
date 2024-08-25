@@ -12,10 +12,10 @@
 		uid: "d30a822d",
 		type: "item",
 		items: [{
+			id: "spartanweaponry:arrow_explosive",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "spartanweaponry:arrow_explosive"
+			}
 		}]
 	}],
 	rewards: [{

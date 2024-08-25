@@ -8,10 +8,10 @@
 		uid: "64db08af",
 		type: "item",
 		items: [{
+			id: "thebetweenlands:infuser",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "thebetweenlands:infuser"
+			}
 		}]
 	}],
 	rewards: [{

@@ -9,10 +9,6 @@
 		uid: "ad6d5cf3",
 		type: "item",
 		items: [{
-			ForgeCaps: {
-				"wizardryutils:summoneditemdata": {},
-				"astralsorcery:cap_item_amulet_holder": {}
-			},
 			id: "tombstone:grave_key",
 			tag: {
 				tombPosZ: 715,
@@ -20,6 +16,10 @@
 				tombPosX: 255,
 				tombPosD: 0,
 				enchant: 1b
+			},
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {},
+				"astralsorcery:cap_item_amulet_holder": {}
 			}
 		}],
 		ignore_damage: true,

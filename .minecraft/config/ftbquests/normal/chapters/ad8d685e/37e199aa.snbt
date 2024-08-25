@@ -6,10 +6,10 @@
 		uid: "54e443b0",
 		type: "item",
 		items: [{
+			id: "harvestcraft:groundtrap",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "harvestcraft:groundtrap"
+			}
 		}]
 	}],
 	rewards: [{

@@ -10,10 +10,10 @@
 		type: "observation",
 		title: "Look at the face of your own Spirit Tree",
 		icon: {
+			id: "thebetweenlands:sapling_spirit_tree",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "thebetweenlands:sapling_spirit_tree"
+			}
 		},
 		match_type: "entity_id",
 		match: "thebetweenlands:tamed_spirit_tree_face",
@@ -28,10 +28,10 @@
 		uid: "6cbc9000",
 		type: "item",
 		item: {
+			id: "chancecubes:chance_cube",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "chancecubes:chance_cube"
+			}
 		}
 	}]
 }

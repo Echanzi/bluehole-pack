@@ -1,10 +1,10 @@
 {
 	title: "I'M THE BIGGEST CHEST",
 	icon: {
+		id: "colossalchests:colossal_chest",
 		ForgeCaps: {
 			"wizardryutils:summoneditemdata": {}
-		},
-		id: "colossalchests:colossal_chest"
+		}
 	},
 	x: -9.5d,
 	y: 4.5d,
@@ -15,20 +15,20 @@
 		uid: "6069b270",
 		type: "item",
 		items: [{
+			id: "colossalchests:colossal_chest",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "colossalchests:colossal_chest"
+			}
 		}]
 	},
 	{
 		uid: "16f9caf8",
 		type: "item",
 		items: [{
+			id: "colossalchests:chest_wall",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "colossalchests:chest_wall"
+			}
 		}],
 		count: 3L
 	}],

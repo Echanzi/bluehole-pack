@@ -7,10 +7,10 @@
 		uid: "0cf930cf",
 		type: "observation",
 		icon: {
+			id: "minecraft:furnace",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "minecraft:furnace"
+			}
 		},
 		match_type: "entity_id",
 		match: "golems:golem_furnace",

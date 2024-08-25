@@ -8,11 +8,11 @@
 		uid: "7993b734",
 		type: "item",
 		items: [{
+			id: "vc:upgrades/item_upgrade_airship_balloon",
+			Damage: 1s,
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "vc:upgrades/item_upgrade_airship_balloon",
-			Damage: 1s
+			}
 		}],
 		ignore_nbt: 1b
 	}],
@@ -25,10 +25,10 @@
 		uid: "712294a7",
 		type: "item",
 		item: {
+			id: "vc:item_logic_chip",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "vc:item_logic_chip"
+			}
 		}
 	}]
 }

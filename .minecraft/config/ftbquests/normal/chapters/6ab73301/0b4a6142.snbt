@@ -9,10 +9,10 @@
 		uid: "e5c8eb11",
 		type: "item",
 		items: [{
+			id: "improvedbackpacks:blank_upgrade",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "improvedbackpacks:blank_upgrade"
+			}
 		}]
 	}],
 	rewards: [{

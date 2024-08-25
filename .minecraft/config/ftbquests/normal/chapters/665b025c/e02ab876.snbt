@@ -9,11 +9,11 @@
 		uid: "657f639d",
 		type: "item",
 		items: [{
+			id: "spartanlands:rapier_slimybone",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {},
 				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "spartanlands:rapier_slimybone"
+			}
 		}],
 		ignore_damage: true,
 		ignore_nbt: 1b

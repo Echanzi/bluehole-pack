@@ -9,10 +9,10 @@
 		uid: "53afa213",
 		type: "item",
 		items: [{
+			id: "minecraft:glowstone",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "minecraft:glowstone"
+			}
 		}]
 	}],
 	rewards: [{

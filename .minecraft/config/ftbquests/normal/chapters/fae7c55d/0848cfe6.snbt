@@ -12,10 +12,10 @@
 		uid: "09460a1f",
 		type: "item",
 		items: [{
+			id: "ebwizardry:identification_scroll",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "ebwizardry:identification_scroll"
+			}
 		}]
 	}],
 	rewards: [{

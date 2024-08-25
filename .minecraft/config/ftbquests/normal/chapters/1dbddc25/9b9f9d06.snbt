@@ -7,11 +7,11 @@
 		uid: "adb74ca9",
 		type: "kill",
 		icon: {
+			id: "mutantbeasts:endersoul_hand",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {},
 				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "mutantbeasts:endersoul_hand"
+			}
 		},
 		entity: "mutantbeasts:mutant_enderman",
 		value: 1L

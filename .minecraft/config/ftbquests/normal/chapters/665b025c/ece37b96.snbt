@@ -9,11 +9,11 @@
 		uid: "73dcf0d6",
 		type: "item",
 		items: [{
+			id: "spartanweaponry:halberd_iron",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {},
 				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "spartanweaponry:halberd_iron"
+			}
 		}],
 		ignore_damage: true,
 		ignore_nbt: 1b

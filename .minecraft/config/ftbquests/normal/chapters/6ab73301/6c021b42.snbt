@@ -23,20 +23,20 @@
 		uid: "0520d9a3",
 		type: "item",
 		item: {
+			id: "chancecubes:chance_cube",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "chancecubes:chance_cube"
+			}
 		}
 	},
 	{
 		uid: "5455bb38",
 		type: "item",
 		item: {
+			id: "netherex:ghast_queen_tear",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "netherex:ghast_queen_tear"
+			}
 		}
 	}]
 }

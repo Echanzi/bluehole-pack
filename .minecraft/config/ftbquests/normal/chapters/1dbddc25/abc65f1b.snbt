@@ -1,11 +1,11 @@
 {
 	title: "Head Hunter: Wither Skeleton",
 	icon: {
+		id: "minecraft:skull",
+		Damage: 1s,
 		ForgeCaps: {
 			"wizardryutils:summoneditemdata": {}
-		},
-		id: "minecraft:skull",
-		Damage: 1s
+		}
 	},
 	x: 1.5d,
 	y: -2.0d,
@@ -64,14 +64,14 @@
 		uid: "184585df",
 		type: "kill",
 		icon: {
-			ForgeCaps: {
-				"wizardryutils:summoneditemdata": {}
-			},
 			id: "minecraft:spawn_egg",
 			tag: {
 				EntityTag: {
 					id: "minecraft:wither_skeleton"
 				}
+			},
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
 			}
 		},
 		disable_toast: true,
@@ -82,11 +82,11 @@
 		uid: "cbd57a3c",
 		type: "choice",
 		icon: {
+			id: "minecraft:skull",
+			Damage: 1s,
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "minecraft:skull",
-			Damage: 1s
+			}
 		},
 		table: 2
 	}]

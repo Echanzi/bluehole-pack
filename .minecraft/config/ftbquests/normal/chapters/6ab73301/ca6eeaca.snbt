@@ -9,10 +9,10 @@
 		uid: "09e4741f",
 		type: "item",
 		items: [{
+			id: "bountifulbaubles:enderdragonscale",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "bountifulbaubles:enderdragonscale"
+			}
 		}]
 	}],
 	rewards: [{

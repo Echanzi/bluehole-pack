@@ -7,10 +7,10 @@
 		uid: "c408b363",
 		type: "item",
 		items: [{
+			id: "minecraft:armor_stand",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "minecraft:armor_stand"
+			}
 		}]
 	}],
 	rewards: [{

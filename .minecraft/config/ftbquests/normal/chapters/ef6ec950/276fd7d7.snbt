@@ -9,10 +9,10 @@
 		uid: "42874b2a",
 		type: "item",
 		items: [{
+			id: "thebetweenlands:aqua_middle_gem",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "thebetweenlands:aqua_middle_gem"
+			}
 		}]
 	}],
 	rewards: [{

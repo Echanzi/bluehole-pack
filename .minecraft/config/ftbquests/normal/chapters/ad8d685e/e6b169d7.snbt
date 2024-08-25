@@ -6,10 +6,10 @@
 		uid: "2075a5dc",
 		type: "item",
 		items: [{
+			id: "harvestcraft:veggiestripsitem",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "harvestcraft:veggiestripsitem"
+			}
 		}],
 		consume_items: true
 	}],

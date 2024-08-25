@@ -9,10 +9,10 @@
 		uid: "bf0bcddd",
 		type: "item",
 		items: [{
+			id: "minecraft:obsidian",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "minecraft:obsidian"
+			}
 		}]
 	}],
 	rewards: [{

@@ -9,10 +9,10 @@
 		uid: "98a1a1c8",
 		type: "item",
 		items: [{
+			id: "aether_legacy:enchanter",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "aether_legacy:enchanter"
+			}
 		}]
 	}],
 	rewards: [{

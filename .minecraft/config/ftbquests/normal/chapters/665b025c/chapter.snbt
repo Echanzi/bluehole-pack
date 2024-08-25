@@ -1,11 +1,11 @@
 {
 	title: "Advanced Weaponry",
 	icon: {
+		id: "minecraft:diamond_sword",
 		ForgeCaps: {
 			"wizardryutils:summoneditemdata": {},
 			"astralsorcery:cap_item_amulet_holder": {}
-		},
-		id: "minecraft:diamond_sword"
+		}
 	},
 	disable_toast: true,
 	always_invisible: false,

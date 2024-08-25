@@ -9,10 +9,10 @@
 		type: "observation",
 		title: "Find the Sludgeon",
 		icon: {
+			id: "thebetweenlands:mud_tower_beam_relay",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "thebetweenlands:mud_tower_beam_relay"
+			}
 		},
 		match_type: "block_id",
 		match: "thebetweenlands:mud_tower_beam_origin",

@@ -7,10 +7,10 @@
 		uid: "d471b2b4",
 		type: "observation",
 		icon: {
+			id: "zawa:grevys_zebra",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "zawa:grevys_zebra"
+			}
 		},
 		match_type: "entity_id",
 		match: "zawa:grevyszebra",

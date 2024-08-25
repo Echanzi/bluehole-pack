@@ -9,11 +9,11 @@
 		uid: "dff94f34",
 		type: "item",
 		items: [{
+			id: "spartanlands:dagger_valonite",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {},
 				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "spartanlands:dagger_valonite"
+			}
 		}],
 		ignore_damage: true,
 		ignore_nbt: 1b

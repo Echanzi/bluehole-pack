@@ -8,10 +8,10 @@
 		uid: "5fa2eb52",
 		type: "dimension",
 		icon: {
+			id: "tropicraft:sapling",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "tropicraft:sapling"
+			}
 		},
 		dim: -127
 	}],

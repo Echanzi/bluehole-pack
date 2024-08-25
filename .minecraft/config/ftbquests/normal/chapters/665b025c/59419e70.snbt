@@ -8,10 +8,10 @@
 		uid: "af527a92",
 		type: "item",
 		items: [{
+			id: "cgm:missile",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "cgm:missile"
+			}
 		}],
 		count: 2L
 	}],

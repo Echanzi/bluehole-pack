@@ -9,10 +9,10 @@
 		uid: "f7cfabd3",
 		type: "item",
 		items: [{
+			id: "minecraft:chest",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "minecraft:chest"
+			}
 		}]
 	}],
 	rewards: [{

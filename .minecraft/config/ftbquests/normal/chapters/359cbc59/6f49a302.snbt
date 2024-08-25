@@ -7,10 +7,10 @@
 		uid: "6a3fc3e7",
 		type: "observation",
 		icon: {
+			id: "zawa:cockatoo",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "zawa:cockatoo"
+			}
 		},
 		match_type: "entity_id",
 		match: "zawa:cockatoo",

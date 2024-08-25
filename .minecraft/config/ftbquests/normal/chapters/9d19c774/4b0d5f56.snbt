@@ -10,10 +10,10 @@
 		type: "item",
 		disable_toast: true,
 		items: [{
+			id: "iceandfire:dragon_bone_block",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "iceandfire:dragon_bone_block"
+			}
 		}],
 		count: 8L
 	},
@@ -22,10 +22,10 @@
 		type: "item",
 		disable_toast: true,
 		items: [{
+			id: "iceandfire:dragonforge_ice_brick",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "iceandfire:dragonforge_ice_brick"
+			}
 		}],
 		count: 17L
 	},
@@ -34,10 +34,10 @@
 		type: "item",
 		disable_toast: true,
 		items: [{
+			id: "iceandfire:dragonforge_ice_input",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "iceandfire:dragonforge_ice_input"
+			}
 		}]
 	},
 	{
@@ -45,10 +45,10 @@
 		type: "item",
 		disable_toast: true,
 		items: [{
+			id: "iceandfire:dragonforge_ice_core_disabled",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "iceandfire:dragonforge_ice_core_disabled"
+			}
 		}]
 	}],
 	rewards: [{

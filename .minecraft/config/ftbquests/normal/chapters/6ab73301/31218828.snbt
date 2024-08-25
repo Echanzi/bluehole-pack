@@ -1,10 +1,10 @@
 {
 	title: "Meat Mountain™",
 	icon: {
+		id: "harvestcraft:friedchickenitem",
 		ForgeCaps: {
 			"wizardryutils:summoneditemdata": {}
-		},
-		id: "harvestcraft:friedchickenitem"
+		}
 	},
 	x: -0.5d,
 	y: -2.5d,
@@ -24,14 +24,14 @@
 		uid: "dd4e3538",
 		type: "kill",
 		icon: {
-			ForgeCaps: {
-				"wizardryutils:summoneditemdata": {}
-			},
 			id: "minecraft:spawn_egg",
 			tag: {
 				EntityTag: {
 					id: "minecraft:cow"
 				}
+			},
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
 			}
 		},
 		entity: "minecraft:cow",

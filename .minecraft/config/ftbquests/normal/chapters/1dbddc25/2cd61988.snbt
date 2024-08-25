@@ -1,10 +1,8 @@
 {
 	title: "Head Hunter: Magma Slime",
 	icon: {
-		ForgeCaps: {
-			"wizardryutils:summoneditemdata": {}
-		},
 		id: "minecraft:skull",
+		Damage: 3s,
 		tag: {
 			SkullOwner: {
 				Id: "d14e8ee6-ed93-4e0e-8861-342b76e3fd37",
@@ -18,7 +16,9 @@
 				Name: "Magma Cube"
 			}
 		},
-		Damage: 3s
+		ForgeCaps: {
+			"wizardryutils:summoneditemdata": {}
+		}
 	},
 	x: 1.5d,
 	y: -3.0d,
@@ -54,14 +54,14 @@
 		uid: "2fd4d24a",
 		type: "kill",
 		icon: {
-			ForgeCaps: {
-				"wizardryutils:summoneditemdata": {}
-			},
 			id: "minecraft:spawn_egg",
 			tag: {
 				EntityTag: {
 					id: "minecraft:magma_cube"
 				}
+			},
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
 			}
 		},
 		disable_toast: true,

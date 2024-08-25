@@ -9,11 +9,11 @@
 		uid: "2492589f",
 		type: "item",
 		items: [{
+			id: "spartanlands:katana_weedwood",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {},
 				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "spartanlands:katana_weedwood"
+			}
 		}],
 		ignore_damage: true,
 		ignore_nbt: 1b

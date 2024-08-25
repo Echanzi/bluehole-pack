@@ -9,11 +9,11 @@
 		uid: "fefe5825",
 		type: "item",
 		items: [{
+			id: "spartanfire:staff_fire_dragonbone",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {},
 				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "spartanfire:staff_fire_dragonbone"
+			}
 		}],
 		ignore_damage: true,
 		ignore_nbt: 1b

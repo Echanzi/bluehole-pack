@@ -11,10 +11,10 @@
 		uid: "5bbdcfbc",
 		type: "kill",
 		icon: {
+			id: "thebetweenlands:chiromaw_wing",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "thebetweenlands:chiromaw_wing"
+			}
 		},
 		entity: "thebetweenlands:chiromaw",
 		value: 1L

@@ -9,11 +9,11 @@
 		uid: "26430d13",
 		type: "item",
 		items: [{
+			id: "spartanfire:longsword_desert",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {},
 				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "spartanfire:longsword_desert"
+			}
 		}],
 		ignore_damage: true,
 		ignore_nbt: 1b

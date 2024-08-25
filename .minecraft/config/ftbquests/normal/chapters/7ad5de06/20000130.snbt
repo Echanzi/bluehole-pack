@@ -1,10 +1,10 @@
 {
 	title: "Torrid Wasteland",
 	icon: {
+		id: "netherex:fiery_netherrack",
 		ForgeCaps: {
 			"wizardryutils:summoneditemdata": {}
-		},
-		id: "netherex:fiery_netherrack"
+		}
 	},
 	disable_toast: true,
 	x: -2.0d,

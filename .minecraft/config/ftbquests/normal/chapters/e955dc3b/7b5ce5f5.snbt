@@ -11,10 +11,10 @@
 		uid: "96ab2f3a",
 		type: "item",
 		items: [{
+			id: "minecraft:enchanted_book",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "minecraft:enchanted_book"
+			}
 		}],
 		count: 50L,
 		consume_items: true,
@@ -26,15 +26,15 @@
 		type: "item",
 		team_reward: true,
 		item: {
-			ForgeCaps: {
-				"wizardryutils:summoneditemdata": {}
-			},
 			id: "minecraft:enchanted_book",
 			tag: {
 				StoredEnchantments: [{
 					lvl: 1s,
 					id: 46s
 				}]
+			},
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
 			}
 		}
 	}]

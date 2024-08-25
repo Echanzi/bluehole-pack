@@ -13,10 +13,10 @@
 		type: "item",
 		disable_toast: true,
 		items: [{
+			id: "futuremc:blast_furnace",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "futuremc:blast_furnace"
+			}
 		}]
 	},
 	{
@@ -24,10 +24,10 @@
 		type: "item",
 		disable_toast: true,
 		items: [{
+			id: "futuremc:smoker",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "futuremc:smoker"
+			}
 		}]
 	}],
 	rewards: [{

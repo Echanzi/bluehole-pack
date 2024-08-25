@@ -6,10 +6,10 @@
 		uid: "9bbfd325",
 		type: "item",
 		items: [{
+			id: "harvestcraft:rootbeersodaitem",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "harvestcraft:rootbeersodaitem"
+			}
 		}]
 	}],
 	rewards: [{

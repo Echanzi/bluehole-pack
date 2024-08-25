@@ -1,11 +1,11 @@
 {
 	title: "Stone Beast of the Sky",
 	icon: {
+		id: "aether_legacy:dungeon_key",
 		ForgeCaps: {
 			"wizardryutils:summoneditemdata": {},
 			"astralsorcery:cap_item_amulet_holder": {}
-		},
-		id: "aether_legacy:dungeon_key"
+		}
 	},
 	x: 2.5d,
 	y: -2.0d,
@@ -18,11 +18,11 @@
 		type: "kill",
 		title: "Slay the Slider",
 		icon: {
+			id: "aether_legacy:zanite_pickaxe",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {},
 				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "aether_legacy:zanite_pickaxe"
+			}
 		},
 		entity: "aether_legacy:slider",
 		value: 1L
@@ -31,11 +31,11 @@
 		uid: "9414249b",
 		type: "item",
 		items: [{
+			id: "aether_legacy:dungeon_key",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {},
 				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "aether_legacy:dungeon_key"
+			}
 		}],
 		ignore_nbt: 1b
 	}],
@@ -48,10 +48,10 @@
 		uid: "b03cc516",
 		type: "item",
 		item: {
+			id: "chancecubes:chance_cube",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "chancecubes:chance_cube"
+			}
 		}
 	}]
 }

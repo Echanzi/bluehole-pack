@@ -7,10 +7,10 @@
 		uid: "5bfe2920",
 		type: "observation",
 		icon: {
+			id: "zawa:brown_rat",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "zawa:brown_rat"
+			}
 		},
 		match_type: "entity_id",
 		match: "zawa:brownrat",

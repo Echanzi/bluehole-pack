@@ -7,10 +7,10 @@
 		type: "item",
 		disable_toast: true,
 		items: [{
+			id: "grimoireofgaia:spawn_creeper_girl",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "grimoireofgaia:spawn_creeper_girl"
+			}
 		}]
 	},
 	{
@@ -18,10 +18,10 @@
 		type: "item",
 		disable_toast: true,
 		items: [{
+			id: "grimoireofgaia:spawn_slime_girl",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "grimoireofgaia:spawn_slime_girl"
+			}
 		}]
 	},
 	{
@@ -29,10 +29,10 @@
 		type: "item",
 		disable_toast: true,
 		items: [{
+			id: "grimoireofgaia:spawn_ender_girl",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "grimoireofgaia:spawn_ender_girl"
+			}
 		}]
 	},
 	{
@@ -40,10 +40,10 @@
 		type: "item",
 		disable_toast: true,
 		items: [{
+			id: "grimoireofgaia:spawn_trader",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "grimoireofgaia:spawn_trader"
+			}
 		}]
 	},
 	{
@@ -51,10 +51,10 @@
 		type: "item",
 		disable_toast: true,
 		items: [{
+			id: "grimoireofgaia:spawn_holstaurus",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "grimoireofgaia:spawn_holstaurus"
+			}
 		}]
 	},
 	{
@@ -62,10 +62,10 @@
 		type: "item",
 		disable_toast: true,
 		items: [{
+			id: "grimoireofgaia:spawn_weresheep",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "grimoireofgaia:spawn_weresheep"
+			}
 		}]
 	}],
 	rewards: [{

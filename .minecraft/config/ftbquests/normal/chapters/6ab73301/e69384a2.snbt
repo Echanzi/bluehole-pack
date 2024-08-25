@@ -9,11 +9,11 @@
 		uid: "0408432d",
 		type: "item",
 		items: [{
+			id: "audiocassettes:diamondaudiocassette",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {},
 				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "audiocassettes:diamondaudiocassette"
+			}
 		}],
 		ignore_damage: true,
 		ignore_nbt: 1b

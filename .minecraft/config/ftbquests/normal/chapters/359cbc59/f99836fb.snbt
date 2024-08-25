@@ -7,10 +7,10 @@
 		uid: "6c0fd9d8",
 		type: "observation",
 		icon: {
+			id: "minecraft:leaves",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "minecraft:leaves"
+			}
 		},
 		match_type: "entity_id",
 		match: "golems:golem_leaves",

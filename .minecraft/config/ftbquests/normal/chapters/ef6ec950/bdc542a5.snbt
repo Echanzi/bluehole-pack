@@ -8,10 +8,10 @@
 		uid: "b1936b2d",
 		type: "item",
 		items: [{
+			id: "thebetweenlands:compost_bin",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "thebetweenlands:compost_bin"
+			}
 		}]
 	}],
 	rewards: [{

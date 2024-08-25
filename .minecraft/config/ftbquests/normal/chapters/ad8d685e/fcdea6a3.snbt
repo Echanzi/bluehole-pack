@@ -6,10 +6,10 @@
 		uid: "e6dde78e",
 		type: "item",
 		items: [{
+			id: "harvestcraft:well",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "harvestcraft:well"
+			}
 		}]
 	}],
 	rewards: [{

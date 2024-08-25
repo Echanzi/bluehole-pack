@@ -9,11 +9,11 @@
 		uid: "c5283fea",
 		type: "item",
 		items: [{
+			id: "spartancompat:staff_zanite",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {},
 				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "spartancompat:staff_zanite"
+			}
 		}],
 		ignore_damage: true,
 		ignore_nbt: 1b

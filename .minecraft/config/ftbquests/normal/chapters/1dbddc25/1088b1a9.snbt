@@ -6,11 +6,11 @@
 		uid: "3643c775",
 		type: "kill",
 		icon: {
+			id: "mowziesmobs:wrought_axe",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {},
 				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "mowziesmobs:wrought_axe"
+			}
 		},
 		entity: "mowziesmobs:ferrous_wroughtnaut",
 		value: 1L

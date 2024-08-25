@@ -9,12 +9,12 @@
 		uid: "7de1db7c",
 		type: "item",
 		items: [{
+			id: "spartancompat:crossbow_holystone",
+			tag: {},
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {},
 				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "spartancompat:crossbow_holystone",
-			tag: {}
+			}
 		}],
 		ignore_damage: true,
 		ignore_nbt: 1b

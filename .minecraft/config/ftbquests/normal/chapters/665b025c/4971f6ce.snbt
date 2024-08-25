@@ -9,11 +9,11 @@
 		uid: "d984e852",
 		type: "item",
 		items: [{
+			id: "spartanfire:greatsword_desert",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {},
 				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "spartanfire:greatsword_desert"
+			}
 		}],
 		ignore_damage: true,
 		ignore_nbt: 1b

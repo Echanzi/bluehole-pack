@@ -12,10 +12,10 @@
 		uid: "fe4e3a2e",
 		type: "item",
 		items: [{
+			id: "harvestcraft:grubitem",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "harvestcraft:grubitem"
+			}
 		}],
 		count: 5L,
 		consume_items: true
@@ -24,10 +24,10 @@
 		uid: "9cd921eb",
 		type: "item",
 		items: [{
+			id: "biomesoplenty:honey_block",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "biomesoplenty:honey_block"
+			}
 		}],
 		count: 64L
 	},
@@ -35,10 +35,10 @@
 		uid: "9d79ca85",
 		type: "item",
 		items: [{
+			id: "harvestcraft:honey",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "harvestcraft:honey"
+			}
 		}],
 		count: 16L
 	}],
@@ -46,24 +46,24 @@
 		uid: "0692afdc",
 		type: "item",
 		item: {
+			id: "futuremc:bee_nest",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "futuremc:bee_nest"
+			}
 		}
 	},
 	{
 		uid: "1b1c18d6",
 		type: "item",
 		item: {
-			ForgeCaps: {
-				"wizardryutils:summoneditemdata": {}
-			},
 			id: "minecraft:spawn_egg",
 			tag: {
 				EntityTag: {
 					id: "futuremc:bee"
 				}
+			},
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
 			}
 		},
 		count: 3

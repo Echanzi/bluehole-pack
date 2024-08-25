@@ -9,11 +9,11 @@
 		uid: "bec1166f",
 		type: "item",
 		items: [{
+			id: "spartantwilight:parrying_dagger_knightly",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {},
 				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "spartantwilight:parrying_dagger_knightly"
+			}
 		}],
 		ignore_damage: true,
 		ignore_nbt: 1b

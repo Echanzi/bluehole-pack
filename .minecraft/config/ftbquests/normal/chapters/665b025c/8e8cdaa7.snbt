@@ -9,14 +9,14 @@
 		uid: "bdd7306c",
 		type: "item",
 		items: [{
+			id: "spartancompat:battleaxe_gravitite",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {},
 				"astralsorcery:cap_item_amulet_holder": {
 					AS_Amulet_HolderLeast: -6480113167060876494L,
 					AS_Amulet_HolderMost: 2911248940407866704L
 				}
-			},
-			id: "spartancompat:battleaxe_gravitite"
+			}
 		}],
 		ignore_damage: true,
 		ignore_nbt: 1b

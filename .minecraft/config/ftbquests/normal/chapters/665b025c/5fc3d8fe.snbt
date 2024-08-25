@@ -9,11 +9,11 @@
 		uid: "ad0759ab",
 		type: "item",
 		items: [{
+			id: "spartanfire:battleaxe_ice_dragonsteel",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {},
 				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "spartanfire:battleaxe_ice_dragonsteel"
+			}
 		}],
 		ignore_damage: true,
 		ignore_nbt: 1b

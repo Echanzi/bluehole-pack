@@ -1,10 +1,10 @@
 {
 	title: "Barbaric Transportation",
 	icon: {
+		id: "minecraft:minecart",
 		ForgeCaps: {
 			"wizardryutils:summoneditemdata": {}
-		},
-		id: "minecraft:minecart"
+		}
 	},
 	x: 4.0d,
 	y: 1.5d,
@@ -15,20 +15,20 @@
 		uid: "faa47824",
 		type: "item",
 		items: [{
+			id: "minecraft:minecart",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "minecraft:minecart"
+			}
 		}]
 	},
 	{
 		uid: "62b6e797",
 		type: "item",
 		items: [{
+			id: "minecraft:rail",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "minecraft:rail"
+			}
 		}],
 		count: 64L
 	}],

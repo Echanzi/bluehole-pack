@@ -9,10 +9,10 @@
 		uid: "ae3b1624",
 		type: "item",
 		items: [{
+			id: "minecraft:soul_sand",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "minecraft:soul_sand"
+			}
 		}]
 	}],
 	rewards: [{

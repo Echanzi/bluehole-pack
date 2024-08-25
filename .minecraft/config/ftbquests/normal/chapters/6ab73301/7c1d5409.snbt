@@ -12,11 +12,11 @@
 		uid: "9597849f",
 		type: "item",
 		items: [{
+			id: "minecraft:wooden_sword",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {},
 				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "minecraft:wooden_sword"
+			}
 		}],
 		ignore_damage: true,
 		ignore_nbt: 1b

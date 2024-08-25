@@ -7,10 +7,10 @@
 		uid: "6586ff31",
 		type: "observation",
 		icon: {
+			id: "minecraft:obsidian",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "minecraft:obsidian"
+			}
 		},
 		match_type: "entity_id",
 		match: "golems:golem_obsidian",

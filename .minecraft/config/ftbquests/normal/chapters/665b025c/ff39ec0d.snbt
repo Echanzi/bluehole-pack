@@ -9,11 +9,11 @@
 		uid: "d101bf94",
 		type: "item",
 		items: [{
+			id: "spartancompat:katana_holystone",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {},
 				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "spartancompat:katana_holystone"
+			}
 		}],
 		ignore_damage: true,
 		ignore_nbt: 1b

@@ -8,11 +8,11 @@
 		uid: "f878f264",
 		type: "item",
 		items: [{
+			id: "thebetweenlands:chiromaw_egg",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {},
 				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "thebetweenlands:chiromaw_egg"
+			}
 		}],
 		ignore_damage: true,
 		ignore_nbt: 1b

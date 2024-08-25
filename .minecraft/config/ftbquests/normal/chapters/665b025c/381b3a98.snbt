@@ -9,11 +9,11 @@
 		uid: "0b04ab40",
 		type: "item",
 		items: [{
+			id: "spartancompat:lance_gravitite",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {},
 				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "spartancompat:lance_gravitite"
+			}
 		}],
 		ignore_damage: true,
 		ignore_nbt: 1b

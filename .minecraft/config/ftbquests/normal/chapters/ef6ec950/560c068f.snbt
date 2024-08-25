@@ -10,11 +10,11 @@
 		uid: "30a2aa00",
 		type: "item",
 		items: [{
+			id: "thebetweenlands:lurker_skin_pouch",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {},
 				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "thebetweenlands:lurker_skin_pouch"
+			}
 		}],
 		ignore_damage: true,
 		ignore_nbt: 1b

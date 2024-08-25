@@ -6,10 +6,10 @@
 		uid: "ac3f187c",
 		type: "item",
 		items: [{
+			id: "ancientspellcraft:sphere_cognizance",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "ancientspellcraft:sphere_cognizance"
+			}
 		}]
 	}],
 	rewards: [{

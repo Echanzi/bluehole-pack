@@ -8,11 +8,11 @@
 		uid: "9f57cc73",
 		type: "item",
 		items: [{
+			id: "thebetweenlands:weedwood_rowboat",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {},
 				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "thebetweenlands:weedwood_rowboat"
+			}
 		}],
 		ignore_damage: true,
 		ignore_nbt: 1b

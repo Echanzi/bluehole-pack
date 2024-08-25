@@ -7,10 +7,10 @@
 		uid: "0bda5f19",
 		type: "observation",
 		icon: {
+			id: "zawa:red_kangaroo",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "zawa:red_kangaroo"
+			}
 		},
 		match_type: "entity_id",
 		match: "zawa:redkangaroo",

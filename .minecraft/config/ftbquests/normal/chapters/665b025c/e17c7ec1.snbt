@@ -9,11 +9,11 @@
 		uid: "b1034002",
 		type: "item",
 		items: [{
+			id: "spartantwilight:glaive_steeleaf",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {},
 				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "spartantwilight:glaive_steeleaf"
+			}
 		}],
 		ignore_damage: true,
 		ignore_nbt: 1b

@@ -11,10 +11,10 @@
 		uid: "156366a0",
 		type: "item",
 		items: [{
+			id: "audiocassettes:magnetictape",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "audiocassettes:magnetictape"
+			}
 		}]
 	}],
 	rewards: [{

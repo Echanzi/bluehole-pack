@@ -6,10 +6,10 @@
 		type: "observation",
 		title: "Climb the Wight Fortress",
 		icon: {
+			id: "thebetweenlands:item_cage",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "thebetweenlands:item_cage"
+			}
 		},
 		match_type: "block_id",
 		match: "thebetweenlands:item_cage",

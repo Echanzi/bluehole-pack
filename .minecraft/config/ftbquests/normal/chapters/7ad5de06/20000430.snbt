@@ -1,10 +1,10 @@
 {
 	title: "Marsh",
 	icon: {
+		id: "biomesoplenty:grass",
 		ForgeCaps: {
 			"wizardryutils:summoneditemdata": {}
-		},
-		id: "biomesoplenty:grass"
+		}
 	},
 	disable_toast: true,
 	x: -1.0d,

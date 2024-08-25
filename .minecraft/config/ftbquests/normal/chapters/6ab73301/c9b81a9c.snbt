@@ -12,6 +12,7 @@
 		uid: "c20eed44",
 		type: "item",
 		items: [{
+			id: "minecraft:elytra",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {},
 				"astralsorcery:cap_item_amulet_holder": {},
@@ -28,8 +29,7 @@
 					},
 					AreWingsDuplicates: 1b
 				}
-			},
-			id: "minecraft:elytra"
+			}
 		}],
 		ignore_damage: true,
 		ignore_nbt: 1b

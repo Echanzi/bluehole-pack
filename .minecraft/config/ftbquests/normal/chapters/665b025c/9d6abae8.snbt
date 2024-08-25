@@ -9,11 +9,11 @@
 		uid: "4b004730",
 		type: "item",
 		items: [{
+			id: "spartanfire:katana_dragonbone",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {},
 				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "spartanfire:katana_dragonbone"
+			}
 		}],
 		ignore_damage: true,
 		ignore_nbt: 1b

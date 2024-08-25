@@ -1,10 +1,10 @@
 {
 	title: "Tropical Serenity",
 	icon: {
+		id: "harvestcraft:tropicalgarden",
 		ForgeCaps: {
 			"wizardryutils:summoneditemdata": {}
-		},
-		id: "harvestcraft:tropicalgarden"
+		}
 	},
 	always_invisible: false,
 	group: 0,

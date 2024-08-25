@@ -9,11 +9,11 @@
 		uid: "a2fe4491",
 		type: "item",
 		items: [{
+			id: "spartanlands:lance_slimybone",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {},
 				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "spartanlands:lance_slimybone"
+			}
 		}],
 		ignore_damage: true,
 		ignore_nbt: 1b

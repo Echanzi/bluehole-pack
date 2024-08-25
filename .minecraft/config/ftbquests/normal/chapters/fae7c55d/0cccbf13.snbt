@@ -6,12 +6,12 @@
 		uid: "5419fa71",
 		type: "item",
 		items: [{
-			ForgeCaps: {
-				"wizardryutils:summoneditemdata": {}
-			},
 			id: "ebwizardry:magic_crystal",
 			tag: {
 				reforgeCost: 318
+			},
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
 			}
 		}],
 		ignore_nbt: 1b

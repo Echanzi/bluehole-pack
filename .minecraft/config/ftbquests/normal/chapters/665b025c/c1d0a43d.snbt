@@ -9,11 +9,11 @@
 		uid: "37809ffb",
 		type: "item",
 		items: [{
+			id: "spartanlands:longsword_octine",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {},
 				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "spartanlands:longsword_octine"
+			}
 		}],
 		ignore_damage: true,
 		ignore_nbt: 1b

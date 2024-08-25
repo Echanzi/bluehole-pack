@@ -7,10 +7,10 @@
 		uid: "ce547f87",
 		type: "observation",
 		icon: {
+			id: "zawa:great_horned_owl",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "zawa:great_horned_owl"
+			}
 		},
 		match_type: "entity_id",
 		match: "zawa:greathornedowl",

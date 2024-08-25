@@ -1,11 +1,11 @@
 {
 	title: "The Second Ghast Queen",
 	icon: {
+		id: "twilightforest:trophy",
+		Damage: 3s,
 		ForgeCaps: {
 			"wizardryutils:summoneditemdata": {}
-		},
-		id: "twilightforest:trophy",
-		Damage: 3s
+		}
 	},
 	x: 8.0d,
 	y: -0.5d,
@@ -16,18 +16,18 @@
 		uid: "92952cae",
 		type: "item",
 		icon: {
+			id: "twilightforest:trophy",
+			Damage: 3s,
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "twilightforest:trophy",
-			Damage: 3s
+			}
 		},
 		disable_toast: true,
 		items: [{
+			id: "twilightforest:fiery_tears",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "twilightforest:fiery_tears"
+			}
 		}]
 	},
 	{
@@ -41,10 +41,10 @@
 		uid: "d9ced825",
 		type: "item",
 		item: {
+			id: "twilightforest:fiery_tears",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "twilightforest:fiery_tears"
+			}
 		}
 	},
 	{
@@ -56,10 +56,10 @@
 		uid: "8a3854d9",
 		type: "item",
 		item: {
+			id: "chancecubes:chance_cube",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "chancecubes:chance_cube"
+			}
 		}
 	}]
 }

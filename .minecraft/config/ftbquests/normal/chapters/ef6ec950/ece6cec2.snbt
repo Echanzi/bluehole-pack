@@ -8,10 +8,10 @@
 		uid: "26e512bf",
 		type: "item",
 		items: [{
+			id: "thebetweenlands:censer",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "thebetweenlands:censer"
+			}
 		}]
 	}],
 	rewards: [{

@@ -9,12 +9,12 @@
 		uid: "3cab22fc",
 		type: "item",
 		items: [{
+			id: "spartanfire:crossbow_ice_dragonsteel",
+			tag: {},
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {},
 				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "spartanfire:crossbow_ice_dragonsteel",
-			tag: {}
+			}
 		}],
 		ignore_damage: true,
 		ignore_nbt: 1b

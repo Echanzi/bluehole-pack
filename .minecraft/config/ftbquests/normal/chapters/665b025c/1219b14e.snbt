@@ -9,11 +9,11 @@
 		uid: "6ec9bbe9",
 		type: "item",
 		items: [{
+			id: "spartanlands:lance_valonite",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {},
 				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "spartanlands:lance_valonite"
+			}
 		}],
 		ignore_damage: true,
 		ignore_nbt: 1b

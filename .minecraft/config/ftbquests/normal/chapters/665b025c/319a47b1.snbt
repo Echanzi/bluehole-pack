@@ -9,11 +9,11 @@
 		uid: "6c61fb97",
 		type: "item",
 		items: [{
+			id: "spartancompat:halberd_skyroot",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {},
 				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "spartancompat:halberd_skyroot"
+			}
 		}],
 		ignore_damage: true,
 		ignore_nbt: 1b

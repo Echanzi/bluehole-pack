@@ -9,11 +9,11 @@
 		uid: "c1028832",
 		type: "item",
 		items: [{
+			id: "spartanlands:greatsword_weedwood",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {},
 				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "spartanlands:greatsword_weedwood"
+			}
 		}],
 		ignore_damage: true,
 		ignore_nbt: 1b

@@ -1,12 +1,12 @@
 {
 	title: "Warrior of Dawn",
 	icon: {
+		id: "aether_legacy:dungeon_key",
+		Damage: 2s,
 		ForgeCaps: {
 			"wizardryutils:summoneditemdata": {},
 			"astralsorcery:cap_item_amulet_holder": {}
-		},
-		id: "aether_legacy:dungeon_key",
-		Damage: 2s
+		}
 	},
 	x: 5.5d,
 	y: -2.0d,
@@ -18,11 +18,11 @@
 		type: "kill",
 		title: "Slay the Sun Spirit",
 		icon: {
+			id: "aether_legacy:gravitite_sword",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {},
 				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "aether_legacy:gravitite_sword"
+			}
 		},
 		entity: "aether_legacy:sun_spirit",
 		value: 1L
@@ -31,12 +31,12 @@
 		uid: "7359cbf6",
 		type: "item",
 		items: [{
+			id: "aether_legacy:dungeon_key",
+			Damage: 2s,
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {},
 				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "aether_legacy:dungeon_key",
-			Damage: 2s
+			}
 		}],
 		ignore_nbt: 1b
 	}],
@@ -49,10 +49,10 @@
 		uid: "864d1f18",
 		type: "item",
 		item: {
+			id: "chancecubes:chance_cube",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "chancecubes:chance_cube"
+			}
 		}
 	}]
 }

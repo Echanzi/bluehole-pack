@@ -9,11 +9,11 @@
 		uid: "90a14a88",
 		type: "item",
 		items: [{
+			id: "spartantwilight:spear_ironwood",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {},
 				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "spartantwilight:spear_ironwood"
+			}
 		}],
 		ignore_damage: true,
 		ignore_nbt: 1b

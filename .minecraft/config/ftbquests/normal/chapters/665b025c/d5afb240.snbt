@@ -6,10 +6,10 @@
 		uid: "5573de76",
 		type: "item",
 		items: [{
+			id: "cgm:workbench",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "cgm:workbench"
+			}
 		}]
 	}],
 	rewards: [{

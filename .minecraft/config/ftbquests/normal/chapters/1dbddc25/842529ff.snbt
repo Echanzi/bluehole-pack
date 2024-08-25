@@ -10,16 +10,16 @@
 		uid: "f5b431d5",
 		type: "kill",
 		icon: {
-			ForgeCaps: {
-				"wizardryutils:summoneditemdata": {},
-				"astralsorcery:cap_item_amulet_holder": {}
-			},
 			id: "thebetweenlands:shockwave_sword",
 			tag: {
 				ench: [{
 					lvl: 2,
 					id: 3
 				}]
+			},
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {},
+				"astralsorcery:cap_item_amulet_holder": {}
 			}
 		},
 		entity: "thebetweenlands:fortress_boss",

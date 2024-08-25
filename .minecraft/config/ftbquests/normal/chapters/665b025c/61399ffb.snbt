@@ -9,11 +9,11 @@
 		uid: "2d0a554c",
 		type: "item",
 		items: [{
+			id: "spartanweaponry:longsword_stone",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {},
 				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "spartanweaponry:longsword_stone"
+			}
 		}],
 		ignore_damage: true,
 		ignore_nbt: 1b

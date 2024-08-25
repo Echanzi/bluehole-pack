@@ -9,11 +9,11 @@
 		uid: "33cbcf10",
 		type: "item",
 		items: [{
+			id: "spartantwilight:greatsword_fiery",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {},
 				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "spartantwilight:greatsword_fiery"
+			}
 		}],
 		ignore_damage: true,
 		ignore_nbt: 1b

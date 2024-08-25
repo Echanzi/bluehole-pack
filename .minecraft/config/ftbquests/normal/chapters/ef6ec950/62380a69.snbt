@@ -13,10 +13,10 @@
 		type: "dimension",
 		title: "Visit the Betweenlands",
 		icon: {
+			id: "thebetweenlands:sapling_weedwood",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "thebetweenlands:sapling_weedwood"
+			}
 		},
 		dim: 20
 	}],

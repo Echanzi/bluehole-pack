@@ -9,11 +9,11 @@
 		uid: "5b29409d",
 		type: "item",
 		items: [{
+			id: "spartanfire:rapier_desert",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {},
 				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "spartanfire:rapier_desert"
+			}
 		}],
 		ignore_damage: true,
 		ignore_nbt: 1b

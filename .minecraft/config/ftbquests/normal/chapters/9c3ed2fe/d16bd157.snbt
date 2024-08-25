@@ -9,10 +9,10 @@
 		uid: "4781f6b6",
 		type: "item",
 		items: [{
+			id: "aether_legacy:skyroot_bucket",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "aether_legacy:skyroot_bucket"
+			}
 		}]
 	}],
 	rewards: [{

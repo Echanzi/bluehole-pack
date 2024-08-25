@@ -7,10 +7,10 @@
 		uid: "17130a37",
 		type: "observation",
 		icon: {
+			id: "minecraft:nether_brick",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "minecraft:nether_brick"
+			}
 		},
 		match_type: "entity_id",
 		match: "golems:golem_nether_brick",

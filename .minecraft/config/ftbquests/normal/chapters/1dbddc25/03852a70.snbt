@@ -7,11 +7,11 @@
 		uid: "1a0de3f1",
 		type: "kill",
 		icon: {
+			id: "mutantbeasts:hulk_hammer",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {},
 				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "mutantbeasts:hulk_hammer"
+			}
 		},
 		entity: "mutantbeasts:mutant_zombie",
 		value: 1L

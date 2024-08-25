@@ -10,11 +10,11 @@
 		uid: "685c45bf",
 		type: "kill",
 		icon: {
+			id: "twilightforest:trophy",
+			Damage: 5s,
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "twilightforest:trophy",
-			Damage: 5s
+			}
 		},
 		entity: "twilightforest:snow_queen",
 		value: 1L

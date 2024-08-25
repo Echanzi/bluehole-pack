@@ -9,11 +9,11 @@
 		uid: "d0c110ec",
 		type: "item",
 		items: [{
+			id: "spartanfire:mace_desert",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {},
 				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "spartanfire:mace_desert"
+			}
 		}],
 		ignore_damage: true,
 		ignore_nbt: 1b

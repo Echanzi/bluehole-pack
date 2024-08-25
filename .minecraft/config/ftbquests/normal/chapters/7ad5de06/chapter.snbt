@@ -1,10 +1,10 @@
 {
 	title: "Explore (biomes)",
 	icon: {
+		id: "biomesoplenty:earth",
 		ForgeCaps: {
 			"wizardryutils:summoneditemdata": {}
-		},
-		id: "biomesoplenty:earth"
+		}
 	},
 	always_invisible: false,
 	group: 0,

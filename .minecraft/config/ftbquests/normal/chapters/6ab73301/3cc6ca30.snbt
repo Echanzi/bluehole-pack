@@ -9,11 +9,11 @@
 		uid: "10a6181a",
 		type: "item",
 		items: [{
+			id: "bountifulbaubles:wormholemirror",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {},
 				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "bountifulbaubles:wormholemirror"
+			}
 		}],
 		ignore_damage: true,
 		ignore_nbt: 1b

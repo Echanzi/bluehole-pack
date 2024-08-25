@@ -1,10 +1,8 @@
 {
 	title: "Head Hunter: Ghast",
 	icon: {
-		ForgeCaps: {
-			"wizardryutils:summoneditemdata": {}
-		},
 		id: "minecraft:skull",
+		Damage: 3s,
 		tag: {
 			SkullOwner: {
 				Id: "f2548d92-ec1e-472c-b382-e28a0befdb2d",
@@ -18,7 +16,9 @@
 				Name: "Ghast"
 			}
 		},
-		Damage: 3s
+		ForgeCaps: {
+			"wizardryutils:summoneditemdata": {}
+		}
 	},
 	x: 1.0d,
 	y: -1.0d,
@@ -62,14 +62,14 @@
 		uid: "5f276d4e",
 		type: "kill",
 		icon: {
-			ForgeCaps: {
-				"wizardryutils:summoneditemdata": {}
-			},
 			id: "minecraft:spawn_egg",
 			tag: {
 				EntityTag: {
 					id: "minecraft:ghast"
 				}
+			},
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
 			}
 		},
 		disable_toast: true,

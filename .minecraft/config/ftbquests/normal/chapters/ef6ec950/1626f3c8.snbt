@@ -8,11 +8,11 @@
 		uid: "2fe4eb6f",
 		type: "item",
 		items: [{
+			id: "thebetweenlands:amulet_slot",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {},
 				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "thebetweenlands:amulet_slot"
+			}
 		}],
 		ignore_damage: true,
 		ignore_nbt: 1b

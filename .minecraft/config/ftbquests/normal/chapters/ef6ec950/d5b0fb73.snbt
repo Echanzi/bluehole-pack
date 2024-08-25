@@ -8,10 +8,10 @@
 		uid: "4c7d7e42",
 		type: "item",
 		items: [{
+			id: "thebetweenlands:chiromaw_wing",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "thebetweenlands:chiromaw_wing"
+			}
 		}]
 	}],
 	rewards: [{

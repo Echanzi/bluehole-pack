@@ -5,11 +5,10 @@
 		uid: "82aa8cf8",
 		type: "item",
 		items: [{
+			id: "harvestcraft:cuttingboarditem",
 			ForgeCaps: {
-				"wizardryutils:summoneditemdata": {},
-				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "harvestcraft:cuttingboarditem"
+				"wizardryutils:summoneditemdata": {}
+			}
 		}],
 		ignore_damage: true,
 		ignore_nbt: 1b

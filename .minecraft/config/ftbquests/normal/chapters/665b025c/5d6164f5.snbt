@@ -9,11 +9,11 @@
 		uid: "13ffd39c",
 		type: "item",
 		items: [{
+			id: "spartanweaponry:dagger_diamond",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {},
 				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "spartanweaponry:dagger_diamond"
+			}
 		}],
 		ignore_damage: true,
 		ignore_nbt: 1b

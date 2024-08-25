@@ -9,17 +9,16 @@
 		uid: "ace40b9d",
 		type: "item",
 		items: [{
-			ForgeCaps: {
-				"wizardryutils:summoneditemdata": {},
-				Parent: {
-					Size: 9,
-					Items: []
-				},
-				"astralsorcery:cap_item_amulet_holder": {}
-			},
 			id: "spartanweaponry:quiver_arrow_heavy",
 			tag: {
 				ClientInventory: []
+			},
+			ForgeCaps: {
+				Parent: {
+					Items: [],
+					Size: 9
+				},
+				"wizardryutils:summoneditemdata": {}
 			}
 		}],
 		ignore_damage: true,

@@ -6,10 +6,10 @@
 		uid: "28989316",
 		type: "kill",
 		icon: {
+			id: "mowziesmobs:grant_suns_blessing",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "mowziesmobs:grant_suns_blessing"
+			}
 		},
 		entity: "mowziesmobs:barako",
 		value: 1L

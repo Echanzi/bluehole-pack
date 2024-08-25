@@ -8,10 +8,10 @@
 		uid: "cf8e121f",
 		type: "item",
 		items: [{
+			id: "minecraft:bucket",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "minecraft:bucket"
+			}
 		}]
 	}],
 	rewards: [{

@@ -9,11 +9,11 @@
 		uid: "0bfaf63b",
 		type: "item",
 		items: [{
+			id: "spartancompat:longsword_zanite",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {},
 				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "spartancompat:longsword_zanite"
+			}
 		}],
 		ignore_damage: true,
 		ignore_nbt: 1b

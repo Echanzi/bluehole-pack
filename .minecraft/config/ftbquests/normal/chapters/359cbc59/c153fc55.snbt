@@ -7,10 +7,10 @@
 		uid: "97e74eb0",
 		type: "observation",
 		icon: {
+			id: "zawa:zoo_keeper",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "zawa:zoo_keeper"
+			}
 		},
 		match_type: "entity_id",
 		match: "zawa:zookeeper",

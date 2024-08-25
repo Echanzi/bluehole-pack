@@ -9,11 +9,11 @@
 		uid: "7f2a8175",
 		type: "item",
 		items: [{
+			id: "spartanfire:katana_jungle",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {},
 				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "spartanfire:katana_jungle"
+			}
 		}],
 		ignore_damage: true,
 		ignore_nbt: 1b

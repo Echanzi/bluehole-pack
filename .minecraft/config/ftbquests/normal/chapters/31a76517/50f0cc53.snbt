@@ -6,10 +6,10 @@
 		uid: "9c75adda",
 		type: "item",
 		items: [{
+			id: "tropicraft:coconut_bomb",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "tropicraft:coconut_bomb"
+			}
 		}]
 	}],
 	rewards: [{

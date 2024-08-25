@@ -7,10 +7,10 @@
 		uid: "d38dc03c",
 		type: "observation",
 		icon: {
+			id: "zawa:koala",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "zawa:koala"
+			}
 		},
 		match_type: "entity_id",
 		match: "zawa:koala",

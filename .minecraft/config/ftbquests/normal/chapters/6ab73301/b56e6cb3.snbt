@@ -12,12 +12,12 @@
 		uid: "eb91e01c",
 		type: "kill",
 		icon: {
+			id: "spartanweaponry:crossbow_wood",
+			tag: {},
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {},
 				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "spartanweaponry:crossbow_wood",
-			tag: {}
+			}
 		},
 		entity: "raids:pillager",
 		value: 5L

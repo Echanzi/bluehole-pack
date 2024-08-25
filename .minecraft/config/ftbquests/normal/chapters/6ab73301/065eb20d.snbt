@@ -9,10 +9,10 @@
 		uid: "e248abae",
 		type: "item",
 		items: [{
+			id: "quark:biotite",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "quark:biotite"
+			}
 		}]
 	}],
 	rewards: [{

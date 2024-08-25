@@ -1,17 +1,17 @@
 {
 	disable_toast: true,
 	x: 6.5d,
-	y: -3.0d,
+	y: -2.0d,
 	can_repeat: true,
 	tasks: [{
 		uid: "b70e50ba",
 		type: "kill",
 		icon: {
+			id: "cqrepoured:staff_vampiric",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {},
 				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "cqrepoured:staff_vampiric"
+			}
 		},
 		entity: "cqrepoured:necromancer",
 		value: 1L

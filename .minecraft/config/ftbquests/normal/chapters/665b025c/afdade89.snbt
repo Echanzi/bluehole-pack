@@ -9,11 +9,11 @@
 		uid: "bd95f173",
 		type: "item",
 		items: [{
+			id: "spartanlands:battleaxe_slimybone",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {},
 				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "spartanlands:battleaxe_slimybone"
+			}
 		}],
 		ignore_damage: true,
 		ignore_nbt: 1b

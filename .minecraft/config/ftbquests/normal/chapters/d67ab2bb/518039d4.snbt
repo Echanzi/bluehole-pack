@@ -6,11 +6,10 @@
 		type: "item",
 		disable_toast: true,
 		items: [{
+			id: "tropicraft:pink_scuba_goggles",
 			ForgeCaps: {
-				"wizardryutils:summoneditemdata": {},
-				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "tropicraft:pink_scuba_goggles"
+				"wizardryutils:summoneditemdata": {}
+			}
 		}],
 		ignore_damage: true,
 		ignore_nbt: 1b
@@ -20,11 +19,10 @@
 		type: "item",
 		disable_toast: true,
 		items: [{
+			id: "tropicraft:pink_chestplate_gear",
 			ForgeCaps: {
-				"wizardryutils:summoneditemdata": {},
-				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "tropicraft:pink_chestplate_gear"
+				"wizardryutils:summoneditemdata": {}
+			}
 		}],
 		ignore_nbt: 1b
 	},
@@ -33,11 +31,10 @@
 		type: "item",
 		disable_toast: true,
 		items: [{
+			id: "tropicraft:pink_flippers",
 			ForgeCaps: {
-				"wizardryutils:summoneditemdata": {},
-				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "tropicraft:pink_flippers"
+				"wizardryutils:summoneditemdata": {}
+			}
 		}],
 		ignore_damage: true,
 		ignore_nbt: 1b

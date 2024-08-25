@@ -8,10 +8,10 @@
 		uid: "c27a4a1f",
 		type: "item",
 		items: [{
+			id: "improvedbackpacks:upgrade",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "improvedbackpacks:upgrade"
+			}
 		}]
 	}],
 	rewards: [{

@@ -8,12 +8,12 @@
 		uid: "be2ce450",
 		type: "item",
 		items: [{
+			id: "iceandfire:dragonarmor_dragonsteel_fire",
+			Damage: 2s,
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {},
 				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "iceandfire:dragonarmor_dragonsteel_fire",
-			Damage: 2s
+			}
 		}],
 		ignore_nbt: 1b
 	}],

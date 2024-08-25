@@ -9,10 +9,10 @@
 		uid: "e493beac",
 		type: "item",
 		items: [{
+			id: "harvestcraft:vinegaritem",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "harvestcraft:vinegaritem"
+			}
 		}]
 	}],
 	rewards: [{

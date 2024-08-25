@@ -8,10 +8,10 @@
 		uid: "c4a7cf63",
 		type: "item",
 		items: [{
+			id: "thebetweenlands:purifier",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "thebetweenlands:purifier"
+			}
 		}]
 	}],
 	rewards: [{

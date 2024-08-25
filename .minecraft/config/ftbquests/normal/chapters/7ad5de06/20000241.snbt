@@ -1,10 +1,10 @@
 {
 	title: "TROPICS_RAINFOREST_ISLAND_MOUNTAINS",
 	icon: {
+		id: "minecraft:grass",
 		ForgeCaps: {
 			"wizardryutils:summoneditemdata": {}
-		},
-		id: "minecraft:grass"
+		}
 	},
 	disable_toast: true,
 	x: 2.0d,

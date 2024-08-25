@@ -9,11 +9,11 @@
 		uid: "6f297005",
 		type: "item",
 		items: [{
+			id: "spartanfire:greatsword_ice_dragonsteel",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {},
 				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "spartanfire:greatsword_ice_dragonsteel"
+			}
 		}],
 		ignore_damage: true,
 		ignore_nbt: 1b

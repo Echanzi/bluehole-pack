@@ -6,21 +6,21 @@
 		uid: "6e2286f1",
 		type: "item",
 		items: [{
+			id: "harvestcraft:apiary",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "harvestcraft:apiary"
+			}
 		}]
 	}],
 	rewards: [{
 		uid: "0a570151",
 		type: "item",
 		item: {
+			id: "harvestcraft:queenbeeitem",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {},
 				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "harvestcraft:queenbeeitem"
+			}
 		}
 	}]
 }

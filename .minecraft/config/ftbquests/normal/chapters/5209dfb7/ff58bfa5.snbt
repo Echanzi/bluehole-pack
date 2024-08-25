@@ -10,11 +10,11 @@
 		type: "item",
 		disable_toast: true,
 		items: [{
+			id: "twilightforest:seeker_bow",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {},
 				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "twilightforest:seeker_bow"
+			}
 		}],
 		ignore_damage: true,
 		ignore_nbt: 1b
@@ -24,11 +24,11 @@
 		type: "item",
 		disable_toast: true,
 		items: [{
+			id: "twilightforest:ender_bow",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {},
 				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "twilightforest:ender_bow"
+			}
 		}],
 		ignore_damage: true,
 		ignore_nbt: 1b
@@ -38,11 +38,11 @@
 		type: "item",
 		disable_toast: true,
 		items: [{
+			id: "twilightforest:ice_bow",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {},
 				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "twilightforest:ice_bow"
+			}
 		}],
 		ignore_damage: true,
 		ignore_nbt: 1b
@@ -52,11 +52,11 @@
 		type: "item",
 		disable_toast: true,
 		items: [{
+			id: "twilightforest:triple_bow",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {},
 				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "twilightforest:triple_bow"
+			}
 		}],
 		ignore_damage: true,
 		ignore_nbt: 1b

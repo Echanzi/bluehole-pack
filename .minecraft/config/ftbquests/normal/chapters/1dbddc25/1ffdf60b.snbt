@@ -1,0 +1,22 @@
+{
+	x: 7.0d,
+	y: -3.0d,
+	can_repeat: true,
+	tasks: [{
+		uid: "2d221a39",
+		type: "kill",
+		icon: {
+			id: "treasure2:spider_chest",
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			}
+		},
+		entity: "cqrepoured:giant_spider",
+		value: 1L
+	}],
+	rewards: [{
+		uid: "1b96e79a",
+		type: "ftbmoney:money",
+		ftb_money: 200L
+	}]
+}

@@ -9,11 +9,11 @@
 		uid: "1978135f",
 		type: "item",
 		items: [{
+			id: "simplemagnets:basicmagnet",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {},
 				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "simplemagnets:basicmagnet"
+			}
 		}],
 		ignore_damage: true,
 		ignore_nbt: 1b

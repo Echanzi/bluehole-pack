@@ -9,10 +9,10 @@
 		uid: "7c67bf9a",
 		type: "observation",
 		icon: {
+			id: "thebetweenlands:nesting_block_sticks",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "thebetweenlands:nesting_block_sticks"
+			}
 		},
 		match_type: "block_id",
 		match: "thebetweenlands:nesting_block_sticks",

@@ -1,11 +1,11 @@
 {
 	title: "Bluehole ",
 	icon: {
+		id: "minecraft:water_bucket",
 		ForgeCaps: {
 			"wizardryutils:summoneditemdata": {},
 			"astralsorcery:cap_item_amulet_holder": {}
-		},
-		id: "minecraft:water_bucket"
+		}
 	},
 	always_invisible: false,
 	group: 0,

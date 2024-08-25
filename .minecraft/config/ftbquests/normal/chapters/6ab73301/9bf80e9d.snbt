@@ -10,11 +10,11 @@
 		type: "item",
 		disable_toast: true,
 		items: [{
+			id: "aquaculture:loot",
+			Damage: 5s,
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "aquaculture:loot",
-			Damage: 5s
+			}
 		}]
 	},
 	{
@@ -22,11 +22,11 @@
 		type: "item",
 		disable_toast: true,
 		items: [{
+			id: "aquaculture:loot",
+			Damage: 4s,
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "aquaculture:loot",
-			Damage: 4s
+			}
 		}]
 	}],
 	rewards: [{

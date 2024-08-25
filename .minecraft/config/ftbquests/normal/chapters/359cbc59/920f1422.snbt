@@ -7,10 +7,10 @@
 		uid: "398773c7",
 		type: "observation",
 		icon: {
+			id: "minecraft:red_mushroom_block",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "minecraft:red_mushroom_block"
+			}
 		},
 		match_type: "entity_id",
 		match: "golems:golem_shroom",

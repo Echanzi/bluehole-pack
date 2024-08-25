@@ -8,11 +8,11 @@
 		uid: "78ad6b2a",
 		type: "item",
 		items: [{
+			id: "improvedbackpacks:upgrade",
+			Damage: 1s,
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "improvedbackpacks:upgrade",
-			Damage: 1s
+			}
 		}]
 	}],
 	rewards: [{

@@ -10,11 +10,11 @@
 		type: "item",
 		disable_toast: true,
 		items: [{
+			id: "biomesoplenty:mushroom",
+			Damage: 3s,
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "biomesoplenty:mushroom",
-			Damage: 3s
+			}
 		}]
 	},
 	{
@@ -22,11 +22,11 @@
 		type: "item",
 		disable_toast: true,
 		items: [{
+			id: "biomesoplenty:flower_1",
+			Damage: 3s,
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "biomesoplenty:flower_1",
-			Damage: 3s
+			}
 		}]
 	},
 	{
@@ -34,10 +34,10 @@
 		type: "item",
 		disable_toast: true,
 		items: [{
+			id: "quark:glowshroom",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "quark:glowshroom"
+			}
 		}]
 	},
 	{
@@ -46,24 +46,24 @@
 		title: "Cave Root Sprout",
 		disable_toast: true,
 		items: [{
+			id: "quark:root_flower",
+			Damage: 2s,
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "quark:root_flower",
-			Damage: 2s
+			}
 		},
 		{
+			id: "quark:root_flower",
+			Damage: 1s,
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "quark:root_flower",
-			Damage: 1s
+			}
 		},
 		{
+			id: "quark:root_flower",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "quark:root_flower"
+			}
 		}]
 	}],
 	rewards: [{

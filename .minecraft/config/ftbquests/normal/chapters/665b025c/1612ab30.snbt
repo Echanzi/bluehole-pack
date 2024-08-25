@@ -9,11 +9,11 @@
 		uid: "86368474",
 		type: "item",
 		items: [{
+			id: "spartantwilight:halberd_knightly",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {},
 				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "spartantwilight:halberd_knightly"
+			}
 		}],
 		ignore_damage: true,
 		ignore_nbt: 1b

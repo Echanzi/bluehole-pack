@@ -6,10 +6,10 @@
 		uid: "2c9dd9c4",
 		type: "item",
 		items: [{
+			id: "harvestcraft:waterfilter",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "harvestcraft:waterfilter"
+			}
 		}]
 	}],
 	rewards: [{

@@ -9,11 +9,11 @@
 		uid: "1cbd7aea",
 		type: "item",
 		items: [{
+			id: "spartanfire:longbow_ice_dragonsteel",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {},
 				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "spartanfire:longbow_ice_dragonsteel"
+			}
 		}],
 		ignore_damage: true,
 		ignore_nbt: 1b

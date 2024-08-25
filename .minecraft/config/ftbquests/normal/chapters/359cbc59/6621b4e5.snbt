@@ -7,10 +7,10 @@
 		uid: "827f05c5",
 		type: "observation",
 		icon: {
+			id: "zawa:green_anaconda",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "zawa:green_anaconda"
+			}
 		},
 		match_type: "entity_id",
 		match: "zawa:greenanaconda",

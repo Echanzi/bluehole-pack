@@ -1,10 +1,10 @@
 {
 	title: "TROPICS_LAKE",
 	icon: {
+		id: "tropicraft:sand",
 		ForgeCaps: {
 			"wizardryutils:summoneditemdata": {}
-		},
-		id: "tropicraft:sand"
+		}
 	},
 	disable_toast: true,
 	x: 0.0d,

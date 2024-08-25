@@ -9,11 +9,11 @@
 		uid: "64cf378c",
 		type: "item",
 		items: [{
+			id: "spartanfire:pike_ice_dragonsteel",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {},
 				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "spartanfire:pike_ice_dragonsteel"
+			}
 		}],
 		ignore_damage: true,
 		ignore_nbt: 1b

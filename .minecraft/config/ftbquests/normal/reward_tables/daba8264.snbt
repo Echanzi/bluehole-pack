@@ -3,9 +3,6 @@
 	loot_size: 1,
 	rewards: [{
 		item: {
-			ForgeCaps: {
-				"wizardryutils:summoneditemdata": {}
-			},
 			id: "minecraft:potion",
 			tag: {
 				ench: [{
@@ -81,14 +78,14 @@
 					],
 					Name: "Bhutanese Shadow Garden Grown Dark Evil Pack"
 				}
+			},
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
 			}
 		}
 	},
 	{
 		item: {
-			ForgeCaps: {
-				"wizardryutils:summoneditemdata": {}
-			},
 			id: "minecraft:potion",
 			tag: {
 				CustomPotionColor: 6171414,
@@ -122,14 +119,14 @@
 					],
 					Name: ":beer:"
 				}
+			},
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
 			}
 		}
 	},
 	{
 		item: {
-			ForgeCaps: {
-				"wizardryutils:summoneditemdata": {}
-			},
 			id: "minecraft:potion",
 			tag: {
 				CustomPotionColor: 0,
@@ -151,14 +148,14 @@
 					],
 					Name: "Last Resort"
 				}
+			},
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
 			}
 		}
 	},
 	{
 		item: {
-			ForgeCaps: {
-				"wizardryutils:summoneditemdata": {}
-			},
 			id: "minecraft:potion",
 			tag: {
 				CustomPotionColor: 9895932,
@@ -192,6 +189,9 @@
 					],
 					Name: "Sugar Rush"
 				}
+			},
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
 			}
 		}
 	}]

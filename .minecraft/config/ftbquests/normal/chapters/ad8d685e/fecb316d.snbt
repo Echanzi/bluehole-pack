@@ -8,10 +8,10 @@
 		uid: "fd4f18fc",
 		type: "item",
 		items: [{
+			id: "harvestcraft:toastitem",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "harvestcraft:toastitem"
+			}
 		}]
 	}],
 	rewards: [{

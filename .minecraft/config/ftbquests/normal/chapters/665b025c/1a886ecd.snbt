@@ -9,11 +9,11 @@
 		uid: "91b96dab",
 		type: "item",
 		items: [{
+			id: "spartantwilight:longbow_ironwood",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {},
 				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "spartantwilight:longbow_ironwood"
+			}
 		}],
 		ignore_damage: true,
 		ignore_nbt: 1b

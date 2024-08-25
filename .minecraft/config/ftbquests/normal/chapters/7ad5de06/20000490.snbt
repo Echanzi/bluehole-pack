@@ -1,10 +1,10 @@
 {
 	title: "Mesa Plateau",
 	icon: {
+		id: "minecraft:sand",
 		ForgeCaps: {
 			"wizardryutils:summoneditemdata": {}
-		},
-		id: "minecraft:sand"
+		}
 	},
 	disable_toast: true,
 	x: 19.0d,

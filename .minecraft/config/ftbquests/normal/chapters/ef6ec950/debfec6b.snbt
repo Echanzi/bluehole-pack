@@ -1,10 +1,10 @@
 {
 	title: "Survivalist's Guide to Anything Minecraft",
 	icon: {
+		id: "thebetweenlands:log_weedwood",
 		ForgeCaps: {
 			"wizardryutils:summoneditemdata": {}
-		},
-		id: "thebetweenlands:log_weedwood"
+		}
 	},
 	x: 5.0d,
 	y: 0.0d,
@@ -15,31 +15,31 @@
 		uid: "b039d7a2",
 		type: "item",
 		items: [{
+			id: "thebetweenlands:log_weedwood",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "thebetweenlands:log_weedwood"
+			}
 		}]
 	},
 	{
 		uid: "2bf24776",
 		type: "item",
 		items: [{
+			id: "thebetweenlands:weedwood_workbench",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "thebetweenlands:weedwood_workbench"
+			}
 		}]
 	},
 	{
 		uid: "662dcfcf",
 		type: "item",
 		items: [{
+			id: "thebetweenlands:weedwood_pickaxe",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {},
 				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "thebetweenlands:weedwood_pickaxe"
+			}
 		}],
 		ignore_damage: true,
 		ignore_nbt: 1b
@@ -48,11 +48,11 @@
 		uid: "3a1ce268",
 		type: "item",
 		items: [{
+			id: "thebetweenlands:weedwood_sword",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {},
 				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "thebetweenlands:weedwood_sword"
+			}
 		}],
 		ignore_damage: true,
 		ignore_nbt: 1b

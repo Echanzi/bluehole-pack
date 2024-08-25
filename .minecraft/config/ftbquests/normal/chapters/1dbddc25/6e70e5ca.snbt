@@ -1,11 +1,11 @@
 {
 	title: "Head Hunter: Zombie",
 	icon: {
+		id: "minecraft:skull",
+		Damage: 2s,
 		ForgeCaps: {
 			"wizardryutils:summoneditemdata": {}
-		},
-		id: "minecraft:skull",
-		Damage: 2s
+		}
 	},
 	x: -1.5d,
 	y: -3.0d,
@@ -63,14 +63,14 @@
 		uid: "69fa973d",
 		type: "kill",
 		icon: {
-			ForgeCaps: {
-				"wizardryutils:summoneditemdata": {}
-			},
 			id: "minecraft:spawn_egg",
 			tag: {
 				EntityTag: {
 					id: "minecraft:zombie"
 				}
+			},
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
 			}
 		},
 		disable_toast: true,

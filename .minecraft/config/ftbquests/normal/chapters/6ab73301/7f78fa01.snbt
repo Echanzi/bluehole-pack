@@ -13,10 +13,10 @@
 		uid: "f2ad223a",
 		type: "item",
 		items: [{
+			id: "minecraft:slime",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "minecraft:slime"
+			}
 		}]
 	}],
 	rewards: [{

@@ -1,11 +1,11 @@
 {
 	title: "Imagine Dragons",
 	icon: {
+		id: "minecraft:skull",
+		Damage: 5s,
 		ForgeCaps: {
 			"wizardryutils:summoneditemdata": {}
-		},
-		id: "minecraft:skull",
-		Damage: 5s
+		}
 	},
 	always_invisible: false,
 	group: 0,

@@ -4,38 +4,38 @@
 	use_title: true,
 	rewards: [{
 		item: {
+			id: "artifacts:magma_stone",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {},
 				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "artifacts:magma_stone"
+			}
 		}
 	},
 	{
 		item: {
+			id: "artifacts:feral_claws",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {},
 				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "artifacts:feral_claws"
+			}
 		}
 	},
 	{
 		item: {
+			id: "artifacts:panic_necklace",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {},
 				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "artifacts:panic_necklace"
+			}
 		}
 	},
 	{
 		item: {
+			id: "artifacts:bottled_cloud",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {},
 				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "artifacts:bottled_cloud"
+			}
 		}
 	}]
 }

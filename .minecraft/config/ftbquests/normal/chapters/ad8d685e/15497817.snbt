@@ -9,10 +9,10 @@
 		uid: "ec60c248",
 		type: "item",
 		items: [{
+			id: "harvestcraft:peanutbutteritem",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "harvestcraft:peanutbutteritem"
+			}
 		}]
 	}],
 	rewards: [{

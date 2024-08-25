@@ -1,10 +1,10 @@
 {
 	title: "Defiled Hills",
 	icon: {
+		id: "defiledlands:grass_defiled",
 		ForgeCaps: {
 			"wizardryutils:summoneditemdata": {}
-		},
-		id: "defiledlands:grass_defiled"
+		}
 	},
 	disable_toast: true,
 	x: -7.0d,

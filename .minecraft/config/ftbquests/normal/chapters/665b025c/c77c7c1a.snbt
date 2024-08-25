@@ -9,11 +9,11 @@
 		uid: "548bce0e",
 		type: "item",
 		items: [{
+			id: "spartanfire:saber_fire_dragonsteel",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {},
 				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "spartanfire:saber_fire_dragonsteel"
+			}
 		}],
 		ignore_damage: true,
 		ignore_nbt: 1b

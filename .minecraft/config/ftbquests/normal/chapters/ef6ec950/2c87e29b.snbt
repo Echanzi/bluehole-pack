@@ -8,10 +8,10 @@
 		uid: "11d35619",
 		type: "item",
 		items: [{
+			id: "thebetweenlands:gecko_cage",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "thebetweenlands:gecko_cage"
+			}
 		}]
 	}],
 	rewards: [{

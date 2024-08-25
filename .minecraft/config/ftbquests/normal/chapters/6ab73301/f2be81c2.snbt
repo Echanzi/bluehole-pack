@@ -9,10 +9,10 @@
 		uid: "74876931",
 		type: "item",
 		items: [{
+			id: "claysoldiers:doll_brick_soldier",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "claysoldiers:doll_brick_soldier"
+			}
 		}]
 	}],
 	rewards: [{

@@ -7,10 +7,10 @@
 		type: "item",
 		disable_toast: true,
 		items: [{
+			id: "grimoireofgaia:doll_mermaid",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "grimoireofgaia:doll_mermaid"
+			}
 		}]
 	},
 	{
@@ -18,10 +18,10 @@
 		type: "item",
 		disable_toast: true,
 		items: [{
+			id: "grimoireofgaia:doll_nine_tails",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "grimoireofgaia:doll_nine_tails"
+			}
 		}]
 	},
 	{
@@ -29,10 +29,10 @@
 		type: "item",
 		disable_toast: true,
 		items: [{
+			id: "grimoireofgaia:doll_dryad",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "grimoireofgaia:doll_dryad"
+			}
 		}]
 	},
 	{
@@ -40,10 +40,10 @@
 		type: "item",
 		disable_toast: true,
 		items: [{
+			id: "grimoireofgaia:deco_garden_gnome",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "grimoireofgaia:deco_garden_gnome"
+			}
 		}]
 	},
 	{
@@ -51,10 +51,10 @@
 		type: "item",
 		disable_toast: true,
 		items: [{
+			id: "grimoireofgaia:deco_mandragora_pot",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "grimoireofgaia:deco_mandragora_pot"
+			}
 		}]
 	},
 	{
@@ -62,10 +62,10 @@
 		type: "item",
 		disable_toast: true,
 		items: [{
+			id: "grimoireofgaia:deco_bust_minotaur",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "grimoireofgaia:deco_bust_minotaur"
+			}
 		}]
 	},
 	{
@@ -73,10 +73,10 @@
 		type: "item",
 		disable_toast: true,
 		items: [{
+			id: "grimoireofgaia:deco_nest_harpy",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "grimoireofgaia:deco_nest_harpy"
+			}
 		}]
 	},
 	{
@@ -84,10 +84,10 @@
 		type: "item",
 		disable_toast: true,
 		items: [{
+			id: "grimoireofgaia:doll_dullahan",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "grimoireofgaia:doll_dullahan"
+			}
 		}]
 	},
 	{
@@ -95,10 +95,10 @@
 		type: "item",
 		disable_toast: true,
 		items: [{
+			id: "grimoireofgaia:doll_maid",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "grimoireofgaia:doll_maid"
+			}
 		}]
 	},
 	{
@@ -106,10 +106,10 @@
 		type: "item",
 		disable_toast: true,
 		items: [{
+			id: "grimoireofgaia:doll_slime_girl",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "grimoireofgaia:doll_slime_girl"
+			}
 		}]
 	},
 	{
@@ -117,10 +117,10 @@
 		type: "item",
 		disable_toast: true,
 		items: [{
+			id: "grimoireofgaia:doll_ender_girl",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "grimoireofgaia:doll_ender_girl"
+			}
 		}]
 	},
 	{
@@ -128,10 +128,10 @@
 		type: "item",
 		disable_toast: true,
 		items: [{
+			id: "grimoireofgaia:doll_creeper_girl",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "grimoireofgaia:doll_creeper_girl"
+			}
 		}]
 	},
 	{
@@ -139,10 +139,10 @@
 		type: "item",
 		disable_toast: true,
 		items: [{
+			id: "grimoireofgaia:bust_vampire",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "grimoireofgaia:bust_vampire"
+			}
 		}]
 	},
 	{
@@ -150,10 +150,10 @@
 		type: "item",
 		disable_toast: true,
 		items: [{
+			id: "grimoireofgaia:bust_valkyrie",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "grimoireofgaia:bust_valkyrie"
+			}
 		}]
 	},
 	{
@@ -161,10 +161,10 @@
 		type: "item",
 		disable_toast: true,
 		items: [{
+			id: "grimoireofgaia:bust_sphinx",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "grimoireofgaia:bust_sphinx"
+			}
 		}]
 	},
 	{
@@ -172,10 +172,10 @@
 		type: "item",
 		disable_toast: true,
 		items: [{
+			id: "grimoireofgaia:bust_gorgon",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "grimoireofgaia:bust_gorgon"
+			}
 		}]
 	}],
 	rewards: [{

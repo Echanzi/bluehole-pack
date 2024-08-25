@@ -6,40 +6,40 @@
 		uid: "fd906702",
 		type: "item",
 		items: [{
+			id: "ebwizardry:poison_bomb",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "ebwizardry:poison_bomb"
+			}
 		}]
 	},
 	{
 		uid: "34bc5fbc",
 		type: "item",
 		items: [{
+			id: "ebwizardry:smoke_bomb",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "ebwizardry:smoke_bomb"
+			}
 		}]
 	},
 	{
 		uid: "f64ca856",
 		type: "item",
 		items: [{
+			id: "ebwizardry:spark_bomb",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "ebwizardry:spark_bomb"
+			}
 		}]
 	},
 	{
 		uid: "00d33a8c",
 		type: "item",
 		items: [{
+			id: "ebwizardry:firebomb",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "ebwizardry:firebomb"
+			}
 		}]
 	}],
 	rewards: [{

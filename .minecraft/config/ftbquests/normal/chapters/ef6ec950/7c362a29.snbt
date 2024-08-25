@@ -8,11 +8,11 @@
 		uid: "22a7ada1",
 		type: "item",
 		items: [{
+			id: "thebetweenlands:chiromaw_tame",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {},
 				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "thebetweenlands:chiromaw_tame"
+			}
 		}],
 		ignore_damage: true,
 		ignore_nbt: 1b

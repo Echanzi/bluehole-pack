@@ -7,10 +7,10 @@
 		uid: "7cf521ec",
 		type: "observation",
 		icon: {
+			id: "minecraft:planks",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "minecraft:planks"
+			}
 		},
 		match_type: "entity_id",
 		match: "golems:golem_wooden",

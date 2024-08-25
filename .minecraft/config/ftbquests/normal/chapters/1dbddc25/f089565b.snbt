@@ -1,10 +1,8 @@
 {
 	title: "Head Hunter: Enderman",
 	icon: {
-		ForgeCaps: {
-			"wizardryutils:summoneditemdata": {}
-		},
 		id: "minecraft:skull",
+		Damage: 3s,
 		tag: {
 			SkullOwner: {
 				Id: "ba8f45cf-0ddd-4a01-aa24-2a2f7e8dc331",
@@ -18,7 +16,9 @@
 				Name: "Enderman"
 			}
 		},
-		Damage: 3s
+		ForgeCaps: {
+			"wizardryutils:summoneditemdata": {}
+		}
 	},
 	x: -0.5d,
 	y: 0.0d,
@@ -69,14 +69,14 @@
 		uid: "6930e4ae",
 		type: "kill",
 		icon: {
-			ForgeCaps: {
-				"wizardryutils:summoneditemdata": {}
-			},
 			id: "minecraft:spawn_egg",
 			tag: {
 				EntityTag: {
 					id: "minecraft:enderman"
 				}
+			},
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
 			}
 		},
 		disable_toast: true,

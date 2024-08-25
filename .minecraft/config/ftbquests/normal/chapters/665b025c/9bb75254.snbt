@@ -9,11 +9,11 @@
 		uid: "dcd7de30",
 		type: "item",
 		items: [{
+			id: "spartancompat:staff_gravitite",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {},
 				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "spartancompat:staff_gravitite"
+			}
 		}],
 		ignore_damage: true,
 		ignore_nbt: 1b

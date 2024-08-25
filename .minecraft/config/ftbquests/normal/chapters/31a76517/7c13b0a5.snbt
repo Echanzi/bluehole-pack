@@ -7,10 +7,10 @@
 		type: "item",
 		disable_toast: true,
 		items: [{
+			id: "tropicraft:lime",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "tropicraft:lime"
+			}
 		}]
 	},
 	{
@@ -18,10 +18,10 @@
 		type: "item",
 		disable_toast: true,
 		items: [{
+			id: "tropicraft:grapefruit",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "tropicraft:grapefruit"
+			}
 		}]
 	},
 	{
@@ -29,10 +29,10 @@
 		type: "item",
 		disable_toast: true,
 		items: [{
+			id: "tropicraft:lemon",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "tropicraft:lemon"
+			}
 		}]
 	},
 	{
@@ -40,10 +40,10 @@
 		type: "item",
 		disable_toast: true,
 		items: [{
+			id: "tropicraft:orange",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "tropicraft:orange"
+			}
 		}]
 	}],
 	rewards: [{

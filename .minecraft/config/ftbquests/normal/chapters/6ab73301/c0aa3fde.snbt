@@ -9,11 +9,11 @@
 		uid: "b28f0b8e",
 		type: "item",
 		items: [{
+			id: "futuremc:netherite_hoe",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {},
 				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "futuremc:netherite_hoe"
+			}
 		}],
 		ignore_damage: true,
 		ignore_nbt: 1b

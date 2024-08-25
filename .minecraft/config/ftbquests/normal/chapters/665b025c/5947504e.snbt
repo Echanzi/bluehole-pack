@@ -9,11 +9,11 @@
 		uid: "bd03d7ad",
 		type: "item",
 		items: [{
+			id: "spartantwilight:katana_steeleaf",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {},
 				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "spartantwilight:katana_steeleaf"
+			}
 		}],
 		ignore_damage: true,
 		ignore_nbt: 1b

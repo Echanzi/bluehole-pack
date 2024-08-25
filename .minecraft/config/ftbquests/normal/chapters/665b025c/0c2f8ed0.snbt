@@ -9,11 +9,11 @@
 		uid: "2691c5ce",
 		type: "item",
 		items: [{
+			id: "spartanlands:rapier_weedwood",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {},
 				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "spartanlands:rapier_weedwood"
+			}
 		}],
 		ignore_damage: true,
 		ignore_nbt: 1b

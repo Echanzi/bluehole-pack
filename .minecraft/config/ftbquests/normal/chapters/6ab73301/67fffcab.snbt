@@ -8,11 +8,11 @@
 		uid: "ce30c97f",
 		type: "item",
 		items: [{
+			id: "aquaculture:loot",
+			Damage: 6s,
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "aquaculture:loot",
-			Damage: 6s
+			}
 		}]
 	}],
 	rewards: [{

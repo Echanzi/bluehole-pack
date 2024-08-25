@@ -12,14 +12,14 @@
 		uid: "48b1a485",
 		type: "item",
 		items: [{
-			ForgeCaps: {
-				"wizardryutils:summoneditemdata": {}
-			},
 			id: "claysoldiers:doll_soldier",
 			tag: {
 				dollSoldier: {
 					team: "ca383b5d-ddaf-4523-9001-5a5685ef5fba"
 				}
+			},
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
 			}
 		}]
 	}],

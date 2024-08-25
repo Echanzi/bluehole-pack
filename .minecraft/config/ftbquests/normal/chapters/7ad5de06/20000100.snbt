@@ -1,10 +1,10 @@
 {
 	title: "Arctic Abyss",
 	icon: {
+		id: "netherex:frostburn_ice",
 		ForgeCaps: {
 			"wizardryutils:summoneditemdata": {}
-		},
-		id: "netherex:frostburn_ice"
+		}
 	},
 	disable_toast: true,
 	x: -12.0d,

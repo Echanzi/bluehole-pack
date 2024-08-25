@@ -1,11 +1,11 @@
 {
 	title: "#8c98fa-faf38cTo The Skies Above",
 	icon: {
+		id: "aether_legacy:aether_portal_frame",
 		ForgeCaps: {
 			"wizardryutils:summoneditemdata": {},
 			"astralsorcery:cap_item_amulet_holder": {}
-		},
-		id: "aether_legacy:aether_portal_frame"
+		}
 	},
 	x: -0.5d,
 	y: -0.5d,
@@ -16,10 +16,10 @@
 		uid: "9c6d163a",
 		type: "dimension",
 		icon: {
+			id: "aether_legacy:aether_grass",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "aether_legacy:aether_grass"
+			}
 		},
 		dim: 4
 	}],

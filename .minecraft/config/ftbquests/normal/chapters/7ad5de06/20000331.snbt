@@ -1,10 +1,10 @@
 {
 	title: "Defiled Desert",
 	icon: {
+		id: "defiledlands:sand_defiled",
 		ForgeCaps: {
 			"wizardryutils:summoneditemdata": {}
-		},
-		id: "defiledlands:sand_defiled"
+		}
 	},
 	disable_toast: true,
 	x: -1.0d,

@@ -9,10 +9,10 @@
 		uid: "5b907d0c",
 		type: "item",
 		items: [{
+			id: "testdummy:dummy",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "testdummy:dummy"
+			}
 		}]
 	}],
 	rewards: [{

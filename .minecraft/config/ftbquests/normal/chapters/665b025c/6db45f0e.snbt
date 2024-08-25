@@ -9,11 +9,11 @@
 		uid: "f5cb191b",
 		type: "item",
 		items: [{
+			id: "spartancompat:rapier_zanite",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {},
 				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "spartancompat:rapier_zanite"
+			}
 		}],
 		ignore_damage: true,
 		ignore_nbt: 1b

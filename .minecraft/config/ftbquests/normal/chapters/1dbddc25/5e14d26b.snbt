@@ -10,11 +10,11 @@
 		uid: "7cc33277",
 		type: "kill",
 		icon: {
+			id: "aether_legacy:gravitite_pickaxe",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {},
 				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "aether_legacy:gravitite_pickaxe"
+			}
 		},
 		entity: "aether_legacy:slider",
 		value: 1L

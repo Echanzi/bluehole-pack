@@ -10,10 +10,10 @@
 		uid: "069e8785",
 		type: "kill",
 		icon: {
+			id: "thebetweenlands:shambler_tongue",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "thebetweenlands:shambler_tongue"
+			}
 		},
 		entity: "thebetweenlands:shambler",
 		value: 1L

@@ -6,11 +6,11 @@
 		uid: "a67cb16f",
 		type: "item",
 		items: [{
+			id: "thebetweenlands:bone_wayfinder",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {},
 				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "thebetweenlands:bone_wayfinder"
+			}
 		}],
 		ignore_damage: true,
 		ignore_nbt: 1b

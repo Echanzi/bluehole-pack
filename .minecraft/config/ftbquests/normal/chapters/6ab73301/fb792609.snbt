@@ -13,11 +13,10 @@
 		type: "stat",
 		title: "you_irl",
 		icon: {
+			id: "treasure2:skull_chest",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "treasure2:skull_chest",
-			Count: 1b
+			}
 		},
 		stat: "stat.deaths",
 		value: 1

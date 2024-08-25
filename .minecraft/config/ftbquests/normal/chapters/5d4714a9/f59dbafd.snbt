@@ -5,10 +5,10 @@
 		uid: "59361abf",
 		type: "item",
 		items: [{
+			id: "vc:item_logic_chip",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "vc:item_logic_chip"
+			}
 		}]
 	}],
 	rewards: [{

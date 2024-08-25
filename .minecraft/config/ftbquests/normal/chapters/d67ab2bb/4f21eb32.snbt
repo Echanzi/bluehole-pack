@@ -6,16 +6,15 @@
 		type: "item",
 		disable_toast: true,
 		items: [{
-			ForgeCaps: {
-				"wizardryutils:summoneditemdata": {},
-				"astralsorcery:cap_item_amulet_holder": {}
-			},
 			id: "twilightforest:steeleaf_helmet",
 			tag: {
 				ench: [{
 					lvl: 2s,
 					id: 4s
 				}]
+			},
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
 			}
 		}],
 		ignore_damage: true,
@@ -26,16 +25,15 @@
 		type: "item",
 		disable_toast: true,
 		items: [{
-			ForgeCaps: {
-				"wizardryutils:summoneditemdata": {},
-				"astralsorcery:cap_item_amulet_holder": {}
-			},
 			id: "twilightforest:steeleaf_chestplate",
 			tag: {
 				ench: [{
 					lvl: 2s,
 					id: 3s
 				}]
+			},
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
 			}
 		}],
 		ignore_damage: true,
@@ -46,16 +44,15 @@
 		type: "item",
 		disable_toast: true,
 		items: [{
-			ForgeCaps: {
-				"wizardryutils:summoneditemdata": {},
-				"astralsorcery:cap_item_amulet_holder": {}
-			},
 			id: "twilightforest:steeleaf_leggings",
 			tag: {
 				ench: [{
 					lvl: 2s,
 					id: 1s
 				}]
+			},
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
 			}
 		}],
 		ignore_damage: true,
@@ -66,16 +63,15 @@
 		type: "item",
 		disable_toast: true,
 		items: [{
-			ForgeCaps: {
-				"wizardryutils:summoneditemdata": {},
-				"astralsorcery:cap_item_amulet_holder": {}
-			},
 			id: "twilightforest:steeleaf_boots",
 			tag: {
 				ench: [{
 					lvl: 2s,
 					id: 2s
 				}]
+			},
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
 			}
 		}],
 		ignore_damage: true,

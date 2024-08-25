@@ -7,10 +7,10 @@
 		uid: "2cf50d38",
 		type: "observation",
 		icon: {
+			id: "minecraft:hardened_clay",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "minecraft:hardened_clay"
+			}
 		},
 		match_type: "block_id",
 		match: "golems:golem_hardened_clay",

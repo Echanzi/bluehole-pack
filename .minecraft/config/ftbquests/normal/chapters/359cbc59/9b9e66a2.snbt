@@ -7,10 +7,10 @@
 		uid: "3f6ea250",
 		type: "observation",
 		icon: {
+			id: "zawa:marine_iguana",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "zawa:marine_iguana"
+			}
 		},
 		match_type: "entity_id",
 		match: "zawa:marineiguana",

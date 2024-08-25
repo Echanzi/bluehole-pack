@@ -9,11 +9,11 @@
 		uid: "e4599d7d",
 		type: "stat",
 		icon: {
+			id: "minecraft:wooden_sword",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {},
 				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "minecraft:wooden_sword"
+			}
 		},
 		stat: "stat.mobKills",
 		value: 100

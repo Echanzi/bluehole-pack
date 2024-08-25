@@ -9,10 +9,10 @@
 		uid: "873a2cdf",
 		type: "item",
 		items: [{
+			id: "harvestcraft:butteritem",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "harvestcraft:butteritem"
+			}
 		}]
 	}],
 	rewards: [{

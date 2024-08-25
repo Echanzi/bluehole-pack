@@ -9,11 +9,11 @@
 		uid: "241fd798",
 		type: "item",
 		items: [{
+			id: "thebetweenlands:swamp_talisman",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {},
 				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "thebetweenlands:swamp_talisman"
+			}
 		}],
 		ignore_nbt: 1b
 	}],

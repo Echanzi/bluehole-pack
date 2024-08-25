@@ -9,11 +9,11 @@
 		uid: "37ac817b",
 		type: "item",
 		items: [{
+			id: "spartantwilight:pike_fiery",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {},
 				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "spartantwilight:pike_fiery"
+			}
 		}],
 		ignore_damage: true,
 		ignore_nbt: 1b

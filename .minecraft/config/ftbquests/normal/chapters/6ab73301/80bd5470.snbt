@@ -1,10 +1,10 @@
 {
 	title: "#b62eff-dfa3ffThe End?",
 	icon: {
+		id: "minecraft:dragon_egg",
 		ForgeCaps: {
 			"wizardryutils:summoneditemdata": {}
-		},
-		id: "minecraft:dragon_egg"
+		}
 	},
 	x: 17.0d,
 	y: 9.0d,
@@ -15,11 +15,11 @@
 		uid: "7732ffaa",
 		type: "kill",
 		icon: {
+			id: "minecraft:skull",
+			Damage: 5s,
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "minecraft:skull",
-			Damage: 5s
+			}
 		},
 		entity: "minecraft:ender_dragon",
 		value: 1L

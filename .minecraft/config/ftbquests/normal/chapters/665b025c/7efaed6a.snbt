@@ -9,11 +9,11 @@
 		uid: "c7a01b07",
 		type: "item",
 		items: [{
+			id: "spartanlands:greatsword_valonite",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {},
 				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "spartanlands:greatsword_valonite"
+			}
 		}],
 		ignore_damage: true,
 		ignore_nbt: 1b

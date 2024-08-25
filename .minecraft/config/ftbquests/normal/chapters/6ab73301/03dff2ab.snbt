@@ -9,11 +9,11 @@
 		uid: "85a50a6f",
 		type: "item",
 		items: [{
+			id: "camera:album",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {},
 				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "camera:album"
+			}
 		}],
 		ignore_damage: true,
 		ignore_nbt: 1b

@@ -9,11 +9,11 @@
 		uid: "ff5cabd9",
 		type: "item",
 		items: [{
+			id: "spartanweaponry:halberd_diamond",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {},
 				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "spartanweaponry:halberd_diamond"
+			}
 		}],
 		ignore_damage: true,
 		ignore_nbt: 1b

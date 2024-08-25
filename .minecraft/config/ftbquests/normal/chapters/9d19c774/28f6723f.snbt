@@ -7,32 +7,28 @@
 		type: "item",
 		title: "Collect a Fire Dragon Egg",
 		items: [{
+			id: "iceandfire:dragonegg_red",
 			ForgeCaps: {
-				"wizardryutils:summoneditemdata": {},
-				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "iceandfire:dragonegg_red"
+				"wizardryutils:summoneditemdata": {}
+			}
 		},
 		{
+			id: "iceandfire:dragonegg_green",
 			ForgeCaps: {
-				"wizardryutils:summoneditemdata": {},
-				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "iceandfire:dragonegg_green"
+				"wizardryutils:summoneditemdata": {}
+			}
 		},
 		{
+			id: "iceandfire:dragonegg_bronze",
 			ForgeCaps: {
-				"wizardryutils:summoneditemdata": {},
-				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "iceandfire:dragonegg_bronze"
+				"wizardryutils:summoneditemdata": {}
+			}
 		},
 		{
+			id: "iceandfire:dragonegg_gray",
 			ForgeCaps: {
-				"wizardryutils:summoneditemdata": {},
-				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "iceandfire:dragonegg_gray"
+				"wizardryutils:summoneditemdata": {}
+			}
 		}],
 		ignore_nbt: 1b
 	}],

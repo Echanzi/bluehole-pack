@@ -6,11 +6,11 @@
 		uid: "98804485",
 		type: "kill",
 		icon: {
+			id: "thebetweenlands:items_misc",
+			Damage: 4s,
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "thebetweenlands:items_misc",
-			Damage: 4s
+			}
 		},
 		entity: "thebetweenlands:lurker",
 		value: 1L

@@ -1,11 +1,11 @@
 {
 	title: "Head Hunter: Creeper",
 	icon: {
+		id: "minecraft:skull",
+		Damage: 4s,
 		ForgeCaps: {
 			"wizardryutils:summoneditemdata": {}
-		},
-		id: "minecraft:skull",
-		Damage: 4s
+		}
 	},
 	x: -1.5d,
 	y: -2.0d,
@@ -84,14 +84,14 @@
 		uid: "cb132299",
 		type: "kill",
 		icon: {
-			ForgeCaps: {
-				"wizardryutils:summoneditemdata": {}
-			},
 			id: "minecraft:spawn_egg",
 			tag: {
 				EntityTag: {
 					id: "minecraft:creeper"
 				}
+			},
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
 			}
 		},
 		disable_toast: true,

@@ -9,11 +9,11 @@
 		uid: "496f62e5",
 		type: "item",
 		items: [{
+			id: "spartantwilight:staff_fiery",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {},
 				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "spartantwilight:staff_fiery"
+			}
 		}],
 		ignore_damage: true,
 		ignore_nbt: 1b

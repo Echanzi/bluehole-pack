@@ -9,10 +9,10 @@
 		uid: "f47a199e",
 		type: "kill",
 		icon: {
+			id: "minecraft:chest",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "minecraft:chest"
+			}
 		},
 		entity: "artifacts:mimic",
 		value: 1L

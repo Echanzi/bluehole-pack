@@ -9,14 +9,14 @@
 		uid: "d227cec7",
 		type: "item",
 		items: [{
+			id: "spartanfire:hammer_fire_dragonsteel",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {},
 				"astralsorcery:cap_item_amulet_holder": {
 					AS_Amulet_HolderLeast: -6480113167060876494L,
 					AS_Amulet_HolderMost: 2911248940407866704L
 				}
-			},
-			id: "spartanfire:hammer_fire_dragonsteel"
+			}
 		}],
 		ignore_damage: true,
 		ignore_nbt: 1b

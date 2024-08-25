@@ -8,11 +8,11 @@
 		uid: "54bbee5a",
 		type: "item",
 		items: [{
+			id: "thebetweenlands:life_crystal",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {},
 				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "thebetweenlands:life_crystal"
+			}
 		}],
 		ignore_damage: true,
 		ignore_nbt: 1b

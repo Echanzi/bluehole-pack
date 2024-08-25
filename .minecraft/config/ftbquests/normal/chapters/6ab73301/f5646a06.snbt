@@ -7,10 +7,10 @@
 		type: "dimension",
 		title: "Visit the Pocket Dimensions",
 		icon: {
+			id: "dimdoors:quartz_dimensional_door",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "dimdoors:quartz_dimensional_door"
+			}
 		},
 		dim: 687
 	}],

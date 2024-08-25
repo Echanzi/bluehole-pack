@@ -7,10 +7,10 @@
 		uid: "e1ee650b",
 		type: "observation",
 		icon: {
+			id: "zawa:moray_eel",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "zawa:moray_eel"
+			}
 		},
 		match_type: "entity_id",
 		match: "zawa:morayeel",

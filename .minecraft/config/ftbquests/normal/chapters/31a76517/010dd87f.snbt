@@ -6,11 +6,10 @@
 		uid: "fa4b427f",
 		type: "item",
 		items: [{
+			id: "tropicraft:nigel_stache",
 			ForgeCaps: {
-				"wizardryutils:summoneditemdata": {},
-				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "tropicraft:nigel_stache"
+				"wizardryutils:summoneditemdata": {}
+			}
 		}],
 		ignore_damage: true,
 		ignore_nbt: 1b

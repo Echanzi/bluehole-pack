@@ -13,10 +13,10 @@
 		uid: "578ccca7",
 		type: "observation",
 		icon: {
+			id: "thebetweenlands:mud_bricks",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "thebetweenlands:mud_bricks"
+			}
 		},
 		match_type: "block_id",
 		match: "thebetweenlands:wooden_support_beam_rotten_1",

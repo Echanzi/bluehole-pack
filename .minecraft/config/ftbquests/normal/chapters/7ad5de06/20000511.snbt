@@ -1,10 +1,10 @@
 {
 	title: "Wasteland",
 	icon: {
+		id: "biomesoplenty:dried_sand",
 		ForgeCaps: {
 			"wizardryutils:summoneditemdata": {}
-		},
-		id: "biomesoplenty:dried_sand"
+		}
 	},
 	disable_toast: true,
 	x: -7.0d,

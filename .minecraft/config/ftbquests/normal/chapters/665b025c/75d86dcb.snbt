@@ -9,12 +9,12 @@
 		uid: "5d9dbf58",
 		type: "item",
 		items: [{
+			id: "spartanfire:crossbow_fire_dragonbone",
+			tag: {},
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {},
 				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "spartanfire:crossbow_fire_dragonbone",
-			tag: {}
+			}
 		}],
 		ignore_damage: true,
 		ignore_nbt: 1b

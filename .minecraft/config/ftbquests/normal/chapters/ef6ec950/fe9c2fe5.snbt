@@ -8,11 +8,11 @@
 		uid: "4805193c",
 		type: "item",
 		items: [{
+			id: "thebetweenlands:ancient_greatsword",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {},
 				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "thebetweenlands:ancient_greatsword"
+			}
 		}],
 		ignore_damage: true,
 		ignore_nbt: 1b

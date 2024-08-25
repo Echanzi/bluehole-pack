@@ -13,10 +13,10 @@
 		type: "item",
 		disable_toast: true,
 		items: [{
+			id: "thebetweenlands:rotten_food",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "thebetweenlands:rotten_food"
+			}
 		}],
 		ignore_nbt: 1b
 	},
@@ -25,10 +25,10 @@
 		type: "item",
 		disable_toast: true,
 		items: [{
+			id: "thebetweenlands:damp_torch",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "thebetweenlands:damp_torch"
+			}
 		}]
 	},
 	{
@@ -36,11 +36,11 @@
 		type: "item",
 		disable_toast: true,
 		items: [{
+			id: "thebetweenlands:tainted_potion",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {},
 				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "thebetweenlands:tainted_potion"
+			}
 		}],
 		ignore_damage: true,
 		ignore_nbt: 1b

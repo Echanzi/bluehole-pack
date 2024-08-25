@@ -8,10 +8,10 @@
 		uid: "ff149280",
 		type: "item",
 		items: [{
+			id: "iceandfire:fire_dragon_blood",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "iceandfire:fire_dragon_blood"
+			}
 		}]
 	}],
 	rewards: [{

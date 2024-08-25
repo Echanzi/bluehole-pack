@@ -9,11 +9,11 @@
 		uid: "b419aeb0",
 		type: "item",
 		items: [{
+			id: "spartanweaponry:mace_iron",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {},
 				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "spartanweaponry:mace_iron"
+			}
 		}],
 		ignore_damage: true,
 		ignore_nbt: 1b

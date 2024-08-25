@@ -12,11 +12,11 @@
 		uid: "d6538935",
 		type: "item",
 		items: [{
+			id: "aether_legacy:diamond_gloves",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {},
 				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "aether_legacy:diamond_gloves"
+			}
 		}],
 		ignore_damage: true,
 		ignore_nbt: 1b
@@ -25,10 +25,10 @@
 		uid: "6be601c8",
 		type: "item",
 		item: {
+			id: "chancecubes:chance_cube",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "chancecubes:chance_cube"
+			}
 		}
 	}]
 }

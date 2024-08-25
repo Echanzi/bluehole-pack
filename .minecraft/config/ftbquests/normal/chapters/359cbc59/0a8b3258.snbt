@@ -7,10 +7,10 @@
 		uid: "e6f9c2f0",
 		type: "observation",
 		icon: {
+			id: "zawa:gila_monster",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "zawa:gila_monster"
+			}
 		},
 		match_type: "entity_id",
 		match: "zawa:gilamonster",

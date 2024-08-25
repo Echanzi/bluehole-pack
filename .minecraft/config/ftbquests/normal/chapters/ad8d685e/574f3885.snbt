@@ -8,10 +8,10 @@
 		uid: "18fbc754",
 		type: "item",
 		items: [{
+			id: "harvestcraft:flouritem",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "harvestcraft:flouritem"
+			}
 		}]
 	}],
 	rewards: [{

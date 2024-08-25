@@ -6,10 +6,10 @@
 		type: "observation",
 		title: "Librarian Remains",
 		icon: {
+			id: "ebwizardry:imbuement_altar",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "ebwizardry:imbuement_altar"
+			}
 		},
 		match_type: "block_id",
 		match: "ebwizardry:imbuement_altar",

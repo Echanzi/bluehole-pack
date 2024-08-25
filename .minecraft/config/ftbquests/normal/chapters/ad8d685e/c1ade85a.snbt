@@ -1,10 +1,10 @@
 {
 	title: "Kitchen Commodities",
 	icon: {
+		id: "cookingforblockheads:toaster",
 		ForgeCaps: {
 			"wizardryutils:summoneditemdata": {}
-		},
-		id: "cookingforblockheads:toaster"
+		}
 	},
 	x: -3.5d,
 	y: 0.0d,
@@ -12,40 +12,40 @@
 		uid: "2bf80d2d",
 		type: "item",
 		items: [{
+			id: "cookingforblockheads:milk_jar",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "cookingforblockheads:milk_jar"
+			}
 		}]
 	},
 	{
 		uid: "0ded781d",
 		type: "item",
 		items: [{
+			id: "cookingforblockheads:toaster",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "cookingforblockheads:toaster"
+			}
 		}]
 	},
 	{
 		uid: "4b5cc50a",
 		type: "item",
 		items: [{
+			id: "cookingforblockheads:fruit_basket",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "cookingforblockheads:fruit_basket"
+			}
 		}]
 	},
 	{
 		uid: "0a31e3fc",
 		type: "item",
 		items: [{
+			id: "cookingforblockheads:spice_rack",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "cookingforblockheads:spice_rack"
+			}
 		}]
 	}],
 	rewards: [{

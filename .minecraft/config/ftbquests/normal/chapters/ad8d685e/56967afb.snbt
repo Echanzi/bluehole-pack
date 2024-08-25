@@ -10,10 +10,10 @@
 		type: "item",
 		disable_toast: true,
 		items: [{
+			id: "harvestcraft:melonsmoothieitem",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "harvestcraft:melonsmoothieitem"
+			}
 		}]
 	},
 	{
@@ -21,10 +21,10 @@
 		type: "item",
 		disable_toast: true,
 		items: [{
+			id: "harvestcraft:strawberrysmoothieitem",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "harvestcraft:strawberrysmoothieitem"
+			}
 		}]
 	},
 	{
@@ -32,10 +32,10 @@
 		type: "item",
 		disable_toast: true,
 		items: [{
+			id: "harvestcraft:lemonsmoothieitem",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "harvestcraft:lemonsmoothieitem"
+			}
 		}]
 	},
 	{
@@ -43,10 +43,10 @@
 		type: "item",
 		disable_toast: true,
 		items: [{
+			id: "harvestcraft:blueberrysmoothieitem",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "harvestcraft:blueberrysmoothieitem"
+			}
 		}]
 	},
 	{
@@ -54,10 +54,10 @@
 		type: "item",
 		disable_toast: true,
 		items: [{
+			id: "harvestcraft:cherrysmoothieitem",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "harvestcraft:cherrysmoothieitem"
+			}
 		}]
 	},
 	{
@@ -65,10 +65,10 @@
 		type: "item",
 		disable_toast: true,
 		items: [{
+			id: "harvestcraft:papayasmoothieitem",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "harvestcraft:papayasmoothieitem"
+			}
 		}]
 	},
 	{
@@ -76,10 +76,10 @@
 		type: "item",
 		disable_toast: true,
 		items: [{
+			id: "harvestcraft:starfruitsmoothieitem",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "harvestcraft:starfruitsmoothieitem"
+			}
 		}]
 	},
 	{
@@ -87,10 +87,10 @@
 		type: "item",
 		disable_toast: true,
 		items: [{
+			id: "harvestcraft:bananasmoothieitem",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "harvestcraft:bananasmoothieitem"
+			}
 		}]
 	},
 	{
@@ -98,10 +98,10 @@
 		type: "item",
 		disable_toast: true,
 		items: [{
+			id: "harvestcraft:orangesmoothieitem",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "harvestcraft:orangesmoothieitem"
+			}
 		}]
 	},
 	{
@@ -109,10 +109,10 @@
 		type: "item",
 		disable_toast: true,
 		items: [{
+			id: "harvestcraft:peachsmoothieitem",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "harvestcraft:peachsmoothieitem"
+			}
 		}]
 	},
 	{
@@ -120,10 +120,10 @@
 		type: "item",
 		disable_toast: true,
 		items: [{
+			id: "harvestcraft:limesmoothieitem",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "harvestcraft:limesmoothieitem"
+			}
 		}]
 	},
 	{
@@ -131,10 +131,10 @@
 		type: "item",
 		disable_toast: true,
 		items: [{
+			id: "harvestcraft:mangosmoothieitem",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "harvestcraft:mangosmoothieitem"
+			}
 		}]
 	},
 	{
@@ -142,10 +142,10 @@
 		type: "item",
 		disable_toast: true,
 		items: [{
+			id: "harvestcraft:pomegranatesmoothieitem",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "harvestcraft:pomegranatesmoothieitem"
+			}
 		}]
 	},
 	{
@@ -153,10 +153,10 @@
 		type: "item",
 		disable_toast: true,
 		items: [{
+			id: "harvestcraft:blackberrysmoothieitem",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "harvestcraft:blackberrysmoothieitem"
+			}
 		}]
 	},
 	{
@@ -164,10 +164,10 @@
 		type: "item",
 		disable_toast: true,
 		items: [{
+			id: "harvestcraft:raspberrysmoothieitem",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "harvestcraft:raspberrysmoothieitem"
+			}
 		}]
 	},
 	{
@@ -175,10 +175,10 @@
 		type: "item",
 		disable_toast: true,
 		items: [{
+			id: "harvestcraft:kiwismoothieitem",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "harvestcraft:kiwismoothieitem"
+			}
 		}]
 	},
 	{
@@ -186,10 +186,10 @@
 		type: "item",
 		disable_toast: true,
 		items: [{
+			id: "harvestcraft:apricotsmoothieitem",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "harvestcraft:apricotsmoothieitem"
+			}
 		}]
 	},
 	{
@@ -197,10 +197,10 @@
 		type: "item",
 		disable_toast: true,
 		items: [{
+			id: "harvestcraft:figsmoothieitem",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "harvestcraft:figsmoothieitem"
+			}
 		}]
 	},
 	{
@@ -208,10 +208,10 @@
 		type: "item",
 		disable_toast: true,
 		items: [{
+			id: "harvestcraft:grapefruitsmoothieitem",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "harvestcraft:grapefruitsmoothieitem"
+			}
 		}]
 	},
 	{
@@ -219,10 +219,10 @@
 		type: "item",
 		disable_toast: true,
 		items: [{
+			id: "harvestcraft:persimmonsmoothieitem",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "harvestcraft:persimmonsmoothieitem"
+			}
 		}]
 	},
 	{
@@ -230,10 +230,10 @@
 		type: "item",
 		disable_toast: true,
 		items: [{
+			id: "harvestcraft:gooseberrysmoothieitem",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "harvestcraft:gooseberrysmoothieitem"
+			}
 		}]
 	},
 	{
@@ -241,10 +241,10 @@
 		type: "item",
 		disable_toast: true,
 		items: [{
+			id: "harvestcraft:applesmoothieitem",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "harvestcraft:applesmoothieitem"
+			}
 		}]
 	},
 	{
@@ -252,10 +252,10 @@
 		type: "item",
 		disable_toast: true,
 		items: [{
+			id: "harvestcraft:coconutsmoothieitem",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "harvestcraft:coconutsmoothieitem"
+			}
 		}]
 	},
 	{
@@ -263,10 +263,10 @@
 		type: "item",
 		disable_toast: true,
 		items: [{
+			id: "harvestcraft:cranberrysmoothieitem",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "harvestcraft:cranberrysmoothieitem"
+			}
 		}]
 	},
 	{
@@ -274,10 +274,10 @@
 		type: "item",
 		disable_toast: true,
 		items: [{
+			id: "harvestcraft:grapesmoothieitem",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "harvestcraft:grapesmoothieitem"
+			}
 		}]
 	},
 	{
@@ -285,10 +285,10 @@
 		type: "item",
 		disable_toast: true,
 		items: [{
+			id: "harvestcraft:pearsmoothieitem",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "harvestcraft:pearsmoothieitem"
+			}
 		}]
 	},
 	{
@@ -296,10 +296,10 @@
 		type: "item",
 		disable_toast: true,
 		items: [{
+			id: "harvestcraft:plumsmoothieitem",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "harvestcraft:plumsmoothieitem"
+			}
 		}]
 	}],
 	rewards: [{

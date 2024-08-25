@@ -7,10 +7,10 @@
 		uid: "36449366",
 		type: "observation",
 		icon: {
+			id: "zawa:grizzly_bear",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "zawa:grizzly_bear"
+			}
 		},
 		match_type: "entity_id",
 		match: "zawa:grizzlybear",

@@ -1,10 +1,10 @@
 {
 	title: "Yacht Club",
 	icon: {
+		id: "harvestcraft:anchovyrawitem",
 		ForgeCaps: {
 			"wizardryutils:summoneditemdata": {}
-		},
-		id: "harvestcraft:anchovyrawitem"
+		}
 	},
 	x: -0.5d,
 	y: -3.5d,
@@ -13,11 +13,10 @@
 		type: "item",
 		disable_toast: true,
 		items: [{
+			id: "minecraft:boat",
 			ForgeCaps: {
-				"wizardryutils:summoneditemdata": {},
-				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "minecraft:boat"
+				"wizardryutils:summoneditemdata": {}
+			}
 		}],
 		ignore_damage: true,
 		ignore_nbt: 1b
@@ -27,11 +26,10 @@
 		type: "item",
 		disable_toast: true,
 		items: [{
+			id: "minecraft:spruce_boat",
 			ForgeCaps: {
-				"wizardryutils:summoneditemdata": {},
-				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "minecraft:spruce_boat"
+				"wizardryutils:summoneditemdata": {}
+			}
 		}],
 		ignore_damage: true,
 		ignore_nbt: 1b
@@ -41,11 +39,10 @@
 		type: "item",
 		disable_toast: true,
 		items: [{
+			id: "minecraft:birch_boat",
 			ForgeCaps: {
-				"wizardryutils:summoneditemdata": {},
-				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "minecraft:birch_boat"
+				"wizardryutils:summoneditemdata": {}
+			}
 		}],
 		ignore_damage: true,
 		ignore_nbt: 1b
@@ -55,11 +52,10 @@
 		type: "item",
 		disable_toast: true,
 		items: [{
+			id: "minecraft:jungle_boat",
 			ForgeCaps: {
-				"wizardryutils:summoneditemdata": {},
-				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "minecraft:jungle_boat"
+				"wizardryutils:summoneditemdata": {}
+			}
 		}],
 		ignore_damage: true,
 		ignore_nbt: 1b
@@ -69,11 +65,10 @@
 		type: "item",
 		disable_toast: true,
 		items: [{
+			id: "minecraft:acacia_boat",
 			ForgeCaps: {
-				"wizardryutils:summoneditemdata": {},
-				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "minecraft:acacia_boat"
+				"wizardryutils:summoneditemdata": {}
+			}
 		}],
 		ignore_damage: true,
 		ignore_nbt: 1b
@@ -83,11 +78,10 @@
 		type: "item",
 		disable_toast: true,
 		items: [{
+			id: "minecraft:dark_oak_boat",
 			ForgeCaps: {
-				"wizardryutils:summoneditemdata": {},
-				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "minecraft:dark_oak_boat"
+				"wizardryutils:summoneditemdata": {}
+			}
 		}],
 		ignore_damage: true,
 		ignore_nbt: 1b
@@ -97,11 +91,10 @@
 		type: "item",
 		disable_toast: true,
 		items: [{
+			id: "biomesoplenty:boat_sacred_oak",
 			ForgeCaps: {
-				"wizardryutils:summoneditemdata": {},
-				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "biomesoplenty:boat_sacred_oak"
+				"wizardryutils:summoneditemdata": {}
+			}
 		}],
 		ignore_damage: true,
 		ignore_nbt: 1b
@@ -111,11 +104,10 @@
 		type: "item",
 		disable_toast: true,
 		items: [{
+			id: "biomesoplenty:boat_cherry",
 			ForgeCaps: {
-				"wizardryutils:summoneditemdata": {},
-				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "biomesoplenty:boat_cherry"
+				"wizardryutils:summoneditemdata": {}
+			}
 		}],
 		ignore_damage: true,
 		ignore_nbt: 1b
@@ -125,11 +117,10 @@
 		type: "item",
 		disable_toast: true,
 		items: [{
+			id: "biomesoplenty:boat_umbran",
 			ForgeCaps: {
-				"wizardryutils:summoneditemdata": {},
-				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "biomesoplenty:boat_umbran"
+				"wizardryutils:summoneditemdata": {}
+			}
 		}],
 		ignore_damage: true,
 		ignore_nbt: 1b
@@ -139,11 +130,10 @@
 		type: "item",
 		disable_toast: true,
 		items: [{
+			id: "biomesoplenty:boat_fir",
 			ForgeCaps: {
-				"wizardryutils:summoneditemdata": {},
-				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "biomesoplenty:boat_fir"
+				"wizardryutils:summoneditemdata": {}
+			}
 		}],
 		ignore_damage: true,
 		ignore_nbt: 1b
@@ -153,11 +143,10 @@
 		type: "item",
 		disable_toast: true,
 		items: [{
+			id: "biomesoplenty:boat_ethereal",
 			ForgeCaps: {
-				"wizardryutils:summoneditemdata": {},
-				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "biomesoplenty:boat_ethereal"
+				"wizardryutils:summoneditemdata": {}
+			}
 		}],
 		ignore_damage: true,
 		ignore_nbt: 1b
@@ -167,11 +156,10 @@
 		type: "item",
 		disable_toast: true,
 		items: [{
+			id: "biomesoplenty:boat_magic",
 			ForgeCaps: {
-				"wizardryutils:summoneditemdata": {},
-				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "biomesoplenty:boat_magic"
+				"wizardryutils:summoneditemdata": {}
+			}
 		}],
 		ignore_damage: true,
 		ignore_nbt: 1b
@@ -181,11 +169,10 @@
 		type: "item",
 		disable_toast: true,
 		items: [{
+			id: "biomesoplenty:boat_mangrove",
 			ForgeCaps: {
-				"wizardryutils:summoneditemdata": {},
-				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "biomesoplenty:boat_mangrove"
+				"wizardryutils:summoneditemdata": {}
+			}
 		}],
 		ignore_damage: true,
 		ignore_nbt: 1b
@@ -195,11 +182,10 @@
 		type: "item",
 		disable_toast: true,
 		items: [{
+			id: "biomesoplenty:boat_palm",
 			ForgeCaps: {
-				"wizardryutils:summoneditemdata": {},
-				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "biomesoplenty:boat_palm"
+				"wizardryutils:summoneditemdata": {}
+			}
 		}],
 		ignore_damage: true,
 		ignore_nbt: 1b
@@ -209,11 +195,10 @@
 		type: "item",
 		disable_toast: true,
 		items: [{
+			id: "biomesoplenty:boat_redwood",
 			ForgeCaps: {
-				"wizardryutils:summoneditemdata": {},
-				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "biomesoplenty:boat_redwood"
+				"wizardryutils:summoneditemdata": {}
+			}
 		}],
 		ignore_damage: true,
 		ignore_nbt: 1b
@@ -223,11 +208,10 @@
 		type: "item",
 		disable_toast: true,
 		items: [{
+			id: "biomesoplenty:boat_willow",
 			ForgeCaps: {
-				"wizardryutils:summoneditemdata": {},
-				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "biomesoplenty:boat_willow"
+				"wizardryutils:summoneditemdata": {}
+			}
 		}],
 		ignore_damage: true,
 		ignore_nbt: 1b
@@ -237,11 +221,10 @@
 		type: "item",
 		disable_toast: true,
 		items: [{
+			id: "biomesoplenty:boat_pine",
 			ForgeCaps: {
-				"wizardryutils:summoneditemdata": {},
-				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "biomesoplenty:boat_pine"
+				"wizardryutils:summoneditemdata": {}
+			}
 		}],
 		ignore_damage: true,
 		ignore_nbt: 1b
@@ -251,11 +234,10 @@
 		type: "item",
 		disable_toast: true,
 		items: [{
+			id: "biomesoplenty:boat_hellbark",
 			ForgeCaps: {
-				"wizardryutils:summoneditemdata": {},
-				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "biomesoplenty:boat_hellbark"
+				"wizardryutils:summoneditemdata": {}
+			}
 		}],
 		ignore_damage: true,
 		ignore_nbt: 1b
@@ -265,11 +247,10 @@
 		type: "item",
 		disable_toast: true,
 		items: [{
+			id: "biomesoplenty:boat_jacaranda",
 			ForgeCaps: {
-				"wizardryutils:summoneditemdata": {},
-				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "biomesoplenty:boat_jacaranda"
+				"wizardryutils:summoneditemdata": {}
+			}
 		}],
 		ignore_damage: true,
 		ignore_nbt: 1b
@@ -279,11 +260,10 @@
 		type: "item",
 		disable_toast: true,
 		items: [{
+			id: "biomesoplenty:boat_mahogany",
 			ForgeCaps: {
-				"wizardryutils:summoneditemdata": {},
-				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "biomesoplenty:boat_mahogany"
+				"wizardryutils:summoneditemdata": {}
+			}
 		}],
 		ignore_damage: true,
 		ignore_nbt: 1b
@@ -293,11 +273,10 @@
 		type: "item",
 		disable_toast: true,
 		items: [{
+			id: "biomesoplenty:boat_ebony",
 			ForgeCaps: {
-				"wizardryutils:summoneditemdata": {},
-				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "biomesoplenty:boat_ebony"
+				"wizardryutils:summoneditemdata": {}
+			}
 		}],
 		ignore_damage: true,
 		ignore_nbt: 1b
@@ -307,11 +286,10 @@
 		type: "item",
 		disable_toast: true,
 		items: [{
+			id: "biomesoplenty:boat_eucalyptus",
 			ForgeCaps: {
-				"wizardryutils:summoneditemdata": {},
-				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "biomesoplenty:boat_eucalyptus"
+				"wizardryutils:summoneditemdata": {}
+			}
 		}],
 		ignore_damage: true,
 		ignore_nbt: 1b
@@ -321,11 +299,10 @@
 		type: "item",
 		disable_toast: true,
 		items: [{
+			id: "netherex:obsidian_boat",
 			ForgeCaps: {
-				"wizardryutils:summoneditemdata": {},
-				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "netherex:obsidian_boat"
+				"wizardryutils:summoneditemdata": {}
+			}
 		}],
 		ignore_damage: true,
 		ignore_nbt: 1b
@@ -335,11 +312,10 @@
 		type: "item",
 		disable_toast: true,
 		items: [{
+			id: "thebetweenlands:weedwood_rowboat",
 			ForgeCaps: {
-				"wizardryutils:summoneditemdata": {},
-				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "thebetweenlands:weedwood_rowboat"
+				"wizardryutils:summoneditemdata": {}
+			}
 		}],
 		ignore_damage: true,
 		ignore_nbt: 1b

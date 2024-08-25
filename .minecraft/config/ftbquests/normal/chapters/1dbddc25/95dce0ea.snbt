@@ -1,10 +1,8 @@
 {
 	title: "Head Hunter: Blaze",
 	icon: {
-		ForgeCaps: {
-			"wizardryutils:summoneditemdata": {}
-		},
 		id: "minecraft:skull",
+		Damage: 3s,
 		tag: {
 			SkullOwner: {
 				Id: "df81d31d-881a-49fb-bfec-68ec5cab5f7d",
@@ -18,7 +16,9 @@
 				Name: "Blaze"
 			}
 		},
-		Damage: 3s
+		ForgeCaps: {
+			"wizardryutils:summoneditemdata": {}
+		}
 	},
 	x: 0.5d,
 	y: -2.0d,
@@ -76,14 +76,14 @@
 		uid: "929c7622",
 		type: "kill",
 		icon: {
-			ForgeCaps: {
-				"wizardryutils:summoneditemdata": {}
-			},
 			id: "minecraft:spawn_egg",
 			tag: {
 				EntityTag: {
 					id: "minecraft:blaze"
 				}
+			},
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
 			}
 		},
 		disable_toast: true,

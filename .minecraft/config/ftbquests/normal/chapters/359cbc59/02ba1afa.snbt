@@ -7,10 +7,10 @@
 		uid: "8796fb2b",
 		type: "observation",
 		icon: {
+			id: "minecraft:nether_wart_block",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "minecraft:nether_wart_block"
+			}
 		},
 		match_type: "entity_id",
 		match: "golems:golem_nether_wart",

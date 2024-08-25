@@ -7,10 +7,10 @@
 		uid: "4bd6ab5a",
 		type: "observation",
 		icon: {
+			id: "zawa:bald_eagle",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "zawa:bald_eagle"
+			}
 		},
 		match_type: "entity_id",
 		match: "zawa:baldeagle",

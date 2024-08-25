@@ -9,11 +9,11 @@
 		uid: "41b747fd",
 		type: "item",
 		items: [{
+			id: "spartanweaponry:pike_gold",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {},
 				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "spartanweaponry:pike_gold"
+			}
 		}],
 		ignore_damage: true,
 		ignore_nbt: 1b

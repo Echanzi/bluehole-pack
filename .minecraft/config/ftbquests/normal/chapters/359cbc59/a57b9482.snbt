@@ -7,10 +7,10 @@
 		uid: "0bfe7e75",
 		type: "observation",
 		icon: {
+			id: "minecraft:bookshelf",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "minecraft:bookshelf"
+			}
 		},
 		match_type: "entity_id",
 		match: "golems:golem_bookshelf",

@@ -9,11 +9,11 @@
 		uid: "451249e6",
 		type: "item",
 		items: [{
+			id: "spartanweaponry:warhammer_silver",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {},
 				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "spartanweaponry:warhammer_silver"
+			}
 		}],
 		ignore_damage: true,
 		ignore_nbt: 1b

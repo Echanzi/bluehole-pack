@@ -1,12 +1,12 @@
 {
 	title: "Valkyrie Victor",
 	icon: {
+		id: "aether_legacy:dungeon_key",
+		Damage: 1s,
 		ForgeCaps: {
 			"wizardryutils:summoneditemdata": {},
 			"astralsorcery:cap_item_amulet_holder": {}
-		},
-		id: "aether_legacy:dungeon_key",
-		Damage: 1s
+		}
 	},
 	x: 4.0d,
 	y: -2.0d,
@@ -18,11 +18,11 @@
 		type: "kill",
 		title: "Slay the Valkyrie Queen",
 		icon: {
+			id: "aether_legacy:valkyrie_lance",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {},
 				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "aether_legacy:valkyrie_lance"
+			}
 		},
 		entity: "aether_legacy:valkyrie_queen",
 		value: 1L
@@ -31,12 +31,12 @@
 		uid: "acef426b",
 		type: "item",
 		items: [{
+			id: "aether_legacy:dungeon_key",
+			Damage: 1s,
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {},
 				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "aether_legacy:dungeon_key",
-			Damage: 1s
+			}
 		}],
 		ignore_nbt: 1b
 	},
@@ -44,10 +44,10 @@
 		uid: "1d115241",
 		type: "item",
 		items: [{
+			id: "aether_legacy:victory_medal",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "aether_legacy:victory_medal"
+			}
 		}],
 		count: 10L
 	}],
@@ -60,10 +60,10 @@
 		uid: "aeaede06",
 		type: "item",
 		item: {
+			id: "chancecubes:chance_cube",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "chancecubes:chance_cube"
+			}
 		}
 	}]
 }

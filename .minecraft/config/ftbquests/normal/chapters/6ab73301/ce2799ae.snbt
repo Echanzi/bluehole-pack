@@ -9,10 +9,10 @@
 		uid: "c1a52d01",
 		type: "item",
 		items: [{
+			id: "scalinghealth:heartdust",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "scalinghealth:heartdust"
+			}
 		}]
 	}],
 	rewards: [{

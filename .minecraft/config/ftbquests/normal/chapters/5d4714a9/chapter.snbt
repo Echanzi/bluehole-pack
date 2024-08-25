@@ -1,6 +1,7 @@
 {
 	title: "Using Glide",
 	icon: {
+		id: "minecraft:elytra",
 		ForgeCaps: {
 			"wizardryutils:summoneditemdata": {},
 			"astralsorcery:cap_item_amulet_holder": {},
@@ -17,8 +18,7 @@
 				},
 				AreWingsDuplicates: 1b
 			}
-		},
-		id: "minecraft:elytra"
+		}
 	},
 	always_invisible: false,
 	group: 0,

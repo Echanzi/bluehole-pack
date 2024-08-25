@@ -9,11 +9,11 @@
 		uid: "842f711b",
 		type: "item",
 		items: [{
+			id: "spartantwilight:mace_steeleaf",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {},
 				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "spartantwilight:mace_steeleaf"
+			}
 		}],
 		ignore_damage: true,
 		ignore_nbt: 1b

@@ -1,10 +1,10 @@
 {
 	title: "Elevated Botanical Survey",
 	icon: {
+		id: "aether_legacy:skyroot_sapling",
 		ForgeCaps: {
 			"wizardryutils:summoneditemdata": {}
-		},
-		id: "aether_legacy:skyroot_sapling"
+		}
 	},
 	x: -0.5d,
 	y: 1.0d,
@@ -16,60 +16,60 @@
 		uid: "f7c2f342",
 		type: "item",
 		items: [{
+			id: "aether_legacy:skyroot_sapling",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "aether_legacy:skyroot_sapling"
+			}
 		}]
 	},
 	{
 		uid: "b9dbbb3d",
 		type: "item",
 		items: [{
+			id: "aether_legacy:golden_oak_sapling",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "aether_legacy:golden_oak_sapling"
+			}
 		}]
 	},
 	{
 		uid: "21dc6434",
 		type: "item",
 		items: [{
+			id: "lost_aether:crystal_sapling",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "lost_aether:crystal_sapling"
+			}
 		}]
 	},
 	{
 		uid: "f2f94e2c",
 		type: "item",
 		items: [{
+			id: "aether_legacy:purple_flower",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "aether_legacy:purple_flower"
+			}
 		}]
 	},
 	{
 		uid: "2b1c7d40",
 		type: "item",
 		items: [{
+			id: "aether_legacy:white_flower",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "aether_legacy:white_flower"
+			}
 		}]
 	},
 	{
 		uid: "9f2e9da0",
 		type: "item",
 		items: [{
+			id: "aether_legacy:berry_bush_stem",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "aether_legacy:berry_bush_stem"
+			}
 		}]
 	}],
 	rewards: [{

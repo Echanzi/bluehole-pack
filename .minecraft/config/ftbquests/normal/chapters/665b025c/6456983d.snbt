@@ -9,11 +9,11 @@
 		uid: "2dcdece9",
 		type: "item",
 		items: [{
+			id: "spartancompat:pike_skyroot",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {},
 				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "spartancompat:pike_skyroot"
+			}
 		}],
 		ignore_damage: true,
 		ignore_nbt: 1b

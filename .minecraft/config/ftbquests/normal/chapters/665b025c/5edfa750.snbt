@@ -9,11 +9,11 @@
 		uid: "d1484f8c",
 		type: "item",
 		items: [{
+			id: "spartanfire:rapier_ice_dragonbone",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {},
 				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "spartanfire:rapier_ice_dragonbone"
+			}
 		}],
 		ignore_damage: true,
 		ignore_nbt: 1b

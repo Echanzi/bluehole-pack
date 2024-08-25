@@ -6,10 +6,10 @@
 		uid: "a8584381",
 		type: "item",
 		items: [{
+			id: "tropicraft:chunk",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "tropicraft:chunk"
+			}
 		}]
 	}],
 	rewards: [{

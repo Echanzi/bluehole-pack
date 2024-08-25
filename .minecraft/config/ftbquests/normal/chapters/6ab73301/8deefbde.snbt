@@ -12,10 +12,10 @@
 		uid: "40cd1e80",
 		type: "item",
 		items: [{
+			id: "minecraft:enchanting_table",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "minecraft:enchanting_table"
+			}
 		}]
 	}],
 	rewards: [{

@@ -8,12 +8,12 @@
 		uid: "64ed7c59",
 		type: "item",
 		items: [{
+			id: "aether_legacy:dart_shooter",
+			Damage: 2s,
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {},
 				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "aether_legacy:dart_shooter",
-			Damage: 2s
+			}
 		}],
 		ignore_nbt: 1b
 	}],

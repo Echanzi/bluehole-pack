@@ -10,11 +10,11 @@
 		type: "item",
 		disable_toast: true,
 		items: [{
+			id: "twilightforest:twilight_scepter",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {},
 				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "twilightforest:twilight_scepter"
+			}
 		}],
 		ignore_damage: true,
 		ignore_nbt: 1b
@@ -24,11 +24,11 @@
 		type: "item",
 		disable_toast: true,
 		items: [{
+			id: "twilightforest:lifedrain_scepter",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {},
 				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "twilightforest:lifedrain_scepter"
+			}
 		}],
 		ignore_damage: true,
 		ignore_nbt: 1b
@@ -38,11 +38,11 @@
 		type: "item",
 		disable_toast: true,
 		items: [{
+			id: "twilightforest:zombie_scepter",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {},
 				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "twilightforest:zombie_scepter"
+			}
 		}],
 		ignore_damage: true,
 		ignore_nbt: 1b
@@ -52,11 +52,11 @@
 		type: "item",
 		disable_toast: true,
 		items: [{
+			id: "twilightforest:shield_scepter",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {},
 				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "twilightforest:shield_scepter"
+			}
 		}],
 		ignore_damage: true,
 		ignore_nbt: 1b

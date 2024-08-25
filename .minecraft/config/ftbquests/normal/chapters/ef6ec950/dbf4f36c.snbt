@@ -8,11 +8,11 @@
 		uid: "204fafe0",
 		type: "item",
 		items: [{
+			id: "thebetweenlands:ancient_battle_axe",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {},
 				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "thebetweenlands:ancient_battle_axe"
+			}
 		}],
 		ignore_damage: true,
 		ignore_nbt: 1b

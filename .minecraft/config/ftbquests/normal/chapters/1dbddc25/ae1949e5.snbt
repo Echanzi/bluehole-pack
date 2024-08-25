@@ -10,10 +10,10 @@
 		uid: "4a32f65c",
 		type: "kill",
 		icon: {
+			id: "twilightforest:trophy",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "twilightforest:trophy"
+			}
 		},
 		entity: "twilightforest:naga",
 		value: 1L

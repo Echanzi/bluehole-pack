@@ -9,11 +9,11 @@
 		uid: "e36ec757",
 		type: "item",
 		items: [{
+			id: "spartanlands:glaive_slimybone",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {},
 				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "spartanlands:glaive_slimybone"
+			}
 		}],
 		ignore_damage: true,
 		ignore_nbt: 1b

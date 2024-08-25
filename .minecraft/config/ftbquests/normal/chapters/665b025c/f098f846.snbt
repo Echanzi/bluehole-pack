@@ -9,11 +9,11 @@
 		uid: "ad4b6706",
 		type: "item",
 		items: [{
+			id: "spartanweaponry:staff_gold",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {},
 				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "spartanweaponry:staff_gold"
+			}
 		}],
 		ignore_damage: true,
 		ignore_nbt: 1b

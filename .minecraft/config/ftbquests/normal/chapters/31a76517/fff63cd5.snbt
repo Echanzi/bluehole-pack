@@ -6,10 +6,10 @@
 		uid: "43797b3b",
 		type: "item",
 		items: [{
+			id: "tropicraft:bamboo_shoot",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "tropicraft:bamboo_shoot"
+			}
 		}],
 		count: 128L,
 		consume_items: true
@@ -18,10 +18,10 @@
 		uid: "3ad15f2c",
 		type: "item",
 		item: {
+			id: "futuremc:bamboo",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "futuremc:bamboo"
+			}
 		}
 	}]
 }

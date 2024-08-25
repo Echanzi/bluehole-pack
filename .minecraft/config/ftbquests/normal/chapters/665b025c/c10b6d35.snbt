@@ -9,11 +9,11 @@
 		uid: "e1915012",
 		type: "item",
 		items: [{
+			id: "spartancompat:longbow_holystone",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {},
 				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "spartancompat:longbow_holystone"
+			}
 		}],
 		ignore_damage: true,
 		ignore_nbt: 1b

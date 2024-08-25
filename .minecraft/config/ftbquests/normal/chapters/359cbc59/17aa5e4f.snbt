@@ -7,10 +7,10 @@
 		uid: "c638b1e0",
 		type: "observation",
 		icon: {
+			id: "zawa:pacific_walrus",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "zawa:pacific_walrus"
+			}
 		},
 		match_type: "entity_id",
 		match: "zawa:pacificwalrus",

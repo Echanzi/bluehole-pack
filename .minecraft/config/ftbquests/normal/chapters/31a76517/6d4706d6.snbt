@@ -5,10 +5,10 @@
 		uid: "72b52d48",
 		type: "item",
 		items: [{
+			id: "tropicraft:fishing_net",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "tropicraft:fishing_net"
+			}
 		}]
 	}],
 	rewards: [{

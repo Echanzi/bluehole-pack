@@ -9,10 +9,10 @@
 		uid: "45ba49e7",
 		type: "item",
 		items: [{
+			id: "quark:turf",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "quark:turf"
+			}
 		}]
 	}],
 	rewards: [{

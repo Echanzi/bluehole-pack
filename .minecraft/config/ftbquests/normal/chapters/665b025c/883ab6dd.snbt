@@ -9,11 +9,11 @@
 		uid: "d9a7edef",
 		type: "item",
 		items: [{
+			id: "spartanweaponry:dagger_wood",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {},
 				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "spartanweaponry:dagger_wood"
+			}
 		}],
 		ignore_damage: true,
 		ignore_nbt: 1b

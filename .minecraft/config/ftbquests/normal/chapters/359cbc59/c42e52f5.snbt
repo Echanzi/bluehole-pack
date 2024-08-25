@@ -7,10 +7,10 @@
 		uid: "2d17bfb2",
 		type: "observation",
 		icon: {
+			id: "zawa:andean_condor",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "zawa:andean_condor"
+			}
 		},
 		match_type: "entity_id",
 		match: "zawa:andeancondor",

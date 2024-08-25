@@ -8,11 +8,11 @@
 		uid: "298d7712",
 		type: "item",
 		items: [{
+			id: "thebetweenlands:shockwave_sword",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {},
 				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "thebetweenlands:shockwave_sword"
+			}
 		}],
 		ignore_damage: true,
 		ignore_nbt: 1b

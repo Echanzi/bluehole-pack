@@ -7,10 +7,10 @@
 		uid: "b9da89d7",
 		type: "observation",
 		icon: {
+			id: "zawa:nile_hippopotamus",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "zawa:nile_hippopotamus"
+			}
 		},
 		match_type: "entity_id",
 		match: "zawa:nilehippopotamus",

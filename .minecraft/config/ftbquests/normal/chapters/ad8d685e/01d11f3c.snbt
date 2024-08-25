@@ -10,10 +10,10 @@
 		type: "item",
 		disable_toast: true,
 		items: [{
+			id: "brewcraft:totalvodkaitem",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "brewcraft:totalvodkaitem"
+			}
 		}]
 	}],
 	rewards: [{

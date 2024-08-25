@@ -10,10 +10,10 @@
 		type: "stat",
 		title: "Public Transit",
 		icon: {
+			id: "waystones:waystone",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "waystones:waystone"
+			}
 		},
 		stat: "stat.waystones:waystonesActivated",
 		value: 3

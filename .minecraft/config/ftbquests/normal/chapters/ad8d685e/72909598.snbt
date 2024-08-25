@@ -6,10 +6,10 @@
 		uid: "feeeafba",
 		type: "item",
 		items: [{
+			id: "minecraft:cookie",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "minecraft:cookie"
+			}
 		}]
 	}],
 	rewards: [{

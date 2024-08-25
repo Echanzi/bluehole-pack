@@ -10,10 +10,10 @@
 		uid: "e98aca76",
 		type: "kill",
 		icon: {
+			id: "thebetweenlands:sludge_ball",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "thebetweenlands:sludge_ball"
+			}
 		},
 		entity: "thebetweenlands:sludge_menace",
 		value: 1L

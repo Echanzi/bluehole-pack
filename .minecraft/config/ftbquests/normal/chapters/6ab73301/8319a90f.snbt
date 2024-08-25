@@ -11,10 +11,10 @@
 		type: "item",
 		disable_toast: true,
 		items: [{
+			id: "minecraft:end_rod",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "minecraft:end_rod"
+			}
 		}]
 	},
 	{
@@ -22,10 +22,10 @@
 		type: "item",
 		disable_toast: true,
 		items: [{
+			id: "minecraft:sticky_piston",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "minecraft:sticky_piston"
+			}
 		}]
 	},
 	{
@@ -33,10 +33,10 @@
 		type: "item",
 		disable_toast: true,
 		items: [{
+			id: "minecraft:redstone_torch",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "minecraft:redstone_torch"
+			}
 		}]
 	},
 	{
@@ -44,10 +44,10 @@
 		type: "item",
 		disable_toast: true,
 		items: [{
+			id: "minecraft:redstone",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "minecraft:redstone"
+			}
 		}],
 		count: 5L
 	},
@@ -56,10 +56,10 @@
 		type: "item",
 		disable_toast: true,
 		items: [{
+			id: "minecraft:repeater",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "minecraft:repeater"
+			}
 		}]
 	},
 	{
@@ -67,11 +67,11 @@
 		type: "item",
 		disable_toast: true,
 		items: [{
+			id: "minecraft:boat",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {},
 				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "minecraft:boat"
+			}
 		}],
 		ignore_damage: true,
 		ignore_nbt: 1b

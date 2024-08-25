@@ -9,11 +9,11 @@
 		uid: "4bce61a0",
 		type: "item",
 		items: [{
+			id: "spartanfire:battleaxe_desert",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {},
 				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "spartanfire:battleaxe_desert"
+			}
 		}],
 		ignore_damage: true,
 		ignore_nbt: 1b

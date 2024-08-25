@@ -6,10 +6,10 @@
 		uid: "d38d0313",
 		type: "item",
 		items: [{
+			id: "tropicraft:sifter",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "tropicraft:sifter"
+			}
 		}]
 	}],
 	rewards: [{

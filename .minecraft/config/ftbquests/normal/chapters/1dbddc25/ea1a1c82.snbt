@@ -1,10 +1,8 @@
 {
 	title: "Head Hunter: Silverfish",
 	icon: {
-		ForgeCaps: {
-			"wizardryutils:summoneditemdata": {}
-		},
 		id: "minecraft:skull",
+		Damage: 3s,
 		tag: {
 			SkullOwner: {
 				Id: "9ad1b276-a15f-4b80-b07f-dec00328b2d0",
@@ -18,7 +16,9 @@
 				Name: "Silverfish"
 			}
 		},
-		Damage: 3s
+		ForgeCaps: {
+			"wizardryutils:summoneditemdata": {}
+		}
 	},
 	x: -1.0d,
 	y: 1.0d,
@@ -62,14 +62,14 @@
 		uid: "0613b3d8",
 		type: "kill",
 		icon: {
-			ForgeCaps: {
-				"wizardryutils:summoneditemdata": {}
-			},
 			id: "minecraft:spawn_egg",
 			tag: {
 				EntityTag: {
 					id: "minecraft:silverfish"
 				}
+			},
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
 			}
 		},
 		disable_toast: true,

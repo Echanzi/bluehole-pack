@@ -8,11 +8,11 @@
 		uid: "275f4339",
 		type: "item",
 		items: [{
+			id: "ebwizardry:apprentice_wand",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {},
 				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "ebwizardry:apprentice_wand"
+			}
 		}],
 		ignore_damage: true,
 		ignore_nbt: 1b

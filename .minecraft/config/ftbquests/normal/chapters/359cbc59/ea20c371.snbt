@@ -7,10 +7,10 @@
 		uid: "c2ef1926",
 		type: "observation",
 		icon: {
+			id: "zawa:beaver",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "zawa:beaver"
+			}
 		},
 		match_type: "entity_id",
 		match: "zawa:beaver",

@@ -5,11 +5,10 @@
 		uid: "218b5c14",
 		type: "item",
 		items: [{
+			id: "thebetweenlands:wights_bane",
 			ForgeCaps: {
-				"wizardryutils:summoneditemdata": {},
-				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "thebetweenlands:wights_bane"
+				"wizardryutils:summoneditemdata": {}
+			}
 		}],
 		ignore_damage: true,
 		ignore_nbt: 1b

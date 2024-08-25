@@ -7,11 +7,11 @@
 		uid: "15be604c",
 		type: "kill",
 		icon: {
+			id: "mutantbeasts:creeper_shard",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {},
 				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "mutantbeasts:creeper_shard"
+			}
 		},
 		entity: "mutantbeasts:mutant_creeper",
 		value: 1L

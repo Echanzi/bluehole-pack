@@ -8,10 +8,10 @@
 		uid: "e7e8bb57",
 		type: "item",
 		items: [{
+			id: "thebetweenlands:tarminion",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "thebetweenlands:tarminion"
+			}
 		}]
 	}],
 	rewards: [{

@@ -7,10 +7,10 @@
 		uid: "38d93a34",
 		type: "observation",
 		icon: {
+			id: "zawa:golden_lion_tamarin",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "zawa:golden_lion_tamarin"
+			}
 		},
 		match_type: "entity_id",
 		match: "zawa:goldenliontamarin",

@@ -9,11 +9,11 @@
 		uid: "3a0511cf",
 		type: "item",
 		items: [{
+			id: "spartanfire:lance_ice_dragonsteel",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {},
 				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "spartanfire:lance_ice_dragonsteel"
+			}
 		}],
 		ignore_damage: true,
 		ignore_nbt: 1b

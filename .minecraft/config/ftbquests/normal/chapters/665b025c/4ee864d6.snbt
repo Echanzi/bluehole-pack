@@ -9,17 +9,16 @@
 		uid: "b2b52f04",
 		type: "item",
 		items: [{
-			ForgeCaps: {
-				"wizardryutils:summoneditemdata": {},
-				Parent: {
-					Size: 4,
-					Items: []
-				},
-				"astralsorcery:cap_item_amulet_holder": {}
-			},
 			id: "spartanweaponry:quiver_bolt",
 			tag: {
 				ClientInventory: []
+			},
+			ForgeCaps: {
+				Parent: {
+					Items: [],
+					Size: 4
+				},
+				"wizardryutils:summoneditemdata": {}
 			}
 		}],
 		ignore_damage: true,

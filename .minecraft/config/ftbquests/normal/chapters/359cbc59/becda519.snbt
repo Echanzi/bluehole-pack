@@ -7,10 +7,10 @@
 		uid: "86f7a9e5",
 		type: "observation",
 		icon: {
+			id: "zawa:platypus",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "zawa:platypus"
+			}
 		},
 		match_type: "entity_id",
 		match: "zawa:platypus",

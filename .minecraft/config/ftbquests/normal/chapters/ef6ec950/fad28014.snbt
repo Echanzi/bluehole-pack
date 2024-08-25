@@ -8,10 +8,10 @@
 		uid: "f101a4d1",
 		type: "item",
 		items: [{
+			id: "thebetweenlands:silky_pebble",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "thebetweenlands:silky_pebble"
+			}
 		}]
 	}],
 	rewards: [{

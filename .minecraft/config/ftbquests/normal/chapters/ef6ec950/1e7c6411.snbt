@@ -9,10 +9,10 @@
 		type: "interaction",
 		title: "Click on Activated Menhir.",
 		icon: {
+			id: "thebetweenlands:waystone",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "thebetweenlands:waystone"
+			}
 		},
 		match_type: "block_id",
 		match: "thebetweenlands:waystone",

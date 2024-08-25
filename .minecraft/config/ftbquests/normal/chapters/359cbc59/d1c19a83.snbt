@@ -7,10 +7,10 @@
 		uid: "50c5d230",
 		type: "observation",
 		icon: {
+			id: "minecraft:emerald_block",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "minecraft:emerald_block"
+			}
 		},
 		match_type: "entity_id",
 		match: "golems:golem_emerald",

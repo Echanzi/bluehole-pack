@@ -9,11 +9,11 @@
 		uid: "64f7a63d",
 		type: "item",
 		items: [{
+			id: "spartanweaponry:hammer_stone",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {},
 				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "spartanweaponry:hammer_stone"
+			}
 		}],
 		ignore_damage: true,
 		ignore_nbt: 1b

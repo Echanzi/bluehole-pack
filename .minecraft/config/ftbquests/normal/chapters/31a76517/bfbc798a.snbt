@@ -6,11 +6,10 @@
 		uid: "7709c986",
 		type: "item",
 		items: [{
+			id: "tropicraft:tropics_water_bucket",
 			ForgeCaps: {
-				"wizardryutils:summoneditemdata": {},
-				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "tropicraft:tropics_water_bucket"
+				"wizardryutils:summoneditemdata": {}
+			}
 		}],
 		ignore_damage: true,
 		ignore_nbt: 1b

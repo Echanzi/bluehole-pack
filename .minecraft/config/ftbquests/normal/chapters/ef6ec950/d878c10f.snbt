@@ -8,10 +8,10 @@
 		uid: "4b0c3e50",
 		type: "item",
 		items: [{
+			id: "thebetweenlands:alembic",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "thebetweenlands:alembic"
+			}
 		}]
 	}],
 	rewards: [{

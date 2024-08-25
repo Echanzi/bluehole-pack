@@ -1,10 +1,10 @@
 {
 	title: "Overgrown Cliffs",
 	icon: {
+		id: "biomesoplenty:grass",
 		ForgeCaps: {
 			"wizardryutils:summoneditemdata": {}
-		},
-		id: "biomesoplenty:grass"
+		}
 	},
 	disable_toast: true,
 	x: 14.0d,

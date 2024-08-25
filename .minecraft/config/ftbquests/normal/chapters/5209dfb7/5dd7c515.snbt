@@ -9,10 +9,10 @@
 		uid: "189d0e82",
 		type: "item",
 		items: [{
+			id: "twilightforest:magic_map_empty",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "twilightforest:magic_map_empty"
+			}
 		}]
 	}],
 	rewards: [{

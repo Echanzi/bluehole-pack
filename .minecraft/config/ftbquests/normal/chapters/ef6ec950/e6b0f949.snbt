@@ -8,10 +8,10 @@
 		uid: "09acb7ac",
 		type: "item",
 		items: [{
+			id: "thebetweenlands:sulfur_furnace",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "thebetweenlands:sulfur_furnace"
+			}
 		}]
 	}],
 	rewards: [{

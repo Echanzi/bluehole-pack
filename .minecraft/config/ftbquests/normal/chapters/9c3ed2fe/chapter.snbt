@@ -1,10 +1,10 @@
 {
 	title: "Hostile Paradise",
 	icon: {
+		id: "aether_legacy:aether_grass",
 		ForgeCaps: {
 			"wizardryutils:summoneditemdata": {}
-		},
-		id: "aether_legacy:aether_grass"
+		}
 	},
 	always_invisible: false,
 	group: 0,

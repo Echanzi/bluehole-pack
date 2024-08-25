@@ -7,10 +7,10 @@
 		type: "item",
 		disable_toast: true,
 		items: [{
+			id: "harvestcraft:spagettiitem",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "harvestcraft:spagettiitem"
+			}
 		}],
 		consume_items: true
 	},
@@ -19,10 +19,10 @@
 		type: "item",
 		disable_toast: true,
 		items: [{
+			id: "harvestcraft:tacoitem",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "harvestcraft:tacoitem"
+			}
 		}],
 		consume_items: true
 	}],

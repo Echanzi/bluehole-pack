@@ -5,11 +5,11 @@
 		uid: "86965c9a",
 		type: "item",
 		items: [{
+			id: "twilightforest:trophy",
+			Damage: 8s,
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "twilightforest:trophy",
-			Damage: 8s
+			}
 		}]
 	}],
 	rewards: [{

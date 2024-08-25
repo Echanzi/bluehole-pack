@@ -8,11 +8,11 @@
 		uid: "e8a19776",
 		type: "item",
 		items: [{
+			id: "thebetweenlands:sickle",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {},
 				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "thebetweenlands:sickle"
+			}
 		}],
 		ignore_damage: true,
 		ignore_nbt: 1b

@@ -10,10 +10,10 @@
 		type: "item",
 		disable_toast: true,
 		items: [{
+			id: "twilightforest:charm_of_keeping_1",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "twilightforest:charm_of_keeping_1"
+			}
 		}]
 	},
 	{
@@ -21,10 +21,10 @@
 		type: "item",
 		disable_toast: true,
 		items: [{
+			id: "twilightforest:charm_of_life_1",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "twilightforest:charm_of_life_1"
+			}
 		}]
 	},
 	{
@@ -32,10 +32,10 @@
 		type: "item",
 		disable_toast: true,
 		items: [{
+			id: "twilightforest:transformation_powder",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "twilightforest:transformation_powder"
+			}
 		}]
 	}],
 	rewards: [{

@@ -9,11 +9,11 @@
 		uid: "841f610c",
 		type: "stat",
 		icon: {
+			id: "minecraft:iron_sword",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {},
 				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "minecraft:iron_sword"
+			}
 		},
 		stat: "stat.mobKills",
 		value: 500

@@ -13,10 +13,10 @@
 		type: "item",
 		disable_toast: true,
 		items: [{
+			id: "iceandfire:dragonforge_fire_core_disabled",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "iceandfire:dragonforge_fire_core_disabled"
+			}
 		}]
 	},
 	{
@@ -24,10 +24,10 @@
 		type: "item",
 		disable_toast: true,
 		items: [{
+			id: "iceandfire:dragonforge_fire_input",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "iceandfire:dragonforge_fire_input"
+			}
 		}]
 	},
 	{
@@ -35,10 +35,10 @@
 		type: "item",
 		disable_toast: true,
 		items: [{
+			id: "iceandfire:dragonforge_fire_brick",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "iceandfire:dragonforge_fire_brick"
+			}
 		}],
 		count: 17L
 	},
@@ -47,10 +47,10 @@
 		type: "item",
 		disable_toast: true,
 		items: [{
+			id: "iceandfire:dragon_bone_block",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "iceandfire:dragon_bone_block"
+			}
 		}],
 		count: 8L
 	}],

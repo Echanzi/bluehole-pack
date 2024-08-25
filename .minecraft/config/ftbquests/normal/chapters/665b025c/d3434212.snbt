@@ -9,11 +9,11 @@
 		uid: "09694343",
 		type: "item",
 		items: [{
+			id: "spartanfire:saber_jungle",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {},
 				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "spartanfire:saber_jungle"
+			}
 		}],
 		ignore_damage: true,
 		ignore_nbt: 1b

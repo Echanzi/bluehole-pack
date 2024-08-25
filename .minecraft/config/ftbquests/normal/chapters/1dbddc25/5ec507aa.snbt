@@ -9,10 +9,10 @@
 		uid: "78954abb",
 		type: "kill",
 		icon: {
+			id: "mod_lavacow:emblem_of_king",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "mod_lavacow:emblem_of_king"
+			}
 		},
 		disable_toast: true,
 		entity: "mod_lavacow:skeletonking",

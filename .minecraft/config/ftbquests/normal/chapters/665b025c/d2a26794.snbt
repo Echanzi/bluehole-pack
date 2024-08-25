@@ -9,11 +9,11 @@
 		uid: "447c5c37",
 		type: "item",
 		items: [{
+			id: "spartanfire:greatsword_jungle_venom",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {},
 				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "spartanfire:greatsword_jungle_venom"
+			}
 		}],
 		ignore_damage: true,
 		ignore_nbt: 1b

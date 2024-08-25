@@ -9,10 +9,10 @@
 		uid: "12b0f1ef",
 		type: "item",
 		items: [{
+			id: "minecraft:gold_ingot",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "minecraft:gold_ingot"
+			}
 		}]
 	}],
 	rewards: [{

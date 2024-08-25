@@ -8,10 +8,10 @@
 		uid: "de9d3313",
 		type: "item",
 		items: [{
+			id: "vc:modules/item_module_type",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "vc:modules/item_module_type"
+			}
 		}],
 		ignore_nbt: 1b
 	}],

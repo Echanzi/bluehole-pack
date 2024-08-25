@@ -9,10 +9,10 @@
 		uid: "4f41f9bf",
 		type: "item",
 		items: [{
+			id: "cgm:shell",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "cgm:shell"
+			}
 		}],
 		count: 24L
 	}],

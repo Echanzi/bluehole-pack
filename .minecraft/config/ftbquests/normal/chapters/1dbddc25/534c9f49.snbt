@@ -10,11 +10,11 @@
 		uid: "75cac1c1",
 		type: "kill",
 		icon: {
+			id: "thebetweenlands:spirit_tree_face_large_mask",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {},
 				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "thebetweenlands:spirit_tree_face_large_mask"
+			}
 		},
 		entity: "thebetweenlands:spirit_tree_face_large",
 		value: 1L

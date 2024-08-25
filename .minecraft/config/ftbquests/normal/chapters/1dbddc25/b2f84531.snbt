@@ -1,10 +1,8 @@
 {
 	title: "Head Hunter: Cave Spider",
 	icon: {
-		ForgeCaps: {
-			"wizardryutils:summoneditemdata": {}
-		},
 		id: "minecraft:skull",
+		Damage: 3s,
 		tag: {
 			SkullOwner: {
 				Id: "480c23d5-b2fc-44d6-b20b-aab7265553bc",
@@ -18,7 +16,9 @@
 				Name: "Cave Spider"
 			}
 		},
-		Damage: 3s
+		ForgeCaps: {
+			"wizardryutils:summoneditemdata": {}
+		}
 	},
 	x: -0.5d,
 	y: -1.0d,
@@ -62,14 +62,14 @@
 		uid: "67b7adba",
 		type: "kill",
 		icon: {
-			ForgeCaps: {
-				"wizardryutils:summoneditemdata": {}
-			},
 			id: "minecraft:spawn_egg",
 			tag: {
 				EntityTag: {
 					id: "minecraft:cave_spider"
 				}
+			},
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
 			}
 		},
 		disable_toast: true,

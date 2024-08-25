@@ -7,10 +7,10 @@
 		uid: "ccd76369",
 		type: "observation",
 		icon: {
+			id: "zawa:japanese_giant_salamander",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "zawa:japanese_giant_salamander"
+			}
 		},
 		match_type: "entity_id",
 		match: "zawa:japanesegiantsalamander",

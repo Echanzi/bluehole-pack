@@ -1,10 +1,10 @@
 {
 	title: "Hell's Kitchen",
 	icon: {
+		id: "cookingforblockheads:oven",
 		ForgeCaps: {
 			"wizardryutils:summoneditemdata": {}
-		},
-		id: "cookingforblockheads:oven"
+		}
 	},
 	x: -3.5d,
 	y: -1.5d,
@@ -12,10 +12,10 @@
 		uid: "24112647",
 		type: "item",
 		items: [{
+			id: "cookingforblockheads:fridge",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "cookingforblockheads:fridge"
+			}
 		}],
 		count: 2L
 	},
@@ -23,40 +23,40 @@
 		uid: "952a961a",
 		type: "item",
 		items: [{
+			id: "cookingforblockheads:oven",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "cookingforblockheads:oven"
+			}
 		}]
 	},
 	{
 		uid: "262195cd",
 		type: "item",
 		items: [{
+			id: "cookingforblockheads:cooking_table",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "cookingforblockheads:cooking_table"
+			}
 		}]
 	},
 	{
 		uid: "770554e3",
 		type: "item",
 		items: [{
+			id: "cookingforblockheads:sink",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "cookingforblockheads:sink"
+			}
 		}]
 	},
 	{
 		uid: "2369aa96",
 		type: "item",
 		items: [{
+			id: "cookingforblockheads:cabinet",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "cookingforblockheads:cabinet"
+			}
 		}],
 		count: 2L
 	},
@@ -64,20 +64,20 @@
 		uid: "54c870bb",
 		type: "item",
 		items: [{
+			id: "cookingforblockheads:counter",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "cookingforblockheads:counter"
+			}
 		}]
 	},
 	{
 		uid: "295b95bd",
 		type: "item",
 		items: [{
+			id: "cookingforblockheads:corner",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "cookingforblockheads:corner"
+			}
 		}],
 		count: 2L
 	}],

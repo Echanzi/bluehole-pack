@@ -9,10 +9,10 @@
 		uid: "80b702ba",
 		type: "item",
 		items: [{
+			id: "minecraft:ender_chest",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "minecraft:ender_chest"
+			}
 		}]
 	}],
 	rewards: [{

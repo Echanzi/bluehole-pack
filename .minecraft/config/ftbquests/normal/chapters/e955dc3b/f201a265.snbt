@@ -6,10 +6,10 @@
 		uid: "f686ea33",
 		type: "stat",
 		icon: {
+			id: "minecraft:fish",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "minecraft:fish"
+			}
 		},
 		stat: "stat.fishCaught",
 		value: 500

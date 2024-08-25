@@ -7,10 +7,10 @@
 		uid: "a9142ddb",
 		type: "observation",
 		icon: {
+			id: "minecraft:redstone_lamp",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "minecraft:redstone_lamp"
+			}
 		},
 		match_type: "entity_id",
 		match: "golems:golem_redstone_lamp",

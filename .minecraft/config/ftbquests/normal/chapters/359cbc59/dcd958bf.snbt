@@ -7,10 +7,10 @@
 		uid: "d862c146",
 		type: "observation",
 		icon: {
+			id: "zawa:toucan",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "zawa:toucan"
+			}
 		},
 		match_type: "entity_id",
 		match: "zawa:toucan",

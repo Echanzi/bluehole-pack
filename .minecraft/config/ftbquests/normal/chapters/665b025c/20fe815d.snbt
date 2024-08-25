@@ -9,11 +9,11 @@
 		uid: "f72e0d6a",
 		type: "item",
 		items: [{
+			id: "spartanweaponry:halberd_wood",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {},
 				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "spartanweaponry:halberd_wood"
+			}
 		}],
 		ignore_damage: true,
 		ignore_nbt: 1b

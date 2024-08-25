@@ -12,10 +12,10 @@
 		uid: "e9d855b1",
 		type: "item",
 		items: [{
+			id: "minecraft:anvil",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "minecraft:anvil"
+			}
 		}]
 	}],
 	rewards: [{

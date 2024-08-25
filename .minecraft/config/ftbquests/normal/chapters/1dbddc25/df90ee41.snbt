@@ -6,11 +6,11 @@
 		uid: "7949225b",
 		type: "kill",
 		icon: {
+			id: "iceandfire:seaserpent_skull",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {},
 				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "iceandfire:seaserpent_skull"
+			}
 		},
 		disable_toast: true,
 		entity: "iceandfire:seaserpent",

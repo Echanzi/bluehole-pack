@@ -1,10 +1,10 @@
 {
 	title: "Kelp Forest",
 	icon: {
+		id: "minecraft:grass",
 		ForgeCaps: {
 			"wizardryutils:summoneditemdata": {}
-		},
-		id: "minecraft:grass"
+		}
 	},
 	disable_toast: true,
 	x: -8.0d,

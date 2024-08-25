@@ -8,10 +8,10 @@
 		uid: "6f556fb9",
 		type: "item",
 		items: [{
+			id: "harvestcraft:cornmealitem",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "harvestcraft:cornmealitem"
+			}
 		}]
 	}],
 	rewards: [{

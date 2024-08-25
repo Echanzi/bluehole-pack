@@ -1,10 +1,10 @@
 {
 	title: "The Cost of Business",
 	icon: {
+		id: "minecraft:emerald",
 		ForgeCaps: {
 			"wizardryutils:summoneditemdata": {}
-		},
-		id: "minecraft:emerald"
+		}
 	},
 	x: -3.0d,
 	y: -4.5d,
@@ -18,10 +18,10 @@
 		uid: "ce602c4d",
 		type: "stat",
 		icon: {
+			id: "minecraft:emerald",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "minecraft:emerald"
+			}
 		},
 		stat: "stat.tradedWithVillager",
 		value: 1
@@ -30,10 +30,10 @@
 		uid: "4b62bf75",
 		type: "item",
 		item: {
+			id: "minecraft:emerald",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "minecraft:emerald"
+			}
 		}
 	}]
 }

@@ -1,10 +1,10 @@
 {
 	title: "Dicristo Special",
 	icon: {
+		id: "harvestcraft:rawtofishitem",
 		ForgeCaps: {
 			"wizardryutils:summoneditemdata": {}
-		},
-		id: "harvestcraft:rawtofishitem"
+		}
 	},
 	x: -3.5d,
 	y: -9.0d,
@@ -13,10 +13,10 @@
 		type: "item",
 		disable_toast: true,
 		items: [{
+			id: "harvestcraft:firmtofuitem",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "harvestcraft:firmtofuitem"
+			}
 		}]
 	},
 	{
@@ -24,10 +24,10 @@
 		type: "item",
 		disable_toast: true,
 		items: [{
+			id: "harvestcraft:silkentofuitem",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "harvestcraft:silkentofuitem"
+			}
 		}]
 	},
 	{
@@ -35,10 +35,10 @@
 		type: "item",
 		disable_toast: true,
 		items: [{
+			id: "harvestcraft:rawtofuttonitem",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "harvestcraft:rawtofuttonitem"
+			}
 		}]
 	},
 	{
@@ -46,10 +46,10 @@
 		type: "item",
 		disable_toast: true,
 		items: [{
+			id: "harvestcraft:rawtofurkeyitem",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "harvestcraft:rawtofurkeyitem"
+			}
 		}]
 	},
 	{
@@ -57,10 +57,10 @@
 		type: "item",
 		disable_toast: true,
 		items: [{
+			id: "harvestcraft:rawtofuduckitem",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "harvestcraft:rawtofuduckitem"
+			}
 		}]
 	},
 	{
@@ -68,10 +68,10 @@
 		type: "item",
 		disable_toast: true,
 		items: [{
+			id: "harvestcraft:rawtofishitem",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "harvestcraft:rawtofishitem"
+			}
 		}]
 	},
 	{
@@ -79,10 +79,10 @@
 		type: "item",
 		disable_toast: true,
 		items: [{
+			id: "harvestcraft:rawtofeakitem",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "harvestcraft:rawtofeakitem"
+			}
 		}]
 	},
 	{
@@ -90,10 +90,10 @@
 		type: "item",
 		disable_toast: true,
 		items: [{
+			id: "harvestcraft:rawtofaconitem",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "harvestcraft:rawtofaconitem"
+			}
 		}]
 	},
 	{
@@ -101,10 +101,10 @@
 		type: "item",
 		disable_toast: true,
 		items: [{
+			id: "harvestcraft:rawtofeegitem",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "harvestcraft:rawtofeegitem"
+			}
 		}]
 	},
 	{
@@ -112,10 +112,10 @@
 		type: "item",
 		disable_toast: true,
 		items: [{
+			id: "harvestcraft:rawtofickenitem",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "harvestcraft:rawtofickenitem"
+			}
 		}]
 	},
 	{
@@ -123,10 +123,10 @@
 		type: "item",
 		disable_toast: true,
 		items: [{
+			id: "harvestcraft:rawtofabbititem",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "harvestcraft:rawtofabbititem"
+			}
 		}]
 	},
 	{
@@ -134,10 +134,10 @@
 		type: "item",
 		disable_toast: true,
 		items: [{
+			id: "harvestcraft:rawtofenisonitem",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "harvestcraft:rawtofenisonitem"
+			}
 		}]
 	}],
 	rewards: [{

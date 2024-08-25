@@ -1,11 +1,11 @@
 {
 	title: "King of the Sky",
 	icon: {
+		id: "lost_aether:platinum_key",
 		ForgeCaps: {
 			"wizardryutils:summoneditemdata": {},
 			"astralsorcery:cap_item_amulet_holder": {}
-		},
-		id: "lost_aether:platinum_key"
+		}
 	},
 	x: 7.0d,
 	y: -2.0d,
@@ -17,11 +17,11 @@
 		type: "kill",
 		title: "Slay the Aerwhale King",
 		icon: {
+			id: "aether_legacy:holy_sword",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {},
 				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "aether_legacy:holy_sword"
+			}
 		},
 		entity: "lost_aether:king_aerwhale",
 		value: 1L
@@ -30,11 +30,11 @@
 		uid: "5871e5e1",
 		type: "item",
 		items: [{
+			id: "lost_aether:platinum_key",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {},
 				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "lost_aether:platinum_key"
+			}
 		}],
 		ignore_damage: true,
 		ignore_nbt: 1b
@@ -48,10 +48,10 @@
 		uid: "30b8c87e",
 		type: "item",
 		item: {
+			id: "chancecubes:chance_cube",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "chancecubes:chance_cube"
+			}
 		}
 	}]
 }

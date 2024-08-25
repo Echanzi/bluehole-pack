@@ -1,14 +1,14 @@
 {
 	icon: {
+		id: "cqrepoured:sword_turtle",
 		ForgeCaps: {
 			"wizardryutils:summoneditemdata": {},
 			"astralsorcery:cap_item_amulet_holder": {}
-		},
-		id: "cqrepoured:sword_turtle"
+		}
 	},
 	disable_toast: true,
 	x: 7.5d,
-	y: -2.0d,
+	y: -1.0d,
 	can_repeat: true,
 	tasks: [{
 		uid: "0b6210b6",

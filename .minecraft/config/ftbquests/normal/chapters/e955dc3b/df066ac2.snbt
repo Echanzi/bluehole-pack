@@ -7,10 +7,10 @@
 		type: "item",
 		disable_toast: true,
 		items: [{
+			id: "zawa:lion_plush",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "zawa:lion_plush"
+			}
 		}]
 	},
 	{
@@ -18,10 +18,10 @@
 		type: "item",
 		disable_toast: true,
 		items: [{
+			id: "zawa:orca_plush",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "zawa:orca_plush"
+			}
 		}]
 	},
 	{
@@ -29,10 +29,10 @@
 		type: "item",
 		disable_toast: true,
 		items: [{
+			id: "zawa:turtle_plush",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "zawa:turtle_plush"
+			}
 		}]
 	},
 	{
@@ -40,10 +40,10 @@
 		type: "item",
 		disable_toast: true,
 		items: [{
+			id: "zawa:platypus_plush",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "zawa:platypus_plush"
+			}
 		}]
 	},
 	{
@@ -51,10 +51,10 @@
 		type: "item",
 		disable_toast: true,
 		items: [{
+			id: "zawa:gorilla_plush",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "zawa:gorilla_plush"
+			}
 		}]
 	},
 	{
@@ -62,10 +62,10 @@
 		type: "item",
 		disable_toast: true,
 		items: [{
+			id: "zawa:elephant_plush",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "zawa:elephant_plush"
+			}
 		}]
 	},
 	{
@@ -73,10 +73,10 @@
 		type: "item",
 		disable_toast: true,
 		items: [{
+			id: "zawa:monkey_plush",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "zawa:monkey_plush"
+			}
 		}]
 	},
 	{
@@ -84,10 +84,10 @@
 		type: "item",
 		disable_toast: true,
 		items: [{
+			id: "zawa:tiger_plush",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "zawa:tiger_plush"
+			}
 		}]
 	},
 	{
@@ -95,10 +95,10 @@
 		type: "item",
 		disable_toast: true,
 		items: [{
+			id: "zawa:bald_eagle_plush",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "zawa:bald_eagle_plush"
+			}
 		}]
 	},
 	{
@@ -106,10 +106,10 @@
 		type: "item",
 		disable_toast: true,
 		items: [{
+			id: "zawa:giraffe_plush",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "zawa:giraffe_plush"
+			}
 		}]
 	},
 	{
@@ -117,10 +117,10 @@
 		type: "item",
 		disable_toast: true,
 		items: [{
+			id: "zawa:grizzly_plush",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "zawa:grizzly_plush"
+			}
 		}]
 	},
 	{
@@ -128,10 +128,10 @@
 		type: "item",
 		disable_toast: true,
 		items: [{
+			id: "zawa:moose_plush",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "zawa:moose_plush"
+			}
 		}]
 	},
 	{
@@ -139,10 +139,10 @@
 		type: "item",
 		disable_toast: true,
 		items: [{
+			id: "zawa:octopus_plush",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "zawa:octopus_plush"
+			}
 		}]
 	},
 	{
@@ -150,10 +150,10 @@
 		type: "item",
 		disable_toast: true,
 		items: [{
+			id: "zawa:red_panda_plush",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "zawa:red_panda_plush"
+			}
 		}]
 	},
 	{
@@ -161,10 +161,10 @@
 		type: "item",
 		disable_toast: true,
 		items: [{
+			id: "zawa:cockatoo_plush",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "zawa:cockatoo_plush"
+			}
 		}]
 	},
 	{
@@ -172,10 +172,10 @@
 		type: "item",
 		disable_toast: true,
 		items: [{
+			id: "zawa:dolphin_plush",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "zawa:dolphin_plush"
+			}
 		}]
 	},
 	{
@@ -183,10 +183,10 @@
 		type: "item",
 		disable_toast: true,
 		items: [{
+			id: "zawa:kangaroo_plush",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "zawa:kangaroo_plush"
+			}
 		}]
 	},
 	{
@@ -194,10 +194,10 @@
 		type: "item",
 		disable_toast: true,
 		items: [{
+			id: "zawa:okapi_plush",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "zawa:okapi_plush"
+			}
 		}]
 	},
 	{
@@ -205,10 +205,10 @@
 		type: "item",
 		disable_toast: true,
 		items: [{
+			id: "zawa:rhino_plush",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "zawa:rhino_plush"
+			}
 		}]
 	},
 	{
@@ -216,10 +216,10 @@
 		type: "item",
 		disable_toast: true,
 		items: [{
+			id: "zawa:shark_plush",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "zawa:shark_plush"
+			}
 		}]
 	},
 	{
@@ -227,10 +227,10 @@
 		type: "item",
 		disable_toast: true,
 		items: [{
+			id: "zawa:zebra_plush",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "zawa:zebra_plush"
+			}
 		}]
 	},
 	{
@@ -238,10 +238,10 @@
 		type: "item",
 		disable_toast: true,
 		items: [{
+			id: "zawa:zebra_rainbow_plush",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "zawa:zebra_rainbow_plush"
+			}
 		}]
 	},
 	{
@@ -249,10 +249,10 @@
 		type: "item",
 		disable_toast: true,
 		items: [{
+			id: "zawa:macaw_plush",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "zawa:macaw_plush"
+			}
 		}]
 	},
 	{
@@ -260,20 +260,20 @@
 		type: "item",
 		disable_toast: true,
 		items: [{
+			id: "zawa:macaw_plush_red",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "zawa:macaw_plush_red"
+			}
 		}]
 	},
 	{
 		uid: "e80cb3cd",
 		type: "item",
 		items: [{
+			id: "zawa:koala_plush",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "zawa:koala_plush"
+			}
 		}]
 	}],
 	rewards: [{

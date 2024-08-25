@@ -9,11 +9,11 @@
 		uid: "51d40eb0",
 		type: "item",
 		items: [{
+			id: "spartanlands:glaive_valonite",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {},
 				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "spartanlands:glaive_valonite"
+			}
 		}],
 		ignore_damage: true,
 		ignore_nbt: 1b

@@ -9,11 +9,11 @@
 		type: "item",
 		disable_toast: true,
 		items: [{
+			id: "thebetweenlands:simple_slingshot",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {},
 				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "thebetweenlands:simple_slingshot"
+			}
 		}],
 		ignore_damage: true,
 		ignore_nbt: 1b
@@ -23,11 +23,11 @@
 		type: "item",
 		disable_toast: true,
 		items: [{
+			id: "thebetweenlands:items_misc",
+			Damage: 50s,
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "thebetweenlands:items_misc",
-			Damage: 50s
+			}
 		}],
 		count: 32L
 	}],

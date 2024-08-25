@@ -10,10 +10,10 @@
 		uid: "a9e26ec0",
 		type: "kill",
 		icon: {
+			id: "netherex:ghast_queen_tear",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "netherex:ghast_queen_tear"
+			}
 		},
 		entity: "netherex:ghast_queen",
 		value: 1L

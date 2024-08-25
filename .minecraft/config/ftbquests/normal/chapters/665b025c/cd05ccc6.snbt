@@ -8,10 +8,10 @@
 		uid: "3293fdf0",
 		type: "item",
 		items: [{
+			id: "cgm:grenade",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "cgm:grenade"
+			}
 		}],
 		count: 2L
 	}],

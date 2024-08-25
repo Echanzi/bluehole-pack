@@ -7,10 +7,10 @@
 		uid: "f1dcc2fa",
 		type: "observation",
 		icon: {
+			id: "zawa:komodo_dragon",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "zawa:komodo_dragon"
+			}
 		},
 		match_type: "entity_id",
 		match: "zawa:komododragon",

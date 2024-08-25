@@ -8,10 +8,10 @@
 		uid: "bc790e87",
 		type: "item",
 		items: [{
+			id: "harvestcraft:saltitem",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "harvestcraft:saltitem"
+			}
 		}]
 	}],
 	rewards: [{

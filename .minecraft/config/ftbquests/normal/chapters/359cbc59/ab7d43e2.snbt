@@ -7,10 +7,10 @@
 		uid: "e28c17c2",
 		type: "observation",
 		icon: {
+			id: "minecraft:concrete",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "minecraft:concrete"
+			}
 		},
 		match_type: "entity_id",
 		match: "golems:golem_concrete",

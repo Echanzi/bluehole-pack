@@ -10,10 +10,10 @@
 		uid: "c8915538",
 		type: "kill",
 		icon: {
+			id: "thebetweenlands:mummy_bait",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "thebetweenlands:mummy_bait"
+			}
 		},
 		entity: "thebetweenlands:dreadful_mummy",
 		value: 1L

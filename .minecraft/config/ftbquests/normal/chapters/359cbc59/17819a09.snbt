@@ -7,10 +7,10 @@
 		uid: "55536d47",
 		type: "observation",
 		icon: {
+			id: "minecraft:sandstone",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "minecraft:sandstone"
+			}
 		},
 		match_type: "entity_id",
 		match: "golems:golem_sandstone",

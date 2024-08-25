@@ -7,10 +7,10 @@
 		uid: "2ec15a61",
 		type: "observation",
 		icon: {
+			id: "zawa:indian_pangolin",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "zawa:indian_pangolin"
+			}
 		},
 		match_type: "entity_id",
 		match: "zawa:indianpangolin",

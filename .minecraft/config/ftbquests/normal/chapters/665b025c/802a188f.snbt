@@ -9,11 +9,11 @@
 		uid: "fbdec8ab",
 		type: "item",
 		items: [{
+			id: "spartanweaponry:battleaxe_gold",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {},
 				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "spartanweaponry:battleaxe_gold"
+			}
 		}],
 		ignore_damage: true,
 		ignore_nbt: 1b

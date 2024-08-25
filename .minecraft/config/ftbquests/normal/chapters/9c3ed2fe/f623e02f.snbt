@@ -9,10 +9,10 @@
 		uid: "b6f652ff",
 		type: "item",
 		items: [{
+			id: "aether_legacy:gravitite_ore",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "aether_legacy:gravitite_ore"
+			}
 		}]
 	}],
 	rewards: [{

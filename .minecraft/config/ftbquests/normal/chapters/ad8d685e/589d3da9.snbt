@@ -10,10 +10,10 @@
 		type: "item",
 		disable_toast: true,
 		items: [{
+			id: "harvestcraft:cherrysodaitem",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "harvestcraft:cherrysodaitem"
+			}
 		}]
 	},
 	{
@@ -21,10 +21,10 @@
 		type: "item",
 		disable_toast: true,
 		items: [{
+			id: "harvestcraft:colasodaitem",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "harvestcraft:colasodaitem"
+			}
 		}]
 	},
 	{
@@ -32,10 +32,10 @@
 		type: "item",
 		disable_toast: true,
 		items: [{
+			id: "harvestcraft:grapesodaitem",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "harvestcraft:grapesodaitem"
+			}
 		}]
 	},
 	{
@@ -43,10 +43,10 @@
 		type: "item",
 		disable_toast: true,
 		items: [{
+			id: "harvestcraft:lemonlimesodaitem",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "harvestcraft:lemonlimesodaitem"
+			}
 		}]
 	},
 	{
@@ -54,10 +54,10 @@
 		type: "item",
 		disable_toast: true,
 		items: [{
+			id: "harvestcraft:orangesodaitem",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "harvestcraft:orangesodaitem"
+			}
 		}]
 	},
 	{
@@ -65,10 +65,10 @@
 		type: "item",
 		disable_toast: true,
 		items: [{
+			id: "harvestcraft:strawberrysodaitem",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "harvestcraft:strawberrysodaitem"
+			}
 		}]
 	},
 	{
@@ -76,10 +76,10 @@
 		type: "item",
 		disable_toast: true,
 		items: [{
+			id: "harvestcraft:grapefruitsodaitem",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "harvestcraft:grapefruitsodaitem"
+			}
 		}]
 	}],
 	rewards: [{

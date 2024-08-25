@@ -7,10 +7,10 @@
 		uid: "81422794",
 		type: "observation",
 		icon: {
+			id: "zawa:common_chimpanzee",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "zawa:common_chimpanzee"
+			}
 		},
 		match_type: "entity_id",
 		match: "zawa:commonchimpanzee",

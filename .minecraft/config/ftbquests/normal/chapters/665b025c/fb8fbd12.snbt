@@ -9,11 +9,11 @@
 		uid: "b12da013",
 		type: "item",
 		items: [{
+			id: "spartanlands:spear_weedwood",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {},
 				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "spartanlands:spear_weedwood"
+			}
 		}],
 		ignore_damage: true,
 		ignore_nbt: 1b

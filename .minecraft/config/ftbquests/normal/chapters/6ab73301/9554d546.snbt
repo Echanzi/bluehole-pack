@@ -13,10 +13,10 @@
 		uid: "96df64da",
 		type: "item",
 		items: [{
+			id: "mod_lavacow:emblem_of_king",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "mod_lavacow:emblem_of_king"
+			}
 		}]
 	}],
 	rewards: [{

@@ -10,11 +10,11 @@
 		type: "item",
 		disable_toast: true,
 		items: [{
+			id: "quark:biome_cobblestone",
+			Damage: 1s,
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "quark:biome_cobblestone",
-			Damage: 1s
+			}
 		}]
 	},
 	{
@@ -22,10 +22,10 @@
 		type: "item",
 		disable_toast: true,
 		items: [{
+			id: "quark:biome_cobblestone",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "quark:biome_cobblestone"
+			}
 		}]
 	},
 	{
@@ -33,10 +33,10 @@
 		type: "item",
 		disable_toast: true,
 		items: [{
+			id: "quark:elder_prismarine",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "quark:elder_prismarine"
+			}
 		}]
 	},
 	{
@@ -44,11 +44,11 @@
 		type: "item",
 		disable_toast: true,
 		items: [{
+			id: "quark:biome_cobblestone",
+			Damage: 2s,
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "quark:biome_cobblestone",
-			Damage: 2s
+			}
 		}]
 	},
 	{
@@ -56,10 +56,10 @@
 		type: "item",
 		disable_toast: true,
 		items: [{
+			id: "minecraft:mossy_cobblestone",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "minecraft:mossy_cobblestone"
+			}
 		}]
 	},
 	{
@@ -67,10 +67,10 @@
 		type: "item",
 		disable_toast: true,
 		items: [{
+			id: "quark:glowshroom",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "quark:glowshroom"
+			}
 		}]
 	},
 	{
@@ -78,11 +78,11 @@
 		type: "item",
 		disable_toast: true,
 		items: [{
+			id: "minecraft:stained_hardened_clay",
+			Damage: 13s,
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "minecraft:stained_hardened_clay",
-			Damage: 13s
+			}
 		}]
 	},
 	{
@@ -91,66 +91,66 @@
 		title: "Cave Crystal",
 		disable_toast: true,
 		items: [{
+			id: "quark:crystal",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "quark:crystal"
+			}
 		},
 		{
+			id: "quark:crystal",
+			Damage: 1s,
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "quark:crystal",
-			Damage: 1s
+			}
 		},
 		{
+			id: "quark:crystal",
+			Damage: 2s,
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "quark:crystal",
-			Damage: 2s
+			}
 		},
 		{
+			id: "quark:crystal",
+			Damage: 3s,
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "quark:crystal",
-			Damage: 3s
+			}
 		},
 		{
+			id: "quark:crystal",
+			Damage: 4s,
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "quark:crystal",
-			Damage: 4s
+			}
 		},
 		{
+			id: "quark:crystal",
+			Damage: 5s,
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "quark:crystal",
-			Damage: 5s
+			}
 		},
 		{
+			id: "quark:crystal",
+			Damage: 6s,
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "quark:crystal",
-			Damage: 6s
+			}
 		},
 		{
+			id: "quark:crystal",
+			Damage: 7s,
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "quark:crystal",
-			Damage: 7s
+			}
 		},
 		{
+			id: "quark:crystal",
+			Damage: 8s,
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "quark:crystal",
-			Damage: 8s
+			}
 		}]
 	},
 	{
@@ -158,11 +158,11 @@
 		type: "item",
 		disable_toast: true,
 		items: [{
+			id: "minecraft:sandstone",
+			Damage: 1s,
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "minecraft:sandstone",
-			Damage: 1s
+			}
 		}]
 	}],
 	rewards: [{

@@ -1,10 +1,10 @@
 {
 	title: "Land of Lakes",
 	icon: {
+		id: "biomesoplenty:grass",
 		ForgeCaps: {
 			"wizardryutils:summoneditemdata": {}
-		},
-		id: "biomesoplenty:grass"
+		}
 	},
 	disable_toast: true,
 	x: -6.0d,

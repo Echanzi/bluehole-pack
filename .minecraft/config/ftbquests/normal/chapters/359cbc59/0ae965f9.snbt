@@ -7,10 +7,10 @@
 		uid: "0868b8f9",
 		type: "observation",
 		icon: {
+			id: "zawa:feed_trader",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "zawa:feed_trader"
+			}
 		},
 		match_type: "entity_id",
 		match: "zawa:feedtrader",

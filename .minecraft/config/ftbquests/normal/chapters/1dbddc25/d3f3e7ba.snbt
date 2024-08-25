@@ -6,11 +6,11 @@
 		uid: "16edda06",
 		type: "kill",
 		icon: {
+			id: "iceandfire:cyclops_skull",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {},
 				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "iceandfire:cyclops_skull"
+			}
 		},
 		disable_toast: true,
 		entity: "iceandfire:cyclops",

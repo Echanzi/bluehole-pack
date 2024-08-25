@@ -8,10 +8,10 @@
 		uid: "25cf504e",
 		type: "item",
 		items: [{
+			id: "harvestcraft:mayoitem",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "harvestcraft:mayoitem"
+			}
 		}]
 	}]
 }

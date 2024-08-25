@@ -9,11 +9,11 @@
 		type: "stat",
 		title: "Cold Blooded Killer",
 		icon: {
+			id: "futuremc:netherite_sword",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {},
 				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "futuremc:netherite_sword"
+			}
 		},
 		stat: "stat.mobKills",
 		value: 5000

@@ -1,10 +1,10 @@
 {
 	title: "Quagmire",
 	icon: {
+		id: "biomesoplenty:mud",
 		ForgeCaps: {
 			"wizardryutils:summoneditemdata": {}
-		},
-		id: "biomesoplenty:mud"
+		}
 	},
 	disable_toast: true,
 	x: -1.0d,

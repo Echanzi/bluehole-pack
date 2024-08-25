@@ -9,12 +9,12 @@
 		uid: "b7f7498c",
 		type: "item",
 		items: [{
+			id: "spartancompat:crossbow_zanite",
+			tag: {},
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {},
 				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "spartancompat:crossbow_zanite",
-			tag: {}
+			}
 		}],
 		ignore_damage: true,
 		ignore_nbt: 1b

@@ -9,11 +9,11 @@
 		uid: "ce128b6e",
 		type: "item",
 		items: [{
+			id: "spartancompat:greatsword_zanite",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {},
 				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "spartancompat:greatsword_zanite"
+			}
 		}],
 		ignore_damage: true,
 		ignore_nbt: 1b

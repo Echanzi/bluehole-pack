@@ -8,11 +8,11 @@
 		uid: "d93f85ea",
 		type: "item",
 		items: [{
+			id: "thebetweenlands:items_misc",
+			Damage: 11s,
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "thebetweenlands:items_misc",
-			Damage: 11s
+			}
 		}]
 	}],
 	rewards: [{

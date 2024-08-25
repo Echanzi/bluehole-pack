@@ -9,11 +9,11 @@
 		uid: "05433689",
 		type: "item",
 		items: [{
+			id: "spartanfire:spear_ice_dragonsteel",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {},
 				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "spartanfire:spear_ice_dragonsteel"
+			}
 		}],
 		ignore_damage: true,
 		ignore_nbt: 1b

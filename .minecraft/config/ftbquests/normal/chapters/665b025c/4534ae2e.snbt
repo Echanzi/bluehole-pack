@@ -9,11 +9,11 @@
 		uid: "923e4d22",
 		type: "item",
 		items: [{
+			id: "spartanfire:halberd_jungle",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {},
 				"astralsorcery:cap_item_amulet_holder": {}
-			},
-			id: "spartanfire:halberd_jungle"
+			}
 		}],
 		ignore_damage: true,
 		ignore_nbt: 1b

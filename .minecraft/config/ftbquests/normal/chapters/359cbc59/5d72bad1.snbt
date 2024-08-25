@@ -7,10 +7,10 @@
 		uid: "4913b665",
 		type: "observation",
 		icon: {
+			id: "zawa:red_panda",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "zawa:red_panda"
+			}
 		},
 		match_type: "entity_id",
 		match: "zawa:redpanda",
