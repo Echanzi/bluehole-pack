@@ -1,0 +1,24 @@
+{
+	x: 5.5d,
+	y: -2.0d,
+	can_repeat: true,
+	tasks: [{
+		uid: "313c87e4",
+		type: "kill",
+		icon: {
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {},
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "iceandfire:hydra_skull"
+		},
+		disable_toast: true,
+		entity: "iceandfire:if_hydra",
+		value: 1L
+	}],
+	rewards: [{
+		uid: "b394ec4f",
+		type: "ftbmoney:money",
+		ftb_money: 100L
+	}]
+}

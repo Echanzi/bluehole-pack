@@ -1,0 +1,24 @@
+{
+	title: "ka augh eeehhg vodka  :tumbler_glass:",
+	x: 8.0d,
+	y: 0.5d,
+	dependencies: [
+		"69cd6f51"
+	],
+	tasks: [{
+		uid: "50bb7918",
+		type: "item",
+		disable_toast: true,
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "brewcraft:totalvodkaitem"
+		}]
+	}],
+	rewards: [{
+		uid: "737e351b",
+		type: "ftbmoney:money",
+		ftb_money: 50L
+	}]
+}

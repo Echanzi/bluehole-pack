@@ -1,7 +1,7 @@
 {
 	disable_toast: true,
-	x: 5.5d,
-	y: -7.0d,
+	x: 7.5d,
+	y: -5.5d,
 	can_repeat: true,
 	dependencies: [
 		"dfee40fc"

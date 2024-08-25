@@ -1,6 +1,6 @@
 {
 	title: "Familiar Visitors",
-	x: 0.5d,
+	x: -1.0d,
 	y: -1.5d,
 	tasks: [{
 		uid: "8df66dd6",

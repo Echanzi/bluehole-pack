@@ -1,5 +1,12 @@
 {
 	title: "Devious Lich",
+	icon: {
+		ForgeCaps: {
+			"wizardryutils:summoneditemdata": {}
+		},
+		id: "twilightforest:trophy",
+		Damage: 1s
+	},
 	x: 4.0d,
 	y: -3.0d,
 	dependencies: [

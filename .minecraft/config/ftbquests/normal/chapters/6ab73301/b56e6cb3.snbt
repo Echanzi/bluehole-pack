@@ -1,0 +1,30 @@
+{
+	title: "Pillager Plunderer",
+	x: -3.0d,
+	y: -6.5d,
+	text: [
+		"Grants access to Ominious Potions in the Shop"
+	],
+	dependencies: [
+		"76215e21"
+	],
+	tasks: [{
+		uid: "eb91e01c",
+		type: "kill",
+		icon: {
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {},
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "spartanweaponry:crossbow_wood",
+			tag: {}
+		},
+		entity: "raids:pillager",
+		value: 5L
+	}],
+	rewards: [{
+		uid: "3a7037f0",
+		type: "ftbmoney:money",
+		ftb_money: 35L
+	}]
+}

@@ -1,7 +1,7 @@
 {
 	title: "Didn't even need to slay a Goblin Horde!",
-	x: 6.0d,
-	y: 3.5d,
+	x: 6.5d,
+	y: 3.0d,
 	text: [
 		"Reforges Artifacts and Baubles Using XP"
 	],

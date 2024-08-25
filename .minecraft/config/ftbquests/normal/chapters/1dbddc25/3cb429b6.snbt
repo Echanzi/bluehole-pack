@@ -1,0 +1,23 @@
+{
+	title: "Skirmisher",
+	x: 2.5d,
+	y: -3.5d,
+	tasks: [{
+		uid: "5401d2fa",
+		type: "stat",
+		icon: {
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {},
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "spartanweaponry:dagger_wood"
+		},
+		stat: "stat.mobKills",
+		value: 50
+	}],
+	rewards: [{
+		uid: "45bd38ac",
+		type: "ftbmoney:money",
+		ftb_money: 15L
+	}]
+}

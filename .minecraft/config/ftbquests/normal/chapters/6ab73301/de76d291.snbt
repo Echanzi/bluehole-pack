@@ -1,0 +1,23 @@
+{
+	title: "Rock Hard",
+	x: 10.5d,
+	y: 0.0d,
+	dependencies: [
+		"4a670c36"
+	],
+	tasks: [{
+		uid: "bf0bcddd",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "minecraft:obsidian"
+		}]
+	}],
+	rewards: [{
+		uid: "e061f6bf",
+		type: "ftbmoney:money",
+		ftb_money: 15L
+	}]
+}

@@ -1,0 +1,50 @@
+{
+	title: "Trader!",
+	x: 3.5d,
+	y: 4.5d,
+	text: [
+		"Grants Access to Hero of the Village Potion in the Shop"
+	],
+	tasks: [{
+		uid: "86c2f852",
+		type: "stat",
+		icon: {
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "minecraft:emerald_block"
+		},
+		stat: "stat.tradedWithVillager",
+		value: 1000
+	}],
+	rewards: [{
+		uid: "7512add9",
+		type: "ftbmoney:money",
+		ftb_money: 800L
+	},
+	{
+		uid: "dfaeb13f",
+		type: "item",
+		item: {
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "minecraft:potion",
+			tag: {
+				CustomPotionColor: 1234510,
+				CustomPotionEffects: [{
+					ShowParticles: 0b,
+					Duration: 160000,
+					Id: 160,
+					Amplifier: 0
+				}],
+				display: {
+					Lore: [
+						"They will Love you."
+					],
+					Name: "Hero Serum"
+				}
+			}
+		}
+	}]
+}

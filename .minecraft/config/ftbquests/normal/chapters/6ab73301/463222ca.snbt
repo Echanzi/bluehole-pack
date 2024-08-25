@@ -1,5 +1,6 @@
 {
-	x: 13.5d,
+	title: "Blaze It",
+	x: 17.0d,
 	y: 0.0d,
 	dependencies: [
 		"49d84025"

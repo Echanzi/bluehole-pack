@@ -2,12 +2,13 @@
 	title: "Interspecial Profiling",
 	icon: {
 		ForgeCaps: {
-			"wizardryutils:summoneditemdata": {}
+			"wizardryutils:summoneditemdata": {},
+			"astralsorcery:cap_item_amulet_holder": {}
 		},
-		id: "divinerpg:zombie_pumpkin"
+		id: "cqrepoured:cqr_zombie_spawn_egg_0"
 	},
-	x: -1.5d,
-	y: -3.5d,
+	x: 0.0d,
+	y: -4.5d,
 	text: [
 		""
 	],
@@ -24,7 +25,7 @@
 			id: "minecraft:skull",
 			Damage: 2s
 		},
-		entity: "minecraft:zombie",
+		entity: "specialmobs:specialzombie",
 		value: 1L
 	},
 	{
@@ -37,7 +38,7 @@
 			id: "minecraft:skull",
 			Damage: 4s
 		},
-		entity: "minecraft:creeper",
+		entity: "specialmobs:specialcreeper",
 		value: 1L
 	},
 	{
@@ -49,7 +50,7 @@
 			},
 			id: "minecraft:skull"
 		},
-		entity: "minecraft:skeleton",
+		entity: "specialmobs:specialskeleton",
 		value: 1L
 	},
 	{
@@ -59,9 +60,10 @@
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
 			},
-			id: "treasure2:spider_chest"
+			id: "treasure2:spider_chest",
+			Count: 1b
 		},
-		entity: "minecraft:spider",
+		entity: "specialmobs:specialspider",
 		value: 1L
 	}],
 	rewards: [{

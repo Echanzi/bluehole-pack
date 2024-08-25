@@ -1,0 +1,104 @@
+{
+	title: "Head Hunter: Skeleton",
+	icon: {
+		ForgeCaps: {
+			"wizardryutils:summoneditemdata": {}
+		},
+		id: "minecraft:skull"
+	},
+	x: -0.5d,
+	y: -3.0d,
+	can_repeat: true,
+	tasks: [{
+		uid: "76d2872b",
+		type: "kill",
+		disable_toast: true,
+		entity: "specialmobs:bruteskeleton",
+		value: 1L
+	},
+	{
+		uid: "198d8362",
+		type: "kill",
+		disable_toast: true,
+		entity: "specialmobs:fireskeleton",
+		value: 1L
+	},
+	{
+		uid: "b9839a61",
+		type: "kill",
+		disable_toast: true,
+		entity: "specialmobs:gatlingskeleton",
+		value: 1L
+	},
+	{
+		uid: "9097c87c",
+		type: "kill",
+		disable_toast: true,
+		entity: "specialmobs:giantskeleton",
+		value: 1L
+	},
+	{
+		uid: "0c02c1f7",
+		type: "kill",
+		disable_toast: true,
+		entity: "specialmobs:knightskeleton",
+		value: 1L
+	},
+	{
+		uid: "f12867f5",
+		type: "kill",
+		disable_toast: true,
+		entity: "specialmobs:ninjaskeleton",
+		value: 1L
+	},
+	{
+		uid: "b0ff583e",
+		type: "kill",
+		disable_toast: true,
+		entity: "specialmobs:poisonskeleton",
+		value: 1L
+	},
+	{
+		uid: "3ddffff1",
+		type: "kill",
+		disable_toast: true,
+		entity: "specialmobs:sniperskeleton",
+		value: 1L
+	},
+	{
+		uid: "ee90453a",
+		type: "kill",
+		disable_toast: true,
+		entity: "specialmobs:spitfireskeleton",
+		value: 1L
+	},
+	{
+		uid: "a963f569",
+		type: "kill",
+		disable_toast: true,
+		entity: "specialmobs:strayskeleton",
+		value: 1L
+	},
+	{
+		uid: "bdb651fb",
+		type: "kill",
+		icon: {
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "minecraft:spawn_egg",
+			tag: {
+				EntityTag: {
+					id: "minecraft:skeleton"
+				}
+			}
+		},
+		entity: "specialmobs:specialskeleton",
+		value: 1L
+	}],
+	rewards: [{
+		uid: "a3ce1b82",
+		type: "ftbmoney:money",
+		ftb_money: 100L
+	}]
+}

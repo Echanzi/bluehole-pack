@@ -1,0 +1,33 @@
+{
+	title: "Taking Care of Business",
+	x: -5.0d,
+	y: -4.5d,
+	dependencies: [
+		"76215e21"
+	],
+	tasks: [{
+		uid: "95a46956",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "harvestcraft:market"
+		}]
+	},
+	{
+		uid: "4866ec4c",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "harvestcraft:shippingbin"
+		}]
+	}],
+	rewards: [{
+		uid: "7a5e63a6",
+		type: "ftbmoney:money",
+		ftb_money: 50L
+	}]
+}

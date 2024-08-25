@@ -1649,9 +1649,7 @@ minecraft:structure_block:1
 minecraft:structure_block:2
 minecraft:structure_block:3
 betternether:block_eyeball:0
-betternether:block_eyeball_small:0
 betternether:eye_vine:0
-betternether:eye_seed:0
 betternether:netherrack_moss:0
 betternether:nether_grass:0
 betternether:nether_reed:0

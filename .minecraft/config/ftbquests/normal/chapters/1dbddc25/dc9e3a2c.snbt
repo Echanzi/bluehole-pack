@@ -6,7 +6,7 @@
 		},
 		id: "zawa:coin"
 	},
-	x: 2.5d,
+	x: 7.0d,
 	y: -8.5d,
 	text: [
 		""

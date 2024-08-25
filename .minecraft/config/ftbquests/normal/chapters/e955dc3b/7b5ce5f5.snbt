@@ -1,0 +1,41 @@
+{
+	title: "Cost of Life",
+	x: 5.0d,
+	y: 0.5d,
+	can_repeat: true,
+	dependencies: [
+		"34de4fc2"
+	],
+	optional: true,
+	tasks: [{
+		uid: "96ab2f3a",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "minecraft:enchanted_book"
+		}],
+		count: 50L,
+		consume_items: true,
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "5b476f5f",
+		type: "item",
+		team_reward: true,
+		item: {
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "minecraft:enchanted_book",
+			tag: {
+				StoredEnchantments: [{
+					lvl: 1s,
+					id: 46s
+				}]
+			}
+		}
+	}]
+}

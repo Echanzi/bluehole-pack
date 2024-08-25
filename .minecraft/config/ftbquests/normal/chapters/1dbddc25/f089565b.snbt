@@ -1,0 +1,91 @@
+{
+	title: "Head Hunter: Enderman",
+	icon: {
+		ForgeCaps: {
+			"wizardryutils:summoneditemdata": {}
+		},
+		id: "minecraft:skull",
+		tag: {
+			SkullOwner: {
+				Id: "ba8f45cf-0ddd-4a01-aa24-2a2f7e8dc331",
+				Properties: {
+					textures: [{
+						Value: "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvOGExMDhhMGE3YTM4Nzg1OWYyYzQ0ZmI5NzAyY2Y3M2RiYWZlZTNlY2ZkYzRmNWRlZjQ2YzBkNjUxYjdhNDlmNyJ9fX0="
+					}]
+				}
+			},
+			display: {
+				Name: "Enderman"
+			}
+		},
+		Damage: 3s
+	},
+	x: -0.5d,
+	y: 0.0d,
+	can_repeat: true,
+	tasks: [{
+		uid: "46e6569e",
+		type: "kill",
+		disable_toast: true,
+		entity: "specialmobs:blindingenderman",
+		value: 1L
+	},
+	{
+		uid: "d9afabbb",
+		type: "kill",
+		disable_toast: true,
+		entity: "specialmobs:icyenderman",
+		value: 1L
+	},
+	{
+		uid: "69a3af64",
+		type: "kill",
+		disable_toast: true,
+		entity: "specialmobs:lightningenderman",
+		value: 1L
+	},
+	{
+		uid: "396be6b0",
+		type: "kill",
+		disable_toast: true,
+		entity: "specialmobs:minienderman",
+		value: 1L
+	},
+	{
+		uid: "106a7ac4",
+		type: "kill",
+		disable_toast: true,
+		entity: "specialmobs:mirageenderman",
+		value: 1L
+	},
+	{
+		uid: "e4ac74a3",
+		type: "kill",
+		disable_toast: true,
+		entity: "specialmobs:thiefenderman",
+		value: 1L
+	},
+	{
+		uid: "6930e4ae",
+		type: "kill",
+		icon: {
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "minecraft:spawn_egg",
+			tag: {
+				EntityTag: {
+					id: "minecraft:enderman"
+				}
+			}
+		},
+		disable_toast: true,
+		entity: "specialmobs:specialenderman",
+		value: 1L
+	}],
+	rewards: [{
+		uid: "bde9393c",
+		type: "ftbmoney:money",
+		ftb_money: 150L
+	}]
+}

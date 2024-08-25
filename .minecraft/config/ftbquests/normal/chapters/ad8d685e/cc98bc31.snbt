@@ -1,0 +1,35 @@
+{
+	title: "Team Fortress Brew",
+	x: 6.0d,
+	y: -1.5d,
+	dependencies: [
+		"69cd6f51"
+	],
+	tasks: [{
+		uid: "80049cf3",
+		type: "item",
+		disable_toast: true,
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "brewcraft:redbeeritem"
+		}]
+	},
+	{
+		uid: "6a14fabf",
+		type: "item",
+		disable_toast: true,
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "brewcraft:bluebeeritem"
+		}]
+	}],
+	rewards: [{
+		uid: "5a97713f",
+		type: "ftbmoney:money",
+		ftb_money: 75L
+	}]
+}

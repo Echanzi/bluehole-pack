@@ -1,0 +1,23 @@
+{
+	title: "PACKWATCH",
+	x: 6.5d,
+	y: -1.0d,
+	dependencies: [
+		"2288cb92"
+	],
+	tasks: [{
+		uid: "45ba49e7",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "quark:turf"
+		}]
+	}],
+	rewards: [{
+		uid: "db266882",
+		type: "ftbmoney:money",
+		ftb_money: 20L
+	}]
+}

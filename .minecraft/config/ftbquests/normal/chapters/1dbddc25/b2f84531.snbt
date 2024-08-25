@@ -1,0 +1,84 @@
+{
+	title: "Head Hunter: Cave Spider",
+	icon: {
+		ForgeCaps: {
+			"wizardryutils:summoneditemdata": {}
+		},
+		id: "minecraft:skull",
+		tag: {
+			SkullOwner: {
+				Id: "480c23d5-b2fc-44d6-b20b-aab7265553bc",
+				Properties: {
+					textures: [{
+						Value: "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZWNjYzRhMzJkNDVkNzRlOGIxNGVmMWZmZDU1Y2Q1ZjM4MWEwNmQ0OTk5MDgxZDUyZWFlYTEyZTEzMjkzZTIwOSJ9fX0="
+					}]
+				}
+			},
+			display: {
+				Name: "Cave Spider"
+			}
+		},
+		Damage: 3s
+	},
+	x: -0.5d,
+	y: -1.0d,
+	can_repeat: true,
+	tasks: [{
+		uid: "7c7faff4",
+		type: "kill",
+		disable_toast: true,
+		entity: "specialmobs:babycavespider",
+		value: 1L
+	},
+	{
+		uid: "407a25dc",
+		type: "kill",
+		disable_toast: true,
+		entity: "specialmobs:flyingcavespider",
+		value: 1L
+	},
+	{
+		uid: "082f5f10",
+		type: "kill",
+		disable_toast: true,
+		entity: "specialmobs:mothercavespider",
+		value: 1L
+	},
+	{
+		uid: "d2d9cee1",
+		type: "kill",
+		disable_toast: true,
+		entity: "specialmobs:webcavespider",
+		value: 1L
+	},
+	{
+		uid: "3d1e82b7",
+		type: "kill",
+		disable_toast: true,
+		entity: "specialmobs:witchcavespider",
+		value: 1L
+	},
+	{
+		uid: "67b7adba",
+		type: "kill",
+		icon: {
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "minecraft:spawn_egg",
+			tag: {
+				EntityTag: {
+					id: "minecraft:cave_spider"
+				}
+			}
+		},
+		disable_toast: true,
+		entity: "specialmobs:specialcavespider",
+		value: 1L
+	}],
+	rewards: [{
+		uid: "0204ec8c",
+		type: "ftbmoney:money",
+		ftb_money: 100L
+	}]
+}

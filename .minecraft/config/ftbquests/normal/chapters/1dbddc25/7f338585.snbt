@@ -1,0 +1,25 @@
+{
+	x: 5.0d,
+	y: -1.0d,
+	can_repeat: true,
+	tasks: [{
+		uid: "e24779bd",
+		type: "kill",
+		icon: {
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {},
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "iceandfire:myrmex_desert_egg",
+			Damage: 4s
+		},
+		disable_toast: true,
+		entity: "iceandfire:myrmex_queen",
+		value: 1L
+	}],
+	rewards: [{
+		uid: "03082305",
+		type: "ftbmoney:money",
+		ftb_money: 100L
+	}]
+}

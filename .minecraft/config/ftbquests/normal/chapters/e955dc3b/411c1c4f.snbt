@@ -1,6 +1,6 @@
 {
 	title: "Heavenly Accessories",
-	x: -2.5d,
+	x: -0.5d,
 	y: 0.5d,
 	tasks: [{
 		uid: "c93208b6",

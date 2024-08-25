@@ -1,0 +1,32 @@
+{
+	title: "Hang it up",
+	x: 3.5d,
+	y: -2.5d,
+	dependencies: [
+		"88da71d0"
+	],
+	tasks: [{
+		uid: "8c72da4f",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "fairylights:hanging_lights",
+			tag: {
+				twinkle: 0b,
+				pattern: [{
+					color: 15b,
+					light: 0
+				}],
+				tight: 0b
+			}
+		}],
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "67001a06",
+		type: "ftbmoney:money",
+		ftb_money: 30L
+	}]
+}

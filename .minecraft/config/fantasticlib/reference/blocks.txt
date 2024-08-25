@@ -253,9 +253,7 @@ minecraft:concrete
 minecraft:concrete_powder
 minecraft:structure_block
 betternether:block_eyeball
-betternether:block_eyeball_small
 betternether:eye_vine
-betternether:eye_seed
 betternether:netherrack_moss
 betternether:nether_grass
 betternether:nether_reed

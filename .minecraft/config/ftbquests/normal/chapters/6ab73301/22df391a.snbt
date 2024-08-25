@@ -1,12 +1,13 @@
 {
 	title: "Now There's Two!",
-	x: 7.5d,
-	y: 2.5d,
+	x: 9.0d,
+	y: 1.5d,
 	text: [
 		"Reforges Tools and Armor Using Materials"
 	],
 	dependencies: [
-		"acdeaee1"
+		"acdeaee1",
+		"de76d291"
 	],
 	tasks: [{
 		uid: "fac86c59",

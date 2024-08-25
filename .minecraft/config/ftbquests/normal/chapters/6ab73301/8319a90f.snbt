@@ -1,6 +1,6 @@
 {
 	title: "Sophisticated Machinery ",
-	x: 16.5d,
+	x: 20.0d,
 	y: 9.0d,
 	description: "Now all we need is a sheep...",
 	dependencies: [

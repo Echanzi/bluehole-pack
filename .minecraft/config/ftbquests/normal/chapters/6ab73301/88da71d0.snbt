@@ -1,19 +1,131 @@
 {
 	title: "Light Mode",
-	x: 2.5d,
-	y: -1.0d,
+	x: 3.5d,
+	y: -1.5d,
 	dependencies: [
 		"2288cb92"
 	],
 	tasks: [{
 		uid: "9caecd88",
 		type: "item",
+		title: "Craft a Fairy Light",
+		icon: {
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "fairylights:light",
+			Damage: 15s
+		},
 		items: [{
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
 			},
 			id: "fairylights:light",
 			Damage: 15s
+		},
+		{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "fairylights:light",
+			Damage: 14s
+		},
+		{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "fairylights:light",
+			Damage: 13s
+		},
+		{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "fairylights:light",
+			Damage: 12s
+		},
+		{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "fairylights:light",
+			Damage: 11s
+		},
+		{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "fairylights:light",
+			Damage: 10s
+		},
+		{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "fairylights:light",
+			Damage: 9s
+		},
+		{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "fairylights:light",
+			Damage: 8s
+		},
+		{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "fairylights:light",
+			Damage: 7s
+		},
+		{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "fairylights:light",
+			Damage: 6s
+		},
+		{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "fairylights:light",
+			Damage: 5s
+		},
+		{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "fairylights:light",
+			Damage: 4s
+		},
+		{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "fairylights:light",
+			Damage: 3s
+		},
+		{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "fairylights:light",
+			Damage: 2s
+		},
+		{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "fairylights:light",
+			Damage: 1s
+		},
+		{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "fairylights:light"
 		}]
 	}],
 	rewards: [{

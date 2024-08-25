@@ -1,0 +1,22 @@
+{
+	x: -1.0d,
+	y: -8.5d,
+	can_repeat: true,
+	tasks: [{
+		uid: "28989316",
+		type: "kill",
+		icon: {
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "mowziesmobs:grant_suns_blessing"
+		},
+		entity: "mowziesmobs:barako",
+		value: 1L
+	}],
+	rewards: [{
+		uid: "5ebe595f",
+		type: "ftbmoney:money",
+		ftb_money: 150L
+	}]
+}

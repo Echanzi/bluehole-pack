@@ -1,0 +1,270 @@
+{
+	title: "Drown my Sorrows Away",
+	x: 1.5d,
+	y: 0.5d,
+	tasks: [{
+		uid: "413898ee",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "brewcraft:beachrumitem"
+		}]
+	},
+	{
+		uid: "8bb7485f",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "brewcraft:cherryvodkaitem"
+		}]
+	},
+	{
+		uid: "5701d179",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "brewcraft:coconutrumitem"
+		}]
+	},
+	{
+		uid: "d6570662",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "brewcraft:handmadevodkaitem"
+		}]
+	},
+	{
+		uid: "9a5a88eb",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "brewcraft:hardapplecideritem"
+		}]
+	},
+	{
+		uid: "f927cff3",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "brewcraft:hardlemonadeitem"
+		}]
+	},
+	{
+		uid: "96a68896",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "brewcraft:honeymeaditem"
+		}]
+	},
+	{
+		uid: "9ad87a34",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "brewcraft:pinkmoscatoitem"
+		}]
+	},
+	{
+		uid: "bbc73a9a",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "brewcraft:pmaxrieslingitem"
+		}]
+	},
+	{
+		uid: "9f3ab4d8",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "brewcraft:rennalgolditem"
+		}]
+	},
+	{
+		uid: "35849f39",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "brewcraft:riverchardonnayitem"
+		}]
+	},
+	{
+		uid: "6cf6fa00",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "brewcraft:sakeitem"
+		}]
+	},
+	{
+		uid: "b3bb0bf0",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "brewcraft:savannazinfandelitem"
+		}]
+	},
+	{
+		uid: "53549860",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "brewcraft:spicedrumitem"
+		}]
+	},
+	{
+		uid: "7401b1af",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "brewcraft:swampmerlotitem"
+		}]
+	},
+	{
+		uid: "10a75f5c",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "brewcraft:tiagapinotnoiritem"
+		}]
+	},
+	{
+		uid: "49819ca0",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "brewcraft:totalvodkaitem"
+		}]
+	},
+	{
+		uid: "636020f1",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "brewcraft:uglyavocadoginitem"
+		}]
+	},
+	{
+		uid: "ca4eb764",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "brewcraft:goldschlageritem"
+		}]
+	},
+	{
+		uid: "19a163ae",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "brewcraft:malortitem"
+		}]
+	},
+	{
+		uid: "3d1624ad",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "brewcraft:blackholewhiskeyitem"
+		}]
+	},
+	{
+		uid: "e34bcf09",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "brewcraft:pointthreeryeitem"
+		}]
+	},
+	{
+		uid: "cc0d4d98",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "brewcraft:ghostpepperabsintheitem"
+		}]
+	},
+	{
+		uid: "4fce26cd",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "brewcraft:borgiaabsintheitem"
+		}]
+	},
+	{
+		uid: "ae5a2040",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "brewcraft:redbeeritem"
+		}]
+	},
+	{
+		uid: "fd219e81",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "brewcraft:bluebeeritem"
+		}]
+	}],
+	rewards: [{
+		uid: "1ff27953",
+		type: "ftbmoney:money",
+		ftb_money: 1000L
+	}]
+}

@@ -1,0 +1,109 @@
+{
+	title: "Rift Walker",
+	icon: {
+		ForgeCaps: {
+			"wizardryutils:summoneditemdata": {}
+		},
+		id: "biomesoplenty:earth"
+	},
+	x: -0.5d,
+	y: 4.5d,
+	text: [
+		"ONLY CHECK THE OVERWORLD IF YOU HAVE BEEN TO THE OVERWORLD!1!!",
+		"I am hoping that I can trust my fellow Bluehole Members in this"
+	],
+	tasks: [{
+		uid: "7332c4aa",
+		type: "dimension",
+		icon: {
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "minecraft:chorus_fruit"
+		},
+		disable_toast: true,
+		dim: 1
+	},
+	{
+		uid: "259e8b0a",
+		type: "dimension",
+		title: "Visit Dimension:#00AA00 The Aether",
+		icon: {
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "aether_legacy:skyroot_sapling"
+		},
+		disable_toast: true,
+		dim: 4
+	},
+	{
+		uid: "f01b55a2",
+		type: "dimension",
+		title: "Visit Dimension:#00AA00 The Twilight Forest",
+		icon: {
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "twilightforest:twilight_sapling",
+			Damage: 4s
+		},
+		disable_toast: true,
+		dim: 7
+	},
+	{
+		uid: "8175bc43",
+		type: "dimension",
+		title: "Visit Dimension: #00AA00The Betweenlands",
+		icon: {
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "thebetweenlands:sapling_weedwood"
+		},
+		disable_toast: true,
+		dim: 20
+	},
+	{
+		uid: "f4a8065a",
+		type: "dimension",
+		title: "Visit Dimension: #00AA00The Nether",
+		icon: {
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "minecraft:nether_wart"
+		},
+		disable_toast: true,
+		dim: -1
+	},
+	{
+		uid: "74352bfc",
+		type: "dimension",
+		icon: {
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "dimdoors:oak_dimensional_door"
+		},
+		disable_toast: true,
+		dim: 687
+	},
+	{
+		uid: "f9631104",
+		type: "checkmark",
+		title: "Visit Dimension: #00AA00Overworld",
+		icon: {
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "minecraft:sapling"
+		},
+		disable_toast: true
+	}],
+	rewards: [{
+		uid: "b3c09db7",
+		type: "ftbmoney:money",
+		ftb_money: 200L
+	}]
+}

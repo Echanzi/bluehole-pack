@@ -6,7 +6,7 @@
 		},
 		id: "minecraft:end_stone"
 	},
-	x: 13.5d,
+	x: 17.0d,
 	y: 6.0d,
 	dependencies: [
 		"958f81dc"

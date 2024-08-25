@@ -1,6 +1,6 @@
 {
 	title: "Dragon of the West",
-	x: -13.0d,
+	x: -10.0d,
 	y: -9.5d,
 	dependencies: [
 		"bfc0ee08"

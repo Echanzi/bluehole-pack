@@ -1,5 +1,12 @@
 {
 	title: "Herculean Feat",
+	icon: {
+		ForgeCaps: {
+			"wizardryutils:summoneditemdata": {}
+		},
+		id: "twilightforest:trophy",
+		Damage: 2s
+	},
 	x: 8.0d,
 	y: -3.0d,
 	description: "Unrelated to Hercules' Foot, sicko",

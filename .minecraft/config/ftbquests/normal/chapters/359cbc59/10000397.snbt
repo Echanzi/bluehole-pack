@@ -12,8 +12,8 @@
 		}
 	},
 	disable_toast: true,
-	x: 8.0d,
-	y: 17.0d,
+	x: 7.0d,
+	y: 22.0d,
 	tasks: [{
 		uid: "10000398",
 		type: "observation",

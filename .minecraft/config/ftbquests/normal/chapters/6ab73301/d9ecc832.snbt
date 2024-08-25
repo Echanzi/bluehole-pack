@@ -1,5 +1,6 @@
 {
-	x: 3.5d,
+	title: "Made with Love",
+	x: 5.5d,
 	y: 5.5d,
 	tasks: [{
 		uid: "29114f02",

@@ -1,0 +1,27 @@
+{
+	title: "King of Sands",
+	x: 3.0d,
+	y: 4.5d,
+	description: "Kill the Skeleton King",
+	text: [
+		"Use a King's Crown on a Skeleton Head in the Desert"
+	],
+	dependencies: [
+		"647005c0"
+	],
+	tasks: [{
+		uid: "96df64da",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "mod_lavacow:emblem_of_king"
+		}]
+	}],
+	rewards: [{
+		uid: "0c97f2d9",
+		type: "ftbmoney:money",
+		ftb_money: 250L
+	}]
+}

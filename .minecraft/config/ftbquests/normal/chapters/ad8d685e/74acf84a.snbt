@@ -1,0 +1,94 @@
+{
+	title: "Eat the Rich",
+	icon: {
+		ForgeCaps: {
+			"wizardryutils:summoneditemdata": {},
+			"astralsorcery:cap_item_amulet_holder": {}
+		},
+		id: "fat_cat:top_hat",
+		tag: {
+			Quality: {}
+		}
+	},
+	x: 1.0d,
+	y: -7.5d,
+	tasks: [{
+		uid: "3502b2c4",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {},
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "fat_cat:top_hat",
+			tag: {
+				Quality: {}
+			}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	},
+	{
+		uid: "5598991c",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "biomesoplenty:flesh"
+		}]
+	},
+	{
+		uid: "f31b415a",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {},
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "dimdoors:woven_world_thread_chestplate",
+			tag: {
+				Quality: {}
+			}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	},
+	{
+		uid: "24ac2a84",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {},
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "dimdoors:woven_world_thread_leggings",
+			tag: {
+				Quality: {}
+			}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	},
+	{
+		uid: "1962ff51",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {},
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "netherex:wither_bone_boots",
+			tag: {
+				Quality: {}
+			}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "95ce637e",
+		type: "ftbmoney:money",
+		ftb_money: 125L
+	}]
+}

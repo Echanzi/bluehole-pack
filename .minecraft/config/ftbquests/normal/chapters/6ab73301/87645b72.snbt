@@ -1,7 +1,10 @@
 {
 	title: "Men's Tears",
-	x: 13.0d,
+	x: 16.5d,
 	y: -4.0d,
+	text: [
+		"Used in the Urn of Sorrow"
+	],
 	dependencies: [
 		"bb4c8a27"
 	],

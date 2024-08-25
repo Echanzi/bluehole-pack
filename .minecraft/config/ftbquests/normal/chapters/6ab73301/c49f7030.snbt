@@ -1,0 +1,74 @@
+{
+	title: "Deep and Dark Biosurveyor",
+	x: -0.5d,
+	y: 4.0d,
+	dependencies: [
+		"4392f5ac"
+	],
+	tasks: [{
+		uid: "597f3c59",
+		type: "item",
+		disable_toast: true,
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "biomesoplenty:mushroom",
+			Damage: 3s
+		}]
+	},
+	{
+		uid: "45b0abaf",
+		type: "item",
+		disable_toast: true,
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "biomesoplenty:flower_1",
+			Damage: 3s
+		}]
+	},
+	{
+		uid: "6c601a47",
+		type: "item",
+		disable_toast: true,
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "quark:glowshroom"
+		}]
+	},
+	{
+		uid: "63397d98",
+		type: "item",
+		title: "Cave Root Sprout",
+		disable_toast: true,
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "quark:root_flower",
+			Damage: 2s
+		},
+		{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "quark:root_flower",
+			Damage: 1s
+		},
+		{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "quark:root_flower"
+		}]
+	}],
+	rewards: [{
+		uid: "5f172efd",
+		type: "ftbmoney:money",
+		ftb_money: 25L
+	}]
+}

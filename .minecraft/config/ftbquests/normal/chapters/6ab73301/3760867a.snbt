@@ -1,7 +1,7 @@
 {
-	title: "Explorative Necesity",
+	title: "Explorative Necessity",
 	x: -6.5d,
-	y: 1.5d,
+	y: 2.0d,
 	dependencies: [
 		"2d35e996"
 	],

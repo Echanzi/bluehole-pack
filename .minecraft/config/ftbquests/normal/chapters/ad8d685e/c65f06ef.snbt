@@ -26,17 +26,6 @@
 			},
 			id: "rats:cheese"
 		}]
-	},
-	{
-		uid: "69446b7a",
-		type: "item",
-		disable_toast: true,
-		items: [{
-			ForgeCaps: {
-				"wizardryutils:summoneditemdata": {}
-			},
-			id: "divinerpg:cheese"
-		}]
 	}],
 	rewards: [{
 		uid: "bcbf9ddb",

@@ -1,7 +1,10 @@
 {
 	title: "Queen of the Nether",
-	x: 10.5d,
+	x: 14.0d,
 	y: -4.0d,
+	text: [
+		"Ghast Queen Shrines are located in the Fungi Forests of the Nether"
+	],
 	dependencies: [
 		"87645b72"
 	],

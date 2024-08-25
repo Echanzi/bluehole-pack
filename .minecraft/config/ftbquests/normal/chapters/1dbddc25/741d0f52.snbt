@@ -1,0 +1,68 @@
+{
+	x: 6.5d,
+	y: -1.0d,
+	can_repeat: true,
+	tasks: [{
+		uid: "92a9b0d6",
+		type: "kill",
+		icon: {
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {},
+				"astralsorcery:cap_item_amulet_holder": {
+					AS_Amulet_HolderLeast: -6480113167060876494L,
+					AS_Amulet_HolderMost: 2911248940407866704L
+				}
+			},
+			id: "mod_lavacow:sludge_wand",
+			tag: {
+				Quality: {
+					Slots: [
+						"mainhand"
+					],
+					Color: "light_purple",
+					AttributeModifiers: [{
+						UUIDMost: 8384495189968897452L,
+						UUIDLeast: -8104991939982317825L,
+						Amount: 0.10000000149011612d,
+						AttributeName: "potioncore.digSpeed",
+						Operation: 2,
+						Name: "qualitytools"
+					},
+					{
+						UUIDMost: -37836261551683241L,
+						UUIDLeast: -4640379333240017885L,
+						Amount: 0.10000000149011612d,
+						AttributeName: "generic.attackSpeed",
+						Operation: 2,
+						Name: "qualitytools"
+					},
+					{
+						UUIDMost: -5906270303968932575L,
+						UUIDLeast: -7275525616897536942L,
+						Amount: 0.15000000596046448d,
+						AttributeName: "generic.attackDamage",
+						Operation: 2,
+						Name: "qualitytools"
+					},
+					{
+						UUIDMost: -3907925525748625452L,
+						UUIDLeast: -4652166500798593066L,
+						Amount: 0.5d,
+						AttributeName: "generic.reachDistance",
+						Operation: 0,
+						Name: "qualitytools"
+					}],
+					Name: "quality.legendary.name"
+				}
+			}
+		},
+		disable_toast: true,
+		entity: "mod_lavacow:sludgelord",
+		value: 1L
+	}],
+	rewards: [{
+		uid: "4a19547d",
+		type: "ftbmoney:money",
+		ftb_money: 75L
+	}]
+}

@@ -1,0 +1,31 @@
+{
+	title: "Push the Button",
+	x: 13.5d,
+	y: 5.0d,
+	dependencies: [
+		"8e7443c7"
+	],
+	tasks: [{
+		uid: "4616cfb2",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {},
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "claysoldiers:disruptor",
+			tag: {
+				disruptor: {
+					type: 2b
+				}
+			}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "9db319bb",
+		type: "ftbmoney:money",
+		ftb_money: 15L
+	}]
+}

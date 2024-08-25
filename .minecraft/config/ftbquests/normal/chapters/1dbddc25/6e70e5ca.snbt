@@ -1,0 +1,85 @@
+{
+	title: "Head Hunter: Zombie",
+	icon: {
+		ForgeCaps: {
+			"wizardryutils:summoneditemdata": {}
+		},
+		id: "minecraft:skull",
+		Damage: 2s
+	},
+	x: -1.5d,
+	y: -3.0d,
+	can_repeat: true,
+	tasks: [{
+		uid: "82d91b9d",
+		type: "kill",
+		disable_toast: true,
+		entity: "specialmobs:plaguezombie",
+		value: 1L
+	},
+	{
+		uid: "dcbcbe1d",
+		type: "kill",
+		disable_toast: true,
+		entity: "specialmobs:huskzombie",
+		value: 1L
+	},
+	{
+		uid: "27535a56",
+		type: "kill",
+		disable_toast: true,
+		entity: "specialmobs:hungryzombie",
+		value: 1L
+	},
+	{
+		uid: "d25b77b2",
+		type: "kill",
+		disable_toast: true,
+		entity: "specialmobs:giantzombie",
+		value: 1L
+	},
+	{
+		uid: "961896eb",
+		type: "kill",
+		disable_toast: true,
+		entity: "specialmobs:fishingzombie",
+		value: 1L
+	},
+	{
+		uid: "2193c0cc",
+		type: "kill",
+		disable_toast: true,
+		entity: "specialmobs:firezombie",
+		value: 1L
+	},
+	{
+		uid: "25446e1e",
+		type: "kill",
+		disable_toast: true,
+		entity: "specialmobs:brutezombie",
+		value: 1L
+	},
+	{
+		uid: "69fa973d",
+		type: "kill",
+		icon: {
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "minecraft:spawn_egg",
+			tag: {
+				EntityTag: {
+					id: "minecraft:zombie"
+				}
+			}
+		},
+		disable_toast: true,
+		entity: "specialmobs:specialzombie",
+		value: 1L
+	}],
+	rewards: [{
+		uid: "3077e3cf",
+		type: "ftbmoney:money",
+		ftb_money: 75L
+	}]
+}

@@ -1,0 +1,26 @@
+{
+	x: 3.5d,
+	y: -1.5d,
+	dependencies: [
+		"5bae267e"
+	],
+	tasks: [{
+		uid: "8519e897",
+		type: "stat",
+		title: "Cold Blooded Killer",
+		icon: {
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {},
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "futuremc:netherite_sword"
+		},
+		stat: "stat.mobKills",
+		value: 5000
+	}],
+	rewards: [{
+		uid: "842d2bd6",
+		type: "ftbmoney:money",
+		ftb_money: 750L
+	}]
+}

@@ -1,0 +1,106 @@
+{
+	title: "Head Hunter: Creeper",
+	icon: {
+		ForgeCaps: {
+			"wizardryutils:summoneditemdata": {}
+		},
+		id: "minecraft:skull",
+		Damage: 4s
+	},
+	x: -1.5d,
+	y: -2.0d,
+	can_repeat: true,
+	tasks: [{
+		uid: "5db60a1d",
+		type: "kill",
+		disable_toast: true,
+		entity: "specialmobs:splittingcreeper",
+		value: 1L
+	},
+	{
+		uid: "f9839aba",
+		type: "kill",
+		disable_toast: true,
+		entity: "specialmobs:gravelcreeper",
+		value: 1L
+	},
+	{
+		uid: "9fd7af96",
+		type: "kill",
+		disable_toast: true,
+		entity: "specialmobs:firecreeper",
+		value: 1L
+	},
+	{
+		uid: "bdc4d31e",
+		type: "kill",
+		disable_toast: true,
+		entity: "specialmobs:jumpingcreeper",
+		value: 1L
+	},
+	{
+		uid: "4e17c706",
+		type: "kill",
+		disable_toast: true,
+		entity: "specialmobs:drowningcreeper",
+		value: 1L
+	},
+	{
+		uid: "d8e412ac",
+		type: "kill",
+		disable_toast: true,
+		entity: "specialmobs:endercreeper",
+		value: 1L
+	},
+	{
+		uid: "738abfbd",
+		type: "kill",
+		disable_toast: true,
+		entity: "specialmobs:doomcreeper",
+		value: 1L
+	},
+	{
+		uid: "f42f65dc",
+		type: "kill",
+		disable_toast: true,
+		entity: "specialmobs:dirtcreeper",
+		value: 1L
+	},
+	{
+		uid: "d169253c",
+		type: "kill",
+		disable_toast: true,
+		entity: "specialmobs:deathcreeper",
+		value: 1L
+	},
+	{
+		uid: "10aadb51",
+		type: "kill",
+		disable_toast: true,
+		entity: "specialmobs:darkcreeper",
+		value: 1L
+	},
+	{
+		uid: "cb132299",
+		type: "kill",
+		icon: {
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "minecraft:spawn_egg",
+			tag: {
+				EntityTag: {
+					id: "minecraft:creeper"
+				}
+			}
+		},
+		disable_toast: true,
+		entity: "specialmobs:specialcreeper",
+		value: 1L
+	}],
+	rewards: [{
+		uid: "3f287bc7",
+		type: "ftbmoney:money",
+		ftb_money: 125L
+	}]
+}

@@ -1,6 +1,6 @@
 {
 	title: "Fate in my Hands",
-	x: -6.5d,
+	x: -6.0d,
 	y: -1.5d,
 	dependencies: [
 		"fb792609"

@@ -1,0 +1,213 @@
+{
+	title: "Terraria",
+	x: 1.5d,
+	y: 2.5d,
+	tasks: [{
+		uid: "63e9ce68",
+		type: "item",
+		disable_toast: true,
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "biomesoplenty:terrarium"
+		}]
+	},
+	{
+		uid: "4d31da68",
+		type: "item",
+		disable_toast: true,
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "biomesoplenty:terrarium",
+			Damage: 1s
+		}]
+	},
+	{
+		uid: "72ce6b45",
+		type: "item",
+		disable_toast: true,
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "biomesoplenty:terrarium",
+			Damage: 2s
+		}]
+	},
+	{
+		uid: "4cc88437",
+		type: "item",
+		disable_toast: true,
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "biomesoplenty:terrarium",
+			Damage: 3s
+		}]
+	},
+	{
+		uid: "584aa9e6",
+		type: "item",
+		disable_toast: true,
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "biomesoplenty:terrarium",
+			Damage: 4s
+		}]
+	},
+	{
+		uid: "13164fd0",
+		type: "item",
+		disable_toast: true,
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "biomesoplenty:terrarium",
+			Damage: 5s
+		}]
+	},
+	{
+		uid: "348c9ab4",
+		type: "item",
+		disable_toast: true,
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "biomesoplenty:terrarium",
+			Damage: 6s
+		}]
+	},
+	{
+		uid: "15578148",
+		type: "item",
+		disable_toast: true,
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "biomesoplenty:terrarium",
+			Damage: 7s
+		}]
+	},
+	{
+		uid: "6cac66b3",
+		type: "item",
+		disable_toast: true,
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "biomesoplenty:terrarium",
+			Damage: 8s
+		}]
+	},
+	{
+		uid: "209f960f",
+		type: "item",
+		disable_toast: true,
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "biomesoplenty:terrarium",
+			Damage: 9s
+		}]
+	},
+	{
+		uid: "ab6219d2",
+		type: "item",
+		disable_toast: true,
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "biomesoplenty:terrarium",
+			Damage: 10s
+		}]
+	},
+	{
+		uid: "14fd8be6",
+		type: "item",
+		disable_toast: true,
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "biomesoplenty:terrarium",
+			Damage: 11s
+		}]
+	},
+	{
+		uid: "5fb84748",
+		type: "item",
+		disable_toast: true,
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "biomesoplenty:terrarium",
+			Damage: 12s
+		}]
+	},
+	{
+		uid: "25aeade4",
+		type: "item",
+		disable_toast: true,
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "biomesoplenty:terrarium",
+			Damage: 13s
+		}]
+	},
+	{
+		uid: "c9596f87",
+		type: "item",
+		disable_toast: true,
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "biomesoplenty:terrarium",
+			Damage: 14s
+		}]
+	},
+	{
+		uid: "a662ded1",
+		type: "item",
+		disable_toast: true,
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "biomesoplenty:terrarium",
+			Damage: 15s
+		}]
+	}],
+	rewards: [{
+		uid: "0c46215a",
+		type: "ftbmoney:money",
+		ftb_money: 500L
+	},
+	{
+		uid: "0c2fcc1d",
+		type: "choice",
+		icon: {
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "biomesoplenty:terrarium",
+			Damage: 13s
+		},
+		table: 0
+	}]
+}

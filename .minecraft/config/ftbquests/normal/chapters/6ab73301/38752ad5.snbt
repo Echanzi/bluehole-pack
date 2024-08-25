@@ -1,0 +1,31 @@
+{
+	title: "Zap!",
+	x: 12.5d,
+	y: 5.5d,
+	dependencies: [
+		"8e7443c7"
+	],
+	tasks: [{
+		uid: "ddf23f1b",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {},
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "claysoldiers:disruptor",
+			tag: {
+				disruptor: {
+					type: 1b
+				}
+			}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "3c5cb9a6",
+		type: "ftbmoney:money",
+		ftb_money: 15L
+	}]
+}

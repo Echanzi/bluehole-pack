@@ -1,7 +1,7 @@
 {
 	title: "Nether Vanquisher",
-	x: 10.0d,
-	y: -1.0d,
+	x: 13.5d,
+	y: -1.5d,
 	dependencies: [
 		"49d84025"
 	],

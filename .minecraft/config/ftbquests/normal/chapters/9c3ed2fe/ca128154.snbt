@@ -1,5 +1,11 @@
 {
 	title: "Heavenly Delights",
+	icon: {
+		ForgeCaps: {
+			"wizardryutils:summoneditemdata": {}
+		},
+		id: "aether_legacy:healing_stone"
+	},
 	x: -2.0d,
 	y: -0.5d,
 	hide_dependency_lines: true,
@@ -71,6 +77,16 @@
 				"wizardryutils:summoneditemdata": {}
 			},
 			id: "aether_legacy:cooked_enchanted_cockatrice"
+		}]
+	},
+	{
+		uid: "89346a64",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "aether_legacy:ambrosium_shard"
 		}]
 	}],
 	rewards: [{

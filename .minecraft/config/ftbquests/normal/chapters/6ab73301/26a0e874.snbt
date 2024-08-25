@@ -1,0 +1,26 @@
+{
+	title: "Pocket Pocket Parcel",
+	x: 14.5d,
+	y: 3.0d,
+	dependencies: [
+		"b5351a55"
+	],
+	tasks: [{
+		uid: "49d81ca7",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {},
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "improvedbackpacks:ender_backpack"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "c9806c38",
+		type: "ftbmoney:money",
+		ftb_money: 40L
+	}]
+}

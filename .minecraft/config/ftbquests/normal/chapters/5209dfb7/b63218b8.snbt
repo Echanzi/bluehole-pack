@@ -1,5 +1,12 @@
 {
 	title: "The Second Ghast Queen",
+	icon: {
+		ForgeCaps: {
+			"wizardryutils:summoneditemdata": {}
+		},
+		id: "twilightforest:trophy",
+		Damage: 3s
+	},
 	x: 8.0d,
 	y: -0.5d,
 	dependencies: [
