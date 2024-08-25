@@ -1,0 +1,186 @@
+{
+	title: "Impossible Fumo Challenge",
+	x: -2.5d,
+	y: -3.5d,
+	tasks: [{
+		uid: "2e1fb95a",
+		type: "item",
+		disable_toast: true,
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "grimoireofgaia:doll_mermaid"
+		}]
+	},
+	{
+		uid: "3631fad0",
+		type: "item",
+		disable_toast: true,
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "grimoireofgaia:doll_nine_tails"
+		}]
+	},
+	{
+		uid: "2b95433d",
+		type: "item",
+		disable_toast: true,
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "grimoireofgaia:doll_dryad"
+		}]
+	},
+	{
+		uid: "e02949d3",
+		type: "item",
+		disable_toast: true,
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "grimoireofgaia:deco_garden_gnome"
+		}]
+	},
+	{
+		uid: "a27ebbf5",
+		type: "item",
+		disable_toast: true,
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "grimoireofgaia:deco_mandragora_pot"
+		}]
+	},
+	{
+		uid: "630c0c67",
+		type: "item",
+		disable_toast: true,
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "grimoireofgaia:deco_bust_minotaur"
+		}]
+	},
+	{
+		uid: "148c86a8",
+		type: "item",
+		disable_toast: true,
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "grimoireofgaia:deco_nest_harpy"
+		}]
+	},
+	{
+		uid: "bb25cfc8",
+		type: "item",
+		disable_toast: true,
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "grimoireofgaia:doll_dullahan"
+		}]
+	},
+	{
+		uid: "c8c07d5c",
+		type: "item",
+		disable_toast: true,
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "grimoireofgaia:doll_maid"
+		}]
+	},
+	{
+		uid: "fdf7d3c2",
+		type: "item",
+		disable_toast: true,
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "grimoireofgaia:doll_slime_girl"
+		}]
+	},
+	{
+		uid: "3dfa74f7",
+		type: "item",
+		disable_toast: true,
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "grimoireofgaia:doll_ender_girl"
+		}]
+	},
+	{
+		uid: "885ca858",
+		type: "item",
+		disable_toast: true,
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "grimoireofgaia:doll_creeper_girl"
+		}]
+	},
+	{
+		uid: "a30e7762",
+		type: "item",
+		disable_toast: true,
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "grimoireofgaia:bust_vampire"
+		}]
+	},
+	{
+		uid: "4aa863c2",
+		type: "item",
+		disable_toast: true,
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "grimoireofgaia:bust_valkyrie"
+		}]
+	},
+	{
+		uid: "a453d189",
+		type: "item",
+		disable_toast: true,
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "grimoireofgaia:bust_sphinx"
+		}]
+	},
+	{
+		uid: "f4b6cef2",
+		type: "item",
+		disable_toast: true,
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "grimoireofgaia:bust_gorgon"
+		}]
+	}],
+	rewards: [{
+		uid: "79e9fc4e",
+		type: "ftbmoney:money",
+		ftb_money: 2000L
+	}]
+}

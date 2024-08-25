@@ -1,7 +1,7 @@
 {
 	disable_toast: true,
-	x: 2.5d,
-	y: -5.5d,
+	x: 3.5d,
+	y: -6.5d,
 	can_repeat: true,
 	dependencies: [
 		"bfc0ee08"

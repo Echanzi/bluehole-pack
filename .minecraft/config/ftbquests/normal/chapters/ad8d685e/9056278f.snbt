@@ -1,7 +1,10 @@
 {
 	title: "Foreign Exchange Bees",
 	x: 6.0d,
-	y: -1.5d,
+	y: 6.5d,
+	text: [
+		"Collect all previous forms of Honey"
+	],
 	dependencies: [
 		"60edc9f2"
 	],
@@ -16,6 +19,28 @@
 		}],
 		count: 5L,
 		consume_items: true
+	},
+	{
+		uid: "9cd921eb",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "biomesoplenty:honey_block"
+		}],
+		count: 64L
+	},
+	{
+		uid: "9d79ca85",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "harvestcraft:honey"
+		}],
+		count: 16L
 	}],
 	rewards: [{
 		uid: "0692afdc",

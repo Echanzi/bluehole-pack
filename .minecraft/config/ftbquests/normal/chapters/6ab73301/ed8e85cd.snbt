@@ -1,7 +1,7 @@
 {
 	title: "Marshy Fish",
-	x: -0.5d,
-	y: 8.5d,
+	x: -2.5d,
+	y: 9.5d,
 	dependencies: [
 		"5d486fa5"
 	],

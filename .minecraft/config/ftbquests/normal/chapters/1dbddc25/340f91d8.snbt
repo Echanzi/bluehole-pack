@@ -1,0 +1,24 @@
+{
+	x: 4.5d,
+	y: -3.0d,
+	can_repeat: true,
+	tasks: [{
+		uid: "1b7ea3b3",
+		type: "kill",
+		icon: {
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {},
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "iceandfire:gorgon_head"
+		},
+		disable_toast: true,
+		entity: "iceandfire:gorgon",
+		value: 1L
+	}],
+	rewards: [{
+		uid: "14377d4e",
+		type: "ftbmoney:money",
+		ftb_money: 100L
+	}]
+}

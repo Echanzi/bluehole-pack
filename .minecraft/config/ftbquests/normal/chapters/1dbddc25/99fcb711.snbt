@@ -1,0 +1,30 @@
+{
+	x: 7.5d,
+	y: -1.0d,
+	can_repeat: true,
+	tasks: [{
+		uid: "eab5e6ce",
+		type: "kill",
+		icon: {
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {},
+				"astralsorcery:cap_item_amulet_holder": {
+					AS_Amulet_HolderLeast: -6480113167060876494L,
+					AS_Amulet_HolderMost: 2911248940407866704L
+				}
+			},
+			id: "mod_lavacow:undertaker_shovel",
+			tag: {
+				Quality: {}
+			}
+		},
+		disable_toast: true,
+		entity: "mod_lavacow:undertaker",
+		value: 1L
+	}],
+	rewards: [{
+		uid: "a7c24cb6",
+		type: "ftbmoney:money",
+		ftb_money: 75L
+	}]
+}

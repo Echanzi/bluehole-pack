@@ -1,0 +1,17 @@
+{
+	title: "WS Hunter",
+	loot_size: 1,
+	rewards: [{
+		item: {
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "minecraft:skull",
+			Damage: 1s
+		}
+	},
+	{
+		ftb_money: 175L,
+		type: "ftbmoney:money"
+	}]
+}

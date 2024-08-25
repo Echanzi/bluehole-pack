@@ -6,7 +6,7 @@
 		},
 		id: "minecraft:dragon_egg"
 	},
-	x: 13.5d,
+	x: 17.0d,
 	y: 9.0d,
 	dependencies: [
 		"68d483d1"
@@ -14,6 +14,13 @@
 	tasks: [{
 		uid: "7732ffaa",
 		type: "kill",
+		icon: {
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "minecraft:skull",
+			Damage: 5s
+		},
 		entity: "minecraft:ender_dragon",
 		value: 1L
 	}],

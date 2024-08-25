@@ -1,7 +1,7 @@
 {
 	title: "Quite Attractive",
-	x: 6.5d,
-	y: -3.0d,
+	x: 2.5d,
+	y: -3.5d,
 	dependencies: [
 		"270b446a"
 	],

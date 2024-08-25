@@ -1,11 +1,12 @@
 {
-	title: "grindr",
+	title: "Slayer",
 	icon: {
 		ForgeCaps: {
 			"wizardryutils:summoneditemdata": {},
 			"astralsorcery:cap_item_amulet_holder": {}
 		},
-		id: "treasure2:skeleton"
+		id: "treasure2:skeleton",
+		Count: 1b
 	},
 	disable_toast: true,
 	always_invisible: false,

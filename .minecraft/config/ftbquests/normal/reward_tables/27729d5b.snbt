@@ -1,0 +1,41 @@
+{
+	title: "Terraria",
+	loot_size: 1,
+	use_title: true,
+	rewards: [{
+		item: {
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {},
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "artifacts:magma_stone"
+		}
+	},
+	{
+		item: {
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {},
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "artifacts:feral_claws"
+		}
+	},
+	{
+		item: {
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {},
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "artifacts:panic_necklace"
+		}
+	},
+	{
+		item: {
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {},
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "artifacts:bottled_cloud"
+		}
+	}]
+}

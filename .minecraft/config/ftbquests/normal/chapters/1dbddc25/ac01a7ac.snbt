@@ -1,0 +1,97 @@
+{
+	title: "Head Hunter: Zombie Pigman",
+	icon: {
+		ForgeCaps: {
+			"wizardryutils:summoneditemdata": {}
+		},
+		id: "minecraft:skull",
+		tag: {
+			SkullOwner: {
+				Id: "41afdca6-3d48-4f01-bcc3-f7708f6c967d",
+				Properties: {
+					textures: [{
+						Value: "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNWMwOTMyOGVhMGFiZGQ4ODQ0MGI3NjVmNjMwY2UxOTJjN2YyM2EzZDE4NjdkOGY4ODA3Mzg4ZjA2N2M4MDgxZSJ9fX0="
+					}]
+				}
+			},
+			display: {
+				Name: "Zombie Pigman"
+			}
+		},
+		Damage: 3s
+	},
+	x: 0.5d,
+	y: -3.0d,
+	can_repeat: true,
+	tasks: [{
+		uid: "92ae9aab",
+		type: "kill",
+		disable_toast: true,
+		entity: "specialmobs:brutepigzombie",
+		value: 1L
+	},
+	{
+		uid: "8fd200c8",
+		type: "kill",
+		disable_toast: true,
+		entity: "specialmobs:fishingpigzombie",
+		value: 1L
+	},
+	{
+		uid: "6e87a19b",
+		type: "kill",
+		disable_toast: true,
+		entity: "specialmobs:giantpigzombie",
+		value: 1L
+	},
+	{
+		uid: "70ce9420",
+		type: "kill",
+		disable_toast: true,
+		entity: "specialmobs:hungrypigzombie",
+		value: 1L
+	},
+	{
+		uid: "bb5325ed",
+		type: "kill",
+		disable_toast: true,
+		entity: "specialmobs:knightpigzombie",
+		value: 1L
+	},
+	{
+		uid: "19fdf310",
+		type: "kill",
+		disable_toast: true,
+		entity: "specialmobs:plaguepigzombie",
+		value: 1L
+	},
+	{
+		uid: "d83ef2ce",
+		type: "kill",
+		disable_toast: true,
+		entity: "specialmobs:vampirepigzombie",
+		value: 1L
+	},
+	{
+		uid: "139cd857",
+		type: "kill",
+		icon: {
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "minecraft:spawn_egg",
+			tag: {
+				EntityTag: {
+					id: "minecraft:zombie_pigman"
+				}
+			}
+		},
+		entity: "specialmobs:specialpigzombie",
+		value: 1L
+	}],
+	rewards: [{
+		uid: "6971b306",
+		type: "ftbmoney:money",
+		ftb_money: 150L
+	}]
+}

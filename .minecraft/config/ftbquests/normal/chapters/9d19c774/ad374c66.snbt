@@ -1,0 +1,39 @@
+{
+	title: "Ice Dragon Egg",
+	x: -11.5d,
+	y: -12.5d,
+	tasks: [{
+		uid: "2c3ebc1e",
+		type: "item",
+		title: "Collect an Ice Dragon Egg",
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {},
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "iceandfire:dragonegg_blue"
+		},
+		{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {},
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "iceandfire:dragonegg_white"
+		},
+		{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {},
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "iceandfire:dragonegg_sapphire"
+		},
+		{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {},
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "iceandfire:dragonegg_silver"
+		}],
+		ignore_nbt: 1b
+	}]
+}

@@ -1,0 +1,93 @@
+{
+	title: "Head Hunter: Wither Skeleton",
+	icon: {
+		ForgeCaps: {
+			"wizardryutils:summoneditemdata": {}
+		},
+		id: "minecraft:skull",
+		Damage: 1s
+	},
+	x: 1.5d,
+	y: -2.0d,
+	can_repeat: true,
+	dependency_requirement: "one_started",
+	tasks: [{
+		uid: "09055c6f",
+		type: "kill",
+		disable_toast: true,
+		entity: "specialmobs:brutewitherskeleton",
+		value: 1L
+	},
+	{
+		uid: "a409711b",
+		type: "kill",
+		disable_toast: true,
+		entity: "specialmobs:gatlingwitherskeleton",
+		value: 1L
+	},
+	{
+		uid: "ebc71cc9",
+		type: "kill",
+		disable_toast: true,
+		entity: "specialmobs:giantwitherskeleton",
+		value: 1L
+	},
+	{
+		uid: "8422c1e4",
+		type: "kill",
+		disable_toast: true,
+		entity: "specialmobs:knightwitherskeleton",
+		value: 1L
+	},
+	{
+		uid: "8a95f7ca",
+		type: "kill",
+		disable_toast: true,
+		entity: "specialmobs:ninjawitherskeleton",
+		value: 1L
+	},
+	{
+		uid: "0333674a",
+		type: "kill",
+		disable_toast: true,
+		entity: "specialmobs:sniperwitherskeleton",
+		value: 1L
+	},
+	{
+		uid: "6607bb56",
+		type: "kill",
+		disable_toast: true,
+		entity: "specialmobs:spitfirewitherskeleton",
+		value: 1L
+	},
+	{
+		uid: "184585df",
+		type: "kill",
+		icon: {
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "minecraft:spawn_egg",
+			tag: {
+				EntityTag: {
+					id: "minecraft:wither_skeleton"
+				}
+			}
+		},
+		disable_toast: true,
+		entity: "specialmobs:specialwitherskeleton",
+		value: 1L
+	}],
+	rewards: [{
+		uid: "cbd57a3c",
+		type: "choice",
+		icon: {
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "minecraft:skull",
+			Damage: 1s
+		},
+		table: 2
+	}]
+}

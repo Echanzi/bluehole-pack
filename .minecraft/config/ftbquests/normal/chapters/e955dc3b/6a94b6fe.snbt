@@ -1,0 +1,23 @@
+{
+	title: "The Freak of Bluehole",
+	x: -2.5d,
+	y: 4.5d,
+	tasks: [{
+		uid: "580192af",
+		type: "stat",
+		icon: {
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {},
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "grimoireofgaia:pickup_heart"
+		},
+		stat: "stat.animalsBred",
+		value: 1000
+	}],
+	rewards: [{
+		uid: "e8e5c317",
+		type: "ftbmoney:money",
+		ftb_money: 0L
+	}]
+}

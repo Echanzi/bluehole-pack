@@ -1,7 +1,8 @@
 {
 	title: "Enchanted!",
-	x: 7.5d,
+	x: 9.5d,
 	y: -4.0d,
+	description: "Enchant 3 Items",
 	text: [
 		"Grants access to Books in the Shop"
 	],

@@ -12,10 +12,11 @@
 			Potion: "minecraft:water"
 		}
 	},
-	x: -5.0d,
+	x: -4.0d,
 	y: 0.0d,
 	text: [
-		"Yippie!!! Thank you for playing."
+		"Yippie!!! Thank you for playing.",
+		":LETSFUCKINGGO:"
 	],
 	tasks: [{
 		uid: "340c25bd",

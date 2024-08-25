@@ -15,6 +15,12 @@
 	tasks: [{
 		uid: "9c6d163a",
 		type: "dimension",
+		icon: {
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "aether_legacy:aether_grass"
+		},
 		dim: 4
 	}],
 	rewards: [{

@@ -1,5 +1,12 @@
 {
 	title: "The Cold Never Bothered Me Anyway",
+	icon: {
+		ForgeCaps: {
+			"wizardryutils:summoneditemdata": {}
+		},
+		id: "twilightforest:trophy",
+		Damage: 5s
+	},
 	x: 8.0d,
 	y: -5.5d,
 	dependencies: [

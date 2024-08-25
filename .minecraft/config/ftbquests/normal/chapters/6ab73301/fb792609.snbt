@@ -1,6 +1,6 @@
 {
 	title: "Nice",
-	x: -6.5d,
+	x: -6.0d,
 	y: 0.0d,
 	text: [
 		""
@@ -16,7 +16,8 @@
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
 			},
-			id: "treasure2:skull_chest"
+			id: "treasure2:skull_chest",
+			Count: 1b
 		},
 		stat: "stat.deaths",
 		value: 1

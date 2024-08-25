@@ -1,12 +1,12 @@
 {
 	title: "ℸ ̣ ᔑʖꖎᒷ 𝙹⎓ !¡𝙹∴ᒷ∷",
-	x: 7.5d,
+	x: 10.5d,
 	y: -2.0d,
 	text: [
 		"Grants access to the Enchantment Table in the Shop"
 	],
 	dependencies: [
-		"4a670c36"
+		"de76d291"
 	],
 	tasks: [{
 		uid: "40cd1e80",

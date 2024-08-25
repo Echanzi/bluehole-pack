@@ -1,0 +1,23 @@
+{
+	title: "Bricked Up",
+	x: 11.5d,
+	y: 2.5d,
+	dependencies: [
+		"8e7443c7"
+	],
+	tasks: [{
+		uid: "74876931",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "claysoldiers:doll_brick_soldier"
+		}]
+	}],
+	rewards: [{
+		uid: "dcd26c6c",
+		type: "ftbmoney:money",
+		ftb_money: 30L
+	}]
+}

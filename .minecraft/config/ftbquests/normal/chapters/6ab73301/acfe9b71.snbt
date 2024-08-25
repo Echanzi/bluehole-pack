@@ -1,0 +1,23 @@
+{
+	title: "Return to Sender ",
+	x: 2.0d,
+	y: 3.0d,
+	dependencies: [
+		"e00b6ac8"
+	],
+	tasks: [{
+		uid: "8f482318",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "waystones:warp_scroll"
+		}]
+	}],
+	rewards: [{
+		uid: "3ca1a394",
+		type: "ftbmoney:money",
+		ftb_money: 35L
+	}]
+}

@@ -1,0 +1,23 @@
+{
+	x: -0.5d,
+	y: -7.5d,
+	can_repeat: true,
+	tasks: [{
+		uid: "61d60039",
+		type: "kill",
+		icon: {
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {},
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "mowziesmobs:ice_crystal"
+		},
+		entity: "mowziesmobs:frostmaw",
+		value: 1L
+	}],
+	rewards: [{
+		uid: "3b161884",
+		type: "ftbmoney:money",
+		ftb_money: 150L
+	}]
+}

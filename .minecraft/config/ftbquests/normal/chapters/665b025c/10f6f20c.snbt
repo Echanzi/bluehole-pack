@@ -1,0 +1,26 @@
+{
+	title: "Killer Queen",
+	x: -2.0d,
+	y: -5.5d,
+	text: [
+		"I swear to Fuck if you shoot someones house with this"
+	],
+	dependencies: [
+		"a7f000eb"
+	],
+	tasks: [{
+		uid: "d30a822d",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "spartanweaponry:arrow_explosive"
+		}]
+	}],
+	rewards: [{
+		uid: "8d0a064f",
+		type: "ftbmoney:money",
+		ftb_money: 30L
+	}]
+}

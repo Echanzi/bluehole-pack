@@ -7,7 +7,7 @@
 		id: "quark:stone_andesite_bricks_wall"
 	},
 	x: 7.5d,
-	y: 5.5d,
+	y: 8.5d,
 	description: "Your adventure halts to the wall",
 	tasks: [{
 		uid: "f5229b20",

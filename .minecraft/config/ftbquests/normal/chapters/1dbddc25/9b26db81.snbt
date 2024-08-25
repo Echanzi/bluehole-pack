@@ -1,0 +1,119 @@
+{
+	title: "Head Hunter: Spider",
+	icon: {
+		ForgeCaps: {
+			"wizardryutils:summoneditemdata": {}
+		},
+		id: "minecraft:skull",
+		tag: {
+			SkullOwner: {
+				Id: "b02c4857-4f45-4cd7-874e-82f0a6826d6f",
+				Properties: {
+					textures: [{
+						Value: "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMzVlMjQ4ZGEyZTEwOGYwOTgxM2E2Yjg0OGEwZmNlZjExMTMwMDk3ODE4MGVkYTQxZDNkMWE3YThlNGRiYTNjMyJ9fX0="
+					}]
+				}
+			},
+			display: {
+				Name: "Spider"
+			}
+		},
+		Damage: 3s
+	},
+	x: -1.5d,
+	y: -1.0d,
+	can_repeat: true,
+	tasks: [{
+		uid: "7d8f6053",
+		type: "kill",
+		disable_toast: true,
+		entity: "specialmobs:babyspider",
+		value: 1L
+	},
+	{
+		uid: "8811d349",
+		type: "kill",
+		disable_toast: true,
+		entity: "specialmobs:desertspider",
+		value: 1L
+	},
+	{
+		uid: "07f457d2",
+		type: "kill",
+		disable_toast: true,
+		entity: "specialmobs:flyingspider",
+		value: 1L
+	},
+	{
+		uid: "882c8689",
+		type: "kill",
+		disable_toast: true,
+		entity: "specialmobs:giantspider",
+		value: 1L
+	},
+	{
+		uid: "63a6c5a6",
+		type: "kill",
+		disable_toast: true,
+		entity: "specialmobs:witchspider",
+		value: 1L
+	},
+	{
+		uid: "462c6d90",
+		type: "kill",
+		disable_toast: true,
+		entity: "specialmobs:hungryspider",
+		value: 1L
+	},
+	{
+		uid: "e21b4be3",
+		type: "kill",
+		disable_toast: true,
+		entity: "specialmobs:motherspider",
+		value: 1L
+	},
+	{
+		uid: "decf2389",
+		type: "kill",
+		disable_toast: true,
+		entity: "specialmobs:palespider",
+		value: 1L
+	},
+	{
+		uid: "bd1d9e4c",
+		type: "kill",
+		disable_toast: true,
+		entity: "specialmobs:poisonspider",
+		value: 1L
+	},
+	{
+		uid: "46d8af2e",
+		type: "kill",
+		disable_toast: true,
+		entity: "specialmobs:webspider",
+		value: 1L
+	},
+	{
+		uid: "366e1883",
+		type: "kill",
+		icon: {
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "minecraft:spawn_egg",
+			tag: {
+				EntityTag: {
+					id: "minecraft:spider"
+				}
+			}
+		},
+		disable_toast: true,
+		entity: "specialmobs:specialspider",
+		value: 1L
+	}],
+	rewards: [{
+		uid: "dc223eab",
+		type: "ftbmoney:money",
+		ftb_money: 75L
+	}]
+}

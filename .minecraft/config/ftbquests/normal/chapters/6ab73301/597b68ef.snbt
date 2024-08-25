@@ -1,0 +1,29 @@
+{
+	title: "#000000-AAAAAARift Carver",
+	x: 9.5d,
+	y: 7.0d,
+	dependencies: [
+		"f5646a06"
+	],
+	tasks: [{
+		uid: "ebdaf42c",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {},
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "dimdoors:rift_blade",
+			tag: {
+				Quality: {}
+			}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "806a52d0",
+		type: "ftbmoney:money",
+		ftb_money: 50L
+	}]
+}

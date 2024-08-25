@@ -1,0 +1,24 @@
+{
+	title: "Happy Automatic Trees",
+	x: 5.0d,
+	y: 3.0d,
+	dependencies: [
+		"db7579e8"
+	],
+	tasks: [{
+		uid: "2c1605a8",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "bonsaitrees:bonsaipot",
+			Damage: 1s
+		}]
+	}],
+	rewards: [{
+		uid: "62997c61",
+		type: "ftbmoney:money",
+		ftb_money: 30L
+	}]
+}

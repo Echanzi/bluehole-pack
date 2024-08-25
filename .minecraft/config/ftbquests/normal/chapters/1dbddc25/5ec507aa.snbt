@@ -1,0 +1,26 @@
+{
+	x: 3.0d,
+	y: -7.5d,
+	can_repeat: true,
+	dependencies: [
+		"9554d546"
+	],
+	tasks: [{
+		uid: "78954abb",
+		type: "kill",
+		icon: {
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "mod_lavacow:emblem_of_king"
+		},
+		disable_toast: true,
+		entity: "mod_lavacow:skeletonking",
+		value: 1L
+	}],
+	rewards: [{
+		uid: "7b83d670",
+		type: "ftbmoney:money",
+		ftb_money: 125L
+	}]
+}

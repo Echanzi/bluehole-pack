@@ -1,7 +1,7 @@
 {
 	title: "Setting up Shop",
 	x: -2.5d,
-	y: -1.0d,
+	y: 2.5d,
 	text: [
 		"Does not regenerate your health, or serve as a respawn or save point.",
 		"",

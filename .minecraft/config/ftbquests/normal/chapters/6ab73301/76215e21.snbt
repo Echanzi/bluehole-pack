@@ -1,13 +1,13 @@
 {
-	title: "Diplomatic Suicide",
+	title: "The Cost of Business",
 	icon: {
 		ForgeCaps: {
 			"wizardryutils:summoneditemdata": {}
 		},
 		id: "minecraft:emerald"
 	},
-	x: -2.5d,
-	y: -3.0d,
+	x: -3.0d,
+	y: -4.5d,
 	text: [
 		""
 	],
@@ -15,10 +15,16 @@
 		"7c1d5409"
 	],
 	tasks: [{
-		uid: "ef48e7ad",
-		type: "kill",
-		entity: "minecraft:villager",
-		value: 1L
+		uid: "ce602c4d",
+		type: "stat",
+		icon: {
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "minecraft:emerald"
+		},
+		stat: "stat.tradedWithVillager",
+		value: 1
 	}],
 	rewards: [{
 		uid: "4b62bf75",

@@ -1,0 +1,27 @@
+{
+	title: "Slime Time",
+	x: -1.5d,
+	y: -5.0d,
+	text: [
+		"They are also Horizontally Bouncy!",
+		"in other words you can run right into them and bounce back, or bounce farther w/ pistons..."
+	],
+	dependencies: [
+		"7c1d5409"
+	],
+	tasks: [{
+		uid: "f2ad223a",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "minecraft:slime"
+		}]
+	}],
+	rewards: [{
+		uid: "7671718c",
+		type: "ftbmoney:money",
+		ftb_money: 15L
+	}]
+}

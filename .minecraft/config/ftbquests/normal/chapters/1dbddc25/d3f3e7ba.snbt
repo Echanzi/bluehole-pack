@@ -1,0 +1,24 @@
+{
+	x: 4.5d,
+	y: -2.0d,
+	can_repeat: true,
+	tasks: [{
+		uid: "16edda06",
+		type: "kill",
+		icon: {
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {},
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "iceandfire:cyclops_skull"
+		},
+		disable_toast: true,
+		entity: "iceandfire:cyclops",
+		value: 1L
+	}],
+	rewards: [{
+		uid: "d764ce15",
+		type: "ftbmoney:money",
+		ftb_money: 100L
+	}]
+}

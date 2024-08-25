@@ -1,7 +1,7 @@
 {
 	title: "Upgrades, people.",
-	x: 9.5d,
-	y: 1.5d,
+	x: 12.5d,
+	y: -1.5d,
 	text: [
 		"Ancient Debris only found where Original Netherrack Resides"
 	],

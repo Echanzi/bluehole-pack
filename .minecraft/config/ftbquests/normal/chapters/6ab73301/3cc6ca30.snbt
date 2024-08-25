@@ -1,7 +1,7 @@
 {
 	title: "Choose the Blue Team",
-	x: 15.5d,
-	y: 3.0d,
+	x: 18.5d,
+	y: 4.0d,
 	dependencies: [
 		"958f81dc"
 	],

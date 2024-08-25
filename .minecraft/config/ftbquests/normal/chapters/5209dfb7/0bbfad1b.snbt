@@ -1,6 +1,15 @@
 {
+	title: "Stroganmeoff till I Meef?",
+	icon: {
+		ForgeCaps: {
+			"wizardryutils:summoneditemdata": {}
+		},
+		id: "twilightforest:trophy",
+		Damage: 6s
+	},
 	x: 6.0d,
 	y: -3.0d,
+	description: ":x: :x: :x: ",
 	dependencies: [
 		"828a42c4"
 	],
@@ -38,5 +47,16 @@
 		uid: "3c7ccc25",
 		type: "ftbmoney:money",
 		ftb_money: 80L
+	},
+	{
+		uid: "a7265a7b",
+		type: "item",
+		item: {
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "twilightforest:trophy",
+			Damage: 6s
+		}
 	}]
 }

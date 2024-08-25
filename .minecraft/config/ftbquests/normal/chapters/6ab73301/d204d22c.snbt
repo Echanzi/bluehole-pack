@@ -1,0 +1,23 @@
+{
+	title: "Crypt Creator",
+	x: 1.0d,
+	y: -2.0d,
+	dependencies: [
+		"263edc16"
+	],
+	tasks: [{
+		uid: "9a591863",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "tombstone:dark_marble"
+		}]
+	}],
+	rewards: [{
+		uid: "474640f6",
+		type: "ftbmoney:money",
+		ftb_money: 25L
+	}]
+}

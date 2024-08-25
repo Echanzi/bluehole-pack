@@ -6,8 +6,8 @@
 		id: "colossalchests:colossal_chest",
 		Damage: 2s
 	},
-	x: -12.0d,
-	y: 2.0d,
+	x: -9.5d,
+	y: 3.0d,
 	dependencies: [
 		"9eb9db12"
 	],

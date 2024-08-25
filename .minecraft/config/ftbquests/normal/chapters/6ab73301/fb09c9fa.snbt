@@ -1,0 +1,50 @@
+{
+	title: "Cemetarian",
+	icon: {
+		ForgeCaps: {
+			"wizardryutils:summoneditemdata": {}
+		},
+		id: "tombstone:decorative_grave_normal"
+	},
+	x: 1.0d,
+	y: -3.5d,
+	dependencies: [
+		"d204d22c"
+	],
+	tasks: [{
+		uid: "2236dbfa",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "tombstone:crafting_ingredient",
+			Damage: 1s
+		}]
+	},
+	{
+		uid: "18bbe73f",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "tombstone:crafting_ingredient"
+		}]
+	},
+	{
+		uid: "20ebda20",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "tombstone:decorative_grave_simple"
+		}]
+	}],
+	rewards: [{
+		uid: "bd7b7ce0",
+		type: "ftbmoney:money",
+		ftb_money: 50L
+	}]
+}

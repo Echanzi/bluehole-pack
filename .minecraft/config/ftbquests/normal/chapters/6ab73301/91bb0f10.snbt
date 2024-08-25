@@ -1,7 +1,7 @@
 {
 	title: "$GME Shareholder",
 	x: 6.5d,
-	y: 1.0d,
+	y: 0.5d,
 	text: [
 		""
 	],

@@ -7,10 +7,11 @@
 		},
 		id: "thebetweenlands:dj_wights_mixtape"
 	},
-	x: 6.5d,
+	x: 9.0d,
 	y: -1.0d,
 	dependencies: [
-		"4a670c36"
+		"4a670c36",
+		"de76d291"
 	],
 	tasks: [{
 		uid: "8facba2a",

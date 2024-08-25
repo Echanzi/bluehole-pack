@@ -1,6 +1,6 @@
 {
 	title: "Brewing IV",
-	x: 14.0d,
+	x: 17.5d,
 	y: -4.0d,
 	dependencies: [
 		"bb4c8a27"

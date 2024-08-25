@@ -1,7 +1,7 @@
 {
 	title: "Maybe this will catch that stupid bird...",
 	x: 6.0d,
-	y: 2.0d,
+	y: 1.5d,
 	text: [
 		"Grants access to the Anvil in the Shop"
 	],

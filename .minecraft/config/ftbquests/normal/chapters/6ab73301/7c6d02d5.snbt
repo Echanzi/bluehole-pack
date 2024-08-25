@@ -1,0 +1,24 @@
+{
+	title: "Village Not Pillaged",
+	x: -4.5d,
+	y: -6.0d,
+	text: [
+		"Grants Access to High Difficulty Ominious Potions in the Shop"
+	],
+	dependencies: [
+		"76215e21"
+	],
+	tasks: [{
+		uid: "34da4fc8",
+		type: "advancement",
+		icon: {
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {},
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "ancientspellcraft:head_merchant"
+		},
+		advancement: "raids:hero_of_the_village",
+		criterion: ""
+	}]
+}

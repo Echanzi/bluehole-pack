@@ -1,5 +1,11 @@
 {
 	title: "Snake Striker",
+	icon: {
+		ForgeCaps: {
+			"wizardryutils:summoneditemdata": {}
+		},
+		id: "twilightforest:trophy"
+	},
 	x: 2.0d,
 	y: -3.0d,
 	dependencies: [

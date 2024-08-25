@@ -1,7 +1,7 @@
 {
 	title: "#FFFFFF-000000-FFFFFFTorn Reality",
-	x: 5.5d,
-	y: 8.5d,
+	x: 9.5d,
+	y: 5.5d,
 	tasks: [{
 		uid: "e11adaca",
 		type: "dimension",

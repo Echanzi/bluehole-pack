@@ -1,7 +1,7 @@
 {
 	title: "Personal Percussion",
-	x: 3.0d,
-	y: -4.0d,
+	x: 5.5d,
+	y: -5.0d,
 	text: [
 		"Better Noteblock Interactions!"
 	],

@@ -1,0 +1,23 @@
+{
+	title: "Piggy Bank",
+	x: 15.5d,
+	y: 4.0d,
+	dependencies: [
+		"958f81dc"
+	],
+	tasks: [{
+		uid: "80b702ba",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "minecraft:ender_chest"
+		}]
+	}],
+	rewards: [{
+		uid: "a9d6b059",
+		type: "ftbmoney:money",
+		ftb_money: 25L
+	}]
+}

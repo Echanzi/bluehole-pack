@@ -1,6 +1,6 @@
 {
 	title: "Artifact Destroyer",
-	x: 15.5d,
+	x: 19.0d,
 	y: 0.0d,
 	dependencies: [
 		"463222ca"

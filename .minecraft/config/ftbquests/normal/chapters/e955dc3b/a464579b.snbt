@@ -1,0 +1,76 @@
+{
+	title: "I collect Friends",
+	x: -2.5d,
+	y: -1.5d,
+	tasks: [{
+		uid: "f7b65132",
+		type: "item",
+		disable_toast: true,
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "grimoireofgaia:spawn_creeper_girl"
+		}]
+	},
+	{
+		uid: "8280c232",
+		type: "item",
+		disable_toast: true,
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "grimoireofgaia:spawn_slime_girl"
+		}]
+	},
+	{
+		uid: "f31f2561",
+		type: "item",
+		disable_toast: true,
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "grimoireofgaia:spawn_ender_girl"
+		}]
+	},
+	{
+		uid: "b4b557c0",
+		type: "item",
+		disable_toast: true,
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "grimoireofgaia:spawn_trader"
+		}]
+	},
+	{
+		uid: "22bbbb92",
+		type: "item",
+		disable_toast: true,
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "grimoireofgaia:spawn_holstaurus"
+		}]
+	},
+	{
+		uid: "248d04d2",
+		type: "item",
+		disable_toast: true,
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "grimoireofgaia:spawn_weresheep"
+		}]
+	}],
+	rewards: [{
+		uid: "980e3d97",
+		type: "ftbmoney:money",
+		ftb_money: 250L
+	}]
+}

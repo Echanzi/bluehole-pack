@@ -1,6 +1,7 @@
 {
+	title: "bambamboo",
 	x: 0.5d,
-	y: 1.5d,
+	y: 0.0d,
 	tasks: [{
 		uid: "43797b3b",
 		type: "item",

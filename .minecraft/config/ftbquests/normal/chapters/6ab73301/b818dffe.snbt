@@ -1,0 +1,27 @@
+{
+	title: "Spongebob",
+	x: 5.5d,
+	y: -2.5d,
+	text: [
+		"Fill a Cauldron with Milk",
+		"Let it Age"
+	],
+	dependencies: [
+		"587c806c"
+	],
+	tasks: [{
+		uid: "a42696ff",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "rats:block_of_cheese"
+		}]
+	}],
+	rewards: [{
+		uid: "6675f0e2",
+		type: "ftbmoney:money",
+		ftb_money: 25L
+	}]
+}

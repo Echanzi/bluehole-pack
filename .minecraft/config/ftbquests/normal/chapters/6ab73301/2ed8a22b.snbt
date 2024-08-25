@@ -1,7 +1,7 @@
 {
 	title: "Holding Up A Mountain",
-	x: 7.5d,
-	y: 1.5d,
+	x: 8.5d,
+	y: 0.5d,
 	text: [
 		"Grants access to the Trident in the Shop"
 	],

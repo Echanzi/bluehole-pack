@@ -7,7 +7,7 @@
 		id: "colossalchests:colossal_chest"
 	},
 	x: -9.5d,
-	y: 3.5d,
+	y: 4.5d,
 	dependencies: [
 		"2d35e996"
 	],

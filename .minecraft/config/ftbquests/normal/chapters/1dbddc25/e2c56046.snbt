@@ -7,8 +7,8 @@
 		id: "cqrepoured:sword_turtle"
 	},
 	disable_toast: true,
-	x: 1.5d,
-	y: -4.0d,
+	x: 7.5d,
+	y: -2.0d,
 	can_repeat: true,
 	tasks: [{
 		uid: "0b6210b6",
@@ -19,6 +19,6 @@
 	rewards: [{
 		uid: "d1215e5b",
 		type: "ftbmoney:money",
-		ftb_money: 500L
+		ftb_money: 350L
 	}]
 }
