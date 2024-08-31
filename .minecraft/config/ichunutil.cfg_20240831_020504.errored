@@ -70,7 +70,11 @@ module {
             I:versionNotificationTypes=0
 
             # Don't change this.
+<<<<<<< Updated upstream
+            I:versionSave=25
+=======
             I:versionSave=31
+>>>>>>> Stashed changes
         }
 
     }

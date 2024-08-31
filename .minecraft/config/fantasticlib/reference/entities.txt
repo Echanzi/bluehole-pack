@@ -96,16 +96,17 @@ astralsorcery:entityliquidspark
 astralsorcery:entityobservatoryhelper
 astralsorcery:entityshootingstar
 astralsorcery:entityitemdamageresistant
-<<<<<<< Updated upstream
-quark:gravisand
-=======
 quark:flat_item_frame
 quark:leash_knot
 quark:colored_item_frame
 quark:glass_item_frame
->>>>>>> Stashed changes
-quark:chest_passenger
-quark:seat
+quark:gravisand
+quark:pickarang
+quark:arrow_ender
+quark:arrow_torch
+quark:dragon_breath_bottle
+quark:soul_powder
+quark:parrot_egg
 quark:stoneling
 quark:archaeologist
 quark:foxhound
@@ -115,24 +116,8 @@ quark:frog
 quark:pirate
 quark:crab
 quark:wraith
-<<<<<<< Updated upstream
-=======
-quark:gravisand
->>>>>>> Stashed changes
-quark:pickarang
-quark:arrow_ender
-quark:arrow_torch
-quark:dragon_breath_bottle
-quark:soul_powder
-quark:parrot_egg
-<<<<<<< Updated upstream
+quark:chest_passenger
 quark:seat
-quark:flat_item_frame
-quark:leash_knot
-quark:colored_item_frame
-quark:glass_item_frame
-=======
->>>>>>> Stashed changes
 ichunutil:entity_block
 ancientbeasts:sandy
 ancientbeasts:ghost

@@ -156,22 +156,14 @@ paneGlassWhite
 listAllfishraw
 listAllfishcooked
 cropSeaweed
-<<<<<<< Updated upstream
+tallow
 materialStoneTool
 buttonWood
 gemEnderBiotite
 mushroomAny
-tallow
 blockSlimeGreen
 blockSlimeBlue
 blockSlimeRed
-=======
-tallow
-mushroomAny
-buttonWood
-gemEnderBiotite
-materialStoneTool
->>>>>>> Stashed changes
 stoneBasalt
 stoneMarble
 stoneLimestone
@@ -181,9 +173,6 @@ gemBiotite
 stoneBrimstone
 stonePermafrost
 blockPrismarineElder
-blockSlimeGreen
-blockSlimeBlue
-blockSlimeRed
 paneQuartzGlass
 blockQuartzGlass
 blockCincinnasite
@@ -1621,19 +1610,6 @@ alcoholBorgiaabsinthe
 alcoholRedbeer
 alcoholBluebeer
 alcoholMalort
-<<<<<<< Updated upstream
-shardGlass
-stoneBasaltPolished
-stoneMarblePolished
-stoneLimestonePolished
-stoneJasperPolished
-stoneSlatePolished
-stoneBrimstonePolished
-stonePermafrostPolished
-blockPrismarineElderBrick
-blockPrismarineElderDark
-=======
->>>>>>> Stashed changes
 bookshelf
 bookshelfOak
 bookshelfSpruce
@@ -1644,10 +1620,9 @@ bookshelfDarkOak
 blockCandle
 pressurePlateWood
 blockCharcoal
-<<<<<<< Updated upstream
+shardGlass
 stonePolished
 plankStained
-=======
 stoneBasaltPolished
 stoneMarblePolished
 stoneLimestonePolished
@@ -1657,10 +1632,6 @@ stoneBrimstonePolished
 stonePermafrostPolished
 blockPrismarineElderBrick
 blockPrismarineElderDark
-stonePolished
-plankStained
-shardGlass
->>>>>>> Stashed changes
 blockSlimeCyan
 blockSlimeMagenta
 blockSlimeYellow
