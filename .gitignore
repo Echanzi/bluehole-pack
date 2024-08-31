@@ -22,4 +22,8 @@ instance.cfg
 .minecraft/usercache.json
 .minecraft/usercache.json
 .minecraft/config/ichunutil.cfg
+<<<<<<< Updated upstream
 .minecraft/icon.png
+=======
+instance.cfg
+>>>>>>> Stashed changes

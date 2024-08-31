@@ -1,0 +1,15 @@
+[
+  {
+    "user": {
+      "type": "player",
+      "name": "pilso",
+      "uniqueId": "1b8b29ef-9412-4bc6-bfdd-6aa82574531b"
+    },
+    "time": 1724911392548,
+    "type": "Profiler",
+    "data": {
+      "type": "url",
+      "value": "https://spark.lucko.me/QjHDf2qYUv"
+    }
+  }
+]
